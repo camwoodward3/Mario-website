@@ -1,0 +1,352 @@
+{
+  "gores": {
+    "name": "Gores",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]    
+  },
+  "trokias": {
+    "name": "Trokias",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "z-gull": {
+    "name": "Z-Gull",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "z-serpent": {
+    "name": "Z-Serpent",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "kani": {
+    "name": "Kani",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "clam": {
+    "name": "Clam",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "aquas_squid": {
+    "name": "Aquas Squid",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "starfish": {
+    "name": "Starfish",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "giant_spindly_fish": {
+    "name": "Giant Spindly Fish",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "angler_fish": {
+    "name": "Angler Fish",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "sculpin": {
+    "name": "Sculpin",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "garoa": {
+    "name": "Garoa",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "todora": {
+    "name": "Todora",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "cacti": {
+    "name": "Cacti",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "lava_bomb": {
+    "name": "Lava Bomb",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "solar_prominence": {
+    "name": "Solar Prominence",
+    "type": "enemy",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+
+
+  "sharpClaw": {
+    "name": "SharpClaw",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "bribeClaw": {
+    "name": "BribeClaw",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "shadowHunter": {
+    "name": "ShadowHunter",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "redEye": {
+    "name": "RedEye",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "eggSnatcher": {
+    "name": "EggSnatcher",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "spinluk": {
+    "name": "Spinluk",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "kalda_cham": {
+    "name": "Kalda Cham",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "brain_squid": {
+    "name": "Brain Squid",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "popTop": {
+    "name": "PopTop",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "mushGus": {
+    "name": "MushGus",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "snaplak": {
+    "name": "Snaplak",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "kooshy": {
+    "name": "Kooshy",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "peeper": {
+    "name": "Peeper",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "bloop": {
+    "name": "Bloop",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "fireBat": {
+    "name": "FireBat",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "fireCrawler": {
+    "name": "FireCrawler",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "sentinel": {
+    "name": "Sentinel",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "sentry": {
+    "name": "Sentry",
+    "type": "enemy",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "venomian": {
+    "name": "Venomian",
+    "type": "enemy",
+    "debut": "02/15/2005",
+    "main": ["ASSAULT"]
+  },
+  "ruffian": {
+    "name": "Ruffian",
+    "type": "enemy",
+    "debut": "02/15/2005",
+    "main": ["ASSAULT"]
+  },
+  "anglar": {
+    "name": "Anglar",
+    "type": "enemy",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "mini_grunner": {
+    "name": "Mini Grunner",
+    "type": "enemy",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "needle_fish": {
+    "name": "Needle Fish",
+    "type": "enemy",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "puffer": {
+    "name": "Puffer",
+    "type": "enemy",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "hi-ho": {
+    "name": "Hi-Ho",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "dishruptor": {
+    "name": "Hi-Ho",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "kof_unit": {
+    "name": "Hi-Ho",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "tank": {
+    "name": "Hi-Ho",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "abductron": {
+    "name": "Abductron",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "pausemo": {
+    "name": "Pausemo",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "clucktron": {
+    "name": "Clucktron",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "fan_unit": {
+    "name": "FAN Unit",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "boo_unit": {
+    "name": "BOO Unit",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "bio_unit": {
+    "name": "BIO Unit",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "mag_unit": {
+    "name": "MAG Unit",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "nabbot": {
+    "name": "Nabbot",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "atk_unit": {
+    "name": "ATK Unit",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "shieldtron": {
+    "name": "Shieldtron",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "cloak-r": {
+    "name": "Cloak-R",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "jumpbrella": {
+    "name": "Jumprella",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "fli_unit": {
+    "name": "FLI Unit",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "snailblazer": {
+    "name": "Snailblazer",
+    "type": "enemy",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  }
+}

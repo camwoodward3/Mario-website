@@ -1,0 +1,4014 @@
+{
+  "ace": {
+    "name": "Ace",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NH", "NHNS2"]
+  },
+  "admiral": {
+    "name": "Admiral",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+},
+  "agent_s": {
+    "name": "Agent S",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "agnes": {
+    "name": "Agnes",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "ai": {
+    "name": "AI",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "aisle": {
+    "name": "Aisle",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "alfonso": {
+    "name": "Alfonso",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "alice": {
+    "name": "Alice",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "alli": {
+    "name": "Alli",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "amelia": {
+    "name": "Amelia",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "anabelle": {
+    "name": "Anabelle",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "analog": {
+    "name": "Analog",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "anchovy": {
+    "name": "Anchovy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "angus": {
+    "name": "Angus",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "anicotti": {
+    "name": "Anicotti",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "ankha": {
+    "name": "Ankha",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "CF", "NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "annalisa": {
+    "name": "Annalisa",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "annalise": {
+    "name": "Annalise",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "antonio": {
+    "name": "Antonio",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "apollo": {
+    "name": "Apollo",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "apple": {
+    "name": "Apple",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },  
+  "astrid": {
+    "name": "Astrid",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"] ,
+    "software": ["PLAZA"] 
+  },
+  "audie": {
+    "name": "Audie",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "aurora": {
+    "name": "Aurora",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "ava": {
+    "name": "Ava",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "avery": {
+    "name": "Avery",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "axel": {
+    "name": "Axel",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "azalea": {
+    "name": "Azalea",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NH", "NHNS2"]
+  },
+  "aziz": {
+    "name": "Aziz",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "baabara": {
+    "name": "Baabra",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "bam": {
+    "name": "Bam",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "bangle": {
+    "name": "Bangle",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL"],
+    "expansions": ["WA"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "barn": {
+    "name": "Barn",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "barold": {
+    "name": "Barold",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "bea": {
+    "name": "Bea",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "beardo": {
+    "name": "Beardo",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "beau": {
+    "name": "Beau",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "becky": {
+    "name": "Becky",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "belle": {
+    "name": "Belle",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "bella": {
+    "name": "Bella",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "benedict": {
+    "name": "Benedict",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "benjamin": {
+    "name": "Benjamin",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "bertha": {
+    "name": "Bertha",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bessie": {
+    "name": "Bessie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "bettina": {
+    "name": "Bettina",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "betty": {
+    "name": "Betty",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "bianca": {
+    "name": "Bianca",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "biff": {
+    "name": "Biff",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "big_top": {
+    "name": "Big Top",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bill": {
+    "name": "Bill",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "billy": {
+    "name": "Billy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+},
+  "biskit": {
+    "name": "Biskit",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bitty": {
+    "name": "Bitty",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"]  
+  },
+  "blaire": {
+    "name": "Blaire",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "blanche": {
+    "name": "Blanche",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bluebear": {
+    "name": "Bluebear",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bob": {
+    "name": "Bob",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bonbon": {
+    "name": "Bonbon",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bones": {
+    "name": "Bones",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "boomer": {
+    "name": "Boomer",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "boone": {
+    "name": "Boone",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "boots": {
+    "name": "Boots",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"],
+    "software": ["PLAZA"] 
+},
+  "boris": {
+    "name": "Boris",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+},
+  "bow": {
+    "name": "Bow",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "boyd": {
+    "name": "Boyd",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+  },
+  "bree": {
+    "name": "Bree",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "broccolo": {
+    "name": "Broccolo",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "broffina": {
+    "name": "Broffina",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "bruce": {
+    "name": "Bruce",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bubbles": {
+    "name": "Bubbles",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "buck": {
+    "name": "Buck",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "bud": {
+    "name": "Bud",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "bunnie": {
+    "name": "Bunnie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "butch": {
+    "name": "Butch",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NH", "NHNS2"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "buzz": {
+    "name": "Buzz",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+  },
+  "cally": {
+    "name": "Cally",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "DnM+", "AC", "DnMe+", "iQue", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "camofrog": {
+    "name": "Camofrog",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "canberra": {
+    "name": "Canberra",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "candi": {
+    "name": "Candi",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+  },
+  "carmen": {
+    "name": "Carmen",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "caroline": {
+    "name": "Caroline",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "carrie": {
+    "name": "Carrie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+  },
+  "carrot": {
+    "name": "Carrot",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "cashmere": {
+    "name": "Cashmere",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]
+  },
+  "cece": {
+    "name": "Cece",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]
+  },
+  "celia": {
+    "name": "Celia",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "cephalobot": {
+    "name": "Cephalobot",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "cesar": {
+    "name": "Cesar",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "chabwick": {
+    "name": "Chabwick",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NH", "NHNS2"]
+  },
+  "chadder": {
+    "name": "Chadder",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "chai": {
+    "name": "Chai",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "main": [ "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]
+  },
+  "champ": {
+    "name": "Champ",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF"],
+    "spinoffs": ["FILM"]
+  },
+  "charlise": {
+    "name": "Charlise",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },  
+  "chelsea": {
+    "name": "Chelsea",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "main": [ "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+  },
+  "cheri": {
+    "name": "Cheri",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "cherry": {
+    "name": "Cherry",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "chester": {
+    "name": "Chester",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "chevre": {
+    "name": "Chevre",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "chico": {
+    "name": "Chico",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "chief": {
+    "name": "Chief",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "chops": {
+    "name": "Chops",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF"],
+    "software": ["PLAZA"]
+  },
+  "chow": {
+    "name": "Chow",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF"],
+    "software": ["PLAZA"]
+  },
+  "chuck": {
+    "name": "Chuck",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "chrissy": {
+    "name": "Chrissy",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "clara": {
+    "name": "Clara",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "claude": {
+    "name": "Claude",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "PC", "CPC"]  
+},
+  "claudia": {
+    "name": "Claudia",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "clay": {
+    "name": "Clay",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "cleo": {
+    "name": "Cleo",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+},
+  "clyde": {
+    "name": "Clyde",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "coach": {
+    "name": "Coach",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "cobb": {
+    "name": "Cobb",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "coco": {
+    "name": "Coco",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "cole": {
+    "name": "Cole",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"] 
+  },
+  "colton": {
+    "name": "Colton",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "cookie": {
+    "name": "Cookie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "cousteau": {
+    "name": "Cousteau",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "cranston": {
+    "name": "Cranston",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "croque": {
+    "name": "Croque",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "cube": {
+    "name": "Cube",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "cupcake": {
+    "name": "Cupcake",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "curlos": {
+    "name": "Curlos",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "curly": {
+    "name": "Curly",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "curt": {
+    "name": "Curt",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "cyd": {
+    "name": "Cyd",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "cyrano": {
+    "name": "Cyrano",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"],
+    "other": ["SPMP"]
+  },
+  "daisy": {
+    "name": "Daisy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "deena": {
+    "name": "Denna",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "deirdre": {
+    "name": "Benedict",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "del": {
+    "name": "Del",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "deli": {
+    "name": "Deli",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "derwin": {
+    "name": "Derwin",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "diana": {
+    "name": "Diana",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "diva": {
+    "name": "Diva",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "dizzy": {
+    "name": "Dizzy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "dobie": {
+    "name": "Dobie",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "PC", "CPC"] 
+  },
+  "doc": {
+    "name": "Doc",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "dom": {
+    "name": "Cyd",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "dora": {
+    "name": "Dora",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "dotty": {
+    "name": "Dotty",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "dozer": {
+    "name": "Dozer",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "drago": {
+    "name": "Drago",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "drake": {
+    "name": "Drake",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "drift": {
+    "name": "Drift",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnMe+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "ed": {
+    "name": "Ed",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF"],
+    "software": ["PLAZA"]
+  },
+  "egbert": {
+    "name": "Egbert",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "elina": {
+    "name": "Elina",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+"],
+    "spinoffs": ["AI"]
+  },
+  "elise": {
+    "name": "Elise",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "ellie": {
+    "name": "Ellie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+},
+  "elmer": {
+    "name": "Elmer",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF"],
+    "software": ["PLAZA"]
+  },
+  "eloise": {
+    "name": "Eloise",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "elvis": { 
+    "name": "Elvis",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "emerald": {
+    "name": "Emerald",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "erik": {
+    "name": "Erik",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "etoile": {
+    "name": "Etoile",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "main": [ "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "eugene": {
+    "name": "Eugene",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "eunice": {
+    "name": "Eunice",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "fang": {
+    "name": "Fang",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL"],
+    "expansions": ["WA"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "faith": {
+    "name": "Faith",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+"],
+    "spinoffs": ["AI"]
+  },
+  "fauna": {
+    "name": "Fauna",
+    "type":"villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"],
+    "other": ["SPMP", "WWGIT"]
+  },
+  "felicity": {
+    "name": "Felicity",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "felyne": {
+    "name": "Felyne",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "expansions": ["WA"]  
+  },
+  "filbert": {
+    "name": "Filbert",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NH", "NHNS2"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "filly": {
+    "name": "Clay",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "expansions": ["WA"]
+  },
+  "flash": {
+    "name": "Flash",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+"],
+    "spinoffs": ["AI"]
+  },
+  "flip": {
+    "name": "Flip",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "flo": {
+    "name": "Flo",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "flora": {
+    "name": "Flora",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "flurry": {
+    "name": "Clay",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "flossie": {
+    "name": "Flossie",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+"],
+    "spinoffs": ["AI"]
+  },
+  "francine": {
+    "name": "Francie",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "frank": {
+    "name": "Frank",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "freckles": {
+    "name": "Freckles",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "frett": {
+    "name": "Frett",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NH", "NHNS2"]
+  },
+  "freya": {
+    "name": "Freya",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "friga": {
+    "name": "Friga",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "frita": {
+    "name": "Frita",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "frobert": {
+    "name": "Frobert",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "fruity": {
+    "name": "Fruity",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "fuchsia": {
+    "name": "Fuchsia",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "gabi": {
+    "name": "Gabi",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "gala": {
+    "name": "Gala",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "gaston": {
+    "name": "Gaston",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "gayle": {
+    "name": "Gayle",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "gen": {
+    "name": "Gen",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "genji": {
+    "name": "Genji",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "gigi": {
+    "name": "Gigi",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "gladys": {
+    "name": "Gladys",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "gloria": {
+    "name": "Gloria",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "goldie": {
+    "name": "Goldie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"],
+    "other": ["WWGIT"]
+  },
+  "gonzo": {
+    "name": "Gonzo",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"],
+    "software": ["PLAZA"]   
+},
+  "goose": {
+    "name": "Goose",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "graham": {
+    "name": "Graham",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "greta": {
+    "name": "Greta",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "grizzly": {
+    "name": "Grizzly",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "groucho": {
+    "name": "Groucho",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "gruff": {
+    "name": "Gruff",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "gwen": {
+    "name": "Gwen",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "hamlet": {
+    "name": "Hamlet",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "hamphrey": {
+    "name": "Hamphrey",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "hans": {
+    "name": "Hans",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "hambo": {
+    "name": "Hambo",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "hank": {
+    "name": "Hank",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "harry": {
+    "name": "Harry",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "hazel": {
+    "name": "Hazel",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "henry": {
+    "name": "Henry",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "hippeux": {
+    "name": "Hippeux",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "hector": {
+    "name": "Hector",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "holden": {
+    "name": "Holden",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "expansions": ["WA"]
+  },
+  "hopkins": {
+    "name": "Hopkins",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "hopper": {
+    "name": "Hopper",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NH", "NHNS2"],
+    "spinoffs": ["FILM", "AF"]
+  },
+  "hornsby": {
+    "name": "Hornsby",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]   
+},
+  "huck": {
+    "name": "Huck",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]   
+},
+  "huggy": {
+    "name": "Huggy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "hugh": {
+    "name": "Hugh",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "iggy": {
+    "name": "Iggy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL"],
+    "expansions": ["WA"],
+    "spinoffs": ["AF"],
+    "software": ["PLAZA"]
+  },
+  "iggly": {
+    "name": "Cyrus",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NH", "NHNS2"],
+    "spinoffs": ["HHD"]
+  },
+  "ike": {
+    "name": "Ike",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+  },
+  "inkwell": {
+    "name": "Inkwell",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "expansions": ["WA"]
+  },
+  "ione": {
+    "name": "Ione",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "jacob": {
+    "name": "Jacob",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]   
+  },
+  "jacques": {
+    "name": "Jacques",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "jambette": {
+    "name": "Jambette",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "jane": {
+    "name": "Jane",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "jay": {
+    "name": "Jay",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "jeremiah": {
+    "name": "Jeremiah",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "jitters": {
+    "name": "Jitters",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "joe": {
+    "name": "Joe",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "joey": {
+    "name": "Joey",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "jubel": {
+    "name": "Jubel",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "judy": {
+    "name": "Judy",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "julia": {
+    "name": "Julia",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "julian": {
+    "name": "Julian",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "june": {
+    "name": "June",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "PC", "CPC"]   
+  },
+  "kabuki": {
+    "name": "Kabuki",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "katt": {
+    "name": "Katt",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "keaton": {
+    "name": "Keaton",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "ken": {
+    "name": "Ken",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "ketchup": {
+    "name": "Ketchup",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+  },
+  "kevin": {
+    "name": "Kevin",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "kid_cat": {
+    "name": "Kid Cat",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "kidd": {
+    "name": "Kidd",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "kiki": {
+    "name": "Kiki",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NH", "NHNS2"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "kit": {
+    "name": "Kit",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "kitt": {
+    "name": "Kitt",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NH", "NHNS2"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "kitty": {
+    "name": "Kitty",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "klaus": {
+    "name": "Klaus",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "knox": {
+    "name": "Knox",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "kody": {
+    "name": "Kody",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "koharu": {
+    "name": "Koharu",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "kyle": {
+    "name": "Kyle",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "leigh": {
+    "name": "Leigh",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "leonardo": {
+    "name": "Leonardo",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "leopold": {
+    "name": "Leopold",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+},
+  "lily": {
+    "name": "Lily",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "limberg": {
+    "name": "Limberg",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "lionel": {
+    "name": "Lionel",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "liz": {
+    "name": "Liz",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "lobo": {
+    "name": "Lobo",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "lolly": {
+    "name": "Lolly",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "lopez": {
+    "name": "Lopez",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "louie": {
+    "name": "Louie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"]  
+},
+  "lucha": {
+    "name": "Lucha",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "lucky": {
+    "name": "Lucky",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "lucy": {
+    "name": "Lucy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "lulu": {
+    "name": "Lulu",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM+"]
+  },
+
+  "lyman": {
+    "name": "Lyman",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "mac": {
+    "name": "Mac",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "madam_rosa": {
+    "name": "Madam Rosa",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "maddie": {
+    "name": "Maddie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"],
+    "software": ["PLAZA"]   
+  },
+  "maelle": {
+    "name": "Maelle",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "maggie": {
+    "name": "Maggie",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"] ,
+    "spinoffs": ["PC", "CPC"]  
+  },
+  "mallary": {
+    "name": "Mallary",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "maple": {
+    "name": "Maple",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "marcel": {
+    "name": "Marcel",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "marcie": {
+    "name": "Marcie",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "marina": {
+    "name": "Marina",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "marcy": {
+    "name": "Marcy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "margie": {
+    "name": "Margie",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "marlo": {
+    "name": "Marlo",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "marshal": {
+    "name": "Marshal",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"],
+    "other": ["WWGIT"]
+  },
+  "marty": {
+    "name": "Marty",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "main": [ "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "masa": {
+    "name": "Masa",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]    
+  },
+  "mathilda": {
+    "name": "Mathilda",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "megan": {
+    "name": "Megan",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "melba": {
+    "name": "Melba",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "megumi": {
+    "name": "Megumi",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "meow": {
+    "name": "Meow",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "merengue": {
+    "name": "Merengue",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "merry": {
+    "name": "Merry",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "midge": {
+    "name": "Midge",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "mint": {
+    "name": "Mint",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "mira": {
+    "name": "Mira",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "miranda": {
+    "name": "Miranda",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "mitzi": {
+    "name": "Mitzi",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "moe": {
+    "name": "Moe",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "molly": {
+    "name": "Molly",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "monique": {
+    "name": "Monique",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "monty": {
+    "name": "Monty",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "moose": {
+    "name": "Moose",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "mott": {
+    "name": "Mott",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "muffy": {
+    "name": "Muffy",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "murphy": {
+    "name": "Murphy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] ,
+    "software": ["PLAZA"]
+},
+  "nan": {
+    "name": "Nan",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "nana": {
+    "name": "Nana",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "naomi": {
+    "name": "Naomi",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "nate": {
+    "name": "Nate",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "nibbles": {
+    "name": "Nibbles",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "norma": {
+    "name": "Norma",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]      
+  },
+  "nosegay": {
+    "name": "Nosegay",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "o'hare": {
+    "name": "O'Hare",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "octavian": {
+    "name": "Octavian",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "olaf": {
+    "name": "Olaf",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "olive": {
+    "name": "Olive",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+},
+  "olivia": {
+    "name": "Olivia",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "opal": {
+    "name": "Opal",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "otis": {
+    "name": "Otis",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "oxford": {
+    "name": "Oxford",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "ozzie": {
+    "name": "Ozzie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "pancetti": {
+    "name": "Pancetti",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "pango": {
+    "name": "Pango",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "paolo": {
+    "name": "Paolo",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+},
+  "papi": {
+    "name": "Papi",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "pashmina": {
+    "name": "Pashmina",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "pate": {
+    "name": "Pate",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "patricia": {
+    "name": "Patricia",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "patty": {
+    "name": "Patty",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "paula": {
+    "name": "Paula",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "peaches": {
+    "name": "Peaches",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "peanut": {
+    "name": "Peanut",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "pecan": {
+    "name": "Pecan",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "peck": {
+    "name": "Peck",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "peewee": {
+    "name": "Peewee",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "peggy": {
+    "name": "Peggy",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "pekoe": {
+    "name": "Pekoe",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "penelope": {
+    "name": "Penelope",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "penny": {
+    "name": "Penny",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "petri": {
+    "name": "Petri",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "petunia": {
+    "name": "Petunia",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "phil": {
+    "name": "Phil",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "phoebe": {
+    "name": "Phoebe",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "pierce": {
+    "name": "Pierce",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "pierre": {
+    "name": "Pierre",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "pietro": {
+    "name": "Pietro",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"]
+  },
+  "pigleg": {
+    "name": "Pigleg",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+"],
+    "spinoffs": ["AI"]
+  },
+  "pinky": {
+    "name": "Pinky",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "piper": {
+    "name": "Piper",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+},
+  "pippy": {
+    "name": "Pippy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "plucky": {
+    "name": "Plucky",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI"]
+  },
+  "poko": {
+    "name": "Poko",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "pompom": {
+    "name": "Pompom",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "poncho": {
+    "name": "Poncho",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "poppy": {
+    "name": "Poppy",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL"],
+    "expansions": ["WA"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "portia": {
+    "name": "Portia",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  
+  "prince": {
+    "name": "Prince",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "puck": {
+    "name": "Puck",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "puddles": {
+    "name": "Puddles",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "pudge": {
+    "name": "Pudge",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "punchy": {
+    "name": "Punchy",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "purrl": {
+    "name": "Purrl",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "queenie": {
+    "name": "Queenie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "quetzal": {
+    "name": "Quetzal",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "quillson": {
+    "name": "Quillson",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "quinn": {
+    "name": "Quinn",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "raddle": {
+    "name": "Raddle",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "rasher": {
+    "name": "Rasher",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "raymond": {
+    "name": "Raymond",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "renee": {
+    "name": "Renee",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "reneigh": {
+    "name": "Peneigh",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "rex": {
+    "name": "Rex",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+},
+  "rhoda": {
+    "name": "Rhoda",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "rhonda": {
+    "name": "Rhonda",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "ribbot": {
+    "name": "Ribbot",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "ricky": {
+    "name": "Ricky",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "rilla": {
+    "name": "Rilla",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "rio": {
+    "name": "Rio",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NH", "NHNS2"]
+  },
+  "rizzo": {
+    "name": "Rizzo",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "roald": {
+    "name": "Roald",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "robin": {
+    "name": "Robin",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "rocco": {
+    "name": "Rocco",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "rocket": {
+    "name": "Rocket",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "rod": {
+    "name": "Rod",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "rodeo": {
+    "name": "Rodeo",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "rodney": {
+    "name": "Rodney",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "rolf": {
+    "name": "Rolf",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "rooney": {
+    "name": "Rooney",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "rollo": {
+    "name": "Rollo",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "rory": {
+    "name": "Rory",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "roscoe": {
+    "name": "Roscoe",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "rosie": {
+    "name": "Rosie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB"]
+  },
+  "roswell": {
+    "name": "Rosewell",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NH", "NHNS2"],
+    "expansions": ["PPH"],
+    "spinoffs": ["PC", "CPC"]
+  },
+  "rowan": {
+    "name": "Rowan",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AI", "HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  
+  "ruby": {
+    "name": "Ruby",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "rudy": {
+    "name": "Rudy",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "sally": {
+    "name": "Sally",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "samson": {
+    "name": "Samson",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "sandy": {
+    "name": "Sandy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+  },
+  "sasha": {
+    "name": "Sasha",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "savannah": {
+    "name": "Savannah",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "scoot": {
+    "name": "Scoot",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "shari": {
+    "name": "Shari",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "shieldon": {
+    "name": "Shieldon",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "shep": {
+    "name": "Shep",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "sherb": {
+    "name": "Sherb",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "shinabiru": {
+    "name": "Shinabiru",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "shino": {
+    "name": "Shino",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "shoukichi": {
+    "name": "Shoukichi",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "simon": {
+    "name": "Simon",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "skye": {
+    "name": "Skye",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "sly": {
+    "name": "Sly",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "snake": {
+    "name": "Snake",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "snooty": {
+    "name": "Snooty",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+},
+  "soleil": {
+    "name": "Soleil",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "sparro": {
+    "name": "Sparro",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "spike": {
+    "name": "Spike",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"],
+    "software": ["PLAZA"] 
+  },
+  "spork": {
+    "name": "Spork",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "sprinkle": {
+    "name": "Sprinkle",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "sprocket": {
+    "name": "Sprocket",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]   
+},
+  "static": {
+    "name": "Static",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "stella": {
+    "name": "Stella",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+},
+  "sterling": {
+    "name": "Sterling",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "stinky": {
+    "name": "Stinky",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "stitches": {
+    "name": "Stitches",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "stu": {
+    "name": "Stu",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+},
+  "sue_E": {
+    "name": "Sue E.",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "sunny": {
+    "name": "Sunny",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "sven": {
+    "name": "Sven",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "sydney": {
+    "name": "Sydney",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "sylvana": {
+    "name": "Sylvana",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+  },
+  "sylvia": {
+    "name": "Sylvia",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NH", "NHNS2"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "t-bone": {
+    "name": "T-Bone",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "tabby": {
+    "name": "Tabby",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "tad": {
+    "name": "Tad",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"]  
+  },
+  "tammi": {
+    "name": "Tammi",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "tammy": {
+    "name": "Tammy",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "tangy": {
+    "name": "Tangy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "tank": {
+    "name": "Tank",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "tarou": {
+    "name": "Tarou",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "tasha": {
+    "name": "Tasha",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+  },
+  "teddy": {
+    "name": "Teddy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "tex": {
+    "name": "Tex",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "tia": {
+    "name": "Tia",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "tiansheng": {
+    "name": "Tiansheng",
+    "type": "villager",
+    "debut": "03/20/2020",
+    "main": ["NH", "NHNS2"],
+    "expansions": ["PPH"]
+  },
+  "tiara": {
+    "name": "Tiara",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "tiffany": {
+    "name": "Tiffany",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "timbra": {
+    "name": "Timbra",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "tipper": {
+    "name": "Tipper",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "toby": {
+    "name": "Toby",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "main": [ "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "tom": {
+    "name": "Tom",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "truffles": {
+    "name": "Truffles",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "tucker": {
+    "name": "Tucker",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "tutu": {
+    "name": "Tutu",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "twiggy": {
+    "name": "Twiggy",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "twirp": {
+    "name": "Twirp",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "tybalt": {
+    "name": "Tybalt",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+  },
+  "ursala": {
+    "name": "Ursala",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "valise": {
+    "name": "Valise",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "velma": {
+    "name": "Velma",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "vesta": {
+    "name": "Vesta",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "vic": {
+    "name": "Vic",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "viche": {
+    "name": "Viche",
+    "type": "villager",
+    "debut": "12/05/2016",
+    "main": [ "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]
+  },
+  "victoria": {
+    "name": "Victoria",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "violet": {
+    "name": "Violet",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "vivian": {
+    "name": "Vivian",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "vladimir": {
+    "name": "Vladimir",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "wade": {
+    "name": "Wade",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"] 
+  },
+  "walker": {
+    "name": "Walker",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "WW", "CF", "NH", "NHNS2"],
+    "spinoffs": ["HHD", "AF"]
+  },
+  "walt": {
+    "name": "Walt",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "wart_jr": {
+    "name": "Wart Jr.",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "weber": {
+    "name": "Weber",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"]  
+  },
+  "weldon": {
+    "name": "Weldon",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+"]
+  },
+  "wendy": {
+    "name": "Wendy",
+    "type": "villager",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "whitney": {
+    "name": "Whitney",
+    "type": "villager",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "willow": {
+    "name": "Willow",
+    "type": "villager",
+    "debut": "06/27/2003",
+    "main": ["DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "winnie": {
+    "name": "Winnie",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA"]
+  },
+  "wolfgang": {
+    "name": "Wolfgang",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "woolio": {
+    "name": "Woolio",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+"]
+  },
+  "yodel": {
+    "name": "Yodel",
+    "type": "villager",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+"],
+    "spinoffs": ["AI"]
+  },
+  "yuka": {
+    "name": "Yuka",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "zell": {
+    "name": "Zell",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  },
+  "zoe": {
+    "name": "Zoe",
+    "type": "villager",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NH", "NHNS2"]
+  },
+  "zucker": {
+    "name": "Zucker",
+    "type": "villager",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"]
+  }
+}

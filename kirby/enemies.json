@@ -1,0 +1,3650 @@
+{
+  "benny": {
+    "name": "Benny",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KDCSE"]
+  },
+  "blatzy": {
+    "name": "Blatzy",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KSSU", "KDCSE"]
+  },
+  "blipper": {
+    "name": "Blipper",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KBB", "KCC", "KEY", "KATRC", "KEEY"],
+    "smash": ["SSBB"]
+  },
+  "blopper": {
+    "name": "Blopper",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+  "booler": {
+    "name": "Booler",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"],
+    "spinoff": ["KPL", "KBB", "KTNT"]
+  },
+  "boomer": {
+    "name": "Boomer",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+  "bronto-burt": {
+    "name": "Bronto Burt",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "variants": ["Bomb Bronto Burt", "Bronto Knight"],
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KAV", "KBB", "KTNT", "KAR", "KCC", "KEY", "KMA", "DDDD", "KATRC", "KBLB", "KEEY",  "KDB", "KARS"],
+    "smash": ["SSB64", "SSBB", "SSB3DS", "SSBU"],
+    "other": ["SPMP"]
+  },
+  "broom-hatter": {
+    "name": "Broom Hatter",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "08/01/1992",
+    "copy": ["Clean"],
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KRTDLDX"],
+    "spinoff": ["KPL", "KDC", "KAV", "KBB", "KTNT", "KAR", "KBLB", "KARS"],
+    "smash": ["SSBWIIU"]
+  },
+  "cappy": {
+    "name": "Cappy",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KBB", "KTNT", "KAR", "KCC", "KMA", "KBLB", "KDB", "KARS"],
+    "smash": ["SSBB", "SSBWIIU"]
+  },
+  "cawcun": {
+    "name": "Cawcun",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KSSU", "KDCSE"]
+  },
+  "chuckie": {
+    "name": "Chuckie",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"],
+    "spinoff": ["KPL", "KBB"]
+  },
+  "coner": {
+    "name": "Coner",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KA", "KNIDL", "KDCSE", "KSA"],
+    "spinoff": ["KBB"]
+  },
+  "dizzy": {
+    "name": "Dizzy",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+  "flapper": {
+    "name": "Flapper",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"],
+    "spinoff": ["KPL"]
+  },
+  "flotzo": {
+    "name": "Flotzo",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KSSU", "KDCSE"],
+    "spinoff": ["KTNT", "KMA"]
+  },
+  "gaspar": {
+    "name": "Gaspar",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+  "glunk": {
+    "name": "Glunk",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KBB", "KCC", "KBLB"]
+  },
+  "gordo": {
+    "name": "Gordo",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "variants": ["Ghost Gordo", "Gordo Bar", "Big Gordo"],
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KBB", "KTNT", "KAR", "KCC", "KEY", "KMA", "DDDD", "KFD", "KATRC", "KBLB", "KEEY", "KF2", "KDB", "KARS"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "other": ["SML2"]
+  },
+  "grizzo": {
+    "name": "Grizzo",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KSS", "KSSU", "KDCSE", "KTD", "KPR", "KSA"],
+    "spinoff": ["KEY", "KBLB", "KEEY", "KARS"]
+  },
+  "grumples": {
+    "name": "Grumples",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KSSU", "KDCSE"]
+  },
+  "hurly": {
+    "name": "Hurty",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"],
+    "spinoff": ["KPL"]
+  },
+  "kabu": {
+    "name": "Kabu",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "variants": ["Big Kabu", "Colossal Kabu"],
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KAV", "KBB", "KTNT", "KCC", "KMA", "TKCD", "KBLB", "SKC", "KDB", "KARS"]
+  },
+  "kookler": {
+    "name": "Kookler",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"],
+    "spinoff": ["KBB"]
+  },
+  "koozer": {
+    "name": "Koozer",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KSSU", "KDCSE"]
+    
+  },
+  "kracko-jr.": { 
+  "name": "Kracko Jr.",
+    "type": ["enemy", "boss"],
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KSS", "KNIDL", "KSSU", "KDCSE"],
+    "spinoff": ["KPL", "KBB", "KCC", "KMA", "KBLB"]
+  },
+
+  "mr-p-umpkin": {
+    "name": "Mr. P. Umpkin",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"],
+    "spinoff": ["KSA"]
+  },
+  "mumbies": {
+    "name": "Mumbies",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KDL2", "KDL3", "TCS", "KRTDL", "KDCSE", "KTD", "KPR", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KBB", "KBLB"]
+  },
+  "parasol": {
+    "name": "Parasol",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "08/01/1992",
+    "copy": ["Parasol"],
+    "main": ["KDL", "KA", "KSS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KDCSE"],
+    "smash": ["SSB3DS", "SSBWIIU"]
+  },
+  "parasol-waddle-dee": {
+    "name": "Parasol Waddle Dee",
+    "type": ["enemy", "helper"],
+    "debut": "08/01/1992",
+    "copy": ["Parasol"],
+    "main": ["KDL", "KA", "KDL2", "KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KEY", "KMA", "KEEY", "KARS"],
+    "smash": ["SSB3DS", "SSBWIIU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "P&YWW"]
+  },
+  "peezer": {
+    "name": "Peezer",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+  "poppy-bros-jr": {
+    "name": "Poppy Bros. Jr.",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "08/01/1992",
+    "copy": ["Bomb", "Cutter"],
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KAV", "KBB", "KTNT", "KARS"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "poppy-bros-sr": {
+    "name": "Poppy Bros. Sr.",
+    "type": "mid-boss",
+    "debut": "08/01/1992",
+    "copy": ["Bomb"],
+    "main": ["KDL", "KA", "KDL2", "KSS", "KNIDL", "KSSU", "KDCSE"],
+    "spinoff": ["KPL", "KBB"]
+  },
+  "puffy": {
+    "nmae": "Puffy",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+  "scarfy": {
+    "name": "Scarfy",
+    "type": ["enemy", "helper"],
+    "variants": ["Hunter Scarfy"],
+    "debut": "08/01/1992",
+    "copy": ["Crash"],
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KBB", "KAR", "KEY", "KMA", "DDDD", "KBLB", "KEEY", "KARS"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+  },
+  "shotzo": {
+    "name": "Shotzo",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "variants": ["Moto Shotzo", "Wall Shotzo", "Coldtzo", "Gigatzo", "Volttzo", "Flame Shotzo", "Tacotzo"],
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "KRTDLDX", "SCW"],
+    "spinoff": ["KTNT", "KCC", "KEY", "KATRC", "KBLB", "KEEY", "KDB"],
+    "smash": ["SSB3DS"]
+  },
+  "sir-kibble": {
+    "name": "Sir Kibble",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "08/01/1992",
+    "copy": ["Cutter"],
+    "main": ["KDL", "LA", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KARS"],
+    "smash": ["SSBB", "SSBWIIU"]
+  },
+  "skuller": {
+    "name": "Skuller",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+  "squishy": {
+    "name": "Squishy",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "KNIDL", "K&TAM", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KDC", "KAV", "KBB", "KTNT", "KCC", "KBLB", "KARS"]
+  },
+  "tookey": {
+    "name": "Tookey",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KSS", "KSSU", "KDCSE"],
+    "spinoff": ["KPL", "KMA"]
+  },
+  "twizzy": {
+    "name": "Twizzy",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KA", "KSS", "KNIDL", "KSSU", "KDCSE"],
+    "spinoff": ["KPL", "KBB", "KMA"]
+  },
+  "two-face": {
+    "name": "Two Face",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE", "KSA"],
+    "spinoff": ["KARS"]
+  },
+  "waddle-dee": {
+    "name": "Waddle Dee",
+    "type": ["enemy", "mid-boss"],
+    "variants": ["Parasol Waddle Dee", "Raft Waddle Dee", "Big Waddle Dee", "Gold Waddle Dee", "Armor Waddle Dee", "Puppet Waddle Dee", "Lumberjack Waddle Dee", "Swinging Waddle Dee", "Rocket Launcher Waddle Dee", "Fluff Waddle Dee", "Spear Waddle Dee", "Balloon Waddle Dee", "Bow Waddle Dee", "Spear Waddle Dee", "Bomb Waddle Dee", "Gold Waddle Dee", "Waddle Dee Portrait", "Colossal Waddle Dee", "Colossal Spear Waddle Dee", "Key Dee"],
+    "debut": "08/01/1992",
+    "copy": false,
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KDC", "KAV", "KBB", "KSST", "KTNT", "KAR", "KCC", "KEY", "DDDD", "KBR", "TKCD", "KBLB", "KEEY", "SKC", "KARS"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["KRBAY"],
+    "mobile": ["NT"],
+    "other": ["KTB"]
+  },
+  "waddle-doo": {
+    "name": "Waddle Doo",
+    "type": ["enemy", "helper", "friend"],
+    "variants": ["Parasol Waddle Doo", "Super Waddle Doo", "Swinging Waddle Doo"],
+    "debut": "08/01/1992",    
+    "copy": ["Beam", "Parasol"],
+    "main": ["KDL", "KA", "KSS", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KPL", "KDC", "KAV", "KTNT", "KCC", "KEY", "KMA", "KEEY", "KBR", "KDB", "KARS"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU"],
+    "shows": ["KRBAY"]
+  },
+  "whiskers": {
+    "name": "Whiskers",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+  "wizzer": {
+    "name": "Wizzer",
+    "type": "enemy",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KDCSE"]
+  },
+
+  "whispy_woods": {
+    "name": "Whispy Woods",
+    "type": "boss",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KPL", "KDC", "KAV", "KBB", "KTNT", "KAR", "KEY", "KMA", "KATRC", "TKCD", "KDB", "KEEY", "KARS"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "shows": ["KRBAY"]
+  },
+  "lololo_&_lalala": {
+    "name": "Lololo & Lalala",
+    "type": "boss",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KSS", "KSSU", "KDCSE", "KTD", "KPR"],
+    "spinoff": ["KAV", "KMA", "KFD", "KBLB", "KF2", "KARS"]
+  },
+  "kabula": {
+    "name": "Kabula",
+    "type": "boss",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KBB", "KSST"]
+  },
+  "kracko": {
+    "name": "Kracko",
+    "type": "boss",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KA", "KDL2", "KSS", "KNIDL", "K&TAM", "KSSU", "KDCSE", "KTD", "KSA"],
+    "spinoff": ["KPL", "KAV", "KBB", "KTNT", "KAR", "KCC", "KEY", "KMA", "KFD", "KATRC", "KBLB", "KEEY", "SKC", "KF2", "KDB"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["KTB"]
+  },
+
+
+  "axe-knight": {
+    "name": "Axe Knight",
+    "type": ["mid-boss", "meta knight"],
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KA", "KSS", "KNIDL", "KSSU", "KDCSE"],
+    "spinoff": ["KPL", "KMA"],
+    "smash": ["SSBU"]
+  },
+  "blade-knight": {
+    "name": "Blade Knight",
+    "type": ["enemy", "helper", "friend"],
+    "variants": ["Super Blade Knight"],
+    "debut": "05/01/1993",
+    "copy": ["Sword"],
+    "main": ["KA", "KSS", "KNIDL", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KMA", "KARS"],
+    "smash": ["SSBB", "SSBWIIU"],
+    "shows": ["KRBAY"],
+    "mobile": ["NT"]
+  },
+  "bomber": {
+    "name": "Bomber",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Crash"],
+    "main": ["KA", "KSS", "KNIDL", "K&TAM", "KSSU", "KDCSE", "KPR", "KSA", "KATFL", "SCW"],
+    "spinoff": ["KBB", "KCC", "KEY", "KFD", "KEEY", "KF2"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"]
+  },
+  "bonkers": {
+    "name": "Bonkers",
+    "type": ["mid-boss", "helper", "friend"],
+    "variants": ["Super Bonkers", "Wild Bonkers", "Spark Bonkers"],
+    "debut": "05/01/1993",
+    "copy": ["Hammer", "Grand hammer"],
+    "main": ["KA", "KSS", "KNIDL", "K&TAM", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KMA", "TKCD", "SKC"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "shows": ["KRBAY"]
+  },
+  "bounder": {
+    "name": "Bounder",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KA", "KSS", "KDCSE"],
+    "spinoff": ["KPL", "KBB"],
+    "other": ["KTB"]
+  },
+  "bubbles": {
+    "name": "Bubbles",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Ball"],
+    "main": ["KA", "KNIDL", "KDCSE"]
+  },
+  "bugzzy": {
+    "name": "Bugzzy",
+    "type": ["mid-boss", "helper", "friend"],
+    "debut": "05/01/1993",
+    "copy": ["Suplex"],
+    "main": ["KA", "KSS", "KNIDL", "KSSU", "KDCSE", "KSA"],
+    "spinoff": ["KAV", "KMA"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"]
+  },
+  "chilly": {
+    "name": "Chilly",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "05/01/1993",
+    "variants": ["Big Chilly", "Supper Chilly"],
+    "copy": ["Freeze", "Ice"],
+    "main": ["KA", "KSS", "KDL3", "TCS", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KDC", "KBB", "KAR", "KCC", "KEY", "KEEY", "KARS"]
+  },
+  "cool-spark": {
+    "name": "Cool Spark",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Light"],
+    "main": ["KA", "KDCSE"]
+  },
+  "fire-lion": {
+    "name": "Fire Lion",
+    "type": "mid-boss",
+    "debut": "05/01/1993",
+    "main": ["KA", "KNIDL", "KSSU", "KDCSE"]
+  },
+  "flamer": {
+    "name": "Flamer",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Fireball", "Burn", "Fire"],
+    "main": ["KA", "KDL2", "KNIDL", "K&TAM", "KSQS", "KRTDL", "KDCSE", "KTD", "KPR", "KRTDLDX"],
+    "spinoff": ["KDC", "KBB", "KCC", "KEY", "KMA", "KEEY"]
+  },
+  "grand-wheelie": {
+    "name": "Grand Wheelie",
+    "type": "mid-boss",
+    "debut": "05/01/1993",
+    "main": ["KA", "KTD", "KNIDL", "KSSU", "KDCSE"]
+  },
+  "hot-head": {
+    "name": "Hot Head",
+    "type": "enemy",
+    "variants": ["Super Hot Head", "Colossal Hot Head"],
+    "debut": "05/01/1993",
+    "copy": ["Fire"],
+    "main": ["KA", "KNIDL", "K&TAM", "KSQS", "KRTDL", "KDCSE", "KTD", "KPR", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KATRC", "TKCD", "SKC"],
+    "smash": ["SSBB"]
+  },
+  "javelin-knight": {
+    "name": "Javelin Knight",
+    "type": ["meta knight", "mid-boss"],
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KA", "KSS", "KNIDL", "KSSU", "KDCSE"],
+    "spinoff": ["KMA"],
+    "smash": ["SSBU"]
+  },
+  "laser-ball": {
+    "name": "Laser Ball",
+    "type": ["enemy", "helper"],
+    "debut": "05/01/1993",
+    "copy": ["Laser", "Beam"],
+    "main": ["KA", "KSS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KDCSE"]
+  },
+  "mace-knight": {
+    "name": "Mace Knight",
+    "type": ["meta knight", "mid-boss"],
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KA", "KSS", "KNIDL", "KSSU", "KDCSE"],
+    "spinoff": ["KMA"],
+    "smash": ["SSBU"]
+  },
+  "mr-frosty": {
+    "name": "Mr. Frosty",
+    "type": "mid-boss",
+    "debut": "05/01/1993",
+    "variants": ["Wild Frosty", "Mr. Floaty"],
+    "copy": ["Ice"],
+    "main": ["KA", "KDL2", "KNIDL", "K&TAM", "KSQS", "KSSU", "KDCSE", "KTD", "KSA", "KATFL", "SCW"],
+    "spinoff": ["KPL", "KBB", "KTNT", "KMA", "TKCD", "SKC"],
+    "smash": ["SSBU"],
+    "other": ["KTB"]
+  },
+  "mr-tick-tock": {
+    "name": "Mr. Tick-Tock",
+    "type": "mid-boss",
+    "debut": "05/01/1993",
+    "main": ["KA", "KNIDL", "KSSU", "KDCSE"]
+  },
+  "noddy": {
+    "name": "Noddy",
+    "type": ["enemy", "helper"],
+    "debut": "05/01/1993",
+    "copy": ["Sleep"],
+    "main": ["KA", "KSS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KAR", "KARS"]
+  },
+  "pengy": {
+    "name": "Pengy",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Ice"],
+    "main": ["KA", "KNIDL", "K&TAM", "KSQS", "KDCSE"],
+    "spinoff": ["KMA"],
+    "shows": ["KRBAY"]
+  },
+  "rocky": {
+    "name": "Rocky",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "05/01/1993",
+    "variants": ["Giant Rocky"],
+    "copy": ["Stone"],
+    "main": ["KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KDC", "KBB", "KCC", "KARS"],
+    "smash": ["SSBU"]
+  },
+  "rolling-turtle": {
+    "name": "Rolling Turtle",
+    "type": "mid-boss",
+    "debut": "05/01/1993",
+    "main": ["KA", "KDCSE"]
+  },
+  "slippy": {
+    "name": "Slippy",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KA", "KSS", "KNIDL", "KSSU", "KDCSE"],
+    "spinoff": ["KPL"]
+  },
+  "sparky": {
+    "name": "Sparky",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Spark"],
+    "main": ["KA", "KDL2", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KRTDL", "KDCSE", "KTD", "KPR", "KRTDLDX"],
+    "spinoff": ["KPL", "KDC", "KBB"]
+  },
+  "spiny": {
+    "name": "Spiny",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Needle"],
+    "main": ["KA", "KDCSE"],
+    "spinoff": ["KSA"]
+  },
+  "starman": {
+    "name": "Starman",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Hi-Jump"],
+    "main": ["KA", "KNIDL", "KSQS", "KRTDL", "KDCSE", "KRTDLDX"],
+    "spinoff": ["KDC", "KTNT", "KARS"],
+    "smash": ["SSBB", "SSBWIIU"]
+  },
+  "sword-knight": {
+    "name": "Sword Knight",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Sword"],
+    "main": ["KA", "KNIDL", "K&TAM", "KSQS", "KSSU", "KDCSE"],
+    "spinoff": ["KAR", "KMA"],
+    "shows": ["KRBAY"]
+  },
+  "trident-knight": {
+    "name": "Trident Knight",
+    "type": ["meta knight", "mid-boss"],
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KA", "KSS", "KNIDL", "KSSU", "KDCSE"],
+    "spinoff": ["KMA"],
+    "smash": ["SSBU"]
+  },
+  "twister": {
+    "name": "Twister",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["Tornado"],
+    "main": ["KA", "KNIDL", "K&TAM", "KSQS", "KRTDL", "KDCSE", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KDC", "KBB", "KCC", "KMA", "KARS"]
+  },
+  "ufo": {
+    "name": "UFO",
+    "type": "enemy",
+    "debut": "05/01/1993",
+    "copy": ["UFO"],
+    "main": ["KA", "KNIDL", "K&TAM", "KSQS", "KDCSE", "KPR"],
+    "spinoff": ["KPL", "KDC", "KBB", "KTNT", "KEY", "KEEY", "KARS"],
+    "other": ["SPMP"]
+  },
+  "wheelie": {
+    "name": "Wheelie",
+    "type": ["enemy", "helper"],
+    "debut": "05/01/1993",
+    "copy": ["Wheel"],
+    "main": ["KA", "KSS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KDCSE", "KTD", "KPR"],
+    "spinoff": ["KDC", "KBB", "KAR", "KCC", "KMA", "KARS"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"]
+  },
+  "mr-bright&shine": {
+    "name": "Mr. Bright & Mr. Shine",
+    "type": "boss",
+    "debut": "05/01/1993",
+    "copy": ["Cutter", "Fire", "Burn"],
+    "main": ["KA", "KDL2", "KDL3", "KNIDL", "KDCSE", "KTD", "KPR"],
+    "spinoff": ["KPL", "KDC", "KAV", "KBB", "KCC", "KMA", "KATRC", "KDB", "KARS"],
+    "smash": ["SSBU"]
+  },
+  "paint_roller": {
+    "name": "Paint Roller",
+    "type": "boss",
+    "debut": "05/01/1993",
+    "copy": ["Ball", "Crash", "Mike", "Parasol", "Spark", "Wheel"],
+    "main": ["KA", "KNIDL", "KSSU", "KTD", "KPR"],
+    "spinoff": ["KAV", "KDB"]
+  },
+  "heavy_mole": {
+    "name": "Heavy Mole",
+    "type": "boss",
+    "debut": "05/01/1993",
+    "copy": ["Hammer", "Sleep"],
+    "main": ["KA", "KNIDL", "KTD"],
+    "spinoff": ["KAV", "KDB"]
+  },
+
+
+  "cloudy": {
+    "name": "Cloudy",
+    "type": "enemy",
+    "debut": "11/30/1993",
+    "copy": false,
+    "spinoff": ["KPL", "KDB"]
+  },
+  "nimbus": {
+    "name": "Nimbus",
+    "type": "enemy",
+    "debut": "11/30/1993",
+    "copy": false,
+    "spinoff": ["KPL"]
+  },
+
+  "blade": {
+    "name": "Blade",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": false,
+    "main": ["KDL2", "KDCSE"]
+  },
+  "blocky": {
+    "name": "Blocky",
+    "type": "mid-boss",
+    "debut": "05/01/1995",
+    "copy": ["Stone"],
+    "main": ["KDL2", "KDL3", "KDCSE", "KTD", "KPR"],
+    "spinoff": ["KBB", "KMA", "TKCD", "SKC"]
+  },
+  "bouncy": {
+    "name": "Bouncy",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "variants": ["Big Bouncy", "Bouncy Sis"],
+    "copy": false,
+    "main": ["KDL2", "KDL3", "TCS", "KRTDL", "KDCSE", "KSA", "KATFL", "KRTDLDX", "KRTDLDX", "SCW"],
+    "spinoff": ["KBB", "KCC", "KMA", "DDDD", "KATRC", "KBLB", "KDB"]
+  },
+  "butch": {
+    "name": "Butch",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": false,
+    "main": ["KDL2", "KDCSE"]
+  },
+  "captain-stitch": {
+    "name": "Captain Stitch",
+    "type": "mid-boss",
+    "debut": "05/01/1995",
+    "copy": ["Needle"],
+    "main": ["KDL2", "KDL3", "KDCSE"],
+    "spinoff": ["KBB"]
+  },
+  "crack-tweet": {
+    "name": "Crack-Tweet",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": false,
+    "main": ["KDL2", "KDCSE"],
+    "spinoff": ["KBB"]
+    
+  },
+  "efreeti": {
+    "name": "Efreeti", 
+    "type": "mid-boss",
+    "debut": "05/01/1995",
+    "main": ["KDL2", "KDCSE"]
+  },
+  "elieel": {
+    "name": "Elieel",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": false,
+    "main": ["KDL2", "KDCSE"],
+    "other": ["KTB"]
+  },
+  "floaty-the-drifter": {
+    "name": "Floaty the Drifter",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": ["Parasol"],
+    "main": ["KDL2", "KDCSE"]
+  },
+  "jumpershoot": {
+    "name": "Jumpershoot",
+    "type": "mid-boss",
+    "debut": "05/01/1995",
+    "copy": ["Parasol"],
+    "main": ["KDL2", "KDL3", "KDCSE"]
+  },
+  "lord-kibble": {
+    "name": "Lord Kibble",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": ["Cutter"],
+    "main": ["KDL2", "KDCSE"]
+  },
+  "master-green": {
+    "name": "Master Green",
+    "type": "mid-boss",
+    "debut": "05/01/1995",
+    "main": ["KDL2", "KDCSE"]
+  },
+  "master-pengy": {
+    "name": "Master Pengy",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": ["Ice"],
+    "main": ["KDL2", "KDCSE"]
+  },
+  "masher": {
+    "name": "Masher",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": false,
+    "main": ["KDL2", "KDCSE"]
+  },
+  "propellor": {
+    "name": "Propellor",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "variants": ["Grand Propellor"],
+    "copy": false,
+    "main": ["KDL2", "KDL3", "TCS", "KDCSE", "KPR", "KSA"],
+    "spinoff": ["KBB"]
+  },
+  "sir-slippy": {
+    "name": "Sir Slippy",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": false,
+    "main": ["KDL2", "KDCSE"],
+    "spinoff": ["KBB"]
+  },
+  "spikey": {
+    "name": "Spikey",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "copy": ["Needle"],
+    "main": ["KDL2", "KDCSE"]
+  },
+  "waiu": {
+    "name": "Waiu",
+    "type": "mid-boss",
+    "debut": "05/01/1995",
+    "main": ["KDL2", "KDCSE"],
+    "spinoff": ["KBB"]
+  },
+  "nruff_&_nelly": {
+    "name": "Nruff and Nelly",
+    "type": "boss",
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KDL2", "KTD"],
+    "spinoff": ["KDB"]
+  },
+  "sweet_stuff": {
+    "name": "Sweet Stuff",
+    "type": "boss",
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KDL2", "KDL3", "KTD"],
+    "spinoff": ["KMA"]
+  },
+  "ice_dragon": {
+    "name": "Ice Dragon",
+    "type": "boss",
+    "debut": "05/01/1993",
+    "copy": false,
+    "main": ["KDL2", "KDL3", "TCS", "KSSU", "KTD", "KPR", "KSA"],
+    "spinoff": ["TKCD", "SKC", "KDB"]
+  },
+
+  "bio-spark": {
+    "name": "Bio Spark",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "09/20/1996",
+    "copy": ["Ninja"],
+    "main": ["KSS", "KSQS", "KSSU", "KDCSE", "KSA"],
+    "spinoff": ["KMA"],
+    "mobile": ["NT"]
+  },
+  "birdon": {
+    "name": "Birdon",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "09/20/1996",
+    "copy": ["Wing"],
+    "main": ["KSS", "KSSU", "KDCSE", "KTD", "KSA"]
+  },
+  "burning-leo": {
+    "name": "Burning Leo",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "09/20/1996",
+    "copy": ["Fire"],
+    "main": ["KSS", "KSSU", "KDCSE", "KSA"]
+  },
+  "capsule-j": {
+    "name": "Capsule J",
+    "type": ["enemy", "helper"],
+    "debut": "09/20/1996",
+    "variants": ["Capsule J2", "Capsule J3"],
+    "copy": ["Jet"],
+    "main": ["KSS", "KSSU", "KDCSE", "KPR"],
+    "spinoff": ["KMA"]
+  },
+  "chef-kawasaki": {
+    "name": "Chef Kawasaki",
+    "type": ["mid-boss", "friend"],
+    "debut": "09/20/1996",
+    "copy": ["Cook"],
+    "main": ["KSS", "KSSU", "KDCSE", "KSA"],
+    "spinoff": ["KMA", "KARS"],
+    "smash": ["SSBB", "SSBU"],
+    "shows": ["KRBAY"]
+  },
+  "gator": {
+    "name": "Gator",
+    "type": "enemy",
+    "debut": "09/20/1996",
+    "copy": false,
+    "main": ["KSS", "KSSU", "KDCSE"]
+  },
+  "gim": {
+    "name": "Gim",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "09/20/1996",
+    "copy": ["Yo-Yo"],
+    "main": ["KSS", "KSSU", "KDCSE", "KSA"]
+  },
+  "iron-mam": {
+    "name": "Iron Mam",
+    "type": "mid-boss",
+    "debut": "09/20/1996",
+    "copy": ["Fighter"],
+    "main": ["KSS", "KSSU", "KDCSE"]
+  },
+  "jukid": {
+    "name": "Jukid",
+    "type": "mid-boss",
+    "debut": "09/20/1996",
+    "copy": ["Suplex"],
+    "main": ["KSS", "KSSU", "KDCSE"]
+  },
+  "jungle-bomb": {
+    "name": "Jungle Bomb",
+    "type": ["enemy", "helper"],
+    "debut": "09/20/1996",
+    "copy": ["Bomb"],
+    "main": ["KSS", "KSSU", "KDCSE"]
+  },
+  "knuckle-joe": {
+    "name": "Knuckle Joe",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "09/20/1996",
+    "copy": ["Fighter"],
+    "main": ["KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KARS"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["KRBAY"]
+  },
+  "lovely": {
+    "name": "Lovely",
+    "type": "enemy",
+    "debut": "09/20/1996",
+    "copy": false,
+    "main": ["KSS", "KSSU", "KDCSE"]
+  },
+  "magical-sweeper": {
+    "name": "Magical Sweeper",
+    "type": "enemy",
+    "debut": "09/20/1996",
+    "copy": false,
+    "main": ["KSS", "KSSU", "KDCSE"]
+  },
+  "plasma-wisp": {
+    "name": "Plasma Wisp",
+    "type": ["enemy", "helper"],
+    "debut": "09/20/1996",
+    "copy": ["Plasma"],
+    "main": ["KSS", "KSSU", "KDCSE"],
+    "spinoff": ["KAR", "KARS"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "simirror": {
+    "name": "Simirror",
+    "type": ["enemy", "helper"],
+    "debut": "09/20/1996",
+    "copy": ["Mirror"],
+    "main": ["KSS", "KSSU", "KDCSE", "KPR"],
+    "spinoff": ["KARS"]
+  },
+  "tac": {
+    "name": "Tac",
+    "type": ["enemy", "helper"],
+    "debut": "09/20/1996",
+    "copy": ["Copy"],
+    "main": ["KSS", "KSSU", "KDCSE"],
+    "spinoff": ["KAR", "KMA", "KARS"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "walky": {
+    "name": "Walky",
+    "type": ["enemy", "helper"],
+    "debut": "09/20/1996",
+    "copy": ["Mike"],
+    "main": ["KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KAR", "KARS"],
+    "smash": ["SSBB", "SSBWIIU"]
+  },
+  "fatty_whale": {
+    "name": "Fatty Whale",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": ["Copy"],
+    "main": ["KSS", "KSSU"],
+    "spinoff": ["KF2", "KDB"]
+  },
+  "computer_virus": {
+    "name": "Computer Virus",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": false,
+    "main": ["KSS"]
+  },
+  "chameleo_arm": {
+    "name": "Charmeleo Arm",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": ["Paint"],
+    "main": ["KSS", "KSSU", "KTD"],
+    "spinoff": ["KARS"]
+  },  
+  "wham_bam_rock": {
+    "name": "Wham Bam Rock",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": ["Stone"],
+    "main": ["KSS", "KSSU", "KRTDL", "KRTDLDX"],
+    "spinoff": ["TKCD", "SKC"]
+  },
+  "heavy_lobster": {
+    "name": "Heavy Lobster",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": false,
+    "main": ["KSS", "KSSU", "KTD"],
+    "spinoff": ["KMA"],
+    "smash": ["SSBU"]
+  },
+  "twin_woods": {
+    "name": "Twin Woods",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": false,
+    "main": ["KSS", "KSSU"],
+    "spinoff": ["KF2"]
+  },
+  "combo_cannon": {
+    "name": "Combo Cannon",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": ["Bomb", "Yo-Yo"],
+    "main": ["KSS", "KSSU", "KPR"],
+    "spinoff": ["KEY", "KEEY"],
+    "smash": ["SSBB", "SSB3DS"]
+  },
+  "reactor": {
+    "name": "Reactor",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": false,
+    "main": ["KSS", "KSSU"]
+  },
+  "galactic_nova_nucleus": {
+    "name": "Galactic Nova Nucleus",
+    "type": "boss",
+    "debut": "09/20/1996",
+    "copy": false,
+    "main": ["KSS", "KSSU"]
+  },
+
+
+  "apolo": {
+    "name": "Apolo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "babut": {
+    "name": "Babut",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KRTDL", "KDCSE", "KRTDLDX"],
+    "spinoff": ["KBLB"]
+  },
+  "batamon": {
+    "name": "Batamon",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "bobin": {
+    "name": "Bobin",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Spark"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "bobo": {
+    "name": "Bobo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Burn"],
+    "main": ["KDL3", "TCS", "KDCSE"],
+    "spinoff": ["KCC"]
+  },
+  "boboo": {
+    "name": "Boboo",
+    "type": "mid-boss",
+    "debut": "11/27/1997",
+    "copy": ["Burn"],
+    "main": ["KDL3", "KDCSE"]
+  },  
+  "boten": {
+    "name": "Boten",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Burn"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "bukiset": {
+    "name": "Bukiset",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Burn", "Clean", "Cutter", "Ice", "Needle", "Parasol", "Spark", "Stone"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "como": {
+    "name": "Como",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "11/27/1997",
+    "copy": ["Spider"],
+    "main": ["KDL3", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KCC", "DDDD"]
+  },
+  "corori": {
+    "name": "Corori",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Ice"],
+    "main": ["KDL3", "KDCSE", "KATFL", "SCW"]
+  },
+  "dogon": {
+    "name": "Dogon",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "doka": {
+    "name": "Doka",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "gabon": {
+    "name": "Gabon",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "TCS", "KDCSE", "KPR", "KSA", "KATFL", "SCW"]
+  },
+  "galbo": {
+    "name": "Galbo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "variants": ["Big Galbo", "Water Galbo"],
+    "copy": ["Burn", "Fire"],
+    "main": ["KDL3", "TCS", "KRTDL", "KDCSE", "KPR", "KRTDLDX"]
+  },
+  "gansan": {
+    "name": "Gansan",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Stone"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "haboki": {
+    "name": "Haboki",
+    "type": "mid-boss",
+    "debut": "11/27/1997",
+    "copy": ["Clean"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "joe": {
+    "name": "Joe",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "kany": {
+    "name": "Kany",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "variants": ["Big Kany"],
+    "copy": false,
+    "main": ["KDL3", "TCS", "KDCSE"]
+  },
+  "kapar": {
+    "name": "Kapar",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "variants": ["Big Kapar"],
+    "copy": ["Cutter"],
+    "main": ["KDL3", "KDCSE"],
+    "spinoff": ["KARS"]
+  },
+  "keke": {
+    "name": "KeKe",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Clean"],
+    "main": ["KDL3", "TCS", "KDCSE"]
+  },
+  "klinko": {
+    "name": "Klinko",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Parasol"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "loud": {
+    "name": "Loud",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "madoo": {
+    "name": "Madoo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "magoo": {
+    "name": "Magoo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Burn"],
+    "main": ["KDL3", "TCS", "KDCSE"]
+  },
+  "mariel": {
+    "name": "Mariel",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "TCS", "KDCSE"]
+  },
+  "mopoo": {
+    "name": "Mopoo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "variants": ["Big Mopoo"],
+    "copy": false,
+    "main": ["KDL3", "TCS", "KRTDL", "KDCSE", "KRTDLDX"]
+  },
+  "mony": {
+    "name": "Mony",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "nidoo": {
+    "name": "Nidoo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE", "KTD"]
+  },
+  "nruff": {
+    "name": "Nruff",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "TCS", "KRTDL", "KDCSE", "KSA", "KRTDLDX"],
+    "spinoff": ["KBLB", "KARS"],
+    "smash": ["SSBB"]
+  },
+  "oro": {
+    "name": "Oro",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "pacto": {
+    "name": "Pacto",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KRTDL", "KDCSE", "KTD", "KPR", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KCC"]
+  },
+  "pasara": {
+    "name": "Pasara",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "peloo": {
+    "name": "Peloo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "peran": {
+    "name": "Peran",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "polof": {
+    "name": "Polof",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "pteran": {
+    "name": "Pteran",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "TCS", "KDCSE"]
+  },
+  "sasuke": {
+    "name": "Sasuke",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Parasol"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "wapod": {
+    "name": "Wapod",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KRTDL", "KDCSE", "KRTDLDX"]
+  },
+  "yaban": {
+    "name": "Yaban",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KDCSE"]
+  },
+  "zebon": {
+    "name": "Zebon",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "TCS", "KDCSE"]
+  },
+  "togezo": {
+    "name": "Togenzo",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Needle"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "wappa": {
+    "name": "Wappa",
+    "type": "enemy",
+    "debut": "11/27/1997",
+    "copy": ["Burn"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "yuki": {
+    "name": "Yuki",
+    "type": "mid-boss",
+    "debut": "11/27/1997",
+    "copy": ["Ice"],
+    "main": ["KDL3", "KDCSE"]
+  },
+  "arco": {
+    "name": "Arco",
+    "type": "boss",
+    "debut": "11/27/1997",
+    "copy": ["Cutter", "Bomb"],
+    "main": ["KDL3", "TCS", "KDCSE", "KTD"],
+    "smash": ["SSBB"]
+  },
+  "pon_&_con": {
+    "name": "Pon & Con",
+    "type": "boss",
+    "debut": "11/27/1997",
+    "copy": ["Fire", "Ice", "Beam"],
+    "main": ["KDL3", "KDCSE", "KTD", "KSA"],
+    "spinoff": ["KATRC"]
+  },
+  "ado": {
+    "name": "Ado",
+    "type": "boss",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KTD"]
+  },
+  "zero": {
+    "name": "Zero",
+    "type": "boss",
+    "debut": "11/27/1997",
+    "copy": false,
+    "main": ["KDL3", "KPR", "KSA"],
+    "spinoff": ["KDB"]
+  },
+
+
+  "bivolt": {
+    "name": "Bivolt",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "blowfish": {
+    "name": "Blowfish",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "variants": ["Big Blowfish"],
+    "copy": ["Bomb"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "bo": {
+    "name": "Bo",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "bonhead": {
+    "name": "Bonehead",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "bumber": {
+    "name": "Bumber",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "burnis": {
+    "name": "Burnis",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "variants": ["Big Burnis"],
+    "copy": ["Burn"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "cairn": {
+    "name": "Cairn",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Stone"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "chacha": {
+    "name": "Chacha",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "drop": {
+    "name": "Drop",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "emp": {
+    "name": "Emp",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Ice"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "fishbone": {
+    "name": "Fishbone",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "variants": ["Big Fishbone"],
+    "copy": ["Cutter"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "flopper": {
+    "name": "Flopper",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "flora": {
+    "name": "Flora",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "flutter": {
+    "name": "Flutter",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "frigis": {
+    "name": "Frigis",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Ice"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "ghost-knight": {
+    "name": "Ghost Knight",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Needle"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "glom": {
+    "name": "Glom",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "gobblin": {
+    "name": "Gobblin",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "hack": {
+    "name": "Hack",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Stone"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "i3": {
+    "name": "I3",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "ignus": {
+    "name": "Ignus",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "kacti": {
+    "name": "Kacti",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "variants": ["Big Kacti"],
+    "copy": ["Bomb"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "mahall": {
+    "name": "Mahall",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "maw": {
+    "name": "Maw",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "mite": {
+    "name": "Mite",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "n-z": {
+    "name": "N-Z",
+    "type": "enemy",
+    "variants": ["Big N-Z"],
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "noo": {
+    "name": "Noo",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "pedo": {
+    "name": "Pedo",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Bomb"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "plugg": {
+    "name": "Plugg",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "06/26/2000",
+    "copy": ["Spark"],
+    "main": ["TCS", "KDCSE", "KSA"],
+    "spinoff": ["KARS"]
+  },
+  "pompey": {
+    "name": "Pompey",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Stone"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "punc": {
+    "name": "Punc",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Needle"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "pupa": {
+    "name": "Pupa",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "variants": ["Big Pupa"],
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "putt": {
+    "name": "Putt",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "rockn": {
+    "name": "Rockn",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Bomb"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "sandman": {
+    "name": "Sandman",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"],
+    "spinoff": ["KARS"]
+  },
+  "sawyer": {
+    "name": "Sawyer",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "variants": ["Big Sawyer"],
+    "copy": ["Cutter"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "skud": {
+    "name": "Skud",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Bomb"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "spark-i": {
+    "name": "Spark-i",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "variants": ["Big Spark-i"],
+    "copy": ["Spark"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "slushy": {
+    "name": "Slushy",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "snipper": {
+    "name": "Snipper",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"],
+    "spinoff": ["KTNT"]
+  },
+  "splinter": {
+    "name": "Splinter",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "squibby": {
+    "name": "Squibby",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "tick": {
+    "name": "Tick",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "variants": ["Big Tick"],
+    "copy": ["Needle"],
+    "main": ["TCS", "KRTDL", "KDCSE", "KTD", "KCC", "KRTDLDX"]
+  },
+  "turbite": {
+    "name": "Turbite",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Spark"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "whispy-woods-jr": {
+    "name": "Whispy Woods Jr.",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "yariko": {
+    "name": "Yariko",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "zoos": {
+    "name": "Zoos",
+    "type": "enemy",
+    "debut": "06/26/2000",
+    "copy": ["Spark"],
+    "main": ["TCS", "KDCSE"]
+  },
+  "pix": {
+    "name": "Pix",
+    "type": "boss",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"]
+  },
+  "magman": {
+    "name": "Pix",
+    "type": "boss",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"],
+    "spinoff": ["KDB", "KARS"]
+  },
+  "hr-h": {
+    "name": "HR-H",
+    "type": "boss",
+    "debut": "06/26/2000",
+    "copy": false,
+    "main": ["TCS", "KDCSE"],
+    "spinoff": ["KDB"]
+  },
+  "miracle_matter": {
+    "name": "Miracle Matter",
+    "type": "boss",
+    "debut": "06/26/2000",
+    "copy": ["Bomb", "Burn", "Cutter", "Ice", "Needle", "Spark", "Stone"],
+    "main": ["TCS", "KDCSE"]
+  },
+  
+  
+  "blinkbat": {
+    "name": "Blinkbat",
+    "type": "enemy",
+    "debut": "04/11/2001",
+    "copy": ["Spark"],
+    "main": ["KPR"],
+    "spinoff": ["KTNT", "KDB"]
+  },
+  "blockbot": {
+    "name": "Blockbot",
+    "type": "enemy",
+    "debut": "04/11/2001",
+    "copy": false,
+    "spinoff": ["KTNT", "KDB"]
+  },
+  "cloud-cannon": {
+    "name": "Cloud Cannon",
+    "type": "enemy",
+    "debut": "04/11/2001",
+    "copy": ["Spark"],
+    "spinoff": ["KTNT"]
+  }, 
+  "god-hand": {
+    "name": "God Hand",
+    "type": "enemy",
+    "debut": "04/11/2001",
+    "copy": false,
+    "spinoff": ["KTNT"]
+  },
+  
+  
+  "needlous": {
+    "name": "Needlous",
+    "type": "enemy",
+    "debut": "12/02/2002",
+    "copy": ["Needle"],
+    "main": ["KNIDL", "KRTDL", "KTD", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KCC"]
+  },
+  "gip": {
+    "name": "Gip",
+    "type": "enemy",
+    "debut": "12/02/2002",
+    "copy": false,
+    "main": ["KNIDL", "KTD"]
+  },
+  "phan-phan": {
+    "name": "Phan Phan",
+    "type": "mid-boss",
+    "debut": "12/02/2002",
+    "copy": ["Throw"],
+    "main": ["KNIDL", "K&TAM", "KSSU", "KTD"]
+  },
+  
+  "ant_down": {
+    "name": "Ant Down",
+    "type": "enemy",
+    "debut": "10/13/2003",
+    "copy": false,
+    "spinoff": ["KAR"]
+  },
+  "balloon_bomber": {
+    "name": "Balloon Bomber",
+    "type": "enemy",
+    "debut": "10/13/2003",
+    "copy": ["Bomb"],
+    "spinoff": ["KAR", "KCC", "KARS"]
+  },
+  "flappy": {
+    "name": "Ant Down",
+    "type": "enemy",
+    "debut": "10/13/2003",
+    "copy": ["Wing"],
+    "spinoff": ["KAR", "KDB"]
+  },
+  "heat_phanphan": {
+    "name": "Heat Phanphan",
+    "type": "enemy",
+    "debut": "10/13/2003",
+    "copy": ["Fire"],
+    "spinoff": ["KAR"]
+  },
+  "pichikuri": {
+    "name": "Pichikuri",
+    "type": "enemy",
+    "debut": "10/13/2003",
+    "copy": ["Needle"],
+    "spinoff": ["KAR", "KARS"]
+  },
+  "solite": {
+    "name": "Solite",
+    "type": "enemy",
+    "debut": "10/13/2003",
+    "copy": false,
+    "spinoff": ["KAR", "KARS"]
+  },
+
+
+  "bang-bang": {
+    "name": "Bang-Bang",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Missile"],
+    "main": ["K&TAM"],
+    "spinoff": ["KCC", "KARS"]
+  },
+  "batafire": {
+    "name": "Batafire",
+    "type": "mid-boss",
+    "debut": "10/18/2004",
+    "copy": ["Burn"],
+    "main": ["K&TAM"]
+  },
+  "batty": {
+    "name": "Batty",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM", "KSQS"]
+  },
+  "blockin": {
+    "name": "Blockin",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM", "KSQS"]
+  },
+  "bombar": {
+    "name": "Bombar",
+    "type": "mid-boss",
+    "debut": "10/18/2004",
+    "copy": ["Missile"],
+    "main": ["K&TAM"]
+  },
+  "box-boxer": {
+    "name": "Box Boxer",
+    "type": "mid-boss",
+    "debut": "10/18/2004",
+    "copy": ["Fighter"],
+    "main": ["K&TAM", "KSQS"],
+    "smash": ["SSBB"]
+  },
+  "boxin": {
+    "name": "Boxin",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Fighter"],
+    "main": ["K&TAM", "KSQS"]
+  },
+  "boxy": {
+    "name": "Boxy",
+    "type": "mid-boss",
+    "debut": "10/18/2004",
+    "copy": ["Magic"],
+    "main": ["K&TAM", "KSQS"]
+  },
+  "chip": {
+    "name": "Chip",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM", "KSQS", "KTD", "KPR", "KSA"],
+    "spinoff": ["KBLB"]
+  },
+  "cookin": {
+    "name": "Cookin",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Cook"],
+    "main": ["K&TAM"]
+  },
+  "cupie": {
+    "name": "Cupie",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Cupid"],
+    "main": ["K&TAM", "KSQS"]
+  },
+  "droppy": {
+    "name": "Droppy",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "foley": {
+    "name": "Foley",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Bomb"],
+    "main": ["K&TAM", "KSQS", "KRTDL", "KTD", "KPR", "KATFL", "KRTDLDX", "SCW"]
+  },
+  "golem": {
+    "name": "Golem",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Stone", "Fighter", "Wheel"],
+    "main": ["K&TAM"],
+    "spinoff": ["KARS"],
+    "smash": ["SSBB"]
+  },
+  "haley": {
+    "name": "Haley",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "heavy-knight": {
+    "name": "Heavy Knight",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Sword"],
+    "main": ["K&TAM", "KSQS"]
+  },
+  "jack": {
+    "name": "Jack",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "leap": {
+    "name": "Leap",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "master-hand": {
+    "name": "Master Hand",
+    "type": "mid-boss",
+    "debut": "10/18/2004",
+    "copy": ["Smash"],
+    "main": ["K&TAM"]
+  },
+  "metal-guardian": {
+    "name": "Metal Guardian",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Laser"],
+    "main": ["K&TAM"]
+  },
+  "minny": {
+    "name": "Minny",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Mini"],
+    "main": ["K&TAM"]
+  },
+  "mirra": {
+    "name": "Mirra",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "pakuriel": {
+    "name": "Pakuriel",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": ["Sword"],
+    "main": ["K&TAM"]
+  },
+  "prank": {
+    "name": "Prank",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "roly-poly": {
+    "name": "Roly-Poly",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "shadow-kirby": {
+    "name": "Shadow Kirby",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "shooty": {
+    "name": "Shooty",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM"]
+  },
+  "snooter": {
+    "name": "Snooter",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "copy": false,
+    "main": ["K&TAM", "KSQS"]
+  },
+  "soarar": {
+    "name": "Soarar",
+    "type": "enemy",
+    "debut": "10/18/2004",
+    "variants": ["Mono Soarar", "Small Soarar"],
+    "copy": false,
+    "main": ["K&TAM", "KTD", "KPR"],
+    "spinoff": ["KCC", "KATRC", "KBLB"]
+  },
+
+  "blado": {
+    "name": "Blado",
+    "type": "enemy",
+    "debut": "06/13/2005",
+    "copy": false,
+    "spinoff": ["KCC", "KATRC"]
+  },
+  "bloon": {
+    "name": "Bloon",
+    "type": "enemy",
+    "debut": "06/13/2005",
+    "copy": "Balloon",
+    "spinoff": ["KCC"]
+  },
+  "para-matter": {
+    "name": "Para Matter",
+    "type": "enemy",
+    "debut": "06/13/2005",
+    "copy": false,
+    "main": ["KTD", "KPR"],
+    "spinoff": ["KCC"]
+  },
+  "para-sorceress": {
+    "name": "Para Sorceress",
+    "type": "enemy",
+    "debut": "06/13/2005",
+    "copy": false,
+    "spinoff": ["KCC"]
+  },
+  "snoppy": {
+    "name": "Snoppy",
+    "type": "enemy",
+    "debut": "06/13/2005",
+    "copy": "Freeze",
+    "spinoff": ["KCC"]
+  },
+  "thudd": {
+    "name": "Thudd",
+    "type": "enemy",
+    "debut": "06/13/2005",
+    "copy": false,
+    "spinoff": ["KCC"]
+  },
+  "topper": {
+    "name": "Topper",
+    "type": "enemy",
+    "debut": "06/13/2005",
+    "copy": false,
+    "spinoff": ["KCC"]
+  },
+
+
+  "acchi": {
+    "name": "Acchi",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": ["Fire"],
+    "main": ["KSQS"]
+  },
+  "bubble-head": {
+    "name": "Bubble Head",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": ["Bubble"],
+    "main": ["KSQS"]
+  },
+  "buboo": {
+    "name": "Buboo",
+    "type": "mid-boss",
+    "debut": "12/04/2006",
+    "copy": ["Bubble"],
+    "main": ["KSQS"]
+  },
+  "bun": {
+    "name": "Bun",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": ["Throw"],
+    "main": ["KSQS"]
+  },
+  "caper": {
+    "name": "Caper",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": false,
+    "main": ["KSQS"]
+  },
+  "cret": {
+    "name": "Cret",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": false,
+    "main": ["KSQS"]
+  },
+  "crimp": {
+    "name": "Crimp",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": false,
+    "main": ["KSQS"]
+  },
+  "gao-gao": {
+    "name": "Gao Gao",
+    "type": "mid-boss",
+    "debut": "12/04/2006",
+    "copy": ["Animal"],
+    "main": ["KSQS"]
+  },
+  "gaw-gaw": {
+    "name": "Gaw Gaw",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": ["Animal"],
+    "main": ["KSQS"]
+  },
+  "gussa": {
+    "name": "Gussa",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": false,
+    "main": ["KSQS"]
+  },
+  "maiga": {
+    "name": "Maiga",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": false,
+    "main": ["KSQS"]
+  },
+  "metalun": {
+    "name": "Metalun",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "variants": ["Big Metalun"],
+    "copy": ["Metal"],
+    "main": ["KSQS"]
+  },
+  "perara": {
+    "name": "Perara",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": false,
+    "main": ["KSQS"],
+    "smash": ["SSBB"]
+  },
+  "tedhaun": {
+    "name": "Tedhaun",
+    "type": "mid-boss",
+    "debut": "12/04/2006",
+    "copy": ["Ghost"],
+    "main": ["KSQS"]
+  },
+  "uja": {
+    "name": "Uja",
+    "type": "enemy",
+    "debut": "12/04/2006",
+    "copy": false,
+    "main": ["KSQS"]
+  },
+
+  "croucars": {
+    "name": "Croucars",
+    "type": "enemy",
+    "debut": "09/22/2008",
+    "copy": false,
+    "main": ["KSSU"]
+  },
+  "galbel": {
+    "name": "Galbel",
+    "type": "enemy",
+    "debut": "09/22/2008",
+    "copy": false,
+    "main": ["KSSU"]
+  },
+  "poison_mash": {
+    "name": "Poison Mash",
+    "type": "enemy",
+    "debut": "09/22/2008",
+    "copy": false,
+    "main": ["KSSU"],
+    "spinoff": ["KARS"]
+  },
+  "rosely": {
+    "name": "Rosely",
+    "type": "enemy",
+    "debut": "09/22/2008",
+    "copy": false,
+    "main": ["KSSU", "KTD"]
+  },
+  "mister_anglep": {
+    "name": "Mister Anglep",
+    "type": "enemy",
+    "debut": "09/22/2008",
+    "copy": ["Crash"],
+    "main": ["KSSU"]
+  },
+  "perot": {
+    "name": "Perot",
+    "type": "enemy",
+    "debut": "09/22/2008",
+    "copy": ["Bomb", "Cutter"],
+    "main": ["KSSU"]
+  },
+
+  "awadoron": {
+    "name": "Awadoron",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "awasuki": {
+    "name": "Awasuki",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "banishback": {
+    "name": "Banishback",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "beanbon": {
+    "name": "Beanbon",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Big Beanbon", "Bigger Beanbon", "Gold Beanbon"],
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "birdee": {
+    "name": "Birdee",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "biripper": {
+    "name": "Biripper",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "blamboom": {
+    "name": "Blamboom",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "blish": {
+    "name": "Blish",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "blucko": {
+    "name": "Blucko",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Big Blucko"],
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "bohboh": {
+    "name": "Bohboh",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "bombpellor": {
+    "name": "Bombpellor",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "buufuu": {
+    "name": "Buufuu",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "child_ship": {
+    "name": "Child Ship",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "clanksprout": {
+    "name": "Clanksprout",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "cryball": {
+    "name": "Cryball",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "eelongo": {
+    "name": "Eelongo",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "flapbon": {
+    "name": "Flapbon",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "flare": {
+    "name": "Flare",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "floaty_woods": {
+    "name": "Floaty Woods",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "floof": {
+    "name": "Floof",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Big Floof", "Dekofloof", "Flickerfloof"],
+    "copy": false,
+    "spinoff": ["KMA", "KARS"]
+  },
+  "fuufuu": {
+    "name": "Fuufuu",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "freezy_rex": {
+    "name": "Freezy Rex",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "geg": {
+    "name": "Geg",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Mech Geg", "Paka Geg", "Spiky Geg"],
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "gloombat": {
+    "name": "Gloombat",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "glutbulb": {
+    "name": "Glutbulb",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "gobchomplin": {
+    "name": "Gobchomplin",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "gondolus": {
+    "name": "Gondolus",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "gravy": {
+    "name": "Gravy",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "grindarr": {
+    "name": "Grindarr",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Mega Grindarr"],
+    "copy": false,
+    "spinoff": ["KMA", "KATRC"]
+  },
+  "gruegloom": {
+    "name": "Gruegloom",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "hamsturr": {
+    "name": "Hamsturr",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "helmee": {
+    "name": "Helmee",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "helmetmole": {
+    "name": "Helmetmole",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "ice_dice": {
+    "name": "Ice Dice",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "ice_dinos": {
+    "name": "Ice Dinos",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "iceton": {
+    "name": "Iceton",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Big Iceton"],
+    "copy": false,
+    "spinoff": ["KMA", "KARS"]
+  },
+  "ill_gate": {
+    "name": "Ill Gate",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "jellifrizz": {
+    "name": "Jellifrizz",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "kyuin": {
+    "name": "Kyuin",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "magu": {
+    "name": "Magu",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "missile_roller": {
+    "name": "Missile Roller",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "moggy": {
+    "name": "Moggy",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "mogmole": {
+    "name": "Mogmole",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "mosomoso": {
+    "name": "Mosomoso",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "mummbon": {
+    "name": "Mummbon",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Big Mummbon"],
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "nolly": {
+    "name": "Nolly",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "oohroo": {
+    "name": "Oohroo",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Space Oohroo"],
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "posula": {
+    "name": "Posula",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "pricklebat": {
+    "name": "Prickleboat",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "puff": {
+    "name": "Puff",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "pult": {
+    "name": "Pult",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "rock_hand": {
+    "name": "Rock Hand",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA", "KARS"]
+  },
+  "roguemole": {
+    "name": "Roguemole",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "rolling_pawn": {
+    "name": "Rolling Pawn",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "rolling_spike": {
+    "name": "Rolling Spike",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "schnoz": {
+    "name": "Schnoz",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Big Schnoz", "Bigger Schnoz"],
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "schwarz": {
+    "name": "Schwarz",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "scoopy": {
+    "name": "Scoopy",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "shadowbite": {
+    "name": "Shadowbite",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "shellmic": {
+    "name": "Shellmic",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "skullion": {
+    "name": "Skullion",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "skully": {
+    "name": "Skully",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "snoozroot": {
+    "name": "Snoozroot",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "spideroo": {
+    "name": "Spideroo",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "squister": {
+    "name": "Squister",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "stactus": {
+    "name": "Stactus",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Big Stactus"],
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "stappy": {
+    "name": "Stappy",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "stickle": {
+    "name": "Stickle",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },  
+  "stoneik": {
+    "name": "Stoneik",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "stumpee": {
+    "name": "Stumpee",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "tappy": {
+    "name": "Tappy",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "tortletummy_thorn": {
+    "name": "Tortletummy Thorn",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "tower_woods": {
+    "name": "Tower Woods",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "tury": {
+    "name": "Tury",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "warwiggle": {
+    "name": "Warwiggle",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "wicky_woods": {
+    "name": "Wicky Woods",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "wobbly_woods": {
+    "name": "Wobbly Woods",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "zombon": {
+    "name": "Zombon",
+    "type": "enemy",
+    "debut": "09/19/2011",
+    "variants": ["Big Zombon"],
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "barbar": {
+    "name": "Barbar",
+    "type": "enemy",
+    "variants": ["Iron Barbar"],
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KTD", "KPR", "KRTDLDX"]
+  },
+  "barracu": {
+    "name": "Barracu",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "bulby": {
+    "name": "Bulby",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Leaf"],
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "bouncy-sis": {
+    "name": "Bouncy Sis",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"],
+    "spinoff": ["KATRC"]
+  },
+  "bowby": {
+    "name": "Bowby",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "carry-dee": {
+    "name": "Carry Dee",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "cerulean": {
+    "name": "Cerulean",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "clayn": {
+    "name": "Clayn",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "craby": {
+    "name": "Craby",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KTD", "KPR", "KRTDLDX"]
+  },
+  "crap": {
+    "name": "Crap",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "spinoff": ["KMA"]
+  },
+  "darpa": {
+    "name": "Darpa",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "degout": {
+    "name": "Degout",
+    "type": "enemy",
+    "variants": ["Hunter Degout"],
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KTD", "KPR", "KRTDLDX"]
+  },
+  "deppa": {
+    "name": "Deppa",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "dippa": {
+    "name": "Dippa",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "dubior": {
+    "name": "Debuior",
+    "type": "mid-boss",
+    "debut": "10/24/2011",
+    "copy": ["Spark"],
+    "main": ["KRTDL", "KPR", "KRTDLDX"]
+  },
+  "dupa": {
+    "name": "Dupa",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "elec": {
+    "name": "Elec",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Spark"],
+    "main": ["KRTDL", "KPR", "KRTDLDX"]
+  }, 
+  "gemra": {
+    "name": "Gemra",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Beam"],
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "gigant_edge": {
+    "name": "Gigant Edge",
+    "type": "mid-boss",
+    "debut": "10/24/2011",
+    "variants": ["Wild Edge"],
+    "copy": ["Sword"],
+    "main": ["KRTDL", "KTD", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["TKCD", "SKC"]
+  },
+  "jackle": {
+    "name": "Jackle",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Cutter"],
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "kibble_blade": {
+    "name": "Kibble Blade",
+    "type": "mid-boss",
+    "debut": "10/24/2011",
+    "copy": ["Cutter"],
+    "variants": ["Frost Kibble Blade"],
+    "main": ["KRTDL", "KPR", "KRTDLDX"],
+    "spinoff": ["TKCD", "SKC"]
+  },
+  "king_doo": {
+    "name": "King Doo",
+    "type": "mid-boss",
+    "debut": "10/24/2011",
+    "copy": ["Beam"],
+    "main": ["KRTDL", "KPR", "KRTDLDX"],
+    "spinoff": ["TKCD", "SKC"]
+  },
+  "lanzer": {
+    "name": "Lanzer",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Spear"],
+    "main": ["KRTDL", "KTD", "KRTDLDX"]
+  },
+  "leafan": {
+    "name": "Leafan",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Leaf"],
+    "main": ["KRTDL", "KTD", "KPR", "KRTDLDX"]
+  },
+  "moonja": {
+    "name": "Moonja",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Ninja"],
+    "main": ["KRTDL", "KTD", "KPR", "KRTDLDX"]
+  },
+  "moundo": {
+    "name": "Moundo",
+    "type": "mid-boss",
+    "debut": "10/24/2011",
+    "copy": ["Stone"],
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "owgulf": {
+    "name": "Owgulf",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Wing"],
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "pacloud": {
+    "name": "Pacloud",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "pierce": {
+    "name": "Pierce",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Beam", "Spear"],
+    "main": ["KRTDL", "KTD", "KRTDLDX"]
+  },
+  "pluid": {
+    "name": "Pluid",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Beam"],
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "searches": {
+    "name": "Searches",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Crash"],
+    "main": ["KRTDL", "KTD", "KRTDLDX"]
+  },
+  "shelt": {
+    "name": "Shelt",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KTD", "KPR", "KRTDLDX"]
+  },
+  "snowl": {
+    "name": "Snowl",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Ice"],
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "sodory": {
+    "name": "Sodory",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Sword"],
+    "main": ["KRTDL", "KRTDLDX"],
+    "spinoff": ["DDDD"]
+  },
+  "sphere_doomer": {
+    "name": "Sphere Doomer",
+    "type": "mid-boss",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "totenga": {
+    "name": "Totenga",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Needle"],
+    "main": ["KRTDL", "KATFL", "KRTDLDX", "SCW"]
+  },
+  "walf": {
+    "name": "Walf",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": false,
+    "main": ["KRTDL", "KPR", "KATFL", "KRTDLDX", "SCW"]
+  },
+  "water-galbo": {
+    "name": "Water Galbo",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Water"],
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "water-galboro": {
+    "name": "Water Galboro",
+    "type": "mid-boss",
+    "debut": "10/24/2011",
+    "copy": ["Water"],
+    "main": ["KRTDL", "KRTDLDX"],
+    "spinoff": ["KARS"]
+  },
+  "whippy": {
+    "name": "Whippy",
+    "type": "enemy",
+    "debut": "10/24/2011",
+    "copy": ["Whip"],
+    "main": ["KRTDL", "KTD", "KPR", "KRTDLDX"]
+  },
+
+
+  "antler": {
+    "name": "Antler",
+    "type": "enemy",
+    "colors": ["blue", "green", "red", "yellow"],
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD"]
+  },
+  "beetley": {
+    "name": "Beetley",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "05/02/2014",
+    "copy": ["Beetle"],
+    "main": ["KTD", "KSA", "DDDD"]
+  },
+  "burner_guardian": {
+    "name": "Burner Guardian",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD"]
+  },
+  "clown_acrobot": {
+    "name": "Clown Acrobot",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": ["Circus"],
+    "main": ["KTD", "KPR", "DDDD"]
+  },
+  "flame_galboros": {
+    "name": "Flame Galboro",
+    "type": "mid-boss",
+    "debut": "05/02/2014",
+    "copy": ["Fire"],
+    "main": ["KTD"],
+    "spinoff": ["SKC"]
+  },
+  "ghost_book": {
+    "name": "Ghost Book",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD"]
+  },
+  "ghost_dish": {
+    "name": "Ghost Dish",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD"]
+  },
+  "grandy": {
+    "name": "Grandy",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD", "KPR"]
+  },
+  "hornhead": {
+    "name": "Hornhead",
+    "type": "mid-boss",
+    "debut": "05/02/2014",
+    "copy": ["Beetle"],
+    "main": ["KTD"],
+    "spinoff": ["SKC"]
+  },  
+  "mamatee": {
+    "name": "Mamatee",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD", "KPR", "KSA"]
+  },
+  "pacflower": {
+    "name": "Pacflower",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD"]
+  },
+  "phanta": {
+    "name": "Phanta",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD", "KATFL", "SCW"]
+  },
+  "ringle": {
+    "name": "Ringle",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": ["Bell"],
+    "main": ["KTD"]
+  },
+  "spookstep": {
+    "name": "Spookstep",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD", "KATFL", "SCW"]
+  },
+  "springy_hand": {
+    "name": "Springy Hand",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": false,
+    "main": ["KTD"]
+  },
+  "spynum": {
+    "name": "Spynum",
+    "type": "enemy",
+    "debut": "05/02/2014",
+    "copy": ["Archer"],
+    "main": ["KTD", "KPR"]
+  },
+  
+  "barampa": {
+    "name": "Barampa",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "bastron": {
+    "name": "Bastron",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "bombzway": {
+    "name": "Bombzway",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "bzztbulb": {
+    "name": "Bzztbulb",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "variants": ["Gondalo Bzztbulb"],
+    "spinoff": ["KATRC"]
+  },
+  "carpa": {
+    "name": "Carpa",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "clay_ball": {
+    "name": "Clay Ball",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "cotta": {
+    "name": "Cotta",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "variants": ["Cannon Cotta", "Cotta General", "Cotta Knight", "Drill Cotta", "Mecha Cotta", "Spear Cotta", "Spear Cotta Knight"],
+    "spinoff": ["KATRC"]
+  },
+  "crabbo": {
+    "name": "Crabbo",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "dangle_sloth": {
+    "name": "Dangle Sloth",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "deepsee": {
+    "name": "Deepsee",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "variants": ["Mini Deepsee"],
+    "spinoff": ["KATRC"]
+  },
+  "dethskullk": {
+    "name": "Dethskullk",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "variants": ["Dethskullk King"],
+    "spinoff": ["KATRC"]
+  },
+  "explortle": {
+    "name": "Explortle",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "grinkey": {
+    "name": "Grinkey",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+
+  },
+  "grab_hand": {
+    "name": "Grab Hand",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  
+  "sawgill": {
+    "name": "Sawgill",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "shieldster": {
+    "name": "Shieldster",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "shockcreepa": {
+    "name": "Shockcreepa",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },  
+  "sportle": {
+    "name": "Sportle",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "variants": ["Sportleini"],
+    "spinoff": ["KATRC"]
+  },
+  "thornsby": {
+    "name": "Thornsby",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "trakker": {
+    "name": "Trakker",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+  "warpspace": {
+    "name": "Warpspace",
+    "type": "enemy",
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC"]
+  },
+
+
+  "bomb_bronto_burt": {
+    "name": "Bomb Bronto Burt",
+    "type": "enemy",
+    "debut": "06/10/2016",
+    "copy": ["Bomb"],
+    "main": ["KPR"]
+  },
+  "chemitory": {
+    "name": "Chemitory",
+    "type": "enemy",
+    "debut": "06/10/2016",
+    "copy": ["Doctor"],
+    "main": ["KPR"]
+  },
+  "chippurus": {
+    "name": "Chippurus",
+    "type": "enemy",
+    "debut": "06/10/2016",
+    "copy": false,
+    "main": ["KPR"]
+  },
+  "covered-looker": {
+    "name": "Covered Looker",
+    "type": "enemy",
+    "debut": "06/10/2016",
+    "copy": false,
+    "main": ["KPR"]
+  },
+  "haltworker": {
+    "name": "Haltworker",
+    "type": "enemy",
+    "debut": "06/10/2016",
+    "copy": ["Spark"],
+    "main": ["KPR"]
+  },
+  "labotory": {
+    "name": "Labotory",
+    "type": "enemy",
+    "debut": "06/10/2016",
+    "copy": false,
+    "main": ["KPR"]
+  },
+  "metal_acro": {
+    "name": "Metal Acro",
+    "type": "enemy",
+    "debut": "06/10/2016",
+    "copy": false,
+    "main": ["KPR"]
+  },
+  "nesp": {
+    "name": "NESP",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "06/10/2016",
+    "copy": ["ESP"],
+    "main": ["KPR", "KSA"]
+  },
+  "venogg": {
+    "name": "Venogg",
+    "type": "enemy",
+    "debut": "06/10/2016",
+    "copy": ["Bomb"],
+    "main": ["KPR"]
+  },
+  "wester": {
+    "name": "Wester",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "06/10/2016",
+    "copy": ["Whip"],
+    "main": ["KPR", "KSA"]
+  },
+
+  "anger-masker": {
+    "name": "Anger Masker",
+    "type": "enemy",
+    "debut": "03/16/2018",
+    "copy": false,
+    "main": ["KSA"]
+  },
+  "driblee": {
+    "name": "Driblee",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "03/16/2018",
+    "variants": ["Colossal Driblee"],
+    "copy": ["Water"],
+    "main": ["KSA", "SKC"],
+    "mobile": ["NT"]
+  },
+  "electro_saw": {
+    "name": "Electro Saw",
+    "type": "enemy",
+    "debut": "03/16/2018",
+    "copy": false,
+    "main": ["KSA"]
+  },
+  "floaty_the_cell_core": {
+    "name": "Floaty the Cell Core",
+    "type": "enemy",
+    "debut": "03/16/2018",
+    "copy": ["Water"],
+    "main": ["KSA"]
+  },
+  "guard": {
+    "name": "Guard",
+    "type": "enemy",
+    "debut": "03/16/2018",
+    "copy": ["Fire", "Ice"],
+    "main": ["KSA"]
+  },
+  "jambeliever": {
+    "name": "Jambeliever",
+    "type": "enemy",
+    "debut": "03/16/2018",
+    "copy": false,
+    "main": ["KSA"]
+  },
+  "jammerjab": {
+    "name": "Jammerjab",
+    "type": ["enemy", "helper", "friend"],
+    "debut": "03/16/2018",
+    "copy": ["Staff"],
+    "main": ["KSA"]
+  },
+  "meteor": {
+    "name": "Meteor",
+    "type": "enemy",
+    "debut": "03/16/2018",
+    "copy": false,
+    "main": ["KSA"]
+  },
+  "tootlebam": {
+    "name": "Tootlebam",
+    "type": "enemy",
+    "debut": "03/16/2018",
+    "copy": ["Festival"],
+    "main": ["KSA"]
+    },
+    "vividria": {
+      "name": "Vividria",
+      "type": ["mid-boss", "friend"],
+      "debut": "03/16/2018",
+      "copy": ["Artist"],
+      "main": ["KSA"],
+      "spinoff": ["KARS"]
+    },
+
+    "awoofy": {
+      "name": "Awoofy",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "variants": ["Primal Awoofy"],
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    },
+    "ballon-meister": {
+      "name": "Balloon Meister",
+      "type": ["enemy", "helper"],
+      "debut": "03/25/2022",
+      "copy": ["Bomb"],
+      "main": ["KATFL", "SCW"]
+    },
+    "bernard": {
+      "name": "Bernard",
+      "type": ["enemy", "helper"],
+      "debut": "03/25/2022",
+      "copy": ["Ranger"],
+      "main": ["KATFL", "SCW"]
+    },
+    "buffahorn": {
+      "name": "Buffahorn",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    },
+    "digguh": {
+      "name": "Digguh",
+      "type": ["enemy", "helper"],
+      "debut": "03/25/2022",
+      "copy": ["Drill"],
+      "main": ["KATFL", "SCW"]
+    },
+    "gnawcodile": {
+      "name": "Gnawcodile",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "copy": false,
+      "main": ["KATFL", "SCW"],
+      "spinoff": ["KARS"]
+    },
+    "jabhog": {
+      "name": "Jabhog",
+      "type": ["enemy", "helper"],
+      "debut": "03/25/2022",
+      "copy": ["Needle"],
+      "main": ["KATFL", "SCW"]
+    },
+    "mookie": {
+      "name": "Mookie",
+      "type": ["enemy", "helper"],
+      "debut": "03/25/2022",
+      "copy": ["Hammer"],
+      "main": ["KATFL", "SCW"]
+    },
+    "posion-croakom": {
+      "name": "Posion Croakom",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    },
+    "rabiroo": {
+      "name": "Rabiroo",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "variants": ["Orabiroo"],
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    },
+    "runaway_parade_car": {
+      "name": "Runaway Parade Car",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    },
+    "sssnacker": {
+      "name": "Sssnacker",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    },
+    "surprise_alien_board": {
+      "name": "Surprise Alien Board",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    },
+    "tortorner": {
+      "name": "Tortorner",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "variants": ["Tortuilding", "Big Red Tortuilding"],
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    },
+    "twirling_star_rocket": {
+      "name": "Twirling Star Rocket",
+      "type": ["enemy"],
+      "debut": "03/25/2022",
+      "copy": false,
+      "main": ["KATFL", "SCW"]
+    }
+
+
+
+}

@@ -1,0 +1,268 @@
+{
+  "super-mushroom": {
+    "name": "Super Mushroom",
+    "type": "Mushroom",
+    "debut": "10/18/1985",
+    "main": ["SMB", "TLL", "SML", "SMB3", "SMW", "SML2", "NSMB", "NSMBW", "SM3DL", "NSMB2", "NSMBU", "SM3DW", "SMM", "SMM2", "SMBW"]
+  },
+  
+  "fire-flower": {
+    "name": "Fire Flower",
+    "type": "Flower",
+    "debut": "10/18/1985",
+    "main": ["SMB", "TLL", "SML", "SMB3", "SMW", "SML2", "NSMB", "SMG", "NSMBW", "SMG2", "SM3DL", "NSMB2", "NSMBU", "SM3DW", "SMM", "SMM2", "SMBW"]
+  },
+
+  "super-star": {
+    "name": "Super Star",
+    "type": "Star",
+    "debut": "10/18/1985",
+    "main": ["SMB", "TLL", "SML", "SMB3", "SMW", "SMW", "SML2", "SM64", "NSMB", "SMG", "NSMBW", "SM3DL", "NSMB2", "NSMBU", "SM3DW", "SMM", "SMM2", "SMBW"]
+  },
+
+  "1up-mushroom": {
+    "name": "1UP Mushroom",
+    "type": "Mushroom",
+    "debut": "10/18/1985",
+    "main": ["SMB", "TLL", "SMB2", "SMB3", "SMW", "SM64", "SM64", "SMS", "NSMB", "SMG", "NSMBW", "SMG2", "SM3DL", "NSMB2", "NSMBU", "SM3DW", "SM3DW", "SMM", "SMM2", "SMBW"]
+  },
+
+  "poison-mushroom": {
+    "name": "Poison Mushroom",
+    "type": "Mushroom",
+    "debut": "06/03/1986",
+    "main": ["TLL", "SM3DL", ]
+  },
+
+  "super-leaf": {
+    "name": "Super Leaf",
+    "type": "Leaf",
+    "debut": "02/12/1990",
+    "main": ["SMB3", "SM3DL", "NSMB2", "SM3DW", "SMM", "SMM2", ]
+  },
+
+  "frog-suit": {
+    "name": "Frog Suit",
+    "type": "Suit",
+    "debut": "02/12/1990",
+    "main": ["SMB3", "SMM2"]
+  },
+
+  "tanooki-suit": {
+    "name": "Tanooki Suit",
+    "type": "Suit",
+    "debut": "02/12/1990",
+    "main": ["SMB3"]
+  },
+
+  "cape-feather": {
+    "name": "Cape Feather",
+    "type": "Feather",
+    "debut": "08/23/1991",
+    "main": ["SMW", "SMM", "SMM2"] 
+  },
+
+  "power-balloon": {
+    "name": "Power Balloon",
+    "type": "Balloon",
+    "debut": "08/23/1991",
+    "main": ["SMW", "SMM2"]
+  },
+
+  "carrot": {
+    "name": "Carrot",
+    "type": "Carrot",
+    "debut": "11/02/1992",
+    "main": ["SML2"]
+  },
+
+  "wing-cap": {
+    "name": "Wing Cap",
+    "type": "Cap",
+    "debut": "09/30/1996",
+    "main": ["SM64", ]
+  },
+
+  "metal-cap": {
+    "name": "Metal Cap",
+    "type": "Cap",
+    "debut": "09/30/1996",
+    "main": ["SM64", ]
+  },
+
+  "vanish-cap": {
+    "name": "Vanish Cap",
+    "type": "Cap",
+    "debut": "09/30/1996",
+    "main": ["SM64", ]
+  },
+
+  "mega-mushroom": {
+    "name": "Mega Mushroom",
+    "type": "Mushroom",
+    "debut": "05/16/2006",
+    "main": ["NSMB", "NSMB2", "SM3DW", ]
+  },
+
+  "mini-mushroom": {
+    "name": "Mini Mushroom",
+    "type": "Mushroom",
+    "debut": "05/16/2006",
+    "main": ["NSMB", "NSMBW", "NSMB2", ]
+  },
+
+  "blue-shell": {
+    "name": "Blue Shell",
+    "type": "Shell",
+    "debut": "05/16/2006",
+    "main": ["NSMB", ]
+  },
+
+  "life-mushroom": {
+    "name": "Life Mushroom",
+    "type": "Mushroom",
+    "debut": "11/12/2007",
+    "main": ["SMG", "SMG2", ]
+  },
+
+  "bee-mushroom": {
+    "name": "Bee Mushroom",
+    "type": "Mushroom",
+    "debut": "11/12/2007",
+    "main": ["SMG", "SMG2", ]
+  },
+
+  "rainbow-star": {
+    "name": "Rainbow Star",
+    "type": "Star",
+    "debut": "11/12/2007",
+    "main": ["SMG", "SMG2", ]
+  },
+
+  "boo-mushroom": {
+    "name": "Boo Mushroom",
+    "type": "Mushroom",
+    "debut": "11/12/2007",
+    "main": ["SMG", "SMG2", ]
+  },
+
+  "ice-flower": {
+    "name": "Ice Flower",
+    "type": "Flower",
+    "debut": "11/12/2007",
+    "main": ["SMG", "NSMBW", "NSMBU", ]
+  },
+
+  "spring-mushroom": {
+    "name": "Spring Mushroom",
+    "type": "Mushroom",
+    "debut": "11/12/2007",
+    "main": ["SMG", "SMG2", ]
+  },
+
+  "red-star": {
+    "name": "Red Star",
+    "type": "Star",
+    "debut": "11/12/2007",
+    "main": ["SMG"]
+  },
+
+  "propellor-mushroom": {
+    "name": "Propellor Mushroom",
+    "type": "Mushroom",
+    "debut": "11/15/2009",
+    "main": ["NSMBW", "NSMBU", "SMM", "SMM2", ]
+  },
+
+  "penguin-suit": {
+    "name": "Penguin Suit",
+    "type": "Suit",
+    "debut": "11/15/2009",
+    "main": ["NSMBW", "NSMBU", ]
+  },
+
+  "cloud-flower": {
+    "name": "Cloud Flower",
+    "type": "Flower",
+    "debut": "05/23/2010",
+    "main": ["SMG2", ]
+  },
+
+  "rock-mushroom": {
+    "name": "Rock Mushroom",
+    "type": "Mushroom",
+    "debut": "05/23/2010",
+    "main": ["SMG2", ]
+  },
+
+  "boomerang-flower": {
+    "name": "Boomerang Flower",
+    "type": "Flower",
+    "debut": "11/13/2011",
+    "main": ["SM3DL", "SM3DW", "SMM2", ]
+  },
+
+  "invincibility-leaf": {
+    "name": "Invincibility Leaf",
+    "type": "Leaf",
+    "debut": "11/13/2011",
+    "main": ["SM3DL", "SM3DW", ]
+  },
+
+  "statue-leaf": {
+    "name": "Statue Leaf",
+    "type": "Leaf",
+    "debut": "11/13/2011",
+    "main": ["SM3DL", ]
+  },
+
+  "gold-mushroom": {
+    "name": "Gold Mushroom",
+    "type": "Mushroom",
+    "debut": "08/19/2012",
+    "main": ["NSMB2"]
+  },
+
+  "gold-flower": {
+    "name": "Gold Flower",
+    "type": "Flower",
+    "debut": "08/19/2012",
+    "main": ["NSMB2"]
+  },
+
+  "super-acorn": {
+    "name": "Super Acorn",
+    "type": "Acorn",
+    "debut": "11/18/2012",
+    "main": ["NSMBU", "SMM2", ]
+  },
+
+  "p-acorn": {
+    "name": "P-Acorn",
+    "type": "Acorn",
+    "debut": "11/18/2012",
+    "main": ["NSMB2", ]
+  },
+
+  "super-bell": {
+    "name": "Super Bell",
+    "type": "Bell",
+    "debut": "11/22/2013",
+    "main": ["SM3DW", "SMM2", ]
+  },
+
+  "double-cherry": {
+    "name": "Double Cherry",
+    "type": "Cherry",
+    "debut": "11/22/2013",
+    "main": ["SM3DW", ]
+  },
+
+  "lucky-bell": {
+    "name": "Lucky Bell",
+    "type": "Bell",
+    "debut": "11/22/2013",
+    "main": ["SM3DW", ]
+  }
+
+}

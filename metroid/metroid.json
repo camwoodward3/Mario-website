@@ -1,0 +1,3694 @@
+{
+  "samus": {
+    "name": "Samus Aran",
+    "type": "protagonist",
+    "debut": "08/15/1987",
+    "main": ["M", "TROS", "SM", "FUSION", "ZERO", "PRIME", "ECHOES", "PINBALL", "HUNTERS", "CORRUPTION", "FORCE", "MOM", "SR", "DREAD", "MPBB", "PRIMENS", "BEYOND"],
+    "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
+    "other": ["T", "F1-RACE", "SMRPG", "SMRPGNS", "KDL3", "TDS", "WWIMM", "WWTW", "WWTO", "WWSM", "KSSU", "ACCF", "WWDIY", "B", "NMP", "SPMP", "TTT2", "ACNL", "NL", "MK8", "MK8DLC", "B2", "MH4U", "MHG", "OPSGBX", "AHL+", "SMM", "YWW",  "SMM3DS", "P&YWW", "MII16", "RL", "MII21", "BBBT", "WWG", "JRC", "PMOK", "WWGIT", "WWMI"]
+  },
+  "ridley": {
+    "name": "Ridley",
+    "type": "antagonist",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "FUSION", "PRIME", "ZERO", "MOM", "PRIMENS"],
+    "smash": ["SSB64", "SSBM", "SSBB", "SSBWIIU", "SSBU"],
+    "other": ["NL"]
+  },
+  "mother_brain": {
+    "name": "Mother Brain",
+    "type": "antagonist",
+    "debut": "04/18/1994",
+    "main": ["M", "SM", "PRIME", "ZERO", "MOM", "PRIMENS"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["WWGIT"]
+    
+  },
+  "adam_malkovich": {
+    "name": "Adam Malkovich",
+    "type": "supporting character",
+    "debut": "11/17/2002",
+    "main": ["FUSION", "MOM", "DREAD"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "raven_beak": {
+    "name": "Raven Beak",
+    "type": "enemy",
+    "variants": ["Raven Beak X"],
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "dark_samus": {
+    "name": "Dark Samus",
+    "type": "antagonist",
+    "debut": "11/15/2004",
+    "main": ["ECHOES", "CORRUPTION", "MOM"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "sylux": {
+    "name": "Sylux",
+    "type": "antagonist",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS", "BEYOND"],
+    "smash": ["SSBB"]
+  },
+    "baby": {
+    "name": "Baby",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["TROS", "SM", "FUSION", "MOM", "SR"],
+    "other": ["TDS"]
+  },
+  "kraid": {
+    "name": "Kraid",
+    "type": "boss",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "PRIME", "ZERO", "DREAD"],
+    "smash": ["SSBM", "SSBB", "SSBU"],
+    "other": ["NL"]
+  },
+  "etecoon": {
+    "name": "Etecoon",
+    "type": "supporting character",
+    "debut": "4/18/1994",
+    "main": ["SM", "FUSION"]
+  },
+  "dachora": {
+    "name": "Dachora",
+    "type": "supporting character",
+    "debut": "4/18/1994",
+    "main": ["M", "SM", "FUSION", "ZERO"]
+  },
+  
+  "botwoon": {
+  "name": "Botwoon",
+  "type": "mid-boss",
+  "debut": "08/15/1987",
+  "main": ["M", "SM", "ZERO"]
+  },
+  "myles_mackenzie": {
+    "name": "Myles Mackenzie",
+    "type": "supporting character",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "reger_tokabi": {
+    "name": "Reger Tokabi",
+    "type": "supporting character",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "ezra_duke": {
+    "name": "Ezra Duke",
+    "type": "supporting character",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "nora_armstrong": {
+    "name": "Nora Armstrong",
+    "type": "supporting character",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "vue-995": {
+    "name": "VUE-995",
+    "type": "supporting character",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+
+  "luminoth": {
+    "name": "Luminoth",
+    "type": "supporting character",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"],
+    "smash": ["SSBB"]
+  },
+  "metroid": {
+    "name": "Metroid",
+    "type": "enemy",
+    "variants": ["Metroid Egg", "Infant Metroid", "Metroid Larva", "Alpha Metroid", "Gamma Metroid", "Zeta Metroid", "Omega Metroid", "Queen Metroid", "Fission Metroid", "Ice Metroid", "Metroid Prime", "Power Metroid", "Wave Metroid", "Tallon Metroid", "Infant Tallon Metroid", "Hopping Metroid", "Phazon Metroid", "Slyux's Metroids"],
+    "debut": "08/15/1987",
+    "main": ["M", "TROS", "SM", "FUSION", "ZERO", "PRIME", "ECHOES", "PINBALL", "CORRUPTION", "FORCE", "MOM", "SR", "DREAD",  "PRIMENS", "BEYOND"],
+    "smash": ["SSBM", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["KDL3", "WWTW", "WWTO", "TDS", "WWDIY",  "NL", "DKCTF", "WWG"]
+  },
+  "alpha_metroid": {
+    "name": "Alpha Metroid",
+    "type": "boss",
+    "debut": "01/02/1992",
+    "main": ["TROS", "FUSION", "SR"]
+  },
+  "gamma_metroid": {
+    "name": "Gamma Metroid",
+    "type": "boss",
+    "debut": "01/02/1992",
+    "main": ["TROS", "FUSION", "SR"]
+  },
+  "metroid_egg": {
+    "name": "Metroid Egg",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SM", "CORRUPTION"]
+  },
+  "metroid_larva": {
+    "name": "Metroid Larva",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "TROS", "SM", "FUSION", "ZERO", "SR"],
+    "other": ["TDS" ]
+  },
+  "omega_metroid": {
+    "name": "Omega Metroid",
+    "type": ["enemy", "boss"],
+    "debut": "01/02/1992",
+    "main": ["TROS", "FUSION", "SR"]
+  },
+  "zeta_metroid": {
+    "name": "Zeta Metroid",
+    "type": "boss",
+    "debut": "01/02/1992",
+    "main": ["TROS", "FUSION", "SR"]
+  },
+  "infant_metroid": {
+    "name": "Infant Metroid",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"] 
+  },
+  "fission_metroid": {
+    "name": "Fission Metroid",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "hunter_metroid": {
+    "name": "Hunter Metroid",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "ice_metroid": {
+    "name": "Ice Metroid",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "metroid_prime": {
+    "name": "Metroid Prime",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "ECHOES", "PINBALL", "CORRUPTION", "PRIMENS"],
+    "smash": ["SSBB"]
+  },
+  "power_metroid": {
+    "name": "Power Metroid",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "wave_metroid": {
+    "name": "Wave Metroid",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "metroid_queen": {
+    "name": "Metroid Queen",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },  
+  "tallon_metroid": {
+    "name": "Tallon Metroid",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "infant_tallon_metroid": {
+    "name": "Infant Tallon Metroid",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "hopping_metroid": {
+    "name": "Hopping Metroid",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "metroid_hatcher": {
+    "name": "Metroid Hatcher",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "phazon_metroid": {
+    "name": "Phazon Metroid",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "sylux_metroids": {
+    "name": "Sylux's Metroids",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "mech": {
+    "name": "Mech",
+    "type": "supporting character",
+    "debut": "08/19/2016",
+    "main": ["FORCE", "BEYOND"],
+    "smash": ["SSBU"]
+  },
+  "space_pirate": {
+    "name": "Space Pirate",
+    "type": "enemy",
+    "variants": ["Space Pirate", "Green Space Pirate", "Pink Space Pirate", "Red Space Piate", "Silver Space Pirate", "Gold Space Pirate"],
+    "debut": "4/18/1994",
+    "main": ["SM", "FUSION", "PRIME", "ZERO", "ECHOES", "PINBALL", "HUNTERS", "CORRUPTION", "MOM", "FORCE", "SR", "BEYOND"],
+    "smash": ["SSBB"]
+  },
+  "aqua_pirate": {
+    "name": "Aqua Pirate",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "elite_pirate": {
+    "name": "Elite Pirate",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "FORCE", "PRIMENS"]
+  },
+  "flying_pirate": {
+    "name": "Flying Pirate",
+    "type": "enemy",
+    "variants": ["Elite Flying Pirate"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "FORCE", "PRIMENS"]
+  },
+  "shadow_pirate": {
+    "name": "Shadow Pirate",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "trooper_pirate": {
+    "name": "Trooper Pirate",
+    "type": "enemy",
+    "variants": ["Wave Trooper", "Plasma Trooper", "Ice Trooper", "Power Trooper"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "pirate_commando": {
+    "name": "Pirate Commando",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "pirate_aerotrooper": {
+    "name": "Pirate Aerotrooper",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES", "CORRUPTION"]
+  },
+  "pirate_trooper": {
+    "name": "Pirate Trooper",
+    "type": "enemy",
+    "variants": ["Pirate Grenadier", "Dark Pirate Trooper", "Shield Trooper", "Armored Pirate Trooper", "Armored Shield Trooper", "Advanced Pirate Trooper", "Advanced Shield Trooper", "Assault Pirate Trooper", "Assault Shield Trooper"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES", "HUNTERS", "CORRUPTION"]
+  },
+  "armored_pirate": {
+    "name": "Armored Pirate",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "commando_pirate": {
+    "name": "Pirate Commando",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "pirate_commander": {
+    "name": "Pirate Commander",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "pirate_hussar": {
+    "name": "Pirate Hussar",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "pirate_militia": {
+    "name": "Pirate Militia",
+    "type": "enemy",
+    "variants": ["Shield Pirate Militia"],
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  
+  "chozo": {
+    "name": "Chozo",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["TROS", "FUSION", "PRIME", "ZERO", "PINBALL", "CORRUPTION", "SR", "DREAD", "PRIMENS"],
+    "smash": ["SSBM", "SSBU"],
+    "other": ["NL"]
+  },
+  "x-parasite": {
+    "name": "X-Parasite",
+    "type": "enemy",
+    "variants": ["Yellow X", "Green X", "Red X", "Blue X", "Core-X", "Orange X", "Purple X", "Mini X"],
+    "debut": "11/17/2002",
+    "main": ["FUSION", "DREAD"],
+    "smash": ["SSBU"]
+  },
+  
+  "dragon": {
+    "name": "Dragon",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "gamet": {
+    "name": "Gamet",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]    
+  },
+  "dessgeega": {
+    "name": "Dessgeega",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO", "MOM"]
+  },
+  "geega": {
+    "name": "Geega",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "geruta": {
+    "name": "Geruta",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "FUSION", "ZERO"]
+  },
+  "holtz": {
+    "name": "Holtz",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "mella": {
+    "name": "Mella",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO", "MOM"]
+  },
+  "mellow": {
+    "name": "Mellow",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "memu": {
+    "name": "Memu",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "mini-kraid": {
+    "name": "Mini-Kraid",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "multiviola": {
+    "name": "Multivola",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "polyp": {
+    "name": "Polyp",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "ZERO"]
+  },
+  "reo": {
+    "name": "Reo",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "FUSION", "ZERO", "MOM"],
+    "smash": ["SSB3DS"]
+  },
+
+  "ripper": {
+    "name": "Ripper",
+    "type": "enemy",
+    "variants": ["Ripper II", "Winged Ripper"],
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "FUSION", "ZERO"],
+    "other": ["TDS"]
+  },
+  "sova": {
+    "name": "Sova",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO", "MOM"]
+  },
+  "hopper": {
+    "name": "Hopper",
+    "type": "enemy",
+    "variants": ["Alpha Hopper", "Phazon Hopper", "Fire Hopper", "Ice Hopper", "Ice Hopper Nest", "Omega Hopper", "Blow Hopper", "Sidehopper", "Blue Sidehopper"],
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "FUSION", "ZERO", "CORRUPTION", "MOM", "FORCE", "BEYOND"]
+  },
+  "skree": {
+    "name": "Skree",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO", "MOM"]    
+  },
+  "skreek": {
+    "name": "Skreek",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "squeept": {
+    "name": "Squept",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "viola": {
+    "name": "Viola",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "ZERO"]
+  },
+  "waver": {
+    "name": "Waver",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "SM", "FUSION", "ZERO", "MOM"],
+    "smash": ["SSB64"]
+  },
+  "zebbo": {
+    "name": "Zebbo",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "ZERO"]
+  },
+  "zeela": {
+    "name": "Zeela",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "FUSION", "ZERO"]
+  },
+  "zoomer": {
+    "name": "Zoomer",
+    "type": "enemy",
+    "debut": "08/15/1987",
+    "main": ["M", "PRIME", "ZERO", "HUNTERS", "PRIMENS"],
+    "other": ["TDS"]
+  },  
+
+
+  "autoad": {
+    "name": "Autoad",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "autom": {
+    "name": "Autom",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "autrack": {
+    "name": "Autrack",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "blob_thrower": {
+    "name": "Blob Thrower",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "bug05": {
+    "name": "Bug05",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "chute_leech": {
+    "name": "Chute Leech",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]    
+  },
+  "drivel": {
+    "name": "Drivel",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "fleech_swarm": {
+    "name": "Fleech Swarm",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "flitt": {
+    "name": "Flitt",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "gawron": {
+    "name": "Gawron",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]    
+  },
+  "gigadora": {
+    "name": "Gigadora",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "glow_fly": {
+  "name": "Glow Fly",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]   
+  },
+  "gyncore": {
+    "name": "Gyncore",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "gravitt": {
+    "name": "Gravitt",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "gullugg": {
+    "name": "Gullugg",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "gunzoo": {
+    "name": "Gunzoo",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "halzyn": {
+    "name": "Halzyn",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "FUSION", "SR"]
+  },
+  "hornoad": {
+    "name": "Hornoad",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "FUSION", "SR"]
+  },
+  "meboid": {
+    "name": "Meboid",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "moto": {
+    "name": "Moto",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "FUSION", "SR"]
+  },
+  "moheek": {
+    "name": "Moheek",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "mumbo": {
+    "name": "Mumbo",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "needler": {
+    "name": "Needler",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "octroll": {
+    "name": "Octroll",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "paraby": {
+    "name": "Paraby",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "pincher_fly": {
+    "name": "Pincher Fly",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "proboscum": {
+    "name": "Proboscum",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "ramulken": {
+    "name": "Ramulken",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "ramulker": {
+    "name": "Ramulker",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "rock_icicle": {
+    "name": "Rock Icicle",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "seekrook": {
+    "name": "Seekrook",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "senjoo": {
+    "name": "Senjoo",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "septogg": {
+    "name": "Septogg",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "shirk": {
+    "name": "Shirk",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "skorp": {
+    "name": "Skorp",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "tsumuri": {
+    "name": "Tsumuri",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "TPO": {
+    "name": "TPO",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "wallfire": {
+    "name": "Wallfire",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS", "SR"]
+  },
+  "yumbo": {
+    "name": "Yumbo",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "yumbee": {
+    "name": "Yumbee",
+    "type": "enemy",
+    "debut": "01/02/1992",
+    "main": ["TROS"]
+  },
+  "arachnus": {
+    "name": "Arachnus",
+    "type": "boss",
+    "debut": "01/02/1992",
+    "main": ["TROS", "FUSION", "SR"]
+  },
+  "queen_metroid": {
+    "name": "Queen Metroid",
+    "type": "boss",
+    "debut": "01/02/1992",
+    "main": ["TROS", "MOM", "SR"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+
+
+  "alcoon": {
+    "name": "Alcoon",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "atomic": {
+    "name": "Atomic",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "CORRUPTION"]
+  },
+
+  "beetom": {
+    "name": "Beetom",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "boyon": {
+    "name": "Boyon",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "bull": {
+    "name": "Bull",
+    "type": "enemy",
+    "variants": ["Heat Bull"],
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION", "MOM"]
+  },
+  "cacatac": {
+    "name": "Cactac",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "choot": {
+    "name": "Choot",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"]
+  },
+  "covern": {
+    "name": "Covern",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]    
+  },
+
+  "evir": {
+    "name": "Evir",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"]
+  },
+  "fireflea": {
+    "name": "Fireflea",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "fune": {
+    "name": "Fune",
+    "type": ["enemy", "boss"],
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION", "MOM"]
+  },
+  "gadora": {
+    "name": "Gadora",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION", "ZERO"]
+  },
+  "geemer": {
+    "name": "Geemer",
+    "type": "enemy",
+    "variants": ["Ice Geemer"],
+    "debut": "04/18/1994",
+    "main": ["SM", "PRIME", "FUSION", "HUNTERS", "PINBALL", "CORRUPTION", "MOM", "PRIMENS"],
+    "smash": ["SSB3DS", "SSBU"],
+    "other": ["NL"]
+  },
+  "kago": {
+    "name": "Kago",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"]
+  },
+  "kihunter": {
+    "name": "Kihunter",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION", "MOM"],
+    "smash": ["SSB3DS"]
+  },
+  "magdollite": {
+    "name": "Magdollite",
+    "type": "enemy",
+    "debut": "4/18/1994",
+    "main": ["SM", "MOM"]
+  },
+  "metaree": {
+    "name": "Metaree",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "mochtroid": {
+    "name": "Mochtroid",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "namihe": {
+    "name": "Namihe",
+    "type": "boss",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION", "MOM"]
+  },
+  "oum": {
+    "name": "Oum",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "owtch": {
+    "name": "Owtch",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"]
+  },
+  "powaPRIME": {
+    "name": "PowaPRIME",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "puromi": {
+    "name": "Puromi",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "puyo": {
+    "name": "Puyo",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"]
+  },
+  "ring_beam_unit": {
+    "name": "Ring Beam Unit",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "rinka": {
+    "name": "Rinka",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["M", "SM", "ZERO", "MOM", "DREAD"]
+  },
+  "ripperII": {
+    "name": "Ripper II",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "ZERO"]
+  },
+  "samus_eater": {
+    "name": "Samus Eater",
+    "type": "enemy",
+    "variants": ["Samus Eater Bud"],
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"]
+  },
+  "sbug": {
+    "name": "Sbug",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "sciser": {
+  "name": "Sciser",
+    "type": "enemy",
+    "variants": ["Gold Scicer"],
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"]    
+  },
+  "shaktool": {
+    "name": "Shaktool",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "skultera": {
+    "name": "Skultera",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION", "MOM"]
+  },
+
+  "suspendor_platform": {
+    "name": "Suspendor Platform",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "tatori": {
+    "name": "Tatori",
+    "type": "enemy",
+    "variants": ["Tatori Jr."],
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "tatori_jr": {
+  "name": "Tatori Jr.",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]    
+  },
+  "tripper": {
+    "name": "Tripper",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "work_robot": {
+    "name": "Work Robot",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "maw": {
+    "name": "Maw",
+    "type": "enemy",
+    "variants": ["Yapping Maw"],
+    "debut": "04/18/1994",
+    "main": ["SM", "CORRUPTION"]
+  },
+  "yard": {
+    "name": "Yard",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION"]
+  },
+  "zeb": {
+    "name": "Zeb",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "zebetite": {
+    "name": "Zebtite",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "zero": {
+    "name": "Zero",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION", "MOM"]
+  },
+  "zoa": {
+    "name": "Zoa",
+    "type": "enemy",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "phantoon": {
+    "name": "Phantoon",
+    "type": "boss",
+    "debut": "04/18/1994",
+    "main": ["SM", "MOM"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "draygon": {
+    "name": "Draygon",
+    "type": "boss",
+    "debut": "08/15/1987",
+    "main": ["M", "SM"]
+  },
+  "spore_spawn": {
+    "name": "Spore Spawn",
+    "type": "mid-boss",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+  "crocomire": {
+    "name": "Crocomire",
+    "type": "mid-boss",
+    "debut": "04/18/1994",
+    "main": ["SM"]
+  },
+
+  "barrier_core-x": {
+    "name": "Barrier Core-X",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "core-x": {
+    "name": "Core-X",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "fake_missile_tank": {
+    "name": "Fake Missile Tank",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "false_energy_tank": {
+    "name": "False Energy Tank",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "genesis": {
+    "name": "Genesis",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "geron": {
+    "name": "Geron",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "gerubus": {
+    "name": "Gerubus",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "menu": {
+    "name": "Menu",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "neo-ridley": {
+    "name": "Neo-Ridley",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "nova": {
+    "name": "Nova",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "nettori": {
+    "name": "Nettori",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "nightmare": {
+    "name": "Nightmare",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION", "MOM"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "omega_pirate": {
+    "name": "Omega Pirate",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "HUNTERS", "PRIMENS"]
+  },
+  "powamp": {
+    "name": "Powamp",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "sa-x": {
+  "name": "SA-X",
+  "type": "boss",
+  "debut": "11/17/2002",
+  "main": ["FUSION"]    
+  },
+  "samus_eater_bud": {
+    "name": "Samus Eater Bud",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "security_robot_box": {
+    "name": "Security Robot Box",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "serris": {
+    "name": "Serris",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+
+  "yakuza": {
+    "name": "Yakuza",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "yameba": {
+    "name": "Yameba",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "zazabi": {
+    "name": "Zazabi",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "zebesian": {
+    "name": "Zebesian",
+    "type": "enemy",
+    "variants": ["Super Zebesian", "Cyborg Zebesian"],
+    "debut": "04/18/1994",
+    "main": ["SM", "FUSION", "ZERO", "MOM", "SR", "DREAD"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["NL"]
+  },
+  "zombie_researcher": {
+    "name": "Zombie Researcher",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]
+  },
+  "zozoro": {
+    "name": "Zozoro",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["FUSION"]    
+  },
+
+  "elephant_bird": {
+    "name": "Elephant Bird",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"] 
+  },
+  "bsl_research_team_member": {
+    "name": "B.S.L. Research Team Member",
+    "type": "boss",
+    "debut": "11/17/2002",
+    "main": ["FUSION"] 
+  },
+  
+  "drone": {
+    "name": "Drone",
+    "type": "enemy",
+    "variants": ["Aqua Drone", "Sentry Drone", "Cloaked Drone", "Incinerator Drone", "Harmony Class-Drone", "Diligence Class Drone", "Dark Diligence Drone", "Serenity Class Drone", "Caretaker Class Drone", "Watchdrone", "Defense Drone", "Phazon Harvester Drone", "Pirate Cargo Drone", "Repair Drone", "Training Drone", "Transportation Drone", "'Dragon' Battle Drone", "'Jolly Roger' Drone", "Defense Drone"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "ECHOES", "PINBALL", "CORRUPTION", "PRIMENS"]
+  },
+
+  "aqua_reaper": {
+    "name": "Aqua Reaper",
+    "type": "enemy",
+    "variants": ["Reaper Vine"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "vine": {
+    "name": "Vine",
+    "type": "enemy",
+    "variants": ["Reaper Vine", "Tangle Vine", "Tangle Vine Plant", "Phazon Vine", "Skkale Vine"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "ZERO", "PINBALL", "CORRUPTION", "PRIMENS"]
+  },
+  "aqua_sac": {
+    "name": "Aqua Sac",
+    "type": "enemy",
+    "variants": ["Sap Sac"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "turret": {
+    "name": "Turret",
+    "type": "enemy",
+    "variants": ["Mega Turret", "'Vigilance' Class Turret", "Luminoth Turret", "Alimbic Turret v1.0", "Alimbic Turret v1.4", "Alimbic Turret v2.7", "Despair-Class Turret", "Dread-Class Turret", "Halberd-Class Turret", "Remorse-Class Turret", "Grim-Class Turret"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "ECHOES", "PINBALL", "CORRUPTION", "FORCE", "PRIMENS"]
+  },
+  "baby_sheegoth": {
+    "name": "Baby Sheegoth",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "beetle": {
+    "name": "Beetle",
+    "type": "enemy",
+    "variants": ["Ice Beetle", "Rohkor Beetle", "Glister Beetle"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS", "BEYOND"]
+  },
+  "blastcap": {
+    "name": "Blastcap",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "HUNTERS", "PINBALL", "PRIMENS"]
+  },
+  "bloodflower": {
+    "name": "Bloodflower",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },  
+  "burrower": {
+    "name": "Burrower",
+    "type": "enemy",
+    "variants": ["Ice Burrower"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+
+  "crystallite": {
+    "name": "Crystallite",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+
+  "eyon": {
+    "name": "Eyon",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "flaahgra": {
+    "name": "Flaahgra",
+    "type": "boss",
+    "variants": ["Flaahgra Tentacle"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "flickerbat": {
+    "name": "Flickerbat",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "glider": {
+    "name": "Glider",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "grizby": {
+    "name": "Grizby",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "hive_mecha": {
+    "name": "Hive Mecha",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "jelzap": {
+    "name": "Jelzap",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "lumigek": {
+    "name": "Lumigek",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "magmoor": {
+    "name": "Magmoor",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "meta_ridley": {
+    "name": "Meta Ridley",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "CORRUPTION", "PRIMENS"],
+    "smash": ["SSBB", "SSBU"]
+  },
+
+  "oculus": {
+    "name": "Oculus",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "parasite": {
+    "name": "Parasite",
+    "type": "enemy",
+    "variants": ["Ice Parasite", "Plated Parasite"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "ZERO", "PINBALL", "FORCE", "PRIMENS"]
+  },
+  "phazon_elite": {
+    "name": "Phazon Elite",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "HUNTERS", "PINBALL", "PRIMENS"]
+  },
+  "plated_beetle": {
+    "name": "Plated Beetle",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "HUNTERS", "PRIMENS"]
+  },
+  "plazmite": {
+    "name": "Plazmite",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "puddle_spore": {
+    "name": "Puddle Spore",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "puffer": {
+    "name": "Puffer",
+    "type": "enemy",
+    "variants": ["Plated Buffer", "Gel Puffer", "Phazon Puffer", "Sky Puffer"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "CORRUPTION", "PRIMENS"]
+  },
+  "pulse_bombu": {
+    "name": "Pulse Bombu",
+    "type": "enemy",
+    "variants": ["Scatter Bombu", "Invisible Scatter Bombu"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "scarab": {
+    "name": "Scarab",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "seedling": {
+    "name": "Seedling",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "sheegoth": {
+    "name": "Sheegoth",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"],
+    "smash": ["SSBB"]
+  },
+  "shirekbat": {
+    "name": "Shriekbat",
+    "type": "enemy",
+    "variants": ["Ice Shirekbat", "Bryyonian Shriekbat", "Elysian Shriekbat", "Phazon Shriekbat", "Urtragian Shriekbat", "Fire Shriekbat"],
+    "debut": "11/28/2002",
+    "main": ["PRIME", "ECHOES", "HUNTERS", "PINBALL", "CORRUPTION", "FORCE", "PRIMENS"] 
+  },
+  "stone_toad": {
+    "name": "Stone Bat",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "tallon_crab": {
+    "name": "Tallon Crab",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "weed": {
+    "name": "Weed",
+    "type": "enemy",
+    "variants": ["Tangle Weed", "Venom Weed", "Snare Weed"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "CORRUPTION", "PRIMENS", "BEYOND"]
+  },
+  "tentacle": {
+    "name": "Tentacle",
+    "type": "enemy",
+    "variants": ["Massive Tentacle", "Darkling Tentacle", "Flaahgra Tentacle", "Massive Tentacle"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "ECHOES", "CORRUPTION", "PRIMENS"]
+  },
+  "thardus": {
+    "name": "Thadrus",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "PRIMENS"]
+  },
+  "triclops": {
+    "name": "Triclops",
+    "type": "enemy",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+  "war_wasp": {
+    "name": "War Wasp",
+    "type": "enemy",
+    "variants": ["Barbed War Wasp", "Blue Barbed War Wasp", "Red Barbed War Wasp", "Ram War Wasp", "Dark War Wasp"],
+    "debut": "11/18/2002",
+    "main": ["PRIME", "ECHOES", "HUNTERS", "PINBALL", "PRIMENS"]
+  },
+  "war_wasp_hive": {
+    "name": "War Wasp Hive",
+    "type": "enemy",
+    "debut": "11/17/2002",
+    "main": ["PRIME", "PRIMENS"]
+  },
+
+  "dark_trooper": {
+    "name": "Dark Missile Trooper",
+    "type": "boss",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "dark_missile_trooper": {
+    "name": "Dark Missile Trooper",
+    "type": "boss",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "demolition_trooper": {
+    "name": "Demolition Trooper",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "fleet_trooper": {
+    "name": "Fleet Trooper",
+    "type": "enemy",
+    "variants": ["Male Fleet Trooper", "Female Fleet Trooper"],
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "parasite_queen": {
+    "name": "Parasite Queen",
+    "type": "boss",
+    "debut": "11/18/2002",
+    "main": ["PRIME", "PINBALL", "CORRUPTION", "PRIMENS"],
+    "smash": ["SSBB", "SSBU"]
+  },
+
+  "charge_beam_beast": {
+    "name": "Charge Beam Beast",
+    "type": "boss",
+    "debut": "02/09/2004",
+    "main": ["ZERO"]
+  },
+  "kiru_giru": {
+    "name": "Kiru Giru",
+    "type": "boss",
+    "debut": "02/09/2004",
+    "main": ["ZERO"]
+  },
+  "hive": {
+    "name": "Hive",
+    "type": "enemy",
+    "debut": "02/09/2004",
+    "main": ["ZERO"]
+  },
+  "mecha-ridley": {
+    "name": "Mecha-Ridley",
+    "type": "boss",
+    "debut": "02/09/2004",
+    "main": ["ZERO"],
+    "smash": ["SSBU"]
+  },
+  "barisute": {
+    "name": "Barisute",
+    "type": "enemy",
+    "debut": "02/09/2004",
+    "main": ["ZERO", "MOM"]
+  },
+  "winged_ripper": {
+    "name": "Winged Ripper",
+    "type": "enemy",
+    "debut": "02/09/2004",
+    "main": ["ZERO"]
+  },
+
+  "blogg": {
+    "name": "Blogg",
+    "type": "enemy",
+    "variants": ["Bloggling", "Alpha Blogg", "Dark Blogg"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "brizgee": {
+    "name": "Brizgee",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "grenchler": {
+    "name": "Grenchler",
+    "type": "enemy",
+    "variants": ["Dark Grenchler"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "hydling": {
+    "name": "Hydling",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "kralee": {
+    "name": "Kralee",
+    "type": "enemy",
+    "variants": ["Green Kralee"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "krocuss": {
+    "name": "Krocuss",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "lightbringer": {
+    "name": "Lightbringer",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "lightflyer": {
+  "name": "Lightflyer",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]    
+  },
+  "lumite": {
+  "name": "Lumite",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]    
+  },
+  "sandbats": {
+    "name": "Sandbats",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "sandigger": {
+    "name": "Sandigger",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "seedburster": {
+    "name": "Seedburster",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "shredder": {
+    "name": "Shredder",
+    "type": "enemy",
+    "variants": ["Dark Shredder"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]    
+  },
+  "shrieker": {
+    "name": "Shrieker",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]    
+  },
+  "splinter": {
+    "name": "Splinter",
+    "type": "enemy",
+    "variants": ["Worker Splinter", "Alpha Splinter", "Dark Splinter", "Dark Alpha Splinter"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "alpha_splinter": {
+    "name": "Alpha Splinter",
+    "type": "boss",
+    "variants": ["Dark Alpha Splinter"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "alpha_sandigger": {
+    "name": "Alpha Sandigger",
+    "type": "boss",
+    "variants": ["Dark Alpha Splinter"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "sporb": {
+    "name": "Sporb",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "pillbug": {
+    "name": "Pillbug",
+    "type": "enemy",
+    "variants": ["Phazon Pillbug"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES", "CORRUPTION"]
+  },
+  "mechlops": {
+    "name": "Mechlops",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+
+  "rezbit": {
+    "name": "Rezbit",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "octopede": {
+    "name": "Octopede",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "caretaker_class_drone": {
+    "name": "Caretaker Class Drone",
+    "type": "boss",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "warrior_ing": {
+    "name": "Warrior Ing",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"],
+    "smash": ["SSBB"]
+  },
+  "ingsmasher": {
+    "name": "Ingsmasher",
+    "type": "enemy",
+    "vairiants": ["Dark Ingsmasher"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "mekenobite": {
+    "name": "Mekenobite",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "quad_MB": {
+    "name": "Quad MB",
+    "type": "enemy",
+    "variants": ["Dark Quad MB"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "quad_cm": {
+    "name": "Quad CM",
+    "type": "enemy",
+    "variants": ["Dark Quad CM"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "ingstorm": {
+    "name": "Ingstorm",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "inglet": {
+    "name": "Inglet",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "ing_larva_swarm": {
+    "name": "Ing Larva Swarm",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+
+  "hunter_ing": {
+    "name": "Hunter Ing",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "quadraxis": {
+    "name": "Quadraxis",
+    "type": "bosss",
+    "variants": ["Damaged Quadraxis", "Shielded Head Module", "Stunned Head Module", "Final Head Module"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "boost_guardian": {
+    "name": "Boost Guardian",
+    "type": "boss",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "jump_guardian": {
+    "name": "Jump Guardian",
+    "type": "boss",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  }, 
+  "spider_guardian": {
+    "name": "Spider Guardian",
+    "type": "boss",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },   
+  "grapple_guardian": {
+    "name": "Grapple Guardian",
+    "type": "boss",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },  
+  "power_bomb_guardian": {
+    "name": "Power Bomb Guardian",
+    "type": "boss",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },  
+
+  "amboris": {
+    "name": "Amboris",
+    "type": "boss",
+    "variants": ["Amorbis 1", "Amorbis 2"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "chykka": {
+    "name": "Chykka",
+    "type": "boss",
+    "variants": ["Chykka Larva", "Chykkling", "Dark Chykka"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "emperor_ing": {
+    "name": "Emperor Inf",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "dark_phlogus": {
+    "name": "Dark Phlogus",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "nightbarb": {
+    "name": "Nightbarb",
+    "type": "enemy",
+    "variants": ["Phazon Nightbarb"],
+    "debut": "11/15/2004",
+    "main": ["ECHOES", "CORRUPTION"]
+  },
+  "corrupted_sentreye": {
+    "name": "Corrupted Sentreye",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES"]
+  },
+  "airthorn": {
+      "name": "Airthorn",
+      "type": "enemy",
+      "debut": "11/15/2004",
+      "main": ["ECHOES"]
+  },
+  "preed": {
+      "name": "Preed",
+      "type": "enemy",
+      "debut": "11/15/2004",
+      "main": ["ECHOES"]
+    },
+  "kanden": {
+    "name": "Kanden",
+    "type": "antagonist",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "noxus": {
+    "name": "Noxus",
+    "type": "antagonist",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"],
+    "smash": ["SSBB"]
+  },
+  "spire": {
+    "name": "Spire",
+    "type": "antagonist",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"],
+    "smash": ["SSBB"]
+  },
+  "trace": {
+    "name": "Trace",
+    "type": "antagonist",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "weavel": {
+    "name": "Weavel",
+    "type": "antagonist",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"],
+    "smash": ["SSBB"]
+  },
+  "arctic_spawn": {
+    "name": "Arctic Spawn",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "crash_pillar": {
+    "name": "Crash Pillar",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "cretaphid_v1": {
+    "name": "Cretaphid v1",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "cretaphid_v2": {
+    "name": "Cretaphid v2",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "cretaphid_v3": {
+    "name": "Cretaphid v3",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "cretaphid_v4": {
+    "name": "Cretaphid v4",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "energy_blaster": {
+    "name": "Energy Blaster",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "fire_spawn": {
+    "name": "Fire Spawn",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "gorea": {
+    "name": "Gorea",
+    "type": "antagonist",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "guardian": {
+    "name": "Guardian",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "gorea_seal_sphere": {
+  "name": "Gorea Seal Sphere",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]    
+  },
+  "greater_ithrak": {
+    "name": "Greater Ithrak",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "lesser_ithrak": {
+    "name": "Lesser Ithrak",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "petrasyl": {
+    "name": "Petrasyl",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "psycho_bit_v1.0": {
+    "name": "Psycho Bit v1.0",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "psycho_bit_v2.0": {
+    "name": "Psycho Bit v2.0",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "psycho_bit_v3.0": {
+    "name": "Psycho Bit v3.0",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "psycho_bit_v4.0": {
+    "name": "Psycho Bit v4.0",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "quadtroid": {
+    "name": "Quadtroid",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "slench_1a": {
+    "name": "Slench 1A",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "slench_1b": {
+    "name": "Slench 1B",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "slench_2a": {
+    "name": "Slench 2A",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "slench_2b": {
+    "name": "Slench 2B",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "slench_3a": {
+    "name": "Slench 3A",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "slench_3b": {
+    "name": "Slench 3B",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "slench_4a": {
+    "name": "Slench 4A",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "slench_4b": {
+    "name": "Slench 4B",
+    "type": "boss",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "trocra": {
+    "name": "Trocra",
+    "type": "enemy",
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+  "voldrum": {
+    "name": "Voldrum",
+    "type": "enemy",
+    "variants": ["Electro Voldrum", "Ice Voldrum", "Magma Voldrum"],
+    "debut": "03/20/2006",
+    "main": ["HUNTERS"]
+  },
+
+
+  "aazelion": {
+    "name": "Aazelion",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "aerotrooper": {
+  "name": "Aerotrooper",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]    
+  },
+  "aurora_unit217": {
+    "name": "Aurora Unit 217",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "aurora_unit242": {
+    "name": "Aurora Unit 242",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "aurora_unit313": {
+    "name": "Aurora Unit 313",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "bee": {
+    "name": "Bee",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "berserker_knight": {
+    "name": "Berserker Knight",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "berserker_lord": {
+    "name": "Berserker Lord",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "bryyo_leaves": {
+    "name": "Bryyo Leaves",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "crawlmine": {
+    "name": "Crawlmine",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "crawltank": {
+  "name": "Crawltank",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]    
+  },
+  "cyrlic_tree": {
+    "name": "Cyrlic Tree",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "dark_echo": {
+    "name": "Dark Echo",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "databot": {
+    "name": "Databot",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "elysian": {
+    "name": "Aazelion",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "eyeballBlocker": {
+    "name": "EyeballBlocker",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "fargul_hatcher": {
+    "name": "Fargul Hatcher",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "fargul_wasp": {
+    "name": "Fargul Wasp",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "federation_marine": {
+  "name": "Federation Marine",
+    "type": "enemy",
+    "debut": "11/15/2004",
+    "main": ["ECHOES", "HUNTERS", "CORRUPTION", "FORCE"],
+    "smash": ["SSBB"]
+  },
+  "fleet_admiral_castor_dane": {
+    "name": "Fleet Admiral Castor Dane",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "fleet_mechanic": {
+    "name": "Fleet Mechanic",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "floating_object": {
+    "name": "Floating Object",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "fungus": {
+    "name": "Fungus",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "gandrayda": {
+  "name": "Gandrayda",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"] ,
+    "smash": ["SSBU"]  
+  },
+  "gel_ray": {
+    "name": "Gel Ray",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "gelbug": {
+    "name": "Gelbug",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "ghor": {
+    "name": "Ghor",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "glow_stem": {
+    "name": "Glow Stem",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "gragnol": {
+  "name": "Gragnol",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]    
+  },
+  "helios": {
+    "name": "Helios",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "human": {
+    "name": "Human",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "hyper_grapple_block": {
+    "name": "Hyper Grapple Block",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "jelsac": {
+    "name": "Jelsac",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "jumpmine": {
+    "name": "Jumpmine",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "kashh_plant": {
+    "name": "Kashh Plant",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "korakk_beast": {
+    "name": "Korakk Beast",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "korba": {
+    "name": "Korba",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "leviathan": {
+    "name": "Leviathan",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "liquid_phazon": {
+    "name": "Liquid Phazon",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "mindroid": {
+    "name": "Mindroid",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "missile_blocker": {
+    "name": "Missile Blocker",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "mogenar": {
+  "name": "Mogenar",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]    
+  },
+  "omega_ridley": {
+    "name": "Omega Ridley",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"],
+    "smash": ["SSBU"]
+  },
+  "phaaze_door": {
+    "name": "Phaaze Door",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "phaazoid": {
+    "name": "Phaazoid",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "phaaz-ing": {
+    "name": "Phaaz-ing",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "phazon_grub": {
+    "name": "Phazon Grub",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "phazon_leech": {
+    "name": "Phazon Leech",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "phazon_tendril": {
+    "name": "Phazon Tendril",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "puffer_mine": {
+  "name": "Puffer Mine",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]    
+  },
+  "reptilicus_hunter": {
+    "name": "Reptilicus Hunter",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "reptilicus": {
+    "name": "Reptilicus",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "rundas": {
+    "name": "Rundas",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "scarp": {
+    "name": "Scarp",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "scorchbug": {
+    "name": "Scorchbug",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "scritter": {
+    "name": "Scritter",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "seed_platform": {
+    "name": "Seed Platform",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "snatcher": {
+    "name": "Snatcher",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "spaikk_bush": {
+    "name": "Spaikk Bush",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "steambot": {
+  "name": "Steambot",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]    
+  },
+  "steamlord": {
+    "name": "Steamlord",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "steamspider": {
+  "name": "Steamspider",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]    
+  },
+  "swarmbot": {
+    "name": "Swarmbot",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "tinbot": {
+    "name": "Tinbot",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "vaporwing": {
+    "name": "Vaporwing",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "warp_hound": {
+    "name": "Warp Bound",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "zapper": {
+    "name": "Zapper",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "zipNMEbomber": {
+    "name": "zipNMEBomber",
+    "type": "enemy",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+  "defense_drone": {
+    "name": "Defense Drone",
+    "type": "boss",
+    "debut": "08/27/2007",
+    "main": ["CORRUPTION"]
+  },
+
+  "asborean": {
+    "name": "Asborean",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "brug": {
+    "name": "Brug",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "brug_mass": {
+    "name": "Brug Mass",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "cyclaw": {
+    "name": "Cyclaw",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "desbrachian": {
+    "name": "Desbrachian",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "dragotix": {
+    "name": "Dragotix",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "emperor_brug": {
+    "name": "Emperor Brug",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "fg-1000": {
+    "name": "FG-1000",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "fgII-graham": {
+    "name": "FGII-Graham",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"],
+    "smash": ["SSBWIIU"]
+  },
+  "fish": {
+    "name": "Fish",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM", "DREAD"]
+  },
+  "fly_pod": {
+    "name": "Fly Pod",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "fumbleye": {
+    "name": "Fumbleye",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "ghalmanian": {
+    "name": "Ghalmanian",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "gigafraug": {
+    "name": "Gigafraug",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "goyagma": {
+    "name": "Goyagma",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "griptian": {
+    "name": "Griptian",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "groganch": {
+    "name": "Groganch",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "himella": {
+    "name": "Himella",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "joulion": {
+    "name": "Joulion",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"],
+    "smash": ["SSBWIIU"]
+  },
+  "king_kihunter": {
+    "name": "King Kihunter",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"],
+    "smash": ["SSBWIIU"]
+  },
+  "kyratian": {
+    "name": "Kyratian",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "little_birdie": {
+    "name": "Little Birdie",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "mystery_creature": {
+    "name": "Mystery Creature",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"],
+    "smash": ["SSBWIIU"]
+  },
+  "pow": {
+    "name": "Pow",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "rb176_ferrocrusher": {
+    "name": "RB176 Ferrocrusher",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"],
+    "smash": ["SSBWIIU"]
+  },
+  "rage_hand": {
+    "name": "Rage Hand",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "rhedogian": {
+    "name": "Rhedogian",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "sandfang": {
+    "name": "Sandfang",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "snomer": {
+    "name": "Snomer",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "volfon": {
+    "name": "Volfon",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "vorash": {
+    "name": "Vorash",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"],
+    "smash": ["SSBWIIU"]
+  },
+  "wadge": {
+    "name": "Wadge",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "whipvine": {
+    "name": "Whipvine",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "zuru": {
+    "name": "Zuru",
+    "type": "enemy",
+    "debut": "08/31/2010",
+    "main": ["MOM"]
+  },
+  "mb": {
+    "name": "MB",
+    "type": "boss",
+    "debut": "08/31/2010",
+    "main": ["MOM"],
+    "smash": ["SSBWIIU"]
+  },
+  
+  "architect": {
+    "name": "Architect",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "armored_bot": {
+    "name": "Armored Bot",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "bruiser": {
+    "name": "Bruiser",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "collosun": {
+    "name": "Collosun",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "cyranon": {
+    "name": "Cyranon",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "dropship": {
+    "name": "Dropship",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "transport": {
+    "name": "Transport",
+    "type": "enemy",
+    "variants": ["Elite Transport", "Missile Transport"],
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "eyeflyer": {
+    "name": "Eyeflyer",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "griptorax": {
+    "name": "Griptorax",
+    "type": "enemy",
+    "variants": ["Fire Griptorax"],
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "generator": {
+    "name": "Generator",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "hover_bot": {
+    "name": "Hover Bat",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "hopper_mound": {
+    "name": "Hopper Mound",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "ice_titan": {
+    "name": "Ice Titan",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "mainframe": {
+    "name": "Mainframe",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "master_brain": {
+    "name": "Master Brain",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "rb133_auricrusher": {
+  "name": "RB133 Auricrusher",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]    
+  },
+  "sawken": {
+    "name": "Sawken",
+    "type": "bodd",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "security_bot": {
+    "name": "Security Box",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "sentinel": {
+    "name": "Sentinel",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "sentry_missile": {
+    "name": "Sentry Missile",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "thermo_sphere": {
+    "name": "Thermo Sphere",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "zurburat": {
+    "name": "Zurburat",
+    "type": "enemy",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "ice_hopper_nest": {
+    "name": "Ice Hopper Nest",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "rohkor_beetle": {
+    "name": "Rohkor Beetle",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+  "pirate_warship": {
+    "name": "Pirate Warship",
+    "type": "boss",
+    "debut": "08/19/2016",
+    "main": ["FORCE"]
+  },
+
+  "animworm": {
+    "name": "Animworm",
+    "type": "enemy",
+    "debut": "09/15/2017",
+    "main": ["SR"]
+  },
+  "bigbug01": {
+    "name": "Bigbug01",
+    "type": "enemy",
+    "debut": "09/15/2017",
+    "main": ["SR"]
+  },
+  "bigbug02": {
+    "name": "Bigbug02",
+    "type": "enemy",
+    "debut": "09/15/2017",
+    "main": ["SR"]
+  },
+  "diggernaut": {
+    "name": "Diggernaut",
+    "type": "boss",
+    "debut": "09/15/2017",
+    "main": ["SR"],
+    "smash": ["SSBU"]
+  },
+  "fleech_system": {
+    "name": "Fleech System",
+    "type": "enemy",
+    "debut": "09/15/2017",
+    "main": ["SR"]
+  },
+  "gryncore": {
+    "name": "Gryncore",
+    "type": "enemy",
+    "debut": "09/15/2017",
+    "main": ["SR"]
+  },
+  "proteus_ridley": {
+    "name": "Proteus Ridley",
+    "type": "boss",
+    "debut": "09/15/2017",
+    "main": ["SR"]
+  },
+  "red_plants": {
+    "name": "Red Plants",
+    "type": "enemy",
+    "debut": "09/15/2017",
+    "main": ["SR"]
+  },
+  "taramarga": {
+    "name": "Taramarga",
+    "type": "enemy",
+    "debut": "09/15/2017",
+    "main": ["SR"]
+  },
+
+  "abbreation01": {
+    "name": "Abbreation01",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "armadigger": {
+    "name": "Armadigger",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "autclast": {
+    "name": "Autclast",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "autector": {
+    "name": "Autector",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "autool": {
+  "name": "Autool",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]    
+  },
+  "autsharp": {
+    "name": "Autsharp",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "autsniper": {
+    "name": "Autsniper",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "batalloon": {
+    "name": "Batalloon",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "bigkran-X": {
+    "name": "Bigkarn-X",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "blindfly": {
+    "name": "Blindfly",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "butterfly": {
+    "name": "Butterfly",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "caterzilla": {
+    "name": "Carterzilla",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "central_unit": {
+  "name": "Central Unit",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]    
+  },
+  "central_unit_cannon": {
+    "name": "Central Unit Cannon",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "chozo_base_asset_04": {
+    "name": "Chozo Base Asset 04",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "soldier": {
+    "name": "Soldier",
+    "type": "enemy",
+    "variants": ["Chozo Soldier", "Elite Chozo Soldier", "Robot Chozo Soldier", "Psy-bot Soldier"],
+    "debut": "10/08/2021",
+    "main": ["DREAD", "BEYOND"]
+  },
+  "chozo_zombie": {
+    "name": "Chozo Zombie",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "corpius": {
+    "name": "Corpius",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "daivo": {
+    "name": "Daivo",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "deer": {
+    "name": "Deer",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "depthorn": {
+    "name": "Depthorn",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "dizzean": {
+    "name": "Dizzean",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "dredhed": {
+    "name": "Dredhed",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "drogya": {
+    "name": "Abbreation01",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "dropter": {
+  "name": "Dropter",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]    
+  },
+  "emmi": {
+  "name": "E.M.M.I.",
+    "type": "boss",
+    "debut": "10/08/2021",
+    "main": ["DREAD"],
+    "smash": ["SSBU"]
+  },
+  "enky": {
+    "name": "Enky",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "escue": {
+    "name": "Escue",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "experiment_no.Z-57": {
+    "name": "Experiment No.Z-57",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "fing": {
+    "name": "Fing",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "fulmite": {
+    "name": "Fulmite",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "gobbler": {
+    "name": "Gobbler",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "goliath": {
+    "name": "Goliath",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "golzuna": {
+    "name": "Golzuna",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "gooplot": {
+    "name": "Gooplot",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "gooshocker": {
+    "name": "Gooshocker",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "ground_shocker": {
+    "name": "Ground Shocker",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "grub": {
+    "name": "Grub",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "hecathon": {
+    "name": "Hecathon",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "iceflea": {
+    "name": "Iceflea",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "infester": {
+    "name": "Infester",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "insect": {
+    "name": "Insect",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "klaida": {
+    "name": "Klaida",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "kraid_bouncing_creature": {
+    "name": "Kraid Bouncing Creature",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "kreep": {
+    "name": "Kreep",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "lightened_krill": {
+    "name": "Lightened Krill",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "lum_ell": {
+    "name": "Lum Ell",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "magma_crab": {
+    "name": "Magma Crab",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "muzby": {
+    "name": "Muzby",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "nailong": {
+    "name": "Nailong",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "nailugger": {
+    "name": "Nailugger",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "obsydomithon": {
+    "name": "Obsydomithon",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "omnithon": {
+    "name": "Omnithon",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "planteater": {
+    "name": "Planteater",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "ply": {
+    "name": "Ply",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "quetshocker": {
+    "name": "Quetshocker",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "quetzoa": {
+    "name": "Quetzoa",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "redenki": {
+    "name": "Redenki",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "reptile": {
+    "name": "Reptile",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "rod": {
+    "name": "Rod",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "rodomithon-X": {
+    "name": "Rodomithon-X",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "rodotuk": {
+    "name": "Rodotuk",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "sabotoru": {
+    "name": "Sabotoru",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "sakai": {
+    "name": "Sakai",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "sclawk": {
+    "name": "Sclawk",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "scourge": {
+    "name": "Scourge",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "seaslug": {
+    "name": "Seaslug",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "shakernaut": {
+    "name": "Shakernaut",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "sharpaw": {
+    "name": "Sharpaw",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "shelmit": {
+    "name": "Shelmit",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]    
+  },
+  "shrimp": {
+    "name": "Shrimp",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "siluro": {
+    "name": "Siluro",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "slaaga": {
+    "name": "Slaaga",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "slidle": {
+    "name": "Slidle",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "spitclawk": {
+    "name": "Spitclawk",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "chozo_soldier": {
+    "name": "Spitclawk",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"],
+    "smash": ["SSBU"]
+  },
+  "spittail": {
+    "name": "Spittail",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "sunnap": {
+    "name": "Sunnap",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "takmaku": {
+    "name": "Takmaku",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "tobio": {
+    "name": "Tobio",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "vulkran": {
+    "name": "Vulkran",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "yampa": {
+    "name": "Yampa",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "yamplot-X": {
+    "name": "Yamplot-X",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+  "yojimbee": {
+    "name": "Yojimbee",
+    "type": "enemy",
+    "debut": "10/08/2021",
+    "main": ["DREAD"]
+  },
+
+
+  "aberax": {
+    "name": "Aberax",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "aeronaut": {
+    "name": "Aeronaut",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "aurengh_crane": {
+    "name": "Aurengh Crane",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "behemoth": {
+    "name": "Behemoth",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "blue_krauk": {
+    "name": "Blue Krauk",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "bristlewort": {
+    "name": "Bristlewort",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "carvex": {
+    "name": "Carvex",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "roach": {
+    "name": "Roach",
+    "type": "enemy",
+    "variants": ["Cave Roach", "Snow Roach"],
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "shren": {
+    "name": "Shren",
+    "type": "enemy",
+    "variants": ["Cave Shren", "Sand Shren", "Snow Shren"],
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "crawler": {
+    "name": "Crawler",
+    "type": "enemy",
+    "variants": ["Crystal Crawler", "Ice Crawler", "Pop Crawler", "Sand Crawler", "Web Crawler"],
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "dartwing": {
+    "name": "Dartwing",
+    "type": "enemy",
+    "variants": ["Spin Dartwing"],
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]    
+  },
+  "denzar": {
+    "name": "Denzar",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "empress_aleu": {
+    "name": "Empress Aleu",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "flight_drone_mcu": {
+    "name": "Flight Drone MCU",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "griever": {
+    "name": "Griever",
+    "type": "enemy",
+    "variants": ["Frostburn Griever", "Jungle Griever", "Maul Griever", "Maul Griever Brute", "Sand Griever"],
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "ghaspore": {
+    "name": "Ghaspore",
+    "type": "enemy",
+    "variants": ["Goura Ghaspore"],
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "glottagrooper": {
+  "name": "Glottagrooper",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]    
+  },
+  "gullbat": {
+    "name": "Gullbat",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "heatstrap": {
+    "name": "Heatstrap",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "homing_spore": {
+    "name": "Homing Spore",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "hover_shuttle_transport": {
+    "name": "Hover Shuttle Transport",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "isopod": {
+    "name": "Isopod",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "keratos": {
+    "name": "Keratos",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "leaping_spitter": {
+    "name": "Leaping Spitter",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "metareetta": {
+    "name": "Metareetta",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "mireworm": {
+    "name": "Mireworm",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "omega_driver": {
+    "name": "Omega Driver",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "phenoros": {
+    "name": "Phenoros",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "polaleisoarala": {
+    "name": "Polaleisoarala",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "psy-bot_mimic": {
+    "name": "Psy-bot Mimic",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "pyremite": {
+    "name": "Pyremite",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "red_relic_ant": {
+    "name": "Red Relic Ant",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "rootspur": {
+    "name": "Rootspur",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "shimmerstrap": {
+    "name": "Shimmerstrap",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "sicklefly": {
+    "name": "Sicklefly",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "snow_wolf": {
+    "name": "Snow Wolf",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "swarm_flyer": {
+    "name": "Swarm Flyter",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "swim_snatcher": {
+    "name": "Swim Snatcher",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "varmis": {
+    "name": "Varmis",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "winged_lizard": {
+    "name": "Winged Lizard",
+    "type": "enemy",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  },
+  "xelios": {
+    "name": "Xelios",
+    "type": "boss",
+    "debut": "12/04/2025",
+    "main": ["BEYOND"]
+  }
+
+}

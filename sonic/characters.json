@@ -1,0 +1,1130 @@
+{
+  "sonic": {
+    "name": "Sonic",
+    "species": "Hedgehog",
+    "type": "protagonist",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH2", "STH28", "STHCD", "CHAOS", "STH3", "S&K", "STHTT", "KC", "SB", "S3DB", "SA", "STHPA", "SA2", "ADVANCE", "ADVANCE2", "SADXDC", "HEROES", "ADVANCE3", "RUSH", "SHADOW", "STH06", "SatSR", "SRA", "UNLEASHED", "SatBK", "STH4.1", "COLORS", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "STH4.2", "SLW", "SLW3DS", "SBRoL", "SBSC", "SBF&I", "MANIA", "MANIA+", "FORCES", "COLORS_ULTIMATE", "FRONTIERS", "DREAM", "SUPERSTARS", "SXSG"],
+    "racing": ["DRIFT", "DRIFT2", "R", "RIDERS", "RIVALS", "RIVALS2", "ZERO", "S&SALR", "FREE", "S&ALRT", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "SATOG", "M&SATOGDS", "M&SATOWG", "SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATR16OGAE", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "arcade": ["WWSPC", "SSTH", "SSCF", "SSPS", "SSCCS", "FIGHTERS", "ATHLETICS"],
+    "education": ["STHGW", "TATMM", "SSH", "X", "STHDIDJ"],
+    "cafe": ["TENNIS", "GOLF", "FISHING", "BILLARDS", "BOWLING", "SRSU", "SRK", "JUMP", "SK3DX", "SSDX", "SCP"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["AOSTH", "STHTV", "SUG", "SX", "BOOM", "PRIME"],
+    "movies": ["SSTH", "STH2", "KNUCKLES", "STH3"],
+    "other": ["ERASER", "SPINBALL", "SPINBALL8", "WWCS", "TSP", "LABYRINTH", "SHUFFLE", "SPP", "BATTLE", "SCTDB", "DASH", "SJF", "RUNNERS", "DASH2", "SRA", "SFSB", "SPEED", "SPD", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SGC", "SUGC", "SCC", "ORIGINS"],
+    "crossovers": ["SPMP", "MK8", "MK8DLC", "MH4U", "SMM", "YWW", "SMM3DS", "P&YWW"]
+  },
+  "tails": {
+    "name": "Tails",
+    "species": "Fox",
+    "type": ["protagonist", "deuteragonist"],
+    "debut": "11/24/1992",
+    "main": ["STH2", "STH28", "STHCD", "CHAOS", "STH3", "S&K", "STHTT", "KC", "TA", "S3DB", "SA", "STHPA", "SA2", "ADVANCE", "ADVANCE2", "SADXDC", "HEROES", "ADVANCE3", "RUSH", "SHADOW", "STH06", "SatSR", "SRA", "UNLEASHED", "SatBK", "COLORS", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "STH4.2", "SLW", "SLW3DS", "SBRoL", "SBSC", "MANIA", "MANIA+", "FORCES", "COLORS_ULTIMATE", "FRONTIERS", "DREAM", "SUPERSTARS", "SXSG"],
+    "racing": ["DRIFT", "DRIFT2", "R", "RIDERS", "RIVALS", "RIVALS2", "ZERO", "S&SALR", "FREE", "S&ALRT", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "SATOG", "M&SATOGDS", "M&SATOWG", "SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "arcade": ["SSPS", "SSCCS", "FIGHTERS", "ATHLETICS"],
+    "education": ["TATMM", "SSH", "X"],
+    "cafe": ["TENNIS", "FISHING", "BOWLING", "JUMP", "SK3DX", "SSDX", "SCP", "JUMP2"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["AOSTH", "STHTV", "SX", "BOOM", "PRIME"],
+    "movies": ["STH", "STH2", "KNUCKLES", "STH3"],
+    "other": ["SPINBALL", "SPINBALL8", "WWCS", "TSP", "LABYRINTH", "SHUFFLE", "SPP", "BATTLE", "SCTDB", "DASH", "SJF", "RUNNERS", "DASH2", "SRA", "SFSB", "SPEED", "SPD", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SGC", "SUGC", "SCC", "ORIGINS"]
+  },
+  "knuckles": {
+    "name": "Knuckles",
+    "species": "Echidna",
+    "type": "deuteragonist",
+    "debut": "02/02/1994",
+    "main": ["STH3", "S&K", "STHTT", "KC", "SB", "S3DB", "SA", "STHPA", "SA2", "ADVANCE", "ADVANCE2", "SADXDC", "HEROES", "ADVANCE3", "RUSH", "SHADOW", "STH06", "SatSR", "SatBK", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "SLW", "SLW3DS", "SBRoL", "SBSC", "SBF&I", "MANIA", "MANIA+", "FORCES", "FRONTIERS", "DREAM", "SUPERSTARS", "SXSG"],
+    "racing": ["DRIFT2", "R", "RIDERS", "RIVALS", "RIVALS2", "ZERO", "S&SALR", "FREE", "S&ALRT", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "SATOG", "M&SATOGDS", "M&SATOWG", "SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "arcade": ["FIGHTERS", "ATHLETICS"],
+    "education": ["SSH", "X"],
+    "cafe": ["TENNIS", "BOWLING", "JUMP", "SK3DX", "SSDX", "SCP"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["SUG", "SX", "BOOM", "PRIME"],
+    "movies": ["SSTH2", "KNUCKLES", "STH3"],
+    "other": ["SHUFFLE", "SPP", "BATTLE", "SCTDB", "DASH", "SJF", "RUNNERS", "DASH2", "SRA", "SFSB", "SPEED", "SPD", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"],
+    "compilations": ["S&KC", "SMC", "SMC+", "JAM", "SGC", "SUGC", "SCC", "ORIGINS"]
+  },
+  "amy": {
+    "name": "Amy Rose",
+    "species": "Hedgehog",
+    "type": "deuteragonist",
+    "debut": "09/23/1993",
+    "main": ["STHCD", "KC", "SA", "STHPA", "SA2", "ADVANCE", "ADVANCE2", "SADXDC", "HEROES", "ADVANCE3", "RUSH", "SHADOW", "STH06", "SatSR", "UNLEASHED", "SatBK", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "SLW", "SLW3DS", "SBRoL", "SBSC", "SBF&I", "FORCES", "FRONTIERS", "DREAM", "SUPERSTARS", "SXSG"],
+    "racing": ["DRIFT", "DRIFT2", "R", "RIDERS", "RIVALS", "ZERO", "S&SALR", "FREE", "S&ALRT", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "SATOG", "M&SATOGDS", "M&SATOWG", "SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "arcade": ["FIGHTERS", "ATHLETICS"],
+    "education": ["X"],
+    "cafe": ["TENNIS", "SSDX", "SCP"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["SX", "BOOM", "PRIME"],
+    "movies": ["STH3"],
+    "other": ["SHUFFLE", "SPP", "BATTLE", "SCTDB", "DASH", "SJF", "RUNNERS", "DASH2", "SFSB", "SPEED", "SPD", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"],
+    "compilations": ["SMC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "shadow": {
+    "name": "Shadow",
+    "species": "Hedgehog",
+    "type": ["anti-hero", "deuteragonist"],
+    "debut": "06/09/2001",
+    "main": ["SA2", "HEROES", "SHADOW", "STH06", "SatBK", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "SBRoL", "SBSC", "FORCES", "DREAM", "SXSG"],
+    "racing": ["RIDERS", "RIVALS", "RIVALS2", "ZERO", "S&SALR", "FREE", "S&ALRT", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "M&SATOGDS", "M&SATOWG", "M&SATOWGDS", "SATOWG", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "arcade": ["ATHLETICS"],
+    "cafe": ["BILLARDS", "BOWLING", "SRSU", "SSDX"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["SX", "BOOM", "PRIME"],
+    "movies": ["SSTH2", "STH3"],
+    "other": ["SPP", "SCTDB", "DASH", "SJF", "RUNNERS", "DASH2", "SRA", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"]
+  },
+  "rouge": {
+    "name": "Rouge",
+    "species": "Bat",
+    "type": "deuteragonist",
+    "debut": "06/09/2001",
+    "main": ["SA2", "HEROES", "SHADOW", "STH06", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "FORCES", "DREAM", "SXSG"],
+    "racing": ["RIDERS", "RIVALS", "RIVALS2", "ZERO", "FREE", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "SCTDB"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "shows": ["SX", "PRIME"],
+    "other": ["BATTLE", "DASH", "SJF", "RUNNERS", "SRA", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"]
+    
+  },
+  "e-123_omega": {
+    "name": "E-123 Omega",
+    "species": "Robot",
+    "type": "supporting character",
+    "debut": "01/06/2004",
+    "main": ["HEROES", "SHADOW", "STH06", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "FORCES", "SXSG"],
+    "racing": ["TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATR16OGAE", "M&SATS14OWG"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "other": ["DASH", "RUNNERS", "SRA", "SFSB", "MINECRAFT"]
+  },
+  "silver": {
+    "name": "Silver",
+    "species": "Hedgehog",
+    "type": "deuteragonist",
+    "debut": "11/14/2006",
+    "main": ["STH06", "SatSR", "SatBK", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "FORCES", "SXSG"],
+    "racing": ["RIVALS", "RIVALS2", "ZERO", "FREE", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOWG", "SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "arcade": ["ATHLETICS"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["DASH", "SJF", "RUNNERS", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "SEGA_HEROES"]
+  },
+  "blaze": {
+    "name": "Blaze",
+    "species": "Cat",
+    "type": "deuteragonist",
+    "debut": "11/15/2005",
+    "main": ["RUSH", "STH06", "SatSR", "SRA", "SatBK", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "SXSG"],
+    "racing": ["ZERO", "FREE", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "SATOWG", "M&SATOGDS", "M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "arcade": ["ATHLETICS"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["DASH", "SJF", "RUNNERS", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "TMOSTH"]
+  },
+  "cream": {
+    "name": "Cream",
+    "species": "Rabbit",
+    "type": "deuteragonist",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2", "HEROES", "ADVANCE3", "RUSH", "SHADOW", "SatSR", "GENERATIONS", "GENERATIONS_3DS", "DREAM", "SXSG"],
+    "racing": ["RIDERS", "ZERO", "FREE", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "M&SATOGDS", "M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATT20OG", "SAT20OG"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["SX"],
+    "other": ["BATTLE", "SCTDB", "DASH", "SJF", "RUNNERS", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "SEGA_HEROES"]
+  },
+  "cheese": {
+    "name": "Cheese",
+    "species": "Chao",
+    "type": "supporting character",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2", "ADVANCE3", "SHADOW", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "FORCES", "DREAM", "SXSG"],
+    "racing": ["CROSSWORLDS"],
+    "sports": ["M&SATL12OG", "M&SATL12OG3DS", "M&SATT20OG"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "other": ["BATTLE", "DASH", "SFSB", "SEGA_HEROES"]
+  },
+  "big": {
+    "name": "Big",
+    "species": "Cat",
+    "type": "protagonist",
+    "debut": "09/09/1999",
+    "main": ["SA", "SADXDC", "HEROES", "SatSR", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "FRONTIERS", "SXSG"],
+    "racing": ["S&SALR", "TEAM", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "M&SATOGDS", "M&SATOWG", "M&SATOWGDS", "M&SATR16OG", "M&SATR16OG3DS"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["SX", "PRIME"],
+    "other": ["SHUFFLE", "SCTDB", "DASH", "RUNNERS", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"]
+  },
+  "froggy": {
+    "name": "Froggy",
+    "species": "Frog",
+    "type": "deuteragonist",
+    "debut": "09/09/1999",
+    "main": ["SA", "SADXDC", "HEROES", "GENERATIONS", "GENERATIONS_3DS", "FRONTIERS", "SXSG"],
+    "racing": ["TEAM"],
+    "shows": ["PRIME"],
+    "other": ["SFSB", "RUMBLE", "MINECRAFT"]
+  },
+  "e-102_gamma": {
+    "name": "E-102 Gamma",
+    "species": "Robot",
+    "type": "protagonist",
+    "debut": "09/09/1999",
+    "main": ["SA", "SADXDC", "GENERATIONS_3DS"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["SHUFFLE", "BATTLE", "SFSB", "SPEED", "MINECRAFT"]
+  },
+  "espio": {
+    "name": "Espio",
+    "species": "Charmeleon",
+    "type": "supporting character",
+    "debut": "05/01/1995",
+    "main": ["KC", "HEROES", "SHADOW", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "FORCES", "SXSG"],
+    "racing": ["RIVALS2", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "M&SATOGDS", "M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATT20OG", "SAT20OG"],
+    "arcade": ["FIGHTERS"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "shows": ["SX"],
+    "other": ["DASH", "RUNNERS", "SRA", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"],
+    "compilations": ["SGC"]
+  },
+  "vector": {
+    "name": "Vector",
+    "species": "Crocodile",
+    "type": "supporting character",
+    "debut": "05/01/1995",
+    "main": ["KC", "HEROES", "SHADOW", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "FORCES", "SXSG"],
+    "racing": ["RIVALS2", "FREE", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "M&SATOGDS", "M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "shows": ["SX"],
+    "other": ["SCTDB", "DASH", "SJF", "RUNNERS", "DASH2", "SRA", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "SEGA_HEROES", "TMOSTH"]
+  },
+  "charmy": {
+    "name": "Charmy",
+    "species": "Bee",
+    "type": "supporting character",
+    "debut": "05/01/1995",
+    "main": ["KC", "HEROES", "SHADOW", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "FORCES", "SXSG", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "M&SATOGDS", "M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "shows": ["SX"],
+    "other": ["DASH", "RUNNERS", "SRA", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "SEGA_HEROES"]
+  },
+  "ray": {
+    "name": "Ray",
+    "species": "Flying Squirrel",
+    "type": "deuteragonist",
+    "debut": "09/01/1993",
+    "main": ["GENERATIONS", "MANIA+", "SXSG"],
+    "arcade": ["SSTH"],
+    "other": ["SPEED", "MINECRAFT"],
+    "compilations": ["ORIGINS"]
+  },
+  "mighty": {
+    "name": "Mighty",
+    "species": "Armadillo",
+    "type": "deuteragonist",
+    "debut": "09/01/1993",
+    "main": ["KC", "GENERATIONS", "MANIA+", "SXSG"],
+    "arcade": ["SSTH"],
+    "other": ["SPEED", "MINECRAFT"],
+    "compilations": ["JAM", "SGC", "ORIGINS"]
+  },
+  "bark": {
+    "name": "Bark",
+    "species": "Polar Bear",
+    "type": "supporting character",
+    "debut": "07/01/1996",
+    "main": ["MANIA+"],
+    "arcade": ["FIGHTERS"],
+    "other": ["SPEED", "FM"],
+    "compilations": ["SGC"]
+  },
+  "bean": {
+    "name": "Bean the Dynamite",
+    "species": "Woodpecker",
+    "type": "supporting character",
+    "debut": "07/01/1996",
+    "main": ["GENERATIONS", "MANIA", "MANIA+", "SXSG"],
+    "arcade": ["FIGHTERS"],
+    "other": ["SPEED", "FM"],
+    "compilations": ["JAM", "SGC"]
+  },
+  "honey": {
+    "name": "Honey",
+    "species": "Cat",
+    "type": "supporting character",
+    "debut": "07/01/1996",
+    "arcade": ["FIGHTERS"],
+    "compilations": ["SGC"]
+  },
+  
+  "tikal": {
+    "name": "Tikal",
+    "species": "Echidna",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "SA2", "ADVANCE", "ADVANCE2", "SADXDC", "GENERATIONS", "SXSG"],
+    "smash": ["SSBB"],
+    "shows": ["SX"],
+    "other": ["RUNNERS", "SFSB", "SPEED", "RUMBLE"]
+  },
+  "vanilla": {
+    "name": "Vanilla",
+    "species": "Rabbit",
+    "type": "supporting character",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2", "ADVANCE3", "RUSH"],
+    "shows": ["SX"],
+    "other": ["SPEED", "MINECRAFT"]
+  },
+  "marine": {
+    "name": "Marine",
+    "species": "Raccoon",
+    "type": "tritagonist",
+    "debut": "09/18/2007",
+    "main": ["RSA"],
+    "other": ["SFSB", "SPEED", "RUMBLE"]
+  },
+  "chip": {
+    "name": "Chip",
+    "species": "Unknown",
+    "type": "deuteragonist",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED", "GENERATIONS", "SXSG"],
+    "other": ["RUNNERS", "SPEED", "RUMBLE"]
+  },
+  "sticks": {
+    "name": "Sticks",
+    "species": "Badger",
+    "type": "tritagonist",
+    "debut": "11/11/2014",
+    "main": ["SBRoL", "SBSC", "SBF&I"],
+    "sports": ["M&SATR16OG", "M&SATR16OG3DS"],
+    "shows": ["BOOM"],
+    "other": ["RUNNERS", "DASH2"]
+  },
+  "trip": {
+    "name": "Trip",
+    "species": "Sungazer",
+    "type": "tritagonist",
+    "debut": "10/17/2023",
+    "main": ["SUPERSTARS"],
+    "other": ["SPEED"]
+  },
+  "ariem": {
+    "name": "Ariem",
+    "species": "Sheep",
+    "type": "deuteragonist",
+    "debut": "12/05/2023",
+    "main": ["DREAM"]
+  },
+  "emerl": {
+    "name": "Emerl",
+    "species": "Robot",
+    "type": "supporting character",
+    "debut": "01/05/2004",
+    "racing": ["RIVALS2", "S&ALRT"],
+    "sports": ["M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS"],
+    "smash": ["SSBB"],
+    "other": ["BATTLE", "RUMBLE", "MINECRAFT"]
+  },
+
+  "tangle": {
+    "name": "Tangle",
+    "species": "Lemur",
+    "type": "supporting character",
+    "debut": "07/10/2020",
+    "racing": ["CROSSWORLDS"],
+    "other": ["DASH", "SFSB", "SPEED", "RUMBLE"]
+  },
+  "whisper": {
+    "name": "Whisper",
+    "species": "Wolf",
+    "type": "supporting character",
+    "debut": "07/07/2020",
+    "racing": ["CROSSWORLDS"],
+    "other": ["DASH", "SFSB", "SPEED", "RUMBLE"]
+  },
+  "surge": {
+    "name": "Surge",
+    "species": "Tenrec",
+    "type":"supporting character",
+    "debut": "11/15/2023",
+    "other": ["DASH", "SFSB", "SPEED", "RUMBLE"]
+  },
+  
+  "eggman": {
+    "name": "Dr. Eggman",
+    "species": "Human",
+    "type": "antagonist",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH2", "STH28", "STHCD", "CHAOS", "STH3", "S&K", "STHTT", "KC", "SB", "S3DB", "SA", "STHPA", "SA2", "ADVANCE", "ADVANCE2", "SADXDC", "HEROES", "ADVANCE3", "RUSH", "SHADOW", "STH06", "SatSR", "SRA", "UNLEASHED", "SatBK", "STH4.1", "COLORS", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "STH4.2", "SLW", "SLW3DS", "SBRoL", "SBSC", "SBF&I", "MANIA", "MANIA+", "FORCES", "COLORS_ULTIMATE","FRONTIERS", "DREAM", "SUPERSTARS", "SXSG"],
+    "racing": ["DRIFT", "DRIFT2", "R", "RIDERS", "RIVALS", "RIVALS2", "ZERO", "S&SALR", "S&ALRT", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOG", "M&SATOGDS", "M&SATOWG", "SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG", "M&SATT20OGAE"],
+    "arcade": ["WWSPC", "SSTH", "SSCF", "SSPS", "FIGHTERS"],
+    "education": ["STHGW", "TATMM", "SSH", "X", "STHDIDJ"],
+    "cafe": ["FISHING", "JUMP", "SSDX", "JUMP2"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["AOSTH", "STHTV", "SUG", "SX", "BOOM", "PRIME"],
+    "movies": ["STH", "STH2", "STH3"],
+    "other": ["SPINBALL", "SPINBALL8", "DRMBM", "DRMBM8", "LABYRINTH", "SHUFFLE", "SPP", "BATTLE", "SCTDB", "DASH", "SJF", "RUNNERS", "DASH2", "SRA", "SFSB", "RUMBLE", "MINECRAFT", "TMOSTH"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SGC", "SUGC", "SCC", "ORIGINS"]
+  },
+  "orbot": {
+    "name": "Orbot",
+    "species": "Robot",
+    "type": "antagonist",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_DS", "GENERATIONS", "SLW", "SLW3DS", "SBF&I", "FORCES", "COLORS_ULTIMATE", "SXSG", "TEAM"],
+    "racing": ["TEAM"],
+    "sports": ["M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG"],
+    "shows": ["BOOM", "PRIME"],
+    "other": ["RUNNERS", "DASH2", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "TMOSTH"]
+  },
+  "cubot": {
+    "name": "Cubot",
+    "species": "Robot",
+    "type": "antagonist",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_DS", "GENERATIONS", "SLW", "SLW3DS", "SBF&I", "FORCES", "COLORS_ULTIMATE", "SXSG", "TEAM"],
+    "racing": ["TEAM"],
+    "sports": ["M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG"],
+    "shows": ["BOOM", "PRIME"],
+    "other": ["RUNNERS", "DASH2", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "TMOSTH"]
+  },
+  "eggman_nega": {
+    "name": "Eggman Nega",
+    "species": "Human",
+    "type": "antagonist",
+    "debut": "11/15/2005",
+    "main": ["RUSH", "SRA"],
+    "racing": ["RIVALS", "RIVALS2"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATT20OG", "SAT20OG"]
+  },
+  "gerald": {
+    "name": "Gerald Robotnik",
+    "species": "Human",
+    "type": "antagonist",
+    "debut": "06/09/2001",
+    "main": ["SA2", "SHADOW", "SXSG"],
+    "movies": ["STH3"],
+    "other": ["MINECRAFT"]
+  },
+  "maria": {
+    "name": "Maria",
+    "species": "Human",
+    "type": "supporting character",
+    "debut": "06/09/2001",
+    "main": ["SA2", "SHADOW", "SXSG"],
+    "shows": ["SX"],
+    "movies": ["STH3"],
+    "other": ["RUMBLE", "MINECRAFT"]
+  },
+  "metal_sonic": {
+    "name": "Metal Sonic",
+    "species": "Badnik",
+    "type": "boss",
+    "debut": "09/23/1993",
+    "main": ["STHCD", "STHTT", "KC", "SA2", "HEROES", "SADXDC", "STH4.1", "GENERATIONS", "GENERATIONS_3DS", "STH4.2", "SBRoL", "SBSC", "MANIA", "FORCES", "COLORS_ULTIMATE", "SXSG"],
+    "racing": ["DRIFT2", "R", "RIVALS", "RIVALS2", "S&SALR", "FREE", "S&ALRT", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOWG", "SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "M&SATT20OGAE"],
+    "arcade": ["FIGHTERS", "ATHLETICS"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "shows": ["BOOM"],
+    "movies": ["STH3"],
+    "other": ["SPP", "DASH", "RUNNERS", "SFSB", "SPEED", "RUMBLE", "MINECRAFT", "TMOSTH"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "chaos": {
+    "name": "Chaos",
+    "species": "Chao",
+    "type": "antagonist",
+    "debut": "09/09/1999",
+    "main": ["SA", "SA2", "SADXDC", "GENERATIONS", "FORCES", "SXSG"],
+    "racing": ["TEAM"],
+    "sports": ["M&SATOWG", "M&SATOWGDS"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["SFSB", "RUMBLE", "MINECRAFT"]
+  },
+  "gemerl": {
+    "name": "Gemerl",
+    "species": "Robot",
+    "type": "antagonist",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"],
+    "other": ["SPEED", "RUMBLE", "MINECRAFT"]
+  },
+
+  "jet": {
+    "name": "Jet",
+    "species": "Hawk",
+    "type": "antagonist",
+    "debut": "02/21/2006",
+    "main": ["SatBK", "GENERATIONS", "GENERATIONS_3DS", "SXSG"],
+    "racing": ["RIDERS", "RIVALS", "ZERO", "FREE", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATT20OG", "SAT20OG"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["DASH", "SFSB", "SPEED", "RUMBLE"]
+  },
+  "wave": {
+    "name": "Wave",
+    "species": "Swallow",
+    "type": "antagonist",
+    "debut": "02/21/2006",
+    "main": ["SatSR", "GENERATIONS_3DS"],
+    "racing": ["RIDERS", "ZERO", "FREE", "CROSSWORLDS"],
+    "sports": ["M&SATR16OG", "M&SATR16OG3DS"],
+    "smash": ["SSBB"],
+    "other": ["DASH", "SFSB", "SPEED", "RUMBLE"]
+  },
+  "storm": {
+    "name": "Storm",
+    "species": "Albatross",
+    "type": "antagonist",
+    "debut": "02/21/2006",
+    "main": ["SatSR", "GENERATIONS_3DS"],
+    "racing": ["RIDERS", "ZERO", "FREE", "CROSSWORLDS"],
+    "smash": ["SSBB"],
+    "other": ["DASH", "SFSB", "SPEED", "RUMBLE"]
+  },
+  "zavok": {
+    "name": "Zavok",
+    "species": "Zeti",
+    "type": "antagonist",
+    "debut": "10/29/2013",
+    "main": ["SLW", "SLW3DS", "FORCES", "FRONTIERS"],
+    "racing": ["TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATR16OG", "M&SATR16OG3DS", "M&SATT20OG", "SAT20OG"],
+    "smash": ["SSBWIIU"],
+    "other": ["RUNNERS", "SFSB", "RUMBLE"]
+  },
+  "zazz": {
+    "name": "Zazz",
+    "species": "Zeti",
+    "type": "antagonist",
+    "debut": "10/29/2013",
+    "main": ["SLW", "SLW3DS", "FRONTIERS"],
+    "racing": ["CROSSWORLDS"],
+    "sports": ["M&SATR16OG", "M&SATR16OG3DS", "M&SATT20OG", "SAT20OG"],
+    "smash": ["SSBWIIU"],
+    "other": ["DASH", "RUNNERS", "SFSB", "RUMBLE"]
+  },
+  "zeena": {
+    "name": "Zeena",
+    "species": "Zeti",
+    "type": "antagonist",
+    "debut": "10/29/2013",
+    "main": ["SLW", "SLW3DS", "FRONTIERS"],
+    "smash": ["SSBWIIU"],
+    "other": ["RUNNERS", "SFSB"]
+  },
+  "zik": {
+    "name": "Master Zik",
+    "species": "Zeti",
+    "type": "antagonist",
+    "debut": "10/29/2013",
+    "main": ["SLW", "SLW3DS", "FRONTIERS"],
+    "smash": ["SSBWIIU"],
+    "other": ["RUNNERS"]
+  },
+  "zomom": {
+    "name": "Zomom",
+    "species": "Zeti",
+    "type": "antagonist",
+    "debut": "10/29/2013",
+    "main": ["SLW", "SLW3DS", "FRONTIERS"],
+    "smash": ["SSBWIIU"],
+    "other": ["RUNNERS"]
+  },
+  "zor": {
+    "name": "Zor",
+    "species": "Zeti",
+    "type": "antagonist",
+    "debut": "10/29/2013",
+    "main": ["SLW", "SLW3DS", "FRONTIERS"],
+    "smash": ["SSBWIIU"],
+    "other": ["RUNNERS"]
+  },
+  "infinite": {
+    "name": "Infinite",
+    "species": "Jackal",
+    "type": "antagonist",
+    "debut": "11/07/2017",
+    "main": ["FORCES", "SXSG"],
+    "smash": ["SSBU"],
+    "other": ["DASH", "SFSB", "SPEED", "RUMBLE", "MINECRAFT"]
+  },
+  "sage": {
+    "name": "Sage",
+    "species": "Artificial Intelligence",
+    "type": "deuteragonist",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"],
+    "racing": ["CROSSWORLDS"],
+    "other": ["SPEED", "MINECRAFT", "TMOSTH"]
+  },
+
+  "fang": {
+    "name": "Fang",
+    "species": "Weasel",
+    "type": "antagonist",
+    "debut": "11/01/1994",
+    "main": ["STHTT", "SADXDC", "GENERATIONS", "MANIA", "SUPERSTARS", "SXSG"],
+    "racing": ["DRIFT2"],
+    "arcade": ["FIGHTERS"],
+    "other": ["SPEED"],
+    "compilations": ["SGC"]
+  },
+  "battle_kukku_xvi": {
+    "name": "Battle Kukku XVI",
+    "species": "Bird",
+    "type": "antagonist",
+    "debut": "11/01/1995",
+    "main": ["TA", "SADXDC"]
+  },
+  "dr.dukurokov": {
+    "name": "Battle Kukku XVI",
+    "species": "Owl",
+    "type": "antagonist",
+    "debut": "11/01/1995",
+    "main": ["TA", "SADXDC"]
+  },
+  "great_battle_kukku_xv": {
+    "name": "Battle Kukku XVI",
+    "species": "Bird",
+    "type": "antagonist",
+    "debut": "11/01/1995",
+    "main": ["TA", "SADXDC"]
+  },
+  "black_doom": {
+    "name": "Black Doom",
+    "species": "Black Arms",
+    "type": "antagonist",
+    "debut": "11/15/2005",
+    "main": ["SHADOW", "SXSG"],
+    "other": ["SPEED"]
+  },
+  "doom's_eye": {
+    "name": "Doom's Eye",
+    "species": "Black Arms",
+    "type": "antagonist",
+    "debut": "11/15/2005",
+    "main": ["SHADOW", "SXSG"]
+  },
+
+  "clucky": {
+    "name": "Clucky",
+    "species": "Chicken",
+    "type": "supporting character",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH2", "STH28", "STH3", "S&K", "STHPA", "SADXDC", "STH4.1", "STH4.2", "SLW", "SLW3DS", "MANIA", "MANIA+", "FORCES", "FRONTIERS", "SUPERSTARS"],
+    "racing": ["CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG"],
+    "arcade": ["SSCF"],
+    "education": ["STHDIDJ"],
+    "other": ["SPINBALL", "SPINBALL8", "SJF", "RUNNERS", "SRA", "RUMBLE"],
+    "smash": ["SSBWIIU"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SUGC", "SCC", "ORIGINS"]
+  },
+  "flicky": {
+    "name": "Flicky",
+    "species": "Bird",
+    "type": "supporting character",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH2", "STH28", "STHCD", "CHAOS", "STH3", "S&K", "TA", "S3DB", "STHPA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH", "STH4.1", "STH4.2", "SLW", "SLW3DS", "MANIA", "MANIA+", "FORCES", "FRONTIERS", "SUPERSTARS"],
+    "racing": ["CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG"],
+    "arcade": ["WWSPC", "SSCF", "SSPS"],
+    "education": ["STHDIDJ"],
+    "smash": ["SSBWIIU"],
+    "other": ["SPINBALL", "SPINBALL8", "SPP", "DASH", "SJF", "RUNNERS", "SRA", "RUMBLE", "TMOSTH"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SGC", "SUGC", "SCC", "ORIGINS"]
+  },
+  "pecky": {
+    "name": "Pecky",
+    "species": "Penguin",
+    "type": "supporting character",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH2", "STH28", "STHCD", "STH3", "S&K", "STHPA", "SADXDC", "STH4.1", "STH4.2", "SLW", "SLW3DS", "MANIA", "MANIA+", "FORCES", "FRONTIERS", "SUPERSTARS"],
+    "racing": ["CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG"],
+    "arcade": ["SSCF", "SSPS"],
+    "education": ["STHDIDJ"],
+    "smash": ["SSBWIIU"],
+    "other": ["DASH", "SJF", "RUNNERS", "SRA"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SGC", "SUGC", "SCC", "ORIGINS"]
+  },
+  "picky": {
+    "name": "Picky",
+    "species": "Pig",
+    "type": "supporting character",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STHPA", "ADVANCE", "SADXDC", "STH4.1", "STH4.2", "SLW", "SLW3DS", "MANIA", "MANIA+", "FORCES", "FRONTIERS", "SUPERSTARS"],
+    "racing": ["CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG"],
+    "arcade": ["WWSPC", "SSCF"],
+    "education": ["STHDIDJ"],
+    "smash": ["SSBWIIU"],
+    "other": ["DASH", "SJF", "RUNNERS", "SRA", "RUMBLE"],
+    "compilations": ["3-IN-1", "JAM", "SMC", "SMC+", "SUGC", "SCC"]
+  },
+  "pocky": {
+    "name": "Pocky",
+    "species": "Rabbit",
+    "type": "supporting character",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH2", "STH28", "STHCD", "STH3", "S&K", "STHPA", "ADVANCE", "SADXDC", "RUSH", "STH4.1", "STH4.2", "MANIA", "MANIA+", "FRONTIERS", "SUPERSTARS"],
+    "racing": ["CROSSWORLDS"],
+    "sports": ["M&SATT20OG"],
+    "arcade": ["WWSPC", "SSCF"],
+    "education": ["STHDIDJ"],
+    "smash": ["SSBWIIU"],
+    "other": ["DASH", "SJF", "RUNNERS", "SRA"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SGC", "SUGC", "ORIGINS"]
+  },
+  "ricky": {
+    "name": "Ricky",
+    "species": "Squirrel",
+    "type": "supporting character",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH2", "STH28", "STHCD", "STH3", "S&K", "STHPA", "ADVANCE", "SADXDC", "RUSH", "STH4.1", "SLW", "SLW3DS", "MANIA", "MANIA+", "FORCES", "FRONTIERS", "SUPERSTARS"],
+    "racing": ["CROSSWORLDS"],
+    "arcade": ["SSCF"],
+    "education": ["STHDIDJ"],
+    "smash": ["SSBWIIU"],
+    "other": ["DASH", "RUNNERS", "SRA"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SGC", "SUGC", "SCC", "ORIGINS"]
+  },
+  "rocky": {
+    "name": "Rocky",
+    "species": "Walrus",
+    "type": "supporting character",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH2", "STH28", "STH3", "S&K", "SADXDC", "SLW", "SLW3DS", "MANIA", "MANIA+", "FORCES", "FRONTIERS", "SUPERSTARS"],
+    "racing": ["CROSSWORLDS"],
+    "sports": ["M&SATT20OG"],
+    "arcade": ["SSCF", "SSPS"],
+    "education": ["STHDIDJ"],
+    "smash": ["SSBWIIU"],
+    "other": ["DASH", "RUNNERS", "SRA"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SMC", "SMC+", "SUGC", "SCC", "ORIGINS"]
+  },
+  
+  "becky": {
+    "name": "Becky",
+    "species": "Bear",
+    "type": "supporting character",
+    "debut": "11/24/1992",
+    "main": ["STH2", "MANIA", "MANIA+"],
+    "education": ["STHDIDJ"],
+    "compilations": ["3-IN-1", "JAM", "SMC", "SMC+", "SUGC", "SCC", "ORIGINS"]
+  },
+  "locky": {
+    "name": "Locky",
+    "species": "Eagle",
+    "type": "supporting character",
+    "debut": "11/24/1992",
+    "main": ["STH2", "MANIA", "MANIA+"],
+    "education": ["STHDIDJ"],
+    "other": ["SPINBALL"],
+    "compilations": ["3-IN-1", "JAM", "SMC", "SMC+", "SUGC", "SCC", "ORIGINS"]
+  },
+  "micky": {
+    "name": "Micky",
+    "species": "Mouse",
+    "type": "supporting character",
+    "debut": "11/24/1992",
+    "main": ["STH2", "MANIA", "MANIA+"],
+    "education": ["STHDIDJ"],
+    "compilations": ["3-IN-1", "JAM", "SMC", "SMC+", "SUGC", "SCC", "ORIGINS"]
+  },
+  "tocky": {
+    "name": "Tocky",
+    "species": "Turtle",
+    "type": "supporting character",
+    "debut": "11/24/1992",
+    "main": ["STH2", "MANIA", "MANIA+"],
+    "education": ["STHDIDJ"],
+    "compilations": ["3-IN-1", "JAM", "SMC", "SMC+", "SUGC", "SCC", "ORIGINS"]
+  },
+  "wocky": {
+    "name": "Wocky",
+    "species": "Monkey",
+    "type": "supporting character",
+    "debut": "11/24/1992",
+    "main": ["STH2", "RUSH", "MANIA", "MANIA+"],
+    "education": ["STHDIDJ"],
+    "other": ["SPINBALL"],
+    "compilations": ["3-IN-1", "JAM", "SMC", "SMC+", "SUGC", "SCC", "ORIGINS"]
+  },
+  "robin": {
+    "name": "Robin",
+    "species": "Bird",
+    "type": "supporting character",
+    "debut": "09/23/1993",
+    "main": ["STHCD", "SA", "ADVANCE", "SADXDC"],
+    "other": ["SPP"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "sheep": {
+    "name": "Sheep",
+    "species": "Sheep",
+    "type": "supporting character",
+    "debut": "09/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "birdie": {
+    "name": "Birdie",
+    "species": "Bird",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "SADXDC"],
+    "shows": ["PRIME"]
+  },
+  "chao": {
+    "name": "Chao",
+    "species": "Chao",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "SA2", "ADVANCE", "SADXDC", "HEROES", "ADVANCE3", "GENERATIONS", "SXSG"],
+    "racing": ["RIDERS", "TEAM", "SR"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG"],
+    "cafe": ["TENNIS", "GFC"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["SHUFFLE", "MINECRAFT", "TMOSTH"]
+  },
+  "omochao": {
+    "name": "Omochao",
+    "species": "Chao",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "SA2", "HEROES", "SADXDC", "ADVANCE3", "SatSR", "GENERATIONS", "SLW", "SXSG"],
+    "racing": ["RIDERS", "TEAM", "SR", "CROSSWORLDS"],
+    "sports": ["M&SATL12OG", "M&SATL12OG3DS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SATR16OGAE", "M&SATT20OG", "SAT20OG"],
+    "other": ["RUMBLE", "MINECRAFT", "TMOSTH"]
+  },
+  "gold_chao": {
+    "name": "Gold Chao",
+    "species": "Chao",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "SA2", "ADVANCE", "SADXDC"]
+  },
+  "hero_chao": {
+    "name": "Hero Chao",
+    "species": "Chao",
+    "type": "supporting character",
+    "debut": "06/09/2001",
+    "main": ["SA2", "HEROES", "GENERATIONS", "SXSG", "TEAM"],
+    "racing": ["SR", "CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATR16OG", "M&SATR16OG3DS", "M&SATT20OG", "SAT20OG"],
+    "smash": ["SSBU"],
+    "other": ["RUNNERS", "RUMBLE", "MINECRAFT"]
+  },
+  "dark_chao": {
+    "name": "Dark Chao",
+    "species": "Chao",
+    "type": "supporting character",
+    "debut": "06/09/2001",
+    "main": ["SA2", "HEROES", "GENERATIONS", "SXSG", "TEAM"],
+    "racing": ["SR", "CROSSWORLDS"],
+    "sports": ["M&SATOWG", "M&SATOWGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATR16OG", "M&SATR16OG3DS", "M&SATT20OG", "SAT20OG"],
+    "other": ["RUNNERS", "RUMBLE", "MINECRAFT"]
+  },
+  "chocola": {
+    "name": "Chocola",
+    "species": "Chao",
+    "type": "supporting character",
+    "debut": "01/05/2004",
+    "main": ["HEROES"]
+  },
+
+  "deer": {
+    "name": "Deer",
+    "species": "Deer",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC"],
+    "other": ["SPP"]
+  },
+  "elephant": {
+    "name": "Elephant",
+    "species": "Elephant",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "gorilla": {
+    "name": "Gorilla",
+    "species": "Gorilla",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "kangaroo": {
+    "name": "Kangaroo",
+    "species": "Kangaroo",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "koala": {
+    "name": "Koala",
+    "species": "Koala",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"]
+  },
+  "lion": {
+    "name": "Lion",
+    "species": "Lion",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "mole": {
+    "name": "Mole",
+    "species": "Mole",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "RUSH"]
+  },
+  "parrot": {
+    "name": "Parrot",
+    "species": "Parrot",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "peacock": {
+    "name": "Peacock",
+    "species": "Peacock",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "penguin": {
+    "name": "Penguin",
+    "species": "Penguin",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "rabbit": {
+    "name": "Rabbit",
+    "species": "Rabbit",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "seal": {
+    "name": "Seal",
+    "species": "Seal",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+  "sea_otter": {
+    "name": "Sea Otter",
+    "species": "Sea Otter",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC"],
+    "other": ["SPP"]
+  },
+  "skunk": {
+    "name": "Skunk",
+    "species": "Skunk",
+    "type": "supporting character",
+    "debut": "09/09/1999",
+    "main": ["SA", "ADVANCE", "ADVANCE2", "SADXDC", "RUSH"],
+    "other": ["SPP"]
+  },
+
+  "yacker": {
+    "name": "Yacker",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_DS", "GENERATIONS", "SLW", "COLORS_ULTIMATE", "SXSG"],
+    "other": ["DASH", "RUNNERS", "RUMBLE"]
+  },
+  "white_wisp": {
+    "name": "White Wisp",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_DS", "GENERATIONS", "COLORS_ULTIMATE", "SXSG"],
+    "racing": ["SR", "CROSSWORLDS"],
+    "other": ["DASH", "RUNNERS", "SFSB"]
+  },
+  "cyan_wisp": {
+    "name": "Cyan Wisp",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_DS", "SLW", "SLW3DS", "COLORS_ULTIMATE"],
+    "racing": ["SR", "CROSSWORLDS"],
+    "other": ["DASH", "RUNNERS", "SFSB", "RUMBLE"]
+  },
+  "yellow_wisp": {
+    "name": "Yellow Wisp",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_DS", "SLW", "SLW3DS", "COLORS_ULTIMATE"],
+    "racing": ["SR", "CROSSWORLDS"],
+    "other": ["DASH", "RUNNERS", "SFSB", "RUMBLE"]
+  },
+  "orange_wisp": {
+    "name": "Orange Wisp",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_DS", "GENERATIONS", "SLW", "SXSG", "COLORS_ULTIMATE"],
+    "racing": ["SR"],
+    "other": ["DASH", "RUMBLE"]
+  },
+  "green_wisp": {
+    "name": "Green Wisp",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "SLW", "COLORS_ULTIMATE"],
+    "other": ["DASH"]
+  },
+  "blue_wisp": {
+    "name": "Blue Wisp",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_ULTIMATE"],
+    "racing": ["SR"],
+    "other": ["DASH", "SFSB", "RUMBLE"]
+  },
+  "pink_wisp": {
+    "name": "Pink Wisp",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "GENERATIONS", "SXSG", "COLORS_ULTIMATE"],
+    "racing": ["SR"],
+    "other": ["DASH", "SFSB", "RUMBLE"]
+  },
+  "purple_wisp": {
+    "name": "Purple Wisp",
+    "species": "Wisp",
+    "type":"supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_ULTIMATE"],
+    "other": ["DASH", "RUMBLE"]
+  },
+  "jade_wisp": {
+    "name": "Jade Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "debut": "09/07/2021",
+    "main": ["COLORS_ULTIMATE"],
+    "racing": ["TEAM", "SR"],
+    "other": ["DASH", "RUMBLE"]
+  },
+  "red_wisp": {
+    "name": "Red Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "main": ["COLORS_DS", "SLW3DS"],
+    "racing": ["SR"],
+    "other": ["SFSB"]
+  },
+  "violet_wisp": {
+    "name": "Violet Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "debut": "11/16/2010",
+    "main": ["COLORS_DS"],
+    "racing": ["SR", "CROSSWORLDS"]
+  },
+  "black_wisp": {
+    "name": "Black Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "debut": "10/29/2013",
+    "main": ["SLW"],
+    "racing": ["SR", "CROSSWORLDS"],
+    "other": ["SFSB", "RUMBLE"]
+  },
+  "crimson_wisp": {
+    "name": "Crimson Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "debut": "10/29/2013",
+    "main": ["SLW"],
+    "racing": ["SR"],
+    "other": ["SFSB", "RUMBLE"]
+  },
+  "indigo_wisp": {
+    "name": "Indigo Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "debut": "10/29/2013",
+    "main": ["SLW", "SLW3DS"],
+    "other": ["RUNNERS"]
+  },
+  "magenta_wisp": {
+    "name": "Magenta Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "debut": "10/29/2013",
+    "main": ["SLW"],
+    "racing": ["SR"],
+    "other": ["SFSB", "RUMBLE"]
+  },
+  "gray_wisp": {
+    "name": "Gray Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "debut": "10/29/2013",
+    "main": ["SLW3DS"],
+    "racing": ["SR"],
+    "other": ["SFSB", "RUMBLE"]
+  },
+  "ivory_wisp": {
+    "name": "Ivory Wisp",
+    "species": "Wisp",
+    "type": "supporting character",
+    "debut": "10/29/2013",
+    "main": ["SLW3DS"],
+    "racing": ["SR"],
+    "other": ["SFSB"]
+  }
+
+  
+
+
+  
+
+
+}

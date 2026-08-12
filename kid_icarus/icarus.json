@@ -1,0 +1,1255 @@
+{
+  "pit": {
+    "name": "Pit",
+    "type": "protagonist",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIOMAM", "KIU"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["KI3DA"],
+    "movies": ["CNTGM"],
+    "crossovers": ["T", "F-1_RACE", "WWSM", "SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"]
+  },
+  "palutena": {
+    "name": "Palutena",
+    "type": "deuteragonist",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIOMAM", "KIU"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["SMM", "YWW", "SMM3DS", "P&YWW"]
+  },
+  "dark_pit": {
+    "name": "Dark Pit",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["SMM", "YWW", "SMM3DS", "P&YWW"]
+  },
+  "viridi": {
+      "name": "Viridi",
+      "type": "deuteragonist",
+      "debut": "03/23/2012",
+      "main": ["KIU"],
+      "smash": ["SSB3DS", "SSBU"]
+  },
+  "dyntos": {
+    "name": "Dyntos",
+    "type": "supporting character",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSBU"]
+  },
+  "medusa": {
+    "name": "Medusa",
+    "type": "antagonist",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"],
+    "smash": ["SSB3DS", "SSBU"],
+    "shows": ["KI3DA"]
+  },
+  "pandora": {
+    "name": "Pandora",
+    "type": "antagonist",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"],
+    "smash": ["SSBU"]
+  },
+  "minotaur": {
+    "name": "Minotaur",
+    "type": "antagonist",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "skullwing": {
+    "name": "Skullwing",
+    "type": "antagonist",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "fire_serpent": {
+    "name": "Fire Serpent",
+    "type": "antagonist",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "orcos": {
+    "name": "Orcos",
+    "type": "antagonist",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "dark_lord_gaol": {
+    "name": "Dark Lord Gaol",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },  
+  "great_reaper": {
+    "name": "Great Reaper",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS"]
+  },
+  "hades": {
+    "name": "Hades",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "hades's_heart": {
+    "name": "Hades's Heart",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "thanatos": {
+    "name": "Thanatos",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS", "SSBU"],
+    "shows": ["KI3DA"]
+  },
+  "underworld_gatekeeper": {
+    "name": "Underworld Gatekeeper",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "arlon": {
+    "name": "Arlon",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS"]
+  },
+  "cragalanche": {
+    "name": "Cragalanche",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS"]
+  },
+  "forces_of_nature_guard": {
+    "name": "Forces of Nature Guard",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "lunar_sanctum_control_center": {
+    "name": "Lunar Sanctum Control Center",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "phosphora": {
+    "name": "Phosphora",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "reset_bomb": {
+    "name": "Reset Bomb",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS"]
+  },
+  "reset_bomb_pod": {
+    "name": "Reset Bomb Pod",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "aurum_brain": {
+    "name": "Aurum Brain",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "aurum_core": {
+    "name": "Aurum Core",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "aurum_generator": {
+    "name": "Aurum Generator",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "aurum_pyrrhon": {
+    "name": "Aurum Pyrrhon",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS"]
+  },
+  "pit's_body": {
+    "name": "Pit's Body",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "chariot_master": {
+    "name": "Dark Lord Gaol",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS"]
+  },
+  "great_sacred_treasure": {
+    "name": "Great Sacred Treasure",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "magnus": {
+    "name": "Magnus",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "phoenix": {
+    "name": "Phoenix",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "pseudo-palutena": {
+    "name": "Pseudo-Palutena",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS", "SSBU"],
+    "shows": ["KI3DA"]
+  },
+  "soul-eating_monster": {
+    "name": "Soul-Eating Monster",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"]
+  },
+  "space_kraken": {
+    "name": "Space Kraken",
+    "type": "antagonist",
+    "debut": "03/23/2012",
+    "main": ["KIU"],
+    "smash": ["SSB3DS"]
+  },
+  
+
+
+  "commyloose": {
+    "name": "Commylose",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "ganewmede": {
+    "name": "Ganewmede",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "kobil": {
+    "name": "Kobil",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "mcGoo": {
+    "name": "McGoo",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "monoeye": {
+    "name": "Monoeye",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"],
+    "smash": ["SSB3DS"]
+  },
+  "nettler": {
+    "name": "Nettler",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "twinbellows": {
+    "name": "Twinbellows",
+    "type": ["enemy", "antagonist"],
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "girin": {
+    "name": "Girin",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "hewdraw": {
+    "name": "Hewdraw",
+    "type": ["enemy", "antagonist"],
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "keron": {
+    "name": "Keron",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "mick": {
+    "name": "Mick",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "minos": {
+    "name": "Minos",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "pluton": {
+    "name": "Pluton",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "rokman": {
+    "name": "Rokman",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "shulm": {
+    "name": "Shulm",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "snowman": {
+    "name": "Snowman",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "tamambo": {
+    "name": "Tamambo",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "collin": {
+    "name": "Collin",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "eelEye": {
+    "name": "EelEye",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "holer": {
+    "name": "Holer",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "keepah": {
+    "name": "Keepah",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "komayto": {
+    "name": "Komayto",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIOMAM", "KIU"]
+  },
+  "octos": {
+    "name": "Octos",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "pluton_fly": {
+    "name": "Fluton Fly",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "tros": {
+    "name": "Tros",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "uranos": {
+    "name": "Uranos",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "daphne": {
+    "name": "Daphne",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"],
+    "smash": ["SSB3DS"]
+  },
+  "eirnus": {
+    "name": "Eirnus",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "moila": {
+    "name": "Moila",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "syren": {
+    "name": "Syren",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"]
+  },
+  "tanatos": {
+    "name": "Tanatos",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI"]
+  },
+  "totem": {
+    "name": "Totem",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIOMAM"]
+  },
+  "zuree": {
+    "name": "Zuree",
+    "type": "enemy",
+    "debut": "07/01/1987",
+    "main": ["KI", "KIU"],
+    "smash": ["SSB3DS"]
+  },
+
+  "cyclops_skull": {
+    "name": "Cyclops Skull",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "king_krab": {
+    "name": "King Krab",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "wormser": {
+    "name": "Wormser",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "big_toe": {
+    "name": "Big Toe",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "cyclops_hopper": {
+    "name": "Cyclops Hopper",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "globe": {
+    "name": "Globe",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "gruff": {
+    "name": "Gruff",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "sticky_talon": {
+    "name": "Sticky Talon",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "lunus": {
+    "name": "Lunus",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "merc": {
+    "name": "Merc",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "octus": {
+    "name": "Octus",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "busy_bee": {
+    "name": "Busy Bee",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "putt": {
+    "name": "Putt",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "pythagoras": {
+    "name": "Pythagoras",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "shadow_mask": {
+    "name": "Shadow Mask",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "eggplant_wizard": {
+    "name": "Eggplant Wizard",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM", "KIU"],
+    "smash": ["SSBU"]
+  },
+  "fireball": {
+    "name": "Fireball",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "fuzz_ball": {
+    "name": "Fuzz Ball",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "gubble": {
+    "name": "Gubble",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "slime": {
+    "name": "Slime",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "spunky": {
+    "name": "Spunky",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "stone_golem": {
+    "name": "Stone Golem",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "bat": {
+    "name": "Bat",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "reapette": {
+    "name": "Reapette",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"],
+    "smash": ["SSBU"]
+  },
+  "snake": {
+    "name": "Snake",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+  "spitball_blob": {
+    "name": "Spitball Blob",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM"]
+  },
+
+  "armin": {
+    "name": "Armin",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "belunka": {
+    "name": "Belunka",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "bluster": {
+    "name": "Bluster",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "boogity": {
+    "name": "Boogity",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "brawny": {
+    "name": "Brawny",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "claws": {
+    "name": "Claws",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "bumbledrop": {
+    "name": "Bumbledrop",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "clubberskull": {
+    "name": "Clubberskull",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "crawler": {
+    "name": "Crawler",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "erinus": {
+    "name": "Erinus",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "fire_wyrm": {
+    "name": "Fire Wyrm",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "fort_oink": {
+    "name": "Fort Oink",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "frozum": {
+    "name": "Frozum",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "gloomerang": {
+    "name": "Gloomerang",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "guttler": {
+    "name": "Guttler",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "gyrazer": {
+    "name": "Gyrazer",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "handora": {
+    "name": "Handora",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "igniot": {
+    "name": "Igniot",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "leox": {
+    "name": "Leox",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "magmoo": {
+    "name": "Magmoo",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "mega_mussel": {
+    "name": "Mega Mussel",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "merengy": {
+    "name": "Merengy",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "mik": {
+    "name": "Mik",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "monolith": {
+    "name": "Monolith",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "monomiknose": {
+    "name": "Monomiknose",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "orne": {
+    "name": "Orne",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "paramush": {
+    "name": "Paramush",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "petribomber": {
+    "name": "Petribomber",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "phils": {
+    "name": "Phils",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },  
+  "porcuspine": {
+    "name": "Porcuspine",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "reaper": {
+    "name": "Reaper",
+    "type": "enemy",
+    "debut": "11/05/1991",
+    "main": ["KIOMAM", "KIOMAM"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "remoblam": {
+    "name": "Remoblam",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "shelbo": {
+    "name": "Shelbo",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "shemum": {
+    "name": "Shemum",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "shildeen": {
+    "name": "Shildeen",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "shootfly": {
+    "name": "Shootfly",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "shrip": {
+    "name": "Shrip",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "sinistew": {
+    "name": "Sinistew",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "skuttler": {
+    "name": "Skuttler",
+    "type": "enemy",
+    "variants": ["Skuttler Cannoneer", "Skuttler Mage"],
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "snong": {
+    "name": "Snong",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "specknose": {
+    "name": "Specknose",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "splin": {
+    "name": "Splin",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "stackjaw": {
+    "name": "Stackjaw",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "tempura_wizard": {
+    "name": "Tempura Wizard",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "tortolunk": {
+    "name": "Tortolunk",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "trailtail": {
+    "name": "Trailtail",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "vakloom": {
+    "name": "Vakloom",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "wave_angler": {
+    "name": "Wave Angler",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "zik_&_zak": {
+    "name": "Zik & Zak",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "zurret": {
+    "name": "Zurret",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "badoot": {
+    "name": "Badoot",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "blader": {
+    "name": "Blader",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "boom_stomper": {
+    "name": "Boom Stomper",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "bumpety_bomb": {
+    "name": "Bumpety Bomb",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "cacaw": {
+    "name": "Cacaw",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "captain_flare": {
+    "name": "Captain Flare",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "clobbler": {
+    "name": "Clobbler",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "dibble_dop": {
+    "name": "Dibble Dop",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "flage": {
+    "name": "Flage",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "hugworm": {
+    "name": "Hugworm",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "jitterhug": {
+    "name": "Jitterhug",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "lethinium": {
+    "name": "Lethinium",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "lurchthorn": {
+    "name": "Lurchthorn",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "mahva": {
+    "name": "Mahvaa",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "meeba": {
+    "name": "Meeba",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "megonta": {
+    "name": "Megonta",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "mudrone": {
+    "name": "Mudrone",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "nutski": {
+    "name": "Nutski",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "parashooter": {
+    "name": "Parashooter",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "pew_pew": {
+    "name": "Pew Pew",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "pip": {
+    "name": "Pip",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "skreetle": {
+    "name": "Skreetle",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "toxiecap": {
+    "name": "Toxiecap",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "trynamite": {
+    "name": "Trynamite",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "urgle": {
+    "name": "Urgle",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "zert": {
+    "name": "Zert",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "aurum_clone": {
+    "name": "Aurum Clone",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "baglo": {
+    "name": "Baglo",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "biota": {
+    "name": "Biota",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "blit": {
+    "name": "Blit",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "claxis": {
+    "name": "Claxis",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "dohz": {
+    "name": "Dohz",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "jyok": {
+    "name": "Jyok",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "kolma": {
+    "name": "Kolma",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "nukleen": {
+    "name": "Nukleen",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "plixo": {
+    "name": "Plixo",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "quoil": {
+    "name": "Quoil",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "rezda": {
+    "name": "Rezda",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "roz": {
+    "name": "Roz",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "sio": {
+    "name": "Sio",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "taklax": {
+    "name": "Taklax",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "tribyte": {
+    "name": "Tribyte",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "xoneme": {
+    "name": "Xoneme",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "zaurum": {
+    "name": "Zaurum",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "zrink": {
+    "name": "Zrink",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "centurion": {
+    "name": "Centurion",
+    "type": "supporting character",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS", "SSBU"],
+    "shows": ["KI3DA"]
+  },
+  "centurion_knight": {
+    "name": "Centurion Knight",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "centurion_strongarm": {
+    "name": "Centurion Strongarm",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "juggernaut": {
+    "name": "Juggernaut",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "shadow_pit": {
+    "name": "Shadow Pit",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  },
+  "mimicutie": {
+    "name": "Mimicutie",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "souflee": {
+    "name": "Souflee",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS", "SSBWIIU"]
+  },
+  "space_pirate": {
+    "name": "Space Pirate",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"],
+    "smash": ["SSB3DS"]
+  },
+  "treasurefish": {
+    "name": "Treasurefish",
+    "type": "enemy",
+    "debut": "03/23/2012",
+    "main": ["KIOMAM"]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "kirby": {
+    "name": "Kirby",
+    "type": "protagonist",
+    "debut": "08/01/1992",
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KDC", "KAV", "KBB", "KSST", "KTNT", "KAR", "KCC", "KEY", "KMA", "DDDD", "KFD", "KATRC", "TKCD", "KBLB", "KBR", "SKC", "KEEY", "KF2", "KDB", "KARS"],
+    "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["KRBAY"],
+    "mobile": ["NT"],
+    "other": ["ARCANA", "LA", "LAGBC", "LANS", "EB", "KTB", "KS", "PS2", "SPMP", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "P3DR2", "OPSGBX", "BB!", "MII16", "MII21", "BBBT", "TNTDNF"]
+  },
+   
+  "king_dedede": {
+    "name": "King Dedede",
+    "type": ["antagonist", "protagonist"],
+    "debut": "08/01/1992",
+    "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KAV", "KBB", "KSST", "KTNT", "KAR", "KCC", "KEY", "KMA", "DDDD", "KBLB", "KBR", "KEEY", "SKC", "KF2", "KDB", "KARS"],
+    "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["KRBAY"],
+    "mobile": ["NT"],
+    "other": ["KTB", "M&LSS", "SPMP", "SG", "SMM", "YWW", "SMM3DS", "P&YWW", "P3DR2", "BBBT"]
+  },
+  "meta_knight": {
+    "name": "Meta Knight",
+    "type": ["antagonist", "protagonist"],
+    "debut": "05/01/1993",
+    "main": ["KA", "KSS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KPL", "KDC", "KAV", "KSST", "KAR", "KCC", "KEY", "KMA", "KATRC", "KEEY", "SKC", "KF2", "KARS"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["KRBAY"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "P3DR2", "BBBT", "SMM", "YWW", "SMM3DS", "P&YWW"]
+  },
+  "nightmare": {
+    "name": "Nightmare",
+    "type": "antagonist",
+    "debut": "05/01/1993",
+    "main": ["KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "rick": {
+    "name": "Rick",
+    "type": "supporting character",
+    "debut": "05/01/1995",
+    "main": ["KDL2", "KDL3", "TCS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KSST", "KCC", "KMA", "KFD", "KATRC", "TKCD", "KBR", "SKC", "KF2", "KDB", "KARS"],
+    "smash": ["SSBM", "SSBU"],
+    "shows": ["KRBAY"],
+    "other": ["KTB", "SPMP"]
+  },
+  "kine": {
+    "name": "Kine",
+    "type": "supporting character",
+    "debut": "05/01/1995",
+    "main": ["KDL2", "KDL3", "TCS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KSST", "KCC", "KMA", "KFD", "KATRC", "TKCD", "KBR", "SKC", "KF2", "KDB", "KARS"],
+    "smash": ["SSBU"],
+    "shows": ["KRBAY"],
+    "other": ["SPMP"]
+  },
+  "coo": {
+    "name": "Coo",
+    "type": "supporting character",
+    "debut": "05/01/1995",
+    "main": ["KDL2", "KDL3", "TCS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KSST", "KCC", "KMA", "KFD", "KATRC", "KBR", "SKC", "KF2", "KDB", "KARS"],
+    "smash": ["SSBU"],
+    "shows": ["KRBAY"],
+    "other": ["SPMP"]
+  },
+  "gooey": {
+    "name": "Gooey",
+    "type": "supporting character",
+    "debut": "05/01/1995",
+    "main": ["KDL2", "KDL3", "KDCSE", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["SKC", "KF2", "KDB", "KARS"],
+    "smash": ["SSBM", "SSBU"]
+  },
+  "dark_matter": {
+    "name": "Dark Matter",
+    "type": "antagonist",
+    "debut": "05/01/1995",
+    "main": ["KDL2", "KDL3", "TCS", "KSQS", "KSSU", "KDCSE", "KTD", "KPR", "KSA"],
+    "spinoff": ["KCC", "KMA", "TKCD", "SKC", "KDB"],
+    "smash": ["SSBU"]
+
+  },
+  "bandana_waddle_dee": {
+    "name": "Bandana Waddle Dee",
+    "type": ["protagonist", "supporting character"],
+    "debut": "09/20/1996",
+    "main": ["KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"], 
+    "spinoff": ["KMA", "KATRC", "TKCD", "KBR", "KBLB", "SKC", "KF2", "KDB", "KARS"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP"]
+
+    
+  },
+  "dyna_blade": {
+    "name": "Dyna Blade",
+    "type": ["antagonist", "supporting character", "boss"],
+    "debut": "09/20/1996",
+    "main": ["KSS", "KTD", "KPR", "KSA"],
+    "spinoff": ["KAR", "KMA", "KFD", "KBR", "SKC",  "KF2", "KDB", "KARS"],
+    "smash": ["SSBB", "SSBU"],
+    "shows": ["KRBAY"]
+
+  },
+  "galactic_nova": {
+    "name": "Galactic Nova",
+    "type": ["antagonist", "supporting character"],
+    "debut": "09/20/1996",
+    "main": ["KSS", "KPR", "KATL", "SCW", "KRTDLDX"],
+    "spinoff": ["SKC", "KARS"]
+    
+  },
+  "marx": {
+    "name": "Marx",
+    "type": ["antagonist", "supporting character"],
+    "debut": "09/20/1996",
+    "variants": ["Mini Marx"],
+    "main": ["KSS", "KSQS", "KRTDL", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KMA", "SKC", "KDB", "KARS"],
+    "smash": ["SSBU"]
+  },
+  "mr.star": {
+    "name": "Mr. Star",
+    "type": ["supporting character"],
+    "debut": "04/07/1997",
+    "main": ["KPR"],
+    "spinoff": ["KSST", "KDB"]
+  },
+  "nago": {
+    "name": "Nago",
+    "type": "supporting character",
+    "debut": "11/27/1997",
+    "main": ["KDL3", "TCS", "KDCSE", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KDB"],
+    "smash": ["SSBU"]
+  },
+  "chuchu": {
+    "name": "ChuChu",
+    "type": "supporting character",
+    "debut": "11/27/1997",
+    "main": ["KDL3", "TCS", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KCC", "SKC", "KDB"],
+    "smash": ["SSBU"]
+  },
+  "pitch": {
+    "name": "Pitch",
+    "type": "supporting character",
+    "debut": "11/27/1997",
+    "main": ["KDL3", "TCS", "KDCSE", "KPR", "KSA", "KRTDLDX"],
+    "smash": ["SSBU"]
+  },
+  "zero": {
+    "name": "Zero",
+    "type": "antagonist",
+    "debut": "11/27/1997",
+    "main": ["KDL3", "KDCSE", "KPR", "KSA"],
+    "spinoff": ["KDB"]
+  },
+  "gryll": {
+    "name": "Gryll",
+    "type": "antagonist",
+    "debut": "06/25/1999",
+    "main":  ["KPR", "KSA"],
+    "spinoff": ["KSST", "KDB"],
+    "smash": ["SSBU"]
+  },
+  "ribbon": {
+    "name": "Ribbon",
+    "type": "supporting character",
+    "debut": "06/26/2000",
+    "main": ["TCS", "KDCSE", "KPR", "KSA"]
+  },
+  "Adeleine": {
+    "name": "Adeleine",
+    "type":"supporting character",
+    "debut": "06/26/2000",
+    "main": ["TCS", "KDCSE", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["SKC", "KDB"]
+  },
+  "02": {
+    "name": "02",
+    "type": "antagonist",
+    "debut": "06/26/2000",
+    "main": ["TCS", "KDCSE", "KSA"]
+  },
+  "shadow_kirby": {
+    "name": "Shadow Kirby",
+    "type": ["supporting character", "antagonist"],
+    "debut": "10/18/2004",
+    "main": ["K&TAM", "KSQS", "KTD", "KSA", "KATFL", "SCW", "KRTDLDX"],
+    "spinoff": ["KFD", "SKC", "KF2", "KDB"]
+  },
+  "dark_meta_knight": {
+    "name": "Dark Meta Knight",
+    "type": ["supporting character", "antagonist"],
+    "debut": "10/18/2004",
+    "main": ["K&TAM", "KSSU", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["SKC", "KDB"]
+  },
+  "dark_mind": {
+    "name": "Dark Mind",
+    "type": ["antagonist"],
+    "debut": "10/18/2004",
+    "copy": ["Master", "Fire", "Ice", "Spark", "Mix", "Crash"],
+    "main": ["K&TAM", "KSQS", "KTD", "KSA"],
+    "spinoff": ["KDB", "KARS", "KDB"],
+    "smash": ["SSBU"]
+  },
+  "drawica": {
+    "name": "Drawcia",
+    "type": ["antagonist"],
+    "debut": "06/13/2005",
+    "main": ["KSSU", "KTD", "KPR", "KSA", "KRTDL"],
+    "spinoff": ["KCC", "KATRC", "TKCD", "KDB"]
+  },
+  "daroach": {
+    "name": "Daroach",
+    "type": ["supporting character", "antagonist"],
+    "debut": "12/04/2006",
+    "main": ["KSQS", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KMA", "KBR", "SKC", "KF2", "KDB", "KARS"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "dark_nebula": {
+    "name": "Dark Nebula",
+    "type": "antagonist",
+    "debut": "12/04/2006",
+    "main": ["KSQS", "KTD", "KSA", "KRTDLDX"],
+    "spinoff": ["SKC", "KDB"]
+  },
+  "galacta_knight": {
+    "name": "Galacta Knight",
+    "type": "antagonist",
+    "debut": "09/22/2008",
+    "main": ["KSSU", "KRTDL", "KTD", "KPR", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["SKC", "KDB", "KARS"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "prince_fluff": {
+    "name": "Prince Fluff",
+    "type": "supporting character",
+    "debut": "10/17/2010",
+    "main": ["KPR"],
+    "spinoff": ["KEY", "KEEY", "KDB"],
+    "smash": ["SSBU"],
+    "other": ["SPMP"]
+  },
+  "yin-yarn": {
+    "name": "Yin-Yarn",
+    "type": "antagonist",
+    "debut": "10/17/2010",
+    "main": ["KTD", "KSA"],
+    "spinoff": ["KEY", "KEEY", "KDB"]
+  },
+  "necrodeus": {
+    "name": "Necrodeus",
+    "type": "antagonist",
+    "debut": "09/19/2011",
+    "main": ["KSA"],
+    "spinoff": ["KMA"]
+  },
+  "magolor": {
+    "name": "Magolor",
+    "type": ["antagonist", "supporting character"],
+    "debut": "10/24/2011",
+    "main": ["KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["DDDD", "TKCD", "SKC", "KF2", "KDB", "KARS"],
+    "smash": ["SSBWIIU", "SSBU"],
+    "mobile": ["NT"]
+  },
+  "landia": {
+    "name": "Landia",
+    "type": ["antagonist", "supporting character"],
+    "debut": "10/24/2011",
+    "main": ["KRTDL", "KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["TKCD", "SKC"],
+    "smash": ["SSBU"]
+  },
+  "taranza": {
+    "name": "Taranza",
+    "type": ["antagonist", "supporting character"],
+    "debut": "05/02/2014",
+    "main": ["KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["DDDD", "TKCD", "KBR", "SKC", "KDB", "KARS"],
+    "mobile": ["NT"]
+  },
+  "queen_sectionia": {
+    "name": "Queen Sectionia",
+    "type": "antagonist",
+    "debut": "05/02/2014",
+    "main": ["KTD", "KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KBR", "SKC", "KF2"],
+    "smash": ["SSBU"]
+  },
+  "elline": {
+    "name": "Elline",
+    "type": "supporting character",
+    "debut": "02/20/2015",
+    "main": ["KPR"],
+    "spinoff": ["KATRC", "KF2", "KDB", "KARS"],
+    "smash": ["SSBU"]
+  },
+  "claycia": {
+    "name": "Claycia",
+    "type": ["antagonist", "supporting character"],
+    "debut": "02/20/2015",
+    "spinoff": ["KATRC", "KDB"]
+  },
+  "dark_crafter": {
+    "name": "Dark Crafter",
+    "type": "antagonist",
+    "debut": "02/20/2015",
+    "main": ["KSA"],
+    "spinoff": ["KATRC"]
+  },
+  "susie": {
+    "name": "Susie",
+    "type": ["antagonist", "supporting character"],
+    "debut": "06/10/2016",
+    "main": ["KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["TKCD", "KBLB", "KBR", "SKC", "KDB", "KARS"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "haltmann": {
+    "name": "President Haltmann",
+    "type": "antagonist",
+    "debut": "06/10/2016",
+    "main": ["KPR", "KSA", "KRTDLDX"],
+    "spinoff": ["KDB"]
+  },
+  "star_dream": {
+    "name": "Magolor",
+    "type": "antagonist",
+    "debut": "06/10/2016",
+    "main": ["KPR", "KSA"]
+  },
+  "francisca": {
+    "name": "Francisca",
+    "type": ["antagonist", "supporting character"],
+    "debut": "03/16/2018",
+    "main": ["KSA", "KRTDLDX"],
+    "spinoff": ["SKC", "KF2", "KDB"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "flamberge": {
+    "name": "Flamberge",
+    "type": ["antagonist", "supporting character"],
+    "debut": "03/16/2018",
+    "main": ["KSA", "KRTDLDX"],
+    "spinoff": ["SKC", "KF2", "KDB"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "zan_partizanne": {
+    "name": "Zan Partizanne",
+    "type": ["antagonist", "supporting character"],
+    "debut": "03/16/2018",
+    "main": ["KSA", "KRTDLDX"],
+    "spinoff": ["SKC", "KF2", "KDB"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "hyness": {
+    "name": "Hyness",
+    "type": "antagonist",
+    "debut": "03/16/2018",
+    "main": ["KSA", "KRTDLDX"],
+    "spinoff": ["SKC"]
+  },
+  "void_termina": {
+    "name": "Void Termina",
+    "type": "antagonist",
+    "debut": "03/16/2018",
+    "main": ["KSA"],
+    "spinoff": ["KDB"]
+  },
+  "morpho_knight": {
+    "name": "Morpho Knight",
+    "type": "antagonist",
+    "debut": "03/16/2018",
+    "main": ["KSA", "KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["SKC", "KDB"]
+  },
+  "paallel_nightmare": {
+    "name": "Paallel Nightmare",
+    "type": "antagonist",
+    "debut": "09/05/2019",
+    "spinoff": ["SKC", "KDB"]
+  },
+  "elfillin": {
+    "name": "Elfillin",
+    "type": "supporting character",
+    "debut": "03/25/2022",
+    "main": ["KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KDB", "KARS"],
+    "mobile": ["NT"]
+  },
+  "clawroline": {
+    "name": "Clawroline",
+    "type": "supporting character",
+    "debut": "03/25/2022",
+    "main": ["KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KDB"]
+  },
+  "leongar": {
+    "name": "Leongar",
+    "type": "antagonist",
+    "debut": "03/25/2022",
+    "main": ["KATFL", "KRTDLDX", "SCW"],
+    "spinoff": ["KDB"]
+  },
+  "fecto_forgo": {
+    "name": "Fecto Forgo",
+    "type": "antagonist",
+    "debut": "03/25/2022",
+    "main": ["KATFL", "SCW"]
+  },
+  "starry": {
+    "name": "Starry",
+    "type": "supporting character",
+    "debut": "08/28/2025",
+    "main": ["SCW"]
+  },
+  "genwel_meteonelfilis": {
+    "name": "Genwel Meteonelfillis",
+    "type": "antagonist",
+    "debut": "08/28/2025",
+    "main": ["SCW"]
+  },
+  "zorah": {
+    "name": "Zorah",
+    "type": ["supporting character", "antagonist"],
+    "debut": "11/20/2015",
+    "spinoff": ["KARS"]
+  }
+
+
+}

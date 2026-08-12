@@ -1,0 +1,231 @@
+{
+  "ninten": {
+    "name": "Ninten",
+    "type": "protagonist",
+    "debut": "07/27/1989",
+    "main": ["EBB"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "ana": {
+    "name": "Ana",
+    "type": "protagonist",
+    "debut": "07/27/1989",
+    "main": ["EBB"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "lloyd": {
+    "name": "Lloyd",
+    "type": "protagonist",
+    "debut": "07/27/1989",
+    "main": ["EBB"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "teddy": {
+    "name": "Teddy",
+    "type": "protagonist",
+    "debut": "07/27/1989",
+    "main": ["EBB", "SSBU"]
+  },
+
+  "ness": {
+    "name": "Ness",
+    "type": "protagonist",
+    "debut": "08/27/1994",
+    "main": ["EB"],
+    "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["SMM", "YWW", "SMM3DS", "P&YWW", "MII16", "MII21"]
+  },
+  "paula": {
+    "name": "Paula",
+    "type": "protagonist",
+    "debut": "08/27/1994",
+    "main": ["EB"],
+    "smash": ["SSBM", "SSBB", "SSBU"]
+  },
+  "jeff": {
+    "name": "Jeff",
+    "type": "protagonist",
+    "debut": "08/27/1994",
+    "main": ["EB"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "poo": {
+    "name": "Poo",
+    "type": "protagonist",
+    "debut": "08/27/1994",
+    "main": ["EB"],
+    "smash": ["SSBM", "SSBB", "SSBU"]
+  },
+  "lucas": {
+    "name": "Lucas",
+    "type": "protagonist",
+    "debut": "04/20/2006",
+    "main": ["M3"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["SMM", "SMM3DS", "P&YWW"]
+  },
+  "duster": {
+    "name": "Duster",
+    "type": "protagonist",
+    "debut": "04/20/2006",
+    "main": ["M3"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "kumatora": {
+    "name": "Kumatora",
+    "type": "protagonist",
+    "debut": "04/20/2006",
+    "main": ["M3"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "claus": {
+    "name": "Claus",
+    "type": "protagonist",
+    "debut": "04/20/2006",
+    "main": ["M3"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "flint": {
+    "name": "Flint",
+    "type": "protagonist",
+    "debut": "04/20/2006",
+    "main": ["M3"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "salsa": {
+    "name": "Salsa",
+    "type": "protagonist",
+    "debut": "04/20/2006",
+    "main": ["M3"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  
+
+  "pippi": {
+    "name": "Pippi",
+    "type": "supporting character",
+    "debut": "07/27/1989",
+    "main": ["EBB"]
+  },
+  "flying_man": {
+    "name": "Flying Man",
+    "type": "supporting character",
+    "debut": "07/27/1989",
+    "main": ["EBB"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "eve": {
+    "name": "EVE",
+    "type": "supporting character",
+    "debut": "07/27/1989",
+    "main": ["EBB"],
+    "smash": ["SSBU"]
+  },
+  "giegue": {
+    "name": "Giegue",
+    "type": "antagonist",
+    "debut": "07/27/1989",
+    "main": ["EBB"]
+  },
+
+  "dr.andonuts": {
+    "name": "Dr. Andonuts",
+    "type": "supporting character",
+    "debut": "08/27/1994",
+    "main": ["EB"]
+  },
+  "porky_minch": {
+    "name": "Porky Minch",
+    "type": "enemy",
+    "debut": "08/27/1994",
+    "main": ["EB"],
+    "smash": ["SSBB", "SSBWIIU"]
+  },
+  "giygas": {
+    "name": "Giygas",
+    "type": "antagonist",
+    "debut": "08/27/1994",
+    "main": ["EB"]
+  },
+  "apple_kid": {
+    "name": "Apple Kid",
+    "type": "supporting character",
+    "debut": "08/27/1994",
+    "main": ["EB"]
+  },
+
+  "aeolia": {
+    "name": "Aeolia",
+    "type": "supporting character",
+    "debut": "04/20/2006",
+    "main": ["M3"]
+  },
+  "doria": {
+    "name": "Doria",
+    "type": "supporting character",
+    "debut": "04/20/2006",
+    "main": ["M3"]
+  },
+  "ionia": {
+    "name": "Ionia",
+    "type": "supporting character",
+    "debut": "04/20/2006",
+    "main": ["M3"]
+  },
+  "lydia": {
+    "name": "Lydia",
+    "type": "supporting character",
+    "debut": "04/20/2006",
+    "main": ["M3"]
+  },
+  "mixolydia": {
+    "name": "Mixolydia",
+    "type": "supporting character",
+    "debut": "04/20/2006",
+    "main": ["M3"]
+  },
+  "phrygia": {
+    "name": "Phrygia",
+    "type": "supporting character",
+    "debut": "04/20/2006",
+    "main": ["M3"]
+  },
+  "locria": {
+    "name": "Locria",
+    "type": "supporting character",
+    "debut": "04/20/2006",
+    "main": ["M3"]
+  },
+
+  "mr.saturn": {
+    "name": "Mr. Saturn",
+    "type": "minor character",
+    "debut": "08/27/1994",
+    "main": ["EB"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["SMM", "SMM3DS"]
+  },
+  "master_belch": {
+    "name": "Master Belch",
+    "type": "minor character",
+    "debut": "08/27/1994",
+    "main": ["EB"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["SMM", "SMM3DS"]
+  },
+  "starman": {
+    "name": "Starman",
+    "type": "minor character",
+    "debut": "07/27/1989",
+    "main": ["EBB", "EB"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "starman_dx": {
+    "name": "Starman DX",
+    "type": "minor character",
+    "debut": "08/27/1994",
+    "main": ["EB"]
+  }
+
+
+}

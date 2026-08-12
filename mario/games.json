@@ -1,0 +1,51 @@
+Lava{
+  "NES": {
+      "games": ["DK", "MB", "SMB", "TLL", "SMB2", "SMB3", "NESOTG", "Y", "YC"]
+  },
+  "GB": {
+    "games": ["SML", "SML2", "SML3", "MPI", "DKL", "DKL2", "G&WG", "G&WG2", "DKL3", "WL2"]
+  },
+  "SNES": {
+    "games": ["SMW", "MPNT", "SMK", "YS", "M&W", "DKC", "WW", "SMW2", "MSP", "DKC2", "SMRPG", "DKC3"]
+    
+  },
+  "VB": {
+    "games": ["MT", "MC", "VBWL"]
+  },
+  "N64": {
+    "games": ["SM64", "MK64", "DKR", "YST", "MP", "SSB", "MG", "DK64", "MP2", "PM", "MP3", "DM64"]
+  },
+  "GBC": {
+    "games": ["SMBDLC", "G&WG3", "MGGBC", "DKGB", "WL3", "MTGBC", "MF"]
+  },
+  "GBA": {
+    "games": ["SMA", "MKSC", "WL4", "SMA2", "SMA3", "MPE", "WWIMM", "SMA4", "M&LSS", "MGAT", "MVSDK", "MPL", "WWT", "YTT", "MPA", "DKKOS", "MTPT"]
+  },  
+  "GCN": {
+    "games": ["LM", "SSBM", "SMS", "MP4", "NPC", "WW", "MGTT", "WWIMPG", "MKDD", "MP5", "DKO", "DKO2", "PMTTYD", "MPT", "MP6", "DKJB", "DKO3", "MSB", "MP7", "SMST"]
+  },
+  "DS": {
+    "games": ["SM64DS", "WWTO", "YT&G", "YDS", "SPP", "MKDS", "M&LPIT", "TDS", "NSMB", "MH3O3", "MOTMI", "YIDS", "DKRDS", "ISDS", "DKJC", "MPDS", "M&SATOGDS", "M&LBIS", "MMA", "WWbulbY", "M&SATOWGDS", "MLM"]
+  },
+  "WII": {
+    "games": ["WWSM", "SPM", "MSTC", "MP8", "DKBB", "SMG", "M&SATOG", "SSBB", "MKWII", "MSSL", "WLSI", "NPCMPT", "M&SATOWG", "NSMBW", "SMG2", "DKCR", "MSM", "M&SATL12OG", "FS", "MP9"]
+  },
+  "3DS": {
+    "games": ["SM3DL", "MK7", "M&SATL12OG3DS", "MTO", "NSMB2", "PMST", "LM2", "DKCR3D", "M&LDT", "MPIT", "YNI", "MGWT", "SSB3DS", "TS3DS", "P&D", "M&LPJ", "M&SATR16OG3DS", "MPSR", "SMM3DS", "P&YWW", "MSS", "MQ", "MPT100", "CTTT3DS", "WWG", "LM3DS", "BJJ"]
+  },
+  "WIIU": {
+    "games": ["NSMBU", "NL", "G&W", "NSLU", "SLW", "M&SATS14OWG", "SM3DW", "DKCTF", "MK8", "CTTT", "SSBWIIU", "TS", "MP10", "YWW", "SMM", "MTUS", "SMMUP", "M&SATR16OG", "PMCS"]
+  },
+  "NS": {
+    "games": ["MK8D", "MRKB", "SMO", "DKCTFNS", "MTA", "CTTTNS", "SMP", "SSBU", "NSMBUD", "YCW", "SMM2", "LM3", "M&SATT20OG", "PMOK", "SM3DAS", "BF", "MGSR", "MPST", "MSTBL", "MRSOH", "SMBW", "SMRPGNS", "PPST", "PMTTYDNS", "LM2HD", "SMPJ", "M&LBS", "SMG1&2"]
+  },
+  "NS2": {
+    "games": ["MKW", "DKB", "MTF", "Y&TMB"]
+  },
+  "PC": {
+
+  },
+  "MOBILE": {
+    "games": ["SMR", "DMW", "MKT"]
+  }
+}

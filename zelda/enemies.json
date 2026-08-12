@@ -1,0 +1,2065 @@
+{
+  "armos": {
+    "name": "Armos",
+    "type": "enemy",
+    "variants": ["Death Armos", "Armos Knight", "Totem Armos", "Dark Totem Armos"],
+    "colors": ["red", "blue"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "LA", "LAGBC", "ALttpDX", "OoT", "MM", "OoS", "OoA", "FS", "TWW", "FSA", "TMC", "TP", "PH", "ST", "OoT3D", "SS", "TWWHD", "ALBW", "MM3D", "TPHD", "LANS", "SSHD", "EOW"],
+    "spinoff": ["TFOE", "TWOG", "AST", "COH"],
+    "shows": ["TLoZ"],
+    "other": ["NMP"]
+  },
+  "leever": {
+    "name": "Leever",
+    "type": "enemy",
+    "colors": ["blue", "yellow", "green", "purple", "orange", "red"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "AlttP", "LA", "LAGBC", "ALttpDX", "OoT", "MM", "OoS", "OoA", "TMC", "TP", "OoT3D", "ALBW", "MM3D", "TPHD", "LANS", "EOW"],
+    "spinoff": ["ADVENTURE", "AST", "LCT", "COH"]
+  },
+  "lynel": {
+    "name": "Lynel",
+    "type": "enemy",
+    "variants": ["Electric Lynel", "Fire Lynel", "Ice Lynel", "Vicious Lynel"],
+    "colors": ["red", "blue", "golden", "black", "white", "silver"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "ALttpDX", "OoS", "OoA", "ALBW", "BOTW", "TOTK", "BOTWNS", "TOTKNS", "EOW"],
+    "spinoff": ["AOC", "AOI"],
+    "shows": ["TLoZ"],
+    "mobile": ["NT"]
+  },
+  "octorok": {
+    "name": "Octorok",
+    "type": "enemy",
+    "variants": ["Big Octro", "Octro", "Fire Octo", "Ice Octo", "Mucktotok", "Ocean Octorok", "Octomine", "Octive", "Grass Octorok", "Rock Octorok", "Sky Octorok", "Dark Octorok", "Forest Octorok", "Snow Octorok", "Treasure Octorok"],
+    "colors": ["blue", "red", "golden", "purple", "yellow", "black"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "AlttP", "ALttpDX", "LA", "LAGBC", "OoT", "MM", "OoS", "OoA", "FS", "TWW", "FSA", "TMC", "PH", "ST", "OoT3D", "SS", "ALBW", "MM3D", "TFH", "BOTW", "LANS", "SSHD", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE", "AST", "COH", "AOC", "AOI"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBU"],
+    "shows": ["TLoZ"],
+    "other": ["CNB",  "TDS", "WWI", "WWTW", "WWDIY"]
+
+  },
+  "tektite": {
+    "name": "Tektite",
+    "type": "enemy",
+    "variants": ["Water Tektite", "Rocktite"],
+    "colors": ["black", "blue", "golden", "red", "white"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "AlttP", "ALttpDX", "LA", "LAGBC", "LAGBC", "OoT", "OoS", "OoA", "FS", "FSA", "TMC", "TP", "PH", "ST", "OoT3D", "ALBW", "TFH", "TPHD", "LANS", "EOW"],
+    "spinoff": ["ADVENTURE", "AST", "LCT", "COH"],
+    "smash": ["SSBU"],
+    "other": ["NL"],
+    "shows": ["TLoZ"]
+  },
+  "ghini": {
+    "name": "ghini",
+    "type": "enemy",
+    "variants": ["Giant Ghini", "Dark Ghini", "Light Ghini"],
+    "colors": ["pink", "black"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "LA", "LAGBC", "OoS", "OoA", "FS", "TMC", "ALBW", "TFH", "LANS", "EOW"],
+    "spinoff": ["TFOE", "TWOG"],
+    "other": ["WWI"]
+  },  
+  "moblin": {
+    "name": "Moblin",
+    "type": "enemy",
+    "variants": ["Sword Moblin", "Spear Moblin", "Bow Moblin", "Shield Moblin", "Dark Moblin", "Dark Spear Moblin", "Dark Shield Moblin", "Cursed Moblin", "Stalmoblin", "Electric Moblin", "Fire Moblin", "Ice Moblin", "Vicious Moblin", "Bomb Barrel Moblin", "Moblin Spearthrower"],
+    "colors": ["red", "blue", "yellow", "black", "silver", "gold", "green", "purple"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "AlttP", "ALttpDX", "LA", "OoT", "OoA", "FS", "TWW", "TMC", "SS", "OoT3D", "TWWHD", "ALBW", "TFH", "BOTW", "LANS", "SSHD", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE", "HW", "HWL", "HWDE", "COH", "AOC", "AOI"],
+    "smash": ["SSBB", "SSBU"],
+    "shows": ["TLoZ"],
+    "other": ["WWI", "CNB", "NL"]
+  },
+  "peahat": {
+    "name": "Peahat",
+    "type": "enemy",
+    "variants": ["Peahat Larva", "Seaheat"],
+    "colors": ["red", "blue"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "LA", "LAGBC", "OoT", "MM", "OoS", "OoA", "TWW", "TMC", "OoT3D", "TWWHD", "ALBW", "MM3D", "LANS", "EOW"],
+    "spinoff": ["ADVENTURE", "LCT", "COH"],
+    "smash": ["SSB3DS"],
+    "other": ["WWI", "WWDIY", "WWG"]
+  },
+  "aquamentus": {
+    "name": "Aquamentus",
+    "type": "enemy",
+    "debut": "02/21/1986",
+    "main": ["TLoZ"],
+    "shows": ["TLoZ"],
+    "other": ["TDS", "NMP"]
+  },
+  "wizzrobe": {
+    "name": "Wizzrobe",
+    "type": "enemy",
+    "variants": ["Fire Wizzrobe", "Ice Wizzrobe", "Electric Wizzrobe", "Dark Wizzrobe", "Meteo Wizzrobe", "Blizzrobe", "Thunder Wizzrobe", "Poison Wizzrobe", "Sonic Wizzrobe"],
+    "colors": ["red", "blue"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "LA", "LAGBC", "ALttpDX", "MM", "OoS",  "OoA", "FS", "TWW", "FSA", "TMC", "PH", "TWWHD", "ALBW", "MM3D", "TFH", "BOTW", "TOTK", "LANS", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["TWOG", "ADVENTURE", "AST", "COH", "AOC", "AOI"],
+    "other": ["NL", "CNB"]
+  },
+  "bubble": {
+    "name": "Bubble",
+    "type": "enemy",
+    "variants": ["Giant Bubble", "Fire Bubble", "Ice Bubble"], 
+    "colors": ["blue", "green", "red", "white"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "LA", "LAGBC", "OoT", "MM", "FS", "TWW", "FSA", "TP", "PH", "ST", "OoT3D", "TWWHD", "ALBW", "MM3D", "LANS"],
+    "spinoff": ["AST", "LCT"],
+    "smash": ["SSB3DS"]
+  },
+  "darknut": {
+    "name": "Darknut",
+    "type": "enemy",
+    "variants": ["Mighty Darknut", "Dark Darknut"],
+    "colors": ["red", "blue", "golden"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "LA", "LAGBC", "OoS", "OoA", "FS", "TWW", "TP", "TWWHD", "LANS", "EOW"],
+    "spinoff": ["TFOE", "TWOG", "HW", "HWL", "HWDE"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "shows": ["TLoZ"],
+    "other": ["CNB"]
+  },
+  "goriya": {
+    "name": "Goriya",
+    "type": "enemy",
+    "colors": ["red", "blue", "orange", "green", "purple"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "ALttpDX", "OoS", "OoA", "ALBW"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE", "COH"],
+    "shows": ["TLoZ"],
+    "other": ["WWI"]
+  },
+  "digdogger": {
+    "name": "Digdogger",
+    "type": "enemy",
+    "variants": ["Mini Digdogger"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "OoS"]
+  },
+  "dodongo": {
+    "name": "Dogongo",
+    "type": "enemy",
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "OoT", "MM", "FSA", "TP", "OoT3D", "MM3D", "TPHD"],
+    "spinoff": ["TFOE", "TWOG"],
+    "shows": ["TLoZ"]
+  },
+  "gel": {
+    "name": "Gel",
+    "type": "enemy",
+    "colors": ["cyan", "blue", "green", "yellow", "olive", "gray", "black", "red"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "LA", "LAGBC", "OoS", "OoA", "FS", "PH", "LANS"],
+    "spinoff": ["COH"]
+  },
+  "gibdo": {
+    "name": "Gibdo",
+    "type": "enemy",
+    "variants": ["Para-Gibdo", "Moth Gibdo", "Dark Gibdo"],
+    "colors": ["green"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "LA", "LAGBC", "ALttpDX", "OoT", "MM", "OoS", "OoA", "FS", "FSA", "TMC", "TP", "OoT3D", "ALBW", "MM3D", "TPHD", "LANS", "TOTK", "EOW", "TOTKNS"],
+    "spinoff": ["TWOG", "HW", "HWL", "HWDE", "ADVENTURE", "COH", "AOI"],
+    "shows": ["TLoZ"]
+
+  },
+  "gleeok": {
+    "name": "Gleeok",
+    "type": "enemy",
+    "variants": ["Gleeok Head", "Flame Gleeok", "Frost Gleeok", "Thunder Gleeok", "King Gleeok"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "PH", "TOTK", "TOTKNS"],
+    "spinoff": ["TFOE", "TWOG", "AOI"],
+    "shows": ["TLoZ"]
+  },
+  "gohma": {
+    "name": "Gohma",
+    "type": "enemy",
+    "variants": ["Gohma Larva", "Baby Gohma", "Young Gohma"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "LA", "LAGBC", "OoT", "OoS", "TWW", "FSA", "TP", "OoT3D", "TWWHD", "LANS", "EOW"],
+    "spinoff": ["TFOE", "TWOG"],
+    "shows": ["TLoZ"]
+  },
+
+  "gleeok-head": {
+    "name": "Gleeok Head",
+    "type": "enemy",
+    "debut": "02/21/1986",
+    "main": ["TLoZ"]
+  },
+  "keese": {
+    "name": "Keese",
+    "type": "enemy",
+    "variants": ["Dark Keese", "Fire Keese", "Ice Keese", "Electric Keese", "Shadow Keese", "Thunder Keese", "Keese Swarm"],
+    "colors": ["blue", "red", "black"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "LA", "LAGBC", "ALttpDX", "OoT", "MM", "OoS", "OoA", "FS", "TWW", "FSA", "TMC", "TP", "PH", "ST", "OoT3D", "SS", "TWWHD", "ALBW", "MM3D", "TFH", "TPHD", "BOTW", "LANS", "SSHD", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE", "AST", "LCT", "COH", "AOC", "AOI"],
+    "other": ["NL", "SLC", "MK8", "MK8DLC"]
+  },
+
+  "lanmola": {
+    "name": "Lanmola",
+    "type": "enemy",
+    "colors": ["red", "blue"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ"]
+  },
+  "like-like": {
+    "name": "Like Like",
+    "type": "enemy",
+    "variants": ["Deku Life", "Fire Like", "Force Like", "Ice Like", "Life Like", "Pikit", "Rock Like", "Rupee Like", "Shock Like", "Sludge Like", "Deku Like"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "LA", "LAGBC", "ALttpDX", "OoT", "MM", "OoS", "OoA", "FS", "TMC", "TMC", "TP", "PH", "ST", "OoT3D", "ALBW", "MM3D", "TPHD", "LANS", "TOTK", "TOTKNS"],
+    "spinoff": ["COH", "AOI"],
+    "smash": ["SSBM", "SSB3DS", "SSBU"],
+    "other": ["WWI"]
+  },
+  "manhandla": {
+    "name": "Manhandla", 
+    "type": "enemy",
+    "variants": ["Big Manhandla", "Manhandla Stalk"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ"],
+    "spinoff": ["HWDE"]
+  },
+  "moldorm": {
+    "name": "Moldorm",
+    "type": "enemy",
+    "variants": ["Mini-Moldorm", "Moldworm"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "OoA", "FS", "FSA", "TMC", "TP", "PH", "SS", "TPHD", "LANS", "SSHD"],
+    "spinoff": ["LCT"]
+  },
+  "patra": {
+    "name": "Patra",
+    "type": "enemy",
+    "debut": "02/21/1986",
+    "main": ["TLoZ"],
+    "spinoff": ["ADVENTURE"],
+    "shows": ["TLoZ"]
+  },
+  "pols-voice": {
+    "name": "Pols Voice",
+    "type": "enemy",
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "LA", "LAGBC", "OoS", "OoA", "PH", "LANS"],
+    "spinoff": ["ADVENTURE"]
+  },
+  "rope": {
+    "name": "Rope",
+    "type": "enemy",
+    "variants": ["Skullrope"],
+    "colors": ["gold", "green", "purple", "red"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "OoS", "OoA", "ALttpDX", "FS", "FSA", "TMC", "TMC", "PH", "ALBW", "TFH"],
+    "spinoff": ["COH"],
+    "shows": ["TLoZ"]
+  },
+  "stalfos": {
+    "name": "Stalfos",
+    "type": "enemy",
+    "variants": ["Dark Stalfos", "Stalfos Knight", "Stalfos Mage", "Stalfos Warrior", "Shrouded Stalfos", "Stalfos Rider", "Stalchild", "Dark Stalfos", "Chilfos", "Staltroop", ""],
+    "color": ["black", "blue", "yellow", "red", "green"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "AlttP", "LA", "LAGBC", "ALttpDX", "OoT", "OoS", "OoA", "TWW", "FSA", "TMC", "TP", "PH", "ST", "OoT3D", "SS", "TWWHD", "TFH", "TPHD", "LANS", "SSHD"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE", "LCT", "COH"],
+    "smash": ["SSB3DS"],
+    "other": ["CNB", "NL"],
+    "shows": ["TLoZ"],
+    "others": ["WWTO", "NMP"]
+    
+  },
+  "vire": {
+    "name": "Vire",
+    "type": "enemy",
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "LA", "LAGBC", "LANS"],
+    "spinoff": ["TWOG", "ADVENTURE", "COH"],
+    "shows": ["TLoZ"]
+  },
+  "wallmaster": {
+    "name": "Wallmaster",
+    "type": "enemy",
+    "variants": ["Floormaster"],
+    "colors": ["red", "blue"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "ALttpDX", "OoT", "MM", "OoS", "OoA", "FSA", "TMC", "OoT3D", "ALBW", "MM3D", "TFH"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE", "COH"]
+  },
+  "floormaster": {
+    "name": "Floormaster",
+    "type": "enemy",
+    "variants": ["Floormaster"],
+    "colors": ["red", "blue"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "ALttpDX", "OoT", "MM", "OoS", "OoA", "TWW", "FSA", "TMC", "OoT3D", "TWWHD", "MM3D"],
+    "other": ["CNB"]
+  },
+  "zol": {
+    "name": "Zol",
+    "type": "enemy",
+    "variants": ["Ignizol", "Hydrozol"],
+    "colors": ["green", "red", "black", "olive", "gray", "blue", "pink", "white"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "AlttP", "LA", "OoS", "OoA", "FS", "FSA", "LANS", "EOW"],
+    "spinoff": ["TFOE", "ADVENTURE", "AST", "COH"]
+  },
+  "zora": {
+    "name": "Zora",
+    "type": "enemy",
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "AlttP", "ALttpDX", "LA", "LAGBC", "OoS", "OoA", "FSA", "ALBW", "LANS"],
+    "spinoff": ["TFOE", "TWOG", "AST", "COH"],
+    "shows": ["TLoZ"],
+    "other": ["WWI", "WWG"]
+  },
+
+  "ache": {
+    "name": "Ache",
+    "type": ["bat", "ache"],
+    "colors": ["blue", "purple", "red"],
+    "debut": "02/21/1986",
+    "main": ["TAoL"],
+    "shows": ["TLoZ"]
+  },
+
+  "acheman": {
+    "name": "Acheman",
+    "type": ["ache", "demon"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"]  
+  },
+
+  "aruroda": {
+    "name": "Aruroda",
+    "type": "ache",
+    "debut": "02/14/1987",
+    "main": ["TAoL", "EOW"]
+  },
+
+  "bago-bago": {
+    "name": "Bago-Bago",
+    "type": "enemy",
+    "variants": ["Fire Bago-Bago"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"]
+  },
+
+  "bit": {
+    "name": "Bit",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"]
+  },
+  
+  "bot": {
+    "name": "Bot",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"],
+    "spinoff": ["TFOE", "TWOG"] 
+  },
+
+  "boon": {
+    "name": "Boon",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+
+  "deeler": {
+    "name": "Deeler",
+    "type": "enemy",
+    "colors": ["red", "blue"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE"],
+    "shows": ["TLoZ"]
+  },
+
+  "daira": {
+    "name": "Daira",
+    "type": "enemy",
+    "variants": ["Fire Daira"],
+    "colors": ["red", "yellow"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"],
+    "spinoff": ["TFOE", "TWOG"]
+  },
+
+  "geldarm": {
+    "name": "Geldarm",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+
+  "geru": {
+    "name": "Geru",
+    "type": "enemy",
+    "colors": ["yellow", "red", "blue"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+
+  "lowder": {
+    "name": "Lowder",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE"],
+    "shows": ["TLoZ"]
+  },
+
+  "megmat": {
+    "name": "Megmat",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+
+  "Moa": {
+    "name": "Moa",
+    "type": "enemy",
+    "variants": ["Fiery Moa"],
+    "colors": ["red", "blue", "purple"],
+    "debut": "02/14/1987",
+    "main": ["TAoL", "EOW"],
+    "spinoff": ["TFOE", "TWOG", "COH"]
+  },
+
+  "moby": {
+    "name": "Moby",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"],
+    "spinoff": ["ADVENTURE"],
+    "shows": ["TLoZ"]
+  },
+
+  "river-devil": {
+    "name": "River Devil",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  }, 
+  "aneru": {
+    "name": "Aneru",
+    "type": "enemy",
+    "colors": ["red", "blue"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+
+  "fokka": {
+    "name": "Fokka",
+    "type": "enemy",
+    "colors": ["blue", "red"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+
+  "iron-knuckle": {
+    "name": "Iron Knuckle",
+    "type": "enemy",
+    "colors": ["red", "blue", "yellow"],
+    "debut": "02/14/1987",
+    "main": ["TAoL", "OoT", "MM", "OoT3D", "MM3D"],
+    "spinoff": ["TWOG", "ADVENTURE", "COH"]
+  },
+  "parutamu": {
+    "name": "Parutamu",
+    "type": "enemy",
+    "colors": ["red", "blue"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "doomknocker": {
+    "name": "Doomknocker",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "fokkeru": {
+    "name": "Fokkeru",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "guma": {
+    "name": "Guma",
+    "type": "enemy",
+    "colors": ["red", "yellow"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "mau": {
+    "name": "Mau",
+    "type": "enemy",
+    "colors": ["red", "blue/green"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "ra": {
+    "name": "Ra",
+    "type": "enemy",
+    "colors": ["blue/green", "yellow"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "mago": {
+    "name": "Mago",
+    "type": "enemy",
+    "colors": ["red", "yellow"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "wizard": {
+    "name": "Wizard",
+    "type": "enemy",
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "wosu": {
+    "name": "Wosu",
+    "type": "enemy",
+    "colors": ["red", "yellow"],
+    "debut": "02/14/1987",
+    "main": ["TAoL"] 
+  },
+  "ball-and-chain-trooper": {
+    "name": "Ball and Chain Trooper",
+    "type": "enemy",
+    "colors": ["iron", "gold"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "FS", "TMC", "ALBW", "LANS", "EOW"],
+    "spinoff": ["COH"]
+  },
+  "soldier": {
+    "name": "Soldier",
+    "type": "enemy",
+    "variants": ["Bomb Soldier", "Bow Soldier", "Spear Soldier", "Sword Soldier", "Dark Sky Ball and Chain Soldier", "Sky Ball & Chain Soldier", "Sky Bomb Soldier", "Sky Fire Chain Soldier", "Sky Shield Soldier", "Sky Spear Soldier", "Sky Sword Soldier", "Dark Sky Fire Chain Soldier", "Dark Sky Shield Soldier", "Dark Sky Spear Soldier", "Dark Sky Sword Soldier"],
+    "colors": ["green", "blue", "red"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "ALBW", "TFH", "TFH"] 
+  },
+  "blob": {
+    "name": "Blob",
+    "type": "enemy",
+    "variants": ["Buzz Blob", "Dark Blob"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "OoA", "FSA", "ALBW", "TFH", "LANS", "EOW"],
+    "spinoff": ["AST"]
+  },
+  "crow": {
+    "name": "Crow",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "OoA", "TMC", "PH", "ST", "ALBW", "TFH", "LANS", "EOW"],
+    "spinoff": ["AST"]
+  },
+  "cukeman": {
+    "name": "Cukeman",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "LANS"],
+    "spinoff": ["AST"]
+  },
+  "deadrock": {
+    "name": "Deadrock",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "ALBW", "TFH"],
+    "spinoff": ["COH"]
+  },
+  "geldman": {
+    "name": "Geldman",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "ALBW"],
+    "spinoff": ["AST"]
+  },
+  "poe": {
+    "name": "Poe",
+    "type": "enemy",
+    "variants": ["Big Poe", "Imp Poe", "Key Bandit Poe", "Lantern Poe", "Icy Big Poe", "Dark Big Poe", "Dark Icy Big Poe"],
+    "colors": ["blue", "green", "red", "white", "green", "purple"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "OoT", "MM", "TWW", "PH", "OoT3D", "TWWHD", "ALBW", "MM3D", "TFH", "EOW"],
+    "spinoff": ["HW", "HWL", "HWDE", "COH"]
+  },
+  "spark": {
+    "name": "Spark",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "OoA", "TMC", "TMC", "LANS", "EOW"],
+    "spinoff": ["AST"]
+  },
+  "sand-crab": {
+    "name": "Sand Crab",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "OoA", "FSA", "ALBW", "LANS", "EOW"],
+    "spinoff": ["AST"]
+  },
+  "toppo": {
+    "name": "Toppo",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX"],
+    "spinoff": ["AST", "COH"]
+  },
+  "vulture": {
+    "name": "Vulture",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "ALBW", "TFH"],
+    "spinoff": ["AST"]
+  },
+  "dacto": {
+    "name": "Dacto",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "ALBW", "LANS"] 
+  },
+  "hinox": {
+    "name": "Hinox",
+    "type": "enemy",
+    "variants": ["Snowball Hinox", "Dark Hinox", "Stalnox", "Vicious Hinox"],
+    "color": ["red", "blue", "black"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "PH", "ALBW", "TFH", "BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC", "AOI"]
+  },
+  "hyu": {
+    "name": "Hyu",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"],
+    "spinoff": ["AST"]
+  },
+  "ku": {
+    "name": "Ku",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"] 
+  },
+  "pikit": {
+    "name": "Pikit",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX"] 
+  },
+  "mini-moldorm": {
+    "name": "Mini Moldorm",
+    "type": "Moldorm",
+    "colors": ["purple"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "ALBW", "LANS"]
+  },
+  "pikku": {
+    "name": "Pikku",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX"] 
+  },
+  "ropa": {
+    "name": "Ropa",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "ALBW"] 
+  },
+  "slarok": {
+    "name": "Slarok",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALBW"] 
+  },
+  "snap-dragon": {
+    "name": "Snap Dragon",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"] 
+  },
+  "stal": {
+    "name": "Stal",
+    "type": "enemy",
+    "variants": ["Stalkoblin", "Stalmoblin", "Stalizalfos"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW", "BOTW", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC", "AOI"]
+  },
+  "swamola": {
+    "name": "Swamola",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"] 
+  },
+  "taros": {
+    "name": "Taros",
+    "type": "enemy",
+    "colors": ["blue", "red"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"],
+    "spinoff": ["COH"]
+  },
+  "zirro": {
+    "name": "Zirro",
+    "type": "enemy",
+    "variants": ["Snowball Zirro", "Ghirro"],
+    "colors": ["blue", "green"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "LANS", "EOW"] 
+  },
+  "arrgi": {
+    "name": "Arrgi",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"],
+    "spinoff": ["AST"]
+  },
+  "babusu": {
+    "name": "Babusu",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX"] 
+  },
+  "bari": {
+    "name": "Bari",
+    "type": "enemy",
+    "variants": ["Biri"],
+    "colors": ["blue", "red", "purple", "white", "yellow"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "OoT", "OoA", "TP", "OoT3D", "ALBW", "TPHD", "EOW"],
+    "spinoff": ["AST", "COH"]
+  },
+  "buzz": {
+    "name": "Buzz",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX"] 
+  },
+  "chasupa": {
+    "name": "Chasupa",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW", "TFH"] 
+  },
+  "devalant": {
+    "name": "Devalant",
+    "type": "enemy",
+    "colors": ["blue", "red"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "ALBW"],
+    "spinoff": ["AST"]
+  },
+  "eyegore": {
+    "name": "Eyegore",
+    "type": "enemy",
+    "colors": ["blue", "red", "green"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "MM", "FS", "FSA", "TMC", "ALBW", "MM3D"],
+    "spinoff": ["AST"]
+  },
+  "freezor": {
+    "name": "Freezor",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"] 
+  },
+  "gibo": {
+    "name": "Gibo",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"] 
+  },
+  "hardhat-beetle": {
+    "name": "Hardhat Beetle",
+    "type": "enemy",
+    "variants": ["Dark Hardhat Beetle"],
+    "colors": ["blue", "red"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoS", "OoA", "FSA", "PH","ALBW", "TFH", "LANS"] ,
+    "spinoff": ["AST"]
+  },
+  "helmasaur": {
+    "name": "Helmasaur",
+    "type": "enemy",
+    "variants": ["Helmasaurus"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "FS", "TMC", "TP", "ALBW", "TFH", "TPHD", "LANS"],
+    "spinoff": ["AST"]
+  },
+  "hokkubokku": {
+    "name": "Hokkubokku",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW", "TFH"] 
+  },
+  "kodongo": {
+    "name": "Kondongo",
+    "type": "enemy",
+    "color": ["red", "green"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW", "TFH"],
+    "spinoff": ["AST"]
+  },
+  "pirogusu": {
+    "name": "pirogusu",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX"] 
+  },
+  "popo": {
+    "name": "Popo",
+    "type": "enemy",
+    "colors": ["red"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "ALBW"],
+    "spinoff": ["AST"]
+  },
+  "rat": {
+    "name": "Rat",
+    "type": "enemy",
+    "variants": ["Ghoul Rat", "Dark Rat"],
+    "colors": ["blue"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "TWW", "FSA", "PH", "ST", "TWWHD", "ALBW", "TFH"] 
+  },
+  "beamos": {
+    "name": "Beamos",
+    "type": "Enemy",
+    "debut": "11/21/1991",
+    "colors": ["blue", "pink"],
+    "main": ["AlttP", "LA", "LAGBC", "ALttpDX", "OoT", "MM", "OoS", "OoA", "TWW", "FSA", "TP", "PH", "OoT3D", "SS", "TWWHD", "TFH", "MM3D", "TPHD", "LANS", "SSHD", "EOW"],
+    "spinoff": ["AST", "LCT", "HW", "HWL", "HWDE", "COH"]
+  },
+  "sluggula": {
+    "name": "Sluggula",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "TMC", "ALBW"],
+    "spinoff": ["AST"]
+  },
+  "terropin": {
+    "name": "Terropin",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "FSA", "PH", "ALBW", "TFH"],
+    "spinoff": ["AST"] 
+  },
+  "zazak": {
+    "name": "Zazak",
+    "type": "enemy",
+    "colors": ["blue", "red"],
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX", "ALBW"],
+    "spinoff": ["AST"]
+  },
+  "zoro": {
+    "name": "Zoro",
+    "type": "enemy",
+    "debut": "11/21/1991",
+    "main": ["AlttP", "ALttpDX"] 
+  },
+  "kyameron": {
+    "name": "Kyameron",
+    "type": "enemy",
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+
+  "beetle": {
+    "name": "Beetle",
+    "type": "enemy",
+    "variants": ["Spiny Beetle", "Spiked Beetle", "Scissors Beetle"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "OoS", "OoA", "TMC", "LANS", "EOW"] 
+  },
+  "spiny-beetle": {
+    "name": "Beetle",
+    "type": "enemy",
+    "variants": ["Spiny Beetle", "Spiked Beetle"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "OoS", "OoA", "FS", "LANS"] 
+  },
+  "spiked-beetle": {
+    "name": "Beetle",
+    "type": "enemy",
+    "variants": ["Spiny Beetle", "Spiked Beetle"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "OoS", "OoA", "FS", "LANS"] 
+  },
+  "baroblin": {
+    "name": "Boarblin",
+    "type": "enemy",
+    "variants": ["Club Boarblin", "Boomerang Boardlin"],
+    "colors": ["red", "blue"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "OoS", "OoA", "LANS", "EOW"]
+  },
+  "goponga-flower": {
+    "name": "Goponga Flower",
+    "type": "enemy",
+    "variants": ["Giant Goponga Flower"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "OoS", "OoA", "LANS", "EOW"]
+  },
+  "mad-bomber": {
+    "name": "Mad Bomber",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+      "pengator": {
+      "name": "Pengator",
+      "type": "enemy",
+      "debut": "11/21/1991",
+      "main": ["AlttP", "FSA", "ALBW"],
+      "spinoff": ["AST", "COH"]
+    },
+  "pincer": {
+    "name": "Pincer",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "OoS", "OoA", "LANS"]
+  },
+  "piranha": {
+    "name": "Piranha",
+    "type": "enemy",
+    "variants": ["Cloud Piranha", "Sand Piranha"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "OoS", "FS", "TMC", "LANS", "EOW"]
+  },
+  "sea-urchin": {
+    "name": "Sea Urchin",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "FSA", "LANS", "EOW"]
+  },
+  "zombie": {
+    "name": "Zombie",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "angler-fry": {
+    "name": "Anger Fry",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "arm-mimic": {
+    "name": "Arm-Mimic",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "OoS", "OoA", "LANS"]
+  },
+  "battle-bat": {
+    "name": "Battle Bat",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "goo-specter": {
+    "name": "Goo Specter",
+    "type": "enemy",
+    "colors": ["blue", "green", "red"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS", "EOW"]
+  },
+  "orb-monster": {
+    "name": "Orb Monster",
+    "type": "enemy",
+    "colors": ["yellow", "blue", "red", "green"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "bombite": {
+    "name": "Bombite",
+    "type": "enemy",
+    "colors": ["red", "green"],
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "bone-putter": {
+    "name": "Bone Putter",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "pairodd": {
+    "name": "Pairodd",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "star": {
+    "name": "Star",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "three-of-a-kind": {
+    "name": "Three-of-a-Kind",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  "vacuum-mouth": {
+    "name": "Vacuum Mouth",
+    "type": "enemy",
+    "debut": "06/06/1993",
+    "main": ["LA", "LAGBC", "LANS"]
+  },
+  
+  "deku-baba": {
+    "name": "Deku Baba",
+    "type": "enemy",
+    "variants": ["Shadow Deku Baba", "Fire Baba", "Quadro Baba", "Bio Deku Baba"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TP", "OoT3D", "SS", "MM3D", "TPHD", "LANS", "SSHD"],
+    "smash": ["SSBB"],
+    "spinoff": ["LCT", "HW", "HWL", "HWDE"],
+    "other": ["MK8", "MK8DLC"]
+  },
+  "deku-scrub": {
+    "name": "Deku Scrub",
+    "type": "enemy",
+    "debut": "11/21/1998",
+    "main": ["OoT", "OoT3D", "MM", "OoS", "OoA", "FSA", "MM3D", "TFH", "EOW"],
+    "spinoff": ["COH"],
+    "other": ["SLW"]
+  },
+  "mad-scrub": {
+    "name": "Mad Scrub",
+    "type": "enemy",
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "OoT3D", "MM3D"]
+  },
+  "stalchild": {
+    "name": "Stalchild",
+    "type": "Stalfos",
+    "variants": ["Stalchild Captain", "Stalchild Summoner"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "FS", "FSA", "TP", "OoT3D", "MM3D", "TPHD"],
+    "spinoff": ["ZG&W", "AST", "LCT", "HWL", "HWDE"],
+    "other": ["SLW"]
+  },
+  "dinolfos": {
+    "name": "Dinolfos",
+    "type": "enemy",
+    "variants": ["Dinolfos Chieftain", "Dark Dinolfos"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TP", "OoT3D", "MM3D", "TPHD"],
+    "spinoff": ["HW", "HWL", "HWDE"]
+  },
+  "skulltula": {
+    "name": "Skulltula",
+    "type": "enemy",
+    "variants": ["Gold Skulltula", "Big Skulltula", "Skullwalltula", "Walltula", "Crawltula", "Strandtula"],
+    "colors": ["red", "brown", "black"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TP", "PH", "ST", "OoT3D", "SS", "MM3D", "TPHD", "SSHD", "EOW"],
+    "spinoff": ["LCT", "HW", "HWL", "COH"],
+    "smash": ["SSBB", "SSB3DS"],
+    "other": ["NL"]
+  },
+  "freezard": {
+    "name": "Freezard",
+    "type": "enemy",
+    "variants": ["Mini Freezard"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TP", "ST", "OoT3D", "TFH", "MM3D", "TPHD", "EOW"]
+  },
+  "guay": {
+    "name": "Guay",
+    "type": "enemy",
+    "variants": ["Rupee Guay"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TP", "OoT3D", "SS", "MM3D", "TPHD", "SSHD", "EOW"],
+    "spinoff": ["LCT"]
+  },
+  "ice-scythe": {
+    "name": "Ice Scythe",
+    "type": "enemy",
+    "debut": "11/21/1998",
+    "main": ["OoT", "OoT3D"]
+  },
+  "lizalfos": {
+    "name": "Lizalfos",
+    "type": "enemy",
+    "variants": ["Fire-Breath Lizalfos", "Ice-Breath Lizalfos", "Electric Lizalfos", "Cursed Lizalfos", "Stalizalfos", "Dark Lizalfos", "Lizalfos Chieftain", "Vicious Lizalfos"],
+    "colors": ["dark", "green", "blue", "black", "silver", "gold", "orange", "white", "purple"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "TP", "OoT3D", "SS", "TPHD", "BOTW", "SSHD", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["LCT", "HW", "HWL", "HWDE", "COH", "AOC", "AOI"]
+  },  
+  "meg": {
+    "name": "Meg",
+    "type": "enemy",
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "OoT3D", "MM3D"]
+  },
+  "redead": {
+    "name": "ReDead",
+    "type": "enemy",
+    "variants": ["ReDead Knight"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TWW", "OoT3D", "TWWHD", "MM3D", "TFH", "EOW"],
+    "spinoff": ["HW", "HWL", "HWDE", "COH"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "stinger": {
+    "name": "Stinger",
+    "type": "enemy",
+    "debut": "11/21/1998",
+    "main": ["OoT", "OoT3D"]
+  },
+  "tailpasaran": {
+    "name": "Tailpasaran",
+    "type": "enemy",
+    "debut": "11/21/1998",
+    "main": ["OoT", "OoT3D"]
+  },
+  "torch-slug": {
+    "name": "Torch Slug",
+    "type": "enemy",
+    "variants": ["Freeze Slug"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "TP", "OoT3D", "TPHD", "EOW"]
+  },
+  "wolfos": {
+    "name": "Wolfos",
+    "type": "enemy",
+    "colors": ["gray", "white"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TP", "ST", "OoT3D", "TPHD","MM3D",  "EOW"],
+    "spinoff": ["LCT", "COH"]
+  },
+  "dead-hand": {
+    "name": "Dead Hand",
+    "type": "enemy",
+    "debut": "11/21/1998",
+    "main": ["OoT", "OoT3D"]
+  },
+
+  "boe": {
+    "name": "Boe",
+    "type": "enemy",
+    "colors": ["black", "white"],
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "chuchu": {
+    "name": "Chuchu",
+    "type": "enemy",
+    "variants": ["Rock Chuchu", "Helmet Chuchu", "Ice Chuchu", "Metal Chuchu", "Fire Chuchu", "Electric Chuchu", "Vicious Chuchu"],
+    "colors": ["blue", "green", "red", "yellow", "dark", "purple"],
+    "debut": "04/27/2000",
+    "main": ["MM", "TWW", "TMC", "TP", "PH", "ST", "SS", "TWWHD", "MM3D", "BOTW", "SSHD", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["HWL", "HWDE", "AOC", "AOI"],
+    "other": ["WWIMM", "WWDIY", "NL"]
+  },
+  "deep-python": {
+    "name": "Deep Python",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "desbreko": {
+    "name": "Desbreko",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "dexihand": {
+    "name": "Dexihand",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "dragonfly": {
+    "name": "Dragonfly",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "eeno": {
+    "name": "Eeno",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "garo": {
+    "name": "Garo",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "moldbaby": {
+    "name": "Moldbaby",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "nejiron": {
+    "name": "Nejiron",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "real-bombchu": {
+    "name": "Real Bombchu",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "TWW", "FSA", "TWWHD", "MM3D"],
+    "spinoff": ["HWDE"]
+  },
+  "shell-blade": {
+    "name": "Shell Blade",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "TP", "MM3D", "TPHD"]
+  },
+  "snapper": {
+    "name": "Snapper",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "ST", "MM3D"]
+  },
+  "skullfish": {
+    "name": "Skullfish",
+    "type": "enemy",
+    "variants": ["Sandfish"],
+    "debut": "04/27/2000",
+    "main": ["MM", "TP", "TFH", "MM3D", "TPHD"],
+    "spinoff": ["COH"]
+  },
+  "takkuri": {
+    "name": "Takkuri",
+    "type": "enemy",
+    "debut": "04/27/2000",
+    "main": ["MM", "TMC", "MM3D"]
+  },
+
+  "anti-fairy": {
+    "name": "Anti-Fairy",
+    "type": "enemy",
+    "debut": "02/27/2001",
+    "main": ["OoS", "OoA"]
+  },
+  "iron-mask": {
+    "name": "Iron Mask",
+    "type": "enemy",
+    "debut": "02/27/2001",
+    "main": ["OoS", "OoA"]
+  },
+  "magunesu": {
+    "name": "Magunesu",
+    "type": "enemy",
+    "debut": "02/27/2001",
+    "main": ["OoS", "OoA"]
+  },
+  "moth": {
+    "name": "Moth",
+    "type": "enemy",
+    "debut": "02/27/2001",
+    "main": ["OoS", "OoA"]
+  },
+  "whisp": {
+    "name": "Whisp",
+    "type": "enemy",
+    "colors": ["blue", "red"],
+    "debut": "02/27/2001",
+    "main": ["OoS", "OoA", "FS", "TMC"]
+  },
+
+  "bombarossa": {
+    "name": "Bombarossa",
+    "type": "enemy",
+    "debut": "12/02/2002",
+    "main": ["FS", "TMC"]
+  },
+  "hikkun": {
+    "name": "Hikkun",
+    "type": "enemy",
+    "debut": "12/02/2002",
+    "main": ["FS"]
+  },
+  "nokkun": {
+    "name": "Nokkun",
+    "type": "enemy",
+    "debut": "12/02/2002",
+    "main": ["FS"]
+  },
+  "rupee-wraith": {
+    "name": "Rupee Wraith",
+    "type": "enemy",
+    "debut": "12/02/2002",
+    "main": ["FS"]
+  },
+  
+  "boko-baba": {
+    "name": "Boko Baba",
+    "type": "enemy",
+    "variants": ["Big Baba"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "TP", "TWWHD", "TPHD"]
+  },
+  "bokoblin": {
+    "name": "Bokoblin",
+    "type": "enemy",
+    "variants": ["Cursed Bokoblin", "Technoblin", "Stalkoblin", "Bokoblin Captain", "Bokoblin Summoner", "Vicious Bokoblin"],
+    "colors": ["blue", "green", "red", "black", "silver", "golden", "purple"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "TP", "SS", "TWWHD", "TPHD", "BOTW", "SSHD", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["LCT", "HW", "HWL", "HWDE", "MNP", "COH", "AOC", "AOI"],
+    "mobile": ["NT"],
+    "other": ["WWG"]
+  },
+  "dexivine": {
+    "name": "Dexivine",
+    "type": "enemy",
+    "debut": "12/13/2002",
+    "main": ["TWW", "TWWHD"]
+  },
+  "gyorg": {
+    "name": "Gyorg",
+    "type": "enemy",
+    "debut": "12/13/2002",
+    "main": ["TWW", "PH", "TWWHD"]
+  },
+  "magtail": {
+    "name": "Magtail",
+    "type": "enemy",
+    "debut": "12/13/2002",
+    "main": ["TWW", "TWWHD"]
+  },
+  "miniblin": {
+    "name": "Miniblin",
+    "type": "enemy",
+    "variants": ["Pirate Miniblin", "Mounted Miniblin", "Miniblin Captain"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "PH", "ST", "TWWHD"],
+    "spinoff": ["HWL", "HWDE"]
+  },
+  "molgera-larva": {
+    "name": "Molgera Larva",
+    "type": "enemy",
+    "debut": "12/13/2002",
+    "main": ["TWW", "TWWHD"]
+  },
+  "morth": {
+    "name": "Morth",
+    "type": "enemy",
+    "debut": "12/13/2002",
+    "main": ["TWW", "TWWHD", "TFH"]
+  },
+  
+  "chief-soldier": {
+    "name": "Chief Soldier",
+    "type": "enemy",
+    "debut": "03/18/2004",
+    "main": ["FSA"]
+  },
+  "force-soldier": {
+    "name": "Force Soldier",
+    "type": "enemy",
+    "debut": "03/18/2004",
+    "main": ["FSA"]
+  },
+  "frosteye": {
+    "name": "Frosteye",
+    "type": "enemy",
+    "debut": "03/18/2004",
+    "main": ["FSA"]
+  },
+
+  "arco-bandits": {
+    "name": "Arco-Bandits",
+    "type": "enemy",
+    "debut": "01/10/2005",
+    "main": ["TMC"]
+  },
+  "mulldozer": {
+    "name": "Mulldozer",
+    "type": "enemy",
+    "colors": ["blue", "red"],
+    "debut": "01/10/2005",
+    "main": ["TMC"]
+  },
+  "pesto": {
+    "name": "Pesto",
+    "type": "enemy",
+    "variants": ["Tiny Pesto"],
+    "colors": ["blue", "red"],
+    "debut": "01/10/2005",
+    "main": ["TMC"]
+  },
+  "puffstool": {
+    "name": "Puffstool",
+    "type": "enemy",
+    "debut": "01/10/2005",
+    "colors": ["blue", "purple", "black", "red", "green"],
+    "main": ["TMC"],
+    "spinoff": ["COH"]
+  },
+  "keaton": {
+    "name": "Keaton",
+    "type": "enemy",
+    "colors": ["purple", "yellow"],
+    "debut": "01/10/2005",
+    "main": ["TMC"]
+  },
+  "rollobite": {
+    "name": "Rollobite",
+    "type": "enemy",
+    "debut": "01/10/2005",
+    "main": ["TMC"]
+  },
+
+  "aeralfos": {
+    "name": "Aeralfos",
+    "type": "enemy",
+    "variants": ["Super Aeralfos", "Dark Super Aeralfos", "Fiery Aeralfos", "Dark Aeralfos", "Dark Fiery Aeralfos"],
+    "debut": "11/19/2006",
+    "main": ["TP", "TFH", "TPHD"],
+    "spinoff": ["LCT", "HW", "HWL", "HWDE"]
+  },
+  "bombfish": {
+    "name": "Bombfish",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD", "EOW"]
+  },
+  "bombling": {
+    "name": "Bombling",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "bomskit": {
+    "name": "Bomskit",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "bulblin": {
+    "name": "Bulblin",
+    "type": "enemy",
+    "variants": ["Shadow Bulbin", "Bulblin Captain", "Bulblin Summoner"],
+    "debut": "11/19/2006",
+    "main": ["TP", "ST", "TPHD"],
+    "spinoff": ["LCT", "HW", "HWL", "HWDE", "MNP"],
+    "smash": ["SSBB", "SSBU"]
+  },
+    "bulbo": {
+    "name": "Bulbo",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "ST"],
+    "spinoff": ["LCT"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"]
+
+
+  },
+  "chu-worm": {
+    "name": "Chu Worm",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "toadpoli": {
+    "name": "Toadpoli",
+    "type": "enemy",
+    "variants": ["Fire Toadpoli"],
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "spinoff": ["LCT"]
+  },
+  "phantom-rider": {
+    "name": "Phantom Rider",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "posion-mite": {
+    "name": "Poison Mite",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "puppet": {
+    "name": "Puppet",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "spinoff": ["LCT"]
+  },
+  "shadow-beast": {
+    "name": "Shadow Beast",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "smash": ["SSBB"]
+  },
+  "shadow-insect": {
+    "name": "Shadow Insect",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP"]
+  },
+  "kargarok": {
+    "name": "Kargarok",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "spinoff": ["LCT", "COH"]
+  },
+  "shadow-vermin": {
+    "name": "Shadow Vermin",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "stalhound": {
+    "name": "Stalhound",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "tileworm": {
+    "name": "Tileworm",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "toado": {
+    "name": "Toado",
+    "type": "enemy",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+
+  "craykling": {
+    "name": "Craykling",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "eyeball-monster": {
+    "name": "Eyeball Monster",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "eye-plant": {
+    "name": "Eye Plant",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "eye-slug": {
+    "name": "Eye Slug",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "flying-fish": {
+    "name": "Flying Fish",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "phantom": {
+    "name": "Phantom",
+    "type": "enemy",
+    "variants": ["Fire Phantom", "Warp Phantom", "Wrecker Phantom"],
+    "debut": "06/23/2007",
+    "main": ["PH", "ST"]
+  },
+  "phantom-eye": {
+    "name": "Phantom Eye",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH", "ST"]
+  },
+  "reapling": {
+    "name": "Reapling",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "sandworm": {
+    "name": "Sandworm",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "slime-minion": {
+    "name": "Slime Minion",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "stag-beetle": {
+    "name": "Stag Beetle",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "winder": {
+    "name": "Winder",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH", "ST"]
+  },
+  "yook": {
+    "name": "Yook",
+    "type": "enemy",
+    "debut": "06/23/2007",
+    "main": ["PH"]
+  },
+  "geozard": {
+    "name": "Geozard",
+    "type": "enemy",
+    "variants": ["Geozard Chief"],
+    "debut": "06/23/2007",
+    "main": ["PH", "ST"]
+  },
+
+  "blin": {
+    "name": "Blin",
+    "type": "enemy",
+    "variants": ["Big Blin", "Stone Blin"],
+    "debut": "12/07/2009",
+    "main": ["ST"],
+    "spinoff": ["HWDE"]
+  },
+  "blastworm": {
+    "name": "Blastworm",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "ergtorok": {
+    "name": "Ergtorok",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "spinut": {
+    "name": "Spinut",
+    "type": "enemy",
+    "colors": ["green"],
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "heatoise": {
+    "name": "Heatoise",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "key-master": {
+    "name": "Key Master",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "magma-bomb": {
+    "name": "Magma Bomb",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"],
+    "spinoff": ["LCT"]
+  },
+  "malgyorg": {
+    "name": "Malgyorg",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "mothula": {
+    "name": "Mothula",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST", "EOW"]
+  },
+  "nocturn": {
+    "name": "Nocturn",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "sir-frosty": {
+    "name": "Sir Frosty",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "snurglar": {
+    "name": "Snurglar",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "snurgle": {
+    "name": "Snurgle",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  "vengas": {
+    "name": "Vengas",
+    "type": "enemy",
+    "debut": "12/07/2009",
+    "main": ["ST"]
+  },
+  
+  "ampilus": {
+    "name": "Ampilus",
+    "type": "enemy",
+    "variants": ["Ampilus Egg"],
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "aracha": {
+    "name": "Aracha",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "burr": {
+    "name": "Burr",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "cranioc": {
+    "name": "Cranioc",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "spume": {
+    "name": "Spume",
+    "type": "enemy",
+    "variants": ["Cursed Spume", "Electro Spume", "Magma Spume", "Water Spume"],
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "froak": {
+    "name": "Froak",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "furnix": {
+    "name": "Furnix",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "hrok": {
+    "name": "Hrok",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "magmanos": {
+    "name": "Magmanos",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "pyrup": {
+    "name": "Pyrup",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "remlit": {
+    "name": "Remlit",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "sky-guardian": {
+    "name": "Sky Guardian",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "sky-watcher": {
+    "name": "Sky Watcher",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "skytail": {
+    "name": "Skytail",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+  "staldra": {
+    "name": "Staldra",
+    "type": "enemy",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"]
+  },
+
+  "bawb": {
+    "name": "Bawb",
+    "type": "enemy",
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+  "gimos": {
+    "name": "Gimo",
+    "type": "enemy",
+    "variants": ["Fire Gimos", "Ice Gimos", "Big Ice Gimos"],
+    "debut": "11/22/2013",
+    "main": ["ALBW", "TFH"]
+  },
+  "gyorm": {
+    "name": "Gyorm",
+    "type": "enemy",
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+  "keeleon": {
+    "name": "Keeleon",
+    "type": "enemy",
+    "variants": ["Dark Keeleon", "Fire Keeleon"],
+    "debut": "11/22/2013",
+    "main": ["ALBW", "TFH"]
+  },
+  "karat-crab": {
+    "name": "Karat Crab",
+    "type": "enemy",
+    "debut": "11/22/2013",
+    "main": ["ALBW", "TFH"]
+  },
+
+  "totem-deku": {
+    "name": "Totem Deku",
+    "type": "enemy",
+    "debut": "10/22/2015",
+    "main": ["TFH"]
+  },
+  
+  "pebblit": {
+    "name": "Pebblit",
+    "type": "enemy",
+    "variants": ["Stone Pebblit", "Igneo Pebblit", "Frost Pebblit"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC", "AOI"]
+  },
+  "guardian": {
+    "name": "Guardian",
+    "type": "enemy",
+    "variants": ["Decayed Guardian", "Guardian Stalker", "Guardian Scout I", "Guardian Scout II", "Guardian Scout III", "Guardian Scout IV", "Guardian Skywatcher", "Guardian Turret", "Sentry", "Fire Guardian", "Ice Guardian", "Malice Guardian", "Battle-Tested Guadian"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "BOTWNS"],
+    "spinoff": ["AOC"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "other": ["WWG"]
+  },
+  "yiga-footsoldier": {
+    "name": "Yiga Footsoldier",
+    "type": "enemy",
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"],
+    "mobile": ["NT"]
+  },
+  "yiga-blademaster": {
+    "name": "Yiga Blademaster",
+    "type": "enemy",
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"]
+  },
+  "talus": {
+    "name": "Talus",
+    "type": "enemy",
+    "variants": ["Stone Talus", "Igneo Talus", "Frost Talus", "Stone Talus(Luminous)", "Stone Talus(Rare)", "Battle Talus", "Malice Frost Talus", "Malice Igneo Talus", "Vicious Stone Talus"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC", "AOI"]
+  },
+  "molduga": {
+    "name": "Molduga",
+    "type": "enemy",
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"]
+  },
+  "boss-bokoblin": {
+    "name": "Boss Bokonlin",
+    "type": "enemy",
+    "variants": ["Vicious Boss Bokoblin", "Electric Boss Bokoblin", "Fire Boss Bokoblin", "Ice Boss Bokoblin"],
+    "colors": ["red", "blue", "black", "silver"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+
+  "soldier_construct": {
+    "name": "Soldier Construct",
+    "type": "enemy",
+    "variants": ["Solder Construct I", "Soldier Construct II", "Soldider Construct III", "Soldier Construct IV"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "captain-construct": {
+    "name": "Captain Construct",
+    "type": "enemy",
+    "variants": ["Captain Construct I", "Captain Construct II", "Captain Construct III", "Captain Construct IV", "Vicious Captain Construct I"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"]
+  },
+  "horriblin": {
+    "name": "Horriblin",
+    "type": "enemy",
+    "colors": ["gray", "blue", "black", "silver"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "frox": {
+    "name": "Frox",
+    "type": "enemy",
+    "variants": ["Obsidian Frox", "Blue-White Frox", "Little Frox", "Vicious Frox"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "evermean": {
+    "name": "Evermean",
+    "type": "enemy",
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "aerocuda": {
+    "name": "Aerocuda",
+    "type": "enemy",
+    "variants": ["Electric Aerocuda", "Fire Aerocuda", "Ice Aerocuda"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "flux-construct": {
+    "name": "Flux Construct",
+    "type": "enemy",
+    "variants": ["Flux Construct I", "Flux Construct II", "Flux Construct III", "Vicious Flux Construct I"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"]
+  },
+  "gloom-spawn": {
+    "name": "Gloom Spawn",
+    "type": "enemy",
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+
+  "tornado": {
+    "name": "Tornado",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "ribbitune": {
+    "name": "Ribbitune",
+    "type": "enemy",
+    "variants": ["Drippitune"],
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "holmill": {
+    "name": "Holmill",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "needlefly": {
+    "name": "Needlefly",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "albatrawl": {
+    "name": "Albatrawl",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "beakon": {
+    "name": "Beakon",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "tangler": {
+    "name": "Tangler",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "chompfin": {
+    "name": "Chompfin",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "hoarder": {
+    "name": "Hoarder",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "gustmaster": {
+    "name": "Gustmaster",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "tweelus": {
+    "name": "Tweelus",
+    "type": "enemy",
+    "variants": ["Temper Tweelus"],
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "snomaul": {
+    "name": "Snomaul",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  },
+  "platboom": {
+    "name": "Platboom",
+    "type": "enemy",
+    "debut": "09/26/2024",
+    "main": ["EOW"]
+  }
+ 
+}

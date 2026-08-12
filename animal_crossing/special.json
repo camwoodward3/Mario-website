@@ -1,0 +1,771 @@
+{
+  "villager": {
+    "name": "Villager",
+    "type": "player",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["WWSM", "SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG"]
+  },
+  "tom_nook": {
+    "name": "Tom Nook",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["CALCULATOR_DS", "CALCULATOR_3DS", "PLAZA", "PHOTOS"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "KPR", "SMM3DS", "P&YWW", "TNTATD", "MII16", "WWG", "MII21"]
+  },
+  "timmy_&_tommy": {
+    "name": "Timmy & Tommy Nook",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+  },
+  "beppe": {
+    "name": "Beppe",
+    "type":"special character",
+    "debut": "11/22/2017",
+    "spinoffs": ["PC", "CPC"]
+  },
+  "blanca": {
+    "name": "Blanca",
+    "type": "special character",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSB3DS"]
+
+  },
+  "blathers": {
+    "name": "Blathers",
+    "type": "special character",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL"],
+    "expansions": ["WA", "NH", "NHNS2"],
+    "spinoffs": ["FILM", "AF"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "MK8", "MK8DLC", "SMM", "SMM3DS", "P&YWW", "WWG"]
+
+  },
+  "booker": {
+    "name": "Booker",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"]
+
+  },
+  "brewster": {
+    "name": "Brewster",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH", "PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "spinoffs": ["FILM"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["CNB+"]
+  },
+  "c.j.": {
+    "name": "C.J.",
+    "type": "special character",
+    "debut": "03/20/2020",
+    "main": ["NH"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "carlo": {
+    "name": "Carlo",
+    "type":"special character",
+    "debut": "11/22/2017",
+    "spinoffs": ["PC", "CPC"]
+  },
+  "celeste": {
+    "name": "Celeste",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "AF"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+
+  },
+  "chip": {
+    "name": "Chip",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS"]
+  },
+  "cooper": {
+    "name": "Cooper",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["CLOCK_DS", "CLOCK_3DS", "PLAZA"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"]
+
+  },
+  "cornimer": {
+    "name": "Cornimer",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB"]
+  },
+  "cyrus": {
+    "name": "Cyrus",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF", "PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSB3DS", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+  },
+  "daisy_mae": {
+    "name": "Daisy Mae",
+    "type": "special character",
+    "debut": "03/20/2020",
+    "main": ["NH"],
+    "smash": ["SSBU"]
+  },
+  "digby": {
+    "name": "Digby",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSB3DS", "SSBU"],
+    "other": ["SPMP", "SMM", "SMM3DS", "WWG"]
+  },
+  "dj_kk": {
+    "name": "DJ K.K.",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NHNS2"],
+    "expansions": ["WA", "HHP"],
+    "spinoffs": ["HHD"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS", "SSBU"],
+    "mobile": ["NT"]
+  },
+  "don_resetti": {
+    "name": "Don Resetti",
+    "type": "special character",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD"],
+    "software": ["PLAZA"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "dr.shrunk": {
+    "name": "Dr. Shrunk",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["SPMP"]
+
+  },
+  "farley": {
+    "name": "Farley",
+    "type": "special character",
+    "debut": "09/16/2002",
+    "main": ["AC", "DnMe+"]
+  },
+  "flick": {
+    "name": "Flick.",
+    "type": "special character",
+    "debut": "03/20/2020",
+    "main": ["NH"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+
+  },
+  "franklin": {
+    "name": "Franklin",
+    "type": "special character",
+    "debut": "09/16/2002",
+    "main": ["AC", "DnMe+", "CF", "NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS"]
+  },
+  "frillard": {
+    "name": "Frillard",
+    "type": "special character",
+    "debut": "11/16/2008",
+    "main": ["CF"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "giovanni": {
+    "name": "Giovanni",
+    "type":"special character",
+    "debut": "11/22/2017",
+    "spinoffs": ["PC", "CPC"]
+  },
+  "gracie": {
+    "name": "Gracie",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["SST"]
+
+  },
+  "grams": {
+    "name": "Grams",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL", "NH", "NHNS2"],
+    "expansions": ["WA", "HHP"],
+    "spinoffs": ["HHD", "AF"],
+    "smash": ["SSB3DS"]
+  },
+  "gullivar": {
+    "name": "Gullivar",
+    "type": "special character",
+    "debut": "03/20/2020",
+    "main": ["NH"],
+    "smash": ["SSBU"]
+  },
+  "gulliver": {
+    "name": "Gulliver",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSB3DS"],
+    "mobile": ["NT"]
+
+  },
+  "harriet": {
+    "name": "Harriet",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+  },
+  "harvey": {
+    "name": "Harvey",
+    "type": "special character",
+    "debut": "12/05/2016",
+    "main": [ "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "mobile": ["NT"]
+
+  },
+  "isabelle": {
+    "name": "Isabelle",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL", "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "SSFF", "TNTATD", "MH4U", "MII16", "SSSS", "WWG", "MII21", "JRC"]
+  },
+  "jack": {
+    "name": "Jack",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"],
+    "software": ["PLAZA"],
+    "smash": ["SSBWIIU"],
+    "mobile": ["NT"]
+
+  },
+  "jingle": {
+    "name": "Jingle",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSBWIIU"]
+  },
+  "joan": {
+    "name": "Joan",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD"],
+    "software": ["CLOCK_DS", "CLOCK_3DS", "PLAZA"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["SPMP"]
+
+  },
+  "kaitlin": {
+    "name": "Kaitlin",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF"],
+    "spinoffs": ["FILM"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "kapp'n": {
+    "name": "Kapp'n",
+    "type": "special character",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+  },
+  "katie": {
+    "name": "Katie",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["SPMP"]
+
+  },
+  "katrina": {
+    "name": "Katrina",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"]
+  },
+  "kicks": {
+    "name": "Kicks",
+    "type": "special character",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF", "PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SMM", "SMM3DS", "P&YWW", "WWG"]
+
+  },
+  "k.k._slider": {
+    "name": "K.K. Slider",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF"],
+    "software": ["CALCULATOR_DS", "CALCULATOR_3DS", "CLOCK_DS", "CLOCK_3DS", "PLAZA", "PHOTOS"],
+    "smash": ["SSBM", "SSBB", "SSBWIIU", "SSBU"],
+    "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "WWG"],
+    "mobile": ["NT"]
+  },
+  "label": {
+    "name": "Label",
+    "type": "special character",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP"]
+
+  },
+  "leif": {
+    "name": "Leif",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSB3DS", "SSBU"],
+    "mobile": ["NT"]
+  },
+  "leila": {
+    "name": "Leila",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "smash": ["SSB3DS"]
+
+  },
+  "leilani": {
+    "name": "Leilani",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "smash": ["SSB3DS"]
+
+  },
+  "lloid": {
+    "name": "Lloid",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NH", "NHNS2"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["CNB", "CNB+"]
+  },
+  "lottie": {
+    "name": "Lottie",
+    "type": "special character",
+    "debut": "12/05/2016",
+    "main": ["NHNS2"],
+    "expansions": ["WA", "HHP"],
+    "spinoffs": ["HHD", "AF", "PC", "CPC"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "SMM", "SMM3DS", "SSFF", "WWG"]
+  },
+  "luna": {
+    "name": "Luna",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["HHD"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS"]
+  },
+  "lyle": {
+    "name": "Lyle",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+  },
+  "mabel": {
+    "name": "Mabel",
+    "type": "special character",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "WWG"]
+  },
+  "mr.resetti": {
+    "name": "Mr. Resetti",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "AF"],
+    "software": ["PLAZA"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["CNB", "MK8", "MK8DLC", "SMM", "SMM3DS", "MH4U", "P&YWW", "MII16", "WWG", "MII21"]
+  },
+  "nat": {
+    "name": "Nat",
+    "type": "special character",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS"]
+  },
+  "niko": {
+    "name": "Niko",
+    "type": "special character",
+    "debut": "03/20/2020",
+    "main": ["NHNS2"],
+    "expansions": ["HHP"],
+    "mobile": ["NT"]
+  },
+  "orville": {
+    "name": "Orville",
+    "type": "special character",
+    "debut": "03/20/2020",
+    "main": ["NH"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "pascal": {
+    "name": "Pascal",
+    "type": "special character",
+    "debut": "12/05/2005",
+    "main": ["WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSBWIIU"],
+    "mobile": ["NT"]
+  },
+  "pave": {
+    "name": "Pave",
+    "type": "special character",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS"]
+
+  },
+  "pelly": {
+    "name": "Pelly",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["SPMP", "CNB+"]
+  },
+  "pete": {
+    "name": "Pete",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "spinoffs": ["FILM"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "other": ["PHG"]
+  },
+  "phineas": {
+    "name": "Phineas",
+    "type": "special character",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSBWIIU"],
+    "other": ["SPMP"]
+
+
+  },
+  "phyllis": {
+    "name": "Phyllis",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "spinoffs": ["FILM"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["CNB+"]
+  },
+  "porter": {
+    "name": "Porter",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS"]
+
+  },
+  "redd": {
+    "name": "Redd",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "reese": {
+    "name": "Reese",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["AF", "PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSB3DS", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+  },
+  "rover": {
+    "name": "Rover",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["PC", "CPC"],
+    "software": ["PLAZA", "PHOTOS"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["P&YWW", "WWG"]
+  },
+  "sable": {
+    "name": "Sable",
+    "type": "special character",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "PC", "CPC"],
+    "software": ["PHOTOS"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["SPMP"]
+  },
+  "saharah": {
+    "name": "Saharah",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD"],
+    "software": ["CLOCK_DS", "CLOCK_3DS"],
+    "smash": ["SSBB", "SSBWIIU"],
+    "mobile": ["NT"]
+  },
+  "serena": {
+    "name": "Serena",
+    "type": "special character",
+    "debut": "11/16/2008",
+    "main": ["CF"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "snowboy": {
+    "name": "Snowboy",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "smash": ["SSB3DS"]
+
+  },
+  "snowmam": {
+    "name": "Snowmam",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL"],
+    "expansions": ["WA"],
+    "smash": ["SSB3DS"]
+
+  },
+  "snowman": {
+    "name": "Snowman",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL"],
+    "expansions": ["WA"],
+    "smash": ["SSB3DS"]
+
+  },
+  "snowtyke": {
+    "name": "Snowtyke",
+    "type": "special character",
+    "debut": "06/09/2013",
+    "main": ["NL"],
+    "expansions": ["WA"],
+    "smash": ["SSB3DS"]
+
+  },
+  "tortimer": {
+    "name": "Tortimer",
+    "type": "special character",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "spinoffs": ["FILM", "HHD", "PC", "CPC"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "other": ["CNB+"]
+  },
+  "wardell": {
+    "name": "Wardell",
+    "type": "special character",
+    "debut": "03/20/2020",
+    "main": ["NHNS2"],
+    "expansions": ["HHP"],
+    "mobile": ["NT"]
+  },
+  "wendell": {
+    "name": "Wendell",
+    "type": "special character",
+    "debut": "04/14/2001",
+    "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "WW", "CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["FILM", "WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSBB", "SSBWIIU"]
+  },
+  "wilbur": {
+    "name": "Wilbur",
+    "type": "special character",
+    "debut": "03/20/2020",
+    "main": ["NH"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "wisp": {
+    "name": "Wisp",
+    "type": "special character",
+    "debut": "12/14/2001",
+    "main": ["DnM+", "AC", "DnMe+", "CF",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "smash": ["SSBWIIU"],
+    "mobile": ["NT"]
+
+  },
+  "zipper_t_bunny": {
+    "name": "Zipper T. Bunny",
+    "type": "special character",
+    "debut": "11/16/2008",
+    "main": ["CF", "NL",  "NH", "NHNS2"],
+    "expansions": ["WA", "PPH"],
+    "software": ["PLAZA"],
+    "smash": ["SSB3DS", "SSBU"]
+  } 
+}

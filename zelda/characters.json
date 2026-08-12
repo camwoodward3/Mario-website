@@ -1,0 +1,945 @@
+{
+  "link": {
+    "name": "Link",
+    "type": "protagonist",
+    "species": "Hylian",
+    "title": ["Legendary Hero", "Hero of Hyrule", "Hero of Time", "Hero of Winds", "Hero of Light", "Hero of Twilight", "Hero of the Skies", "Hero of the Wild", "Hylian Champion"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "ALttP", "LA", "LAGBC", "ALttpDX", "OoT", "MM", "OoS", "OoA", "FS", "TWW", "TMC", "FSA", "TP", "PHG", "ST", "OoT3D", "SS", "TWWHD", "ALBW", "MM3D", "TFH", "TPHD", "BOTW", "LANS", "SSHD", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["ZG&W", "TFOE", "TWOG", "ADVENTURE", "AST", "LCT", "HW", "HWDE", "MNP", "HWL", "COH", "AOC", "V"],
+    "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
+    "shows": ["TLoZ"],
+    "mobile": ["NT"],
+    "other": ["T", "SMB&FWIGU", "F1-RACE", "DKC2", "DKL2", "SMRPG", "MAPS", "PNP", "G&WG4", "DKC2GBA", "SCII", "WWIMM", "DKA2", "DKA3", "WWI", "WWTW", "WWTO", "TDS", "WWSM", "WWDIY",  "WWG", "WWGIT", "WWMI", "CR", "B", "SPMP", "NMP", "TTT2", "NL", "SU", "ACNF", "MH4", "MH4U", "CNB", "SLW", "SM3DW", "MK8", "B2", "OPSGBX", "SMM", "YWW", "AHL+", "MHX", "MHS", "SMM3DS", "P&YWW", "WA", "P3DR2", "MII16", "MII21", "MK8DLC", "MHG", "SMM2", "BF", "MHGU", "JRC", "SMRPGNS"]
+    
+  },
+  "zelda": {
+    "name": "Princess Zelda",
+    "type": "deteragonist",
+    "title": ["Princess of Hyrule", "Sage of Time", "Light Dragon", "Shiek"],
+    "species": "Hylian",
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "ALttP", "ALttpDX", "OoT", "MM", "OoS", "OoA", "FS", "TWW", "TMC", "FSA", "TP", "ST", "OoT3D", "SS", "TWWHD", "ALBW", "TPHD", "MM3D", "BOTW", "SSHD", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["ZG&W","TFOE", "TWOG", "ADVENTURE", "AST", "HW", "HWDE", "MNP", "HWL", "COH", "AOC", "AOI"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
+    "shows": ["TLoZ"],
+    "mobile": ["NT"],
+    "other": ["DKA2", "DKA3", "PNP", "NMP", "SPMP", "TTT2", "SU", "CNB", "SMM", "YWW", "AHL+", "MII16", "P&YWW", "SSSS", "WWG", "MII21", "SMM3DS", "P&YWW"]
+  },
+  "ganon": {
+    "name": "Ganon",
+    "type": "antagonist",
+    "species": "Demon",
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "ALttP", "ALttpDX", "OoT", "OoS", "OoA", "TWW", "FSA", "TP", "TWWHD", "ALBW", "TPHD", "BOTW", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["TFOE", "TWOG", "ADVENTURE", "AST", "HW", "HWL", "COH", "AOI"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["TLoZ"],
+    "other": ["NL", "SU", "WA"]
+  },
+  "impa": {
+    "name": "Impa",
+    "type": "ally",
+    "species": "Shiekah",
+    "title": ["Servant of the Goddess", "Sage", "Shadow Sage", "Kakariko Village Chief"],
+    "debut": "02/21/1986",
+    "main": ["TLoZ", "TAoL", "ALttP", "ALttpDX", "OoT", "OoS", "OoA", "TWW", "OoT3D", "SS", "TWWHD", "ALBW", "BOTW", "SSHD", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "spinoff": ["TWOG", "HW", "HWDE", "HWL", "COH", "AOC"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT"]
+  },
+  "agahnim": {
+    "name": "Agahnim",
+    "type": "antagonist",
+    "species": "Demon",
+    "debut": "11/21/1991",
+    "main": ["ALttP", "ALttpDX"],
+    "smash": ["SSBU"]
+  },
+  
+  "marin": {
+    "name": "Marin",
+    "type": "ally",
+    "species": "Human",
+    "debut": "6/6/1993",
+    "main": ["LA", "LAGBC", "LANS"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBM", "SSBU"]
+  },
+  
+  "ganondorf": {
+    "name": "Ganondorf",
+    "type": "antagonist",
+    "species": "Gerudo",
+    "debut": "11/21/1998",
+    "main": ["OoT", "TWW", "TP", "OoT3D", "TWWHD", "TPHD", "TOTK"],
+    "spinoff": ["HWDE", "MNP", "HW", "HWL", "COH"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
+    "other": ["DKA2", "DKA3", "PNP", "TTT2", "SU", "SMM", "MII16", "WWG", "MII21", "SMM3DS", "P&YWW"]
+  },
+  "navi": {
+    "name": "Navi",
+    "type": "ally",
+    "species": "Fairy",
+    "debut": "11/21/1998",
+    "main": ["OoT", "OoT3D"],
+    "smash": ["SSB3DS", "SSBWIIU"],
+    "other": ["SU", "PNP"]
+  },
+
+  "epona": {
+    "name": "Epona",
+    "type": "animal",
+    "species": "Horse",
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TMC", "TP", "OoT3D", "MM3D", "TPHD", "BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["MNP", "SU"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"],
+    "mobile": ["NT"],
+    "other": ["PNP", "SU", "MHS", "WA"]
+  },
+  "great-deku-tree": {
+    "name": "Great Deku Tree",
+    "type": "ally",
+    "species": "Tree/Deity",
+    "debut": "11/21/1998",
+    "main": ["OoT", "TWW", "OoT3D", "TWWHD", "BOTW", "TOTK", "EOW", "BOTWNS", "TOTKNS"]
+  },
+  "rauru": {
+    "name": "Rauru",
+    "type": "ally",
+    "title": ["Sage of Light"],
+    "species": "Hylian",
+    "debut": "11/21/1998",
+    "main": ["OoT", "TWW", "OoT3D", "TWWHD"]
+  },
+  "saria": {
+    "name": "Saria",
+    "species": "Kokiri",
+    "title": ["Forest Sage"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "TWW", "OoT3D", "TWWHD"],
+    "smash": ["SSB3DS"]
+  },
+  "darunia": {
+    "name": "Darunia",
+    "species": "Goron",
+    "title": ["Fire Sage"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "TWW", "OoT3D", "TWWHD"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBU"],
+    "other": ["PNP"]
+  },
+  "ruto": {
+    "name": "Princess Ruto",
+    "species": "Zora",
+    "title": ["Princess", "Water Sage"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "TWW", "OoT3D", "TWWHD"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBU"],
+    "other": ["PNP"]
+  },
+  "nabooru": {
+    "name": "Nabooru",
+    "species": "Gerudo",
+    "title": ["Spirit Sage"],
+    "debut": "11/21/1998",
+    "main": ["OoT", "TWW", "OoT3D", "TWWHD"]
+  },
+  "malon": {
+    "name": "Malon",
+    "species": "Hylian",
+    "debut": "11/21/1998",
+    "main": ["OoT", "OoS", "FSA", "TMC", "OoT3D"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "talon": {
+    "name": "Talon",
+    "species": "Hylian",
+    "debut": "11/21/1998",
+    "main": ["OoT", "OoS", "TMC", "FSA", "OoT3D"]
+  },
+  "twinrova": {
+    "name": "Kotake and Koume",
+    "species": "Gerudo",
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "OoS", "OoA", "OoT3D", "TOTK", "TOTKNS"],
+    "spinoff": ["AOI"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "tingle": {
+    "name": "Tingle",
+    "species": ["Hylian", "Tingle"],
+    "debut": "04/27/2000",
+    "main": ["MM", "OoA", "TWW", "FSA", "MTC", "PHG", "TWWHD", "MM3D"],
+    "spinoff": ["FPTRR", "TBFDS", "TMTP", "RTBTOL", "HWDE", "HW", "HWL", "COH"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU"],
+    "other": ["DKA2", "DKA3", "SU", "SMM", "SMM3DS"]
+  },
+  "happy_mask_salesman": {
+    "name": "Happy Mask Salesman",
+    "species": "Hylian",
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "OoA", "OoT3D", "MM3D"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "skull_kid": {
+    "name": "Skull Kid",
+    "debut": "11/21/1998",
+    "main": ["OoT", "MM", "TP", "OoT3D", "TPHD", "MM3D"],
+    "spinoff": ["HWDE", "MNP", "HW", "HWL", "COH"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
+    "other": ["MHS"]
+  },
+  "tael": {
+    "name": "Tael",
+    "species": "Fairy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+  "tatl": {
+    "name": "Tatl",
+    "species": "Fairy",
+    "debut": "04/27/2000",
+    "main": ["MM", "MM3D"]
+  },
+
+  "din": {
+    "name": "Din",
+    "title": ["Oracle of Seasons"],
+    "debut": "02/27/2001",
+    "main": ["OoS", "OoA"],
+    "smash": ["SSBU"]
+  },
+  "nayru": {
+    "name": "Nayru",
+    "title": ["Oracle of Ages"],
+    "debut": "02/27/2001",
+    "main": ["OoS", "OoA"],
+    "smash": ["SSBU"]
+  },
+  "ricky": {
+    "name": "Ricky",
+    "species": "Kangaroo",
+    "debut": "02/27/2001",
+    "main": ["OoS", "OoA"],
+    "smash": ["SSBU"]
+  },
+    "vaati": {
+    "name": "Vaati",
+    "species": "Minish",
+    "title": ["Wind Mage", "Wind Sorcerer", "Immortal Demon"],
+    "debut": "12/02/2002",
+    "main": ["FS", "FSA", "TMC"],
+    "smash": ["SSBU"]
+  },
+  "beedle": {
+    "name": "Beedle",
+    "species": "Hylian",
+    "debut": "12/13/2002",
+    "main": ["TWW", "TMC", "PHG", "ST", "SS", "TWWHD", "BOTW", "SSHD", "TOTK", "BOTWNS", "TOTKNS"],
+    "smash": ["SSBU"],
+    "other": ["SU"]
+  },
+  "daphnes": {
+    "name": "King Daphnes Nohansen Hyrule",
+    "species": "Hylian",
+    "title": ["King of Hyrule", "King of Red Lions"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBB", "SSBWIIU", "SSB3DS", "SSBU"]
+  },
+  "tetra": {
+    "name": "Tetra",
+    "species": "Hylian",
+    "title": ["The Wind Waker", "Leader to a New World"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "PHG", "TWWHD"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["DKA2", "DKA3", "SMM", "SMM3DS"]
+  },
+  "aryll": {
+    "name": "Aryll",
+    "species": "Hylian",
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+  },
+  "fado": {
+    "name": "Fado",
+    "species": "Kokiri",
+    "title": ["Wind Sage"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "TWWHD"]
+  },
+  "laruto": {
+    "name": "Laruto",
+    "species": "Zora",
+    "title": ["Earth Sage"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "TWWHD"]
+  },
+  "medli": {
+    "name": "Medli",
+    "species": "Rito",
+    "title": ["Earth Sage"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["WA"]
+  },
+  "komali": {
+    "name": "Komali",
+    "species": "Rito",
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"]
+  },
+  "quill": {
+    "name": "Quill",
+    "species": "Rito",
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"]
+  },
+  "makar": {
+    "name": "Makar",
+    "species": "Korok",
+    "title": ["Wind Sage"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "RSA", "TWWHD"],
+    "smash": ["SSBB"]
+  },
+  "cyclos": {
+    "name": "Cyclos",
+    "species": ["Frog", "Deity"],
+    "title": ["God of Winds"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "TWWHD"]
+  },
+  "zephos": {
+    "name": "Zephos",
+    "species": ["Frog", "Deity"],
+    "title": ["God of Winds", "Wind God"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "TWWHD"]
+  },
+  "gonzo": {
+    "name": "Gonzo",
+    "species": "Hylian",
+    "title": ["Pirate"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"]
+  },
+  "mako": {
+    "name": "Mako",
+    "species": "Hylian",
+    "title": ["Pirate"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"]
+  },
+  "niko": {
+    "name": "Niko",
+    "species": "Hylian",
+    "title": ["Pirate"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "ST", "TWWHD"]
+  },
+  "nudge": {
+    "name": "Nudge",
+    "species": "Hylian",
+    "title": ["Pirate"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"]
+  },
+  "senza": {
+    "name": "Senza",
+    "species": "Hylian",
+    "title": ["Pirate"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"]
+  },
+  "zuko": {
+    "name": "Zuko",
+    "species": "Hylian",
+    "title": ["Pirate"],
+    "debut": "12/13/2002",
+    "main": ["TWW", "FSA", "TWWHD"]
+  },
+  "midna": {
+    "name": "Midna",
+    "species": "Twili",
+    "title": ["Twilight Princess"],
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "spinoff": ["HW", "HWDE", "MNP", "HWL"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
+    "other": ["WWG"]
+  },  
+  "zant": {
+    "name": "Zant",
+    "species": "Twili",
+    "title": ["Twilight King", "King of Darkness", "King of Shadows"],
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "spinoff": ["HW", "HWDE", "MNP", "HWL"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "ooccoo": {
+    "name": "Ooccoo",
+    "species": "Oocca",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "spinoff": ["MNP"],
+    "smash": ["SSBB"]
+  },
+  "ilia": {
+    "name": "Ilia",
+    "species": "Human",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "spinoff": ["MNP"],
+    "smash": ["SSBB"]
+  },
+  "telma": {
+    "name": "Telma",
+    "species": "Hylian",
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"]
+  },
+  "agitha": {
+    "name": "Agitha",
+    "species": "Hylian",
+    "title": ["Princess of Bugs", "Queen of the Bugs"],
+    "debut": "11/19/2006",
+    "main": ["TP", "TPHD"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBB", "SSBU"]
+  },
+
+  "oshus": {
+    "name": "Oshus",
+    "species": "Deity",
+    "title": ["Grandpa"],
+    "debut": "06/23/2007",
+    "main": ["PHG"]
+  },
+  "linebeck": {
+    "name": "Linebeck",
+    "species": "Hylian",
+    "debut": "06/23/2007",
+    "main": ["PHG"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "belium": {
+    "name": "Belium",
+    "species": ["Phantom", "Demon"],
+    "title": ["Evil Phantom", "Evil Dream God"],
+    "debut": "06/23/2007",
+    "main": ["PHG"]
+  },
+  "ciela": {
+    "name": "Ciela",
+    "species": "Fairy",
+    "title": ["Spirit of Time and Courage"],
+    "debut": "06/23/2007",
+    "main": ["PHG"],
+    "smash": ["SSB3DS"]
+  },
+  "leaf": {
+    "name": "Leaf",
+    "species": "Fairy",
+    "title": ["Spirit of Power"],
+    "debut": "06/23/2007",
+    "main": ["PHG"]
+  },
+  "neri": {
+    "name": "Ciela",
+    "species": "Fairy",
+    "title": ["Spirit of Wisdom"],
+    "debut": "06/23/2007",
+    "main": ["PHG"]
+  },
+
+  "demise": {
+    "name": "Demise",
+    "species": "Demon",
+    "title": ["Demon King", "The Imprisoned"],
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "fi": {
+    "name": "Fi",
+    "species": "Sword Spirit",
+    "title": ["The Voice Within the Master Sword"],
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "ghirahim": {
+    "name": "Ghirahim",
+    "species":["Sword Spirit", "Demon"],
+    "title": ["Demon Lord"],
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSB3DS", "SSBWIIU", "SBBU"]
+  },
+  "groose": {
+    "name": "Groose",
+    "species": "Hylian",
+    "debut": "11/18/2011",
+    "main": ["SS", "SSHD"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+
+  "ravio": {
+    "name": "Ravio",
+    "species": "N/A",
+    "title": ["Traveling Merchant"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBU"]
+  },
+  "sheerow": {
+    "name": "Sheerow",
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+  "hilda": {
+    "name": "Hilda",
+    "species": "Hylian",
+    "title": ["Princess of Lorule"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"],
+    "smash": ["SSBU"]
+  },
+  "yuga": {
+    "name": "Yuga",
+    "title": ["Sorcerer of Lorule"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"],
+    "spinoff": ["HW", "HWDE", "HWL"],
+    "smash": ["SSBU"]
+  },
+  "gulley": {
+    "name": "Gulley",
+    "species": "Hylian",
+    "title": ["Sage"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+  "seres": {
+    "name": "Seres",
+    "species": "Human",
+    "title": ["Sage", "Saintly Sage"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+  "osfala": {
+    "name": "Osfala",
+    "species": "Hylian",
+    "title": ["Sage"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+  "irene": {
+    "name": "Irene",
+    "species": "Hylian",
+    "title": ["Sage"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+  "oren": {
+    "name": "Oren",
+    "species": "Zora",
+    "title": ["Zora Queen"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },
+  "rosso": {
+    "name": "Rosso",
+    "species": "Hylian",
+    "title": ["Sage"],
+    "debut": "11/22/2013",
+    "main": ["ALBW"]
+  },  
+
+  "luna": {
+    "name": "Sholani",
+    "title": ["The White Sorceress", "The Sorceress of the Woods", "Guardian of Time"],
+    "debut": "08/14/2014",
+    "spinoff": ["HW", "HWL", "HWDE"]
+  },
+  "cia": {
+    "name": "Cia",
+    "title": ["Sorceress of the Valley", "Dark Sorceress", "Guardian of the Triforce"],
+    "debut": "08/14/2014",
+    "spinoff": ["HW", "HWL", "HWDE"]
+  },
+  "volga": {
+    "name": "Sholani",
+    "species": "Dragon",
+    "title": ["Dragon Knight"],
+    "debut": "08/14/2014",
+    "spinoff": ["HW", "HWL", "HWDE"]
+  },
+  "wizzro": {
+    "name": "Wizzro",
+    "title": ["The Dark Sorcerer", "Twisted Wizard"],
+    "debut": "08/14/2014",
+    "spinoff": ["HW", "HWL", "HWDE"]
+  },
+  "linkle": {
+    "name": "Sholani",
+    "species": "Hylian",
+    "debut": "08/14/2014",
+    "spinoff": ["HW", "HWL", "HWDE"]
+  },
+  
+
+  "daruk": {
+    "name": "Daruk",
+    "species": "Goron",
+    "title": ["Chief"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "BOTWNS"],
+    "spinoff": ["AOC"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "other": ["WWG"]
+  },
+  "mipha": {
+    "name": "Mipha",
+    "species": "Zora",
+    "title": ["Princess", "Champion"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "BOTWNS"],
+    "spinoff": ["AOC"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "other": ["WWG"]
+  },
+  "urbosa": {
+    "name": "Urbosa",
+    "species": "Gerudo",
+    "title": ["Chief", "Gerudo Champion"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "BOTWNS"],
+    "spinoff": ["AOC"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "other": ["WWG"]
+  },
+  "revali": {
+    "name": "Revali",
+    "species": "Rito",
+    "title": ["Rito Warrior", "Rito Champion"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "BOTWNS"],
+    "spinoff": ["AOC"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "other": ["WWG"]
+  },
+  "yunobo": {
+    "name": "Yunobo",
+    "species": "Goron",
+    "title": ["Fire Sage"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"],
+    "mobile": ["NT"]
+  },
+  "sidon": {
+    "name": "Sidon",
+    "species": "Zora",
+    "title": ["Zora Prince", "Water Sage"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"],
+    "mobile": ["NT"]
+  },
+  "riju": {
+    "name": "Riju",
+    "species": "Gerudo",
+    "title": ["Gerudo Chief", "Lightning Sage"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"],
+    "mobile": ["NT"]
+  },
+  "teba": {
+    "name": "Teba",
+    "species": "Rito",
+    "title": ["Rito Warrior", "Rito Elder"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"],
+    "mobile": ["NT"]
+  },
+  "rhoam": {
+    "name": "King Rhoam",
+    "species": "Hylian",
+    "title": ["The Last King of Hyrule"],
+    "debut": "11/18/2011",
+    "main": ["BOTW", "BOTWNS"],
+    "spinoff": ["AOC"]
+  },
+  "hudson": {
+    "name": "Hudson",
+    "species": "Hylian",
+    "title": ["Owner of Hudson Construction"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"]
+  },
+  "hestu": {
+    "name": "Hestu",
+    "species": "Korok",
+    "title": ["Musician of Korok Forest"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"]
+  },
+  "kass": {
+    "name": "Kass",
+    "species": "Rito",
+    "title": ["Bard"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "BOTWNS"],
+    "mobile": ["NT"]
+  },
+  "purah": {
+    "name": "Purah",
+    "species": "Shiekah",
+    "title": ["Lab Director"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"],
+    "mobile": ["NT"]
+  },
+  "robbie": {
+    "name": "Robbie",
+    "species": "Shiekah",
+    "title": ["Director"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"],
+    "mobile": ["NT"]
+  },
+  "kohga": {
+    "name": "Master Kohga",
+    "species": "Shiekah",
+    "title": ["Leader of the Yiga Clan"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"],
+    "smash": ["SSBB", "SSBWIIU", "SSB3DS"],
+    "mobile": ["NT"]
+
+  },
+  "tulin": {
+    "name": "Tulin",
+    "species": "Rito",
+    "title": ["Wind Sage"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "other": ["NH"]
+  },
+  "dorephan": {
+    "name": "King Dorephan",
+    "species": "Zora",
+    "title": ["King of the Zora"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "spinoff": ["AOC"]
+  },
+  "buliara": {
+    "name": "Buliara",
+    "species": "Gerudo",
+    "title": ["Gerudo Captain of the Guard"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"]
+  },
+  "paya": {
+    "name": "Paya",
+    "species": "Shiekah",
+    "title": ["Kakariko Village Chief"],
+    "debut": "03/03/2017",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
+    "mobile": ["NT"]
+  },
+  "rhondson": {
+    "name": "Rhondson",
+    "species": "Gerudo",
+    "title": ["Owner of Hudson Construction"],
+    "debut": "05/12/2023",
+    "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"]
+  },
+
+
+  "king_rauru": {
+    "name": "Rauru",
+    "species": "Zonai",
+    "title": ["First King of Hyrule"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"],
+    "mobile": ["NT"]
+  },
+  "sonia": {
+    "name": "Sonia",
+    "species": "Hylian",
+    "title": ["Queen of Hyrule"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "mineru": {
+    "name": "Mineru",
+    "species": "Zonai",
+    "title": ["Spirit Sage"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"],
+    "mobile": ["NT"],
+    "other": ["NH"]
+  },
+  "raphica": {
+    "name": "Raphica",
+    "species": "Rito",
+    "title": ["Rito Elder", "Wind Sage"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "agraston": {
+    "name": "Agraston",
+    "species": "Goron",
+    "title": ["Goron Chief", "Fire Sage"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "qia": {
+    "name": "Qia",
+    "species": "Zora",
+    "title": ["Zora Queen", "Water Sage"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "spinoff": ["AOI"]
+  },
+  "ardi": {
+    "name": "Ardi",
+    "species": "Gerudo",
+    "title": ["Gerudo Chief", "Lighting Sage"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"]
+  },
+  "tauro": {
+    "name": "Tauro",
+    "species": "Hylian",
+    "title": ["Zonai Survey Team Leader"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"]
+  },
+  "josha": {
+    "name": "Josha",
+    "species": "Shiekah",
+    "title": ["Heads of Depths Research"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"],
+    "mobile": ["NT"]
+  },
+  "yona": {
+    "name": "Yona",
+    "species": "Zora",
+    "title": ["Zora Queen"],
+    "debut": "05/12/2023",
+    "main": ["TOTK", "TOTKNS"]
+  },
+
+  "calamo": {
+    "name": "Calamo",
+    "species": "Korok",
+    "title": ["Traveling Korok"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "typhan": {
+    "name": "Typhan",
+    "species": "Hylian",
+    "title": ["Hylian Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },  
+  "quino": {
+    "name": "Quino",
+    "species": "Hylian",
+    "title": ["Hylian Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "cadlan": {
+    "name": "Cadlan",
+    "species": "Zora",
+    "title": ["Zora Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "lago": {
+    "name": "Lago",
+    "species": "Zora",
+    "title": ["Zora Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "pastos": {
+    "name": "Pastos",
+    "species": "Goron",
+    "title": ["Goron Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "braton": {
+    "name": "Braton",
+    "species": "Goron",
+    "title": ["Goron Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "vence": {
+    "name": "Vence",
+    "species": "Rito",
+    "title": ["Rito Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "pinnec": {
+    "name": "Pinnec",
+    "species": "Rito",
+    "title": ["Rito Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "sholani": {
+    "name": "Sholani",
+    "species": "Gerudo",
+    "title": ["Gerudo Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  },
+  "ronza": {
+    "name": "Ronza",
+    "species": "Gerudo",
+    "title": ["Gerudo Warrior"],
+    "debut": "11/06/2025",
+    "spinoff": ["AOI"]
+  }
+}

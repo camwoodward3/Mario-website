@@ -1,0 +1,3325 @@
+{
+  "gazzak": {
+    "name": "Gazzak",
+    "class": "Pirate",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "gomer": {
+    "name": "Gomer",
+    "class": "Pirate",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "hyman": {
+    "name": "Hyman",
+    "class": "Fighter",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "bentheon": {
+    "name": "Bentheon",
+    "class": "Cavalier",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD"]
+  },
+  "merach": {
+    "name": "Merach",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "emereus": {
+    "name": "Emereus",
+    "class": "General",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "harmein": {
+    "name": "Harmein",
+    "class": "General",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "kannival": {
+    "name": "Kannival",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "mannu": {
+    "name": "Mannu",
+    "class": "Manakete",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD"]
+  },
+  "zharov": {
+    "name": "Zharov",
+    "class": "General",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "khozen": {
+    "name": "Khozen",
+    "class": "Manakete",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "volzhin": {
+    "name": "Volzhin",
+    "class": "Bishop",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "heimler": {
+    "name": "Heimler",
+    "class": "Paladin",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD"]
+  },
+  "grigas": {
+    "name": "Grigas",
+    "class": "Ballistician",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD"]
+  },
+  "jiol": {
+    "name": "Jiol",
+    "class": "General",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "gharnef": {
+    "name": "Gharnef",
+    "class": ["Bishop", "Sorcerer"],
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE", "FEA"],
+    "spinoffs": ["TMSFE", "FEH", "FEW"],
+    "smash": ["SSBU"]
+  },
+  "hollstadt": {
+    "name": "Hollstadt",
+    "class": "General",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "morzas": {
+    "name": "Morzas",
+    "class": "Manakete",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "sternlin": {
+    "name": "Sternlin",
+    "class": "Paladin",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD"]
+  },
+  "camus": {
+    "name": "Camus",
+    "class": "Paladin",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE", "FEA"],
+    "spinoffs": ["BSFE", "FEH"],
+    "smash": ["SSBU"]
+  },
+  "orridyon": {
+    "name": "Orridyon",
+    "class": "Paladin",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD"]
+  },
+  "michalis": {
+    "name": "Michalis",
+    "class": "Wyvern Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "xemcel": {
+    "name": "Xemcel",
+    "class": "Manakete",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE"]
+  },
+  "medeus": {
+    "name": "Medeus",
+    "class": "Manakete",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "PESD", "FENMotE", "FEE"],
+    "spinoffs": ["BSFE", "TMSFE", "FEH"],
+    "smash": ["SSBU"]
+  },
+
+  "desaix": {
+    "name": "Desaix",
+    "class": "Baron",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "slayde": {
+    "name": "Slayde",
+    "class": "Paladin",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "barth": {
+    "name": "Barth",
+    "class": "Brigand",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "garth": {
+    "name": "Garth",
+    "class": "Brigand",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "zakson": {
+    "name": "Zakson",
+    "class": "Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "lawson": {
+    "name": "Lawson",
+    "class": "Paladin",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "gazelle": {
+    "name": "Gazelle",
+    "class": "Bow Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "blake": {
+    "name": "Blake",
+    "class": "Myrmidon",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "wolff": {
+    "name": "Wolff",
+    "class": "Sniper",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "grieth": {
+    "name": "Grieth",
+    "class": "Dread Fighter",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "mikhail": {
+    "name": "Mikhail",
+    "class": "Cantor",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "delthea": {
+    "name": "Delthea",
+    "class": "Witch",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "tatarrah": {
+    "name": "Tatarrah",
+    "class": "Arcanist",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "garcia": {
+    "name": "Garcia",
+    "class": "Cantor",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "shizas": {
+    "name": "Shizas",
+    "class": "Gold Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG"]
+  },
+  "xaizor": {
+    "name": "Xaizor",
+    "class": "Dread Fighter",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "nuibaba": {
+    "name": "Nuibaba",
+    "class": "Arcanist",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "dolth": {
+    "name": "Dolth",
+    "class": "Cantor",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "jamil": {
+    "name": "Jamil",
+    "class": ["Arcanist", "Assassin"],
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"]
+  },
+  "jerome": {
+    "name": "Jerome",
+    "class": "Gold Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "magnus": {
+    "name": "Magnus",
+    "class": "Fighter",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "mueller": {
+    "name": "Mueller",
+    "class": "Bow Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FET776", "FEESoV"]
+  },
+  "rudolf": {
+    "name": "Rudolf",
+    "class": "Gold Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "gharn": {
+    "name": "Gharn",
+    "class": "Arcanist",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "marla": {
+    "name": "Marla",
+    "class": "Witch",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "hestia": {
+    "name": "Hestia",
+    "class": "Witch",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "jedah": {
+    "name": "Jedah",
+    "class": "Cantor",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "duma": {
+    "name": "Duma",
+    "class": "Fell God",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+
+  "lumel": {
+    "name": "Lumel",
+    "class": "Dracoknight",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "lykke": {
+    "name": "Luke",
+    "class": "Cavalier",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "gail": {
+    "name": "Gail",
+    "class": "Pirate",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "torus": {
+    "name": "Torus",
+    "class": "Ballistician",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "lang": {
+    "name": "Lang",
+    "class": "General",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "dall": {
+    "name": "Dall",
+    "class": "Thief",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "yodel": {
+    "name": "Yodel",
+    "class": "Bishop",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "eibel": {
+    "name": "Eibel",
+    "class": "General",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "willow": {
+    "name": "Willow",
+    "class": "Bishop",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "nehring": {
+    "name": "Nehring",
+    "class": "Cavalier",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+
+  "diMaggio": {
+    "name": "DiMaggio",
+    "class": "Axe Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "gerrard": {
+    "name": "Gerrard",
+    "class": "Axe Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "cimbaeth": {
+    "name": "Cimbaeth",
+    "class": "Warrior",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "elliot": {
+    "name": "Elliot",
+    "class": "Duke Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "munnir": {
+    "name": "Munnir",
+    "class": "Warrior",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "jamke": {
+    "name": "Jamke",
+    "class": "Bow Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "sandima": {
+    "name": "Sandima",
+    "class": "Dark Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "other": ["FETCG"]
+  },
+  "philip": {
+    "name": "Philip",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "bordeaux": {
+    "name": "Bordeaux",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "macbeth": {
+    "name": "Macbeth",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "waltz": {
+    "name": "Waltz",
+    "class": "Ranger",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "erinys": {
+    "name": "Erinys",
+    "class": "Pegasus Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "clement": {
+    "name": "Clement",
+    "class": "Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "zane": {
+    "name": "Zane",
+    "class": "Duke Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "chagall": {
+    "name": "Chagall",
+    "class": "Baron",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "jacobi": {
+    "name": "Jacobi",
+    "class": "Forrest",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "eldigan": {
+    "name": "Eldigan",
+    "class": "Paladin",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG", "FEC"]
+  },
+  "papilio": {
+    "name": "Papilio",
+    "class": "Wyvern Rider",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "pizare": {
+    "name": "Pizare",
+    "class": "Warrior",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "duvall": {
+    "name": "Duvall",
+    "class": "Warrior",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "cuvuli": {
+    "name": "Cuvuli",
+    "class": "Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "dithorba": {
+    "name": "Dithorba",
+    "class": "Falcon Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "myos": {
+    "name": "Myos",
+    "class": "Baron",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "pamela": {
+    "name": "Pamela",
+    "class": "Falcon Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "donovan": {
+    "name": "Donovan",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "lamia": {
+    "name": "Lamia",
+    "class": "Swordmaster",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "daccar": {
+    "name": "Daccar",
+    "class": "Baron",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "andrey": {
+    "name": "Andrey",
+    "class": "Bow Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "slayder": {
+    "name": "Slayder",
+    "class": "Great Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "lombard": {
+    "name": "Lombard",
+    "class": "Baron",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "magorn": {
+    "name": "Magorn",
+    "class": "Wyvern Lord",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "vaja": {
+    "name": "Vaja",
+    "class": "Mage Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "reptor": {
+    "name": "Reptor",
+    "class": "Baron",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "other": ["FETCG"]
+  },
+  "harold": {
+    "name": "Harold",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "schmidt": {
+    "name": "Schmidt",
+    "class": "Great Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "danann": {
+    "name": "Danann",
+    "class": "Baron",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "kutuzov": {
+    "name": "Kutuzov",
+    "class": "Dark Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "other": ["FETCG"]
+  },
+  "liza": {
+    "name": "Liza",
+    "class": "Thunder Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "ishtore": {
+    "name": "Ishtore",
+    "class": "Mage Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "other": ["FETCG"]
+  },
+  "javarro": {
+    "name": "Javarro",
+    "class": "Ranger",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "bramsel": {
+    "name": "Bramsel",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "banba": {
+    "name": "Banba",
+    "class": "Fire Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "eriu": {
+    "name": "Eriu",
+    "class": "Thunder Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "fotla": {
+    "name": "Fotla",
+    "class": "Wind Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "bloom": {
+    "name": "Bloom",
+    "class": "Baron",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "other": ["FETCG"]
+  },
+  "muhammad": {
+    "name": "Muhammad",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "ovo": {
+    "name": "Ovo",
+    "class": "Mage Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "ishtar": {
+    "name": "Ishtar",
+    "class": "Sage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "coulter": {
+    "name": "Coutler",
+    "class": "Wyvern Rider",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776"]
+  },
+  "maykov": {
+    "name": "Maykov",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "kanatz": {
+    "name": "Kanatz",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "distler": {
+    "name": "Distler",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "travant": {
+    "name": "Travant",
+    "class": "Wyvern Lord",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "musar": {
+    "name": "Musar",
+    "class": "Mage Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "judah": {
+    "name": "Judah",
+    "class": "Dark Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "arion": {
+    "name": "Arion",
+    "class": "Wyvern Lord",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "riddell": {
+    "name": "Riddell",
+    "class": "Paladin",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "hilda": {
+    "name": "Hilda",
+    "class": "Queen",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEWTH"],
+    "other": ["FETCG"]
+  },
+  "morrigan": {
+    "name": "Morrigan",
+    "class": "Dark Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "julius": {
+    "name": "Julius",
+    "class": ["Dark Prince", "Sorcerer"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FETCG"]
+  },
+  "zagam": {
+    "name": "Zagam",
+    "class": "Dark Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "arvis": {
+    "name": "Arvis",
+    "class": ["Emperor", "Sorcerer"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "ulster": {
+    "name": "Ulster",
+    "class": "Myrmidon",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"]
+  },
+  "roberto": {
+    "name": "Roberto",
+    "class": "Paladin",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoff": ["BSFE"]
+  },
+  "boyce": {
+    "name": "Boyce",
+    "class": "Swordmaster",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "rodan": {
+    "name": "Rodan",
+    "class": "Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "juphiel": {
+    "name": "Juphiel",
+    "class": "Dark Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "fisher": {
+    "name": "Fisher",
+    "class": "Great Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "brian": {
+    "name": "Brian",
+    "class": "Master Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "dagon": {
+    "name": "Dagon",
+    "class": "Dark Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "scipio": {
+    "name": "Scipio",
+    "class": "Master Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "baran": {
+    "name": "Baran",
+    "class": "Dark Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "meng": {
+    "name": "Meng",
+    "class": "Falcon Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "bleg": {
+    "name": "Bleg",
+    "class": "Falcon Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "mabel": {
+    "name": "Mabel",
+    "class": "Falcon Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "manfroy": {
+    "name": "Manfroy",
+    "class": "Dark Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776"],
+    "other": ["FETCG"]
+  },
+  "mus": {
+    "name": "Mus",
+    "class": ["Baron", "General"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"]
+  },
+  "bovis": {
+    "name": "Bovis",
+    "class": ["Forrest", "Bow Knight"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"]
+  },
+  "tigris": {
+    "name": "Tigris",
+    "class": "Warrior",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"]
+  },
+  "lepus": {
+    "name": "Lepus",
+    "class": ["High Priest", "War Cleric"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"]
+  },
+  "draco": {
+    "name": "Draco",
+    "class": "Sniper",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"]
+  },
+  "anguilla": {
+    "name": "Anguilla",
+    "class": ["Mage Fighter", "Dark Knight"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"]
+  },
+  "equus": {
+    "name": "Equus",
+    "class": ["Bishop", "Paladin"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"]
+  },
+  "ovis": {
+    "name": "Ovis",
+    "class": "Sage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"]
+  },
+  "simia": {
+    "name": "Simia",
+    "class": "Swordmaster",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"]
+  },
+  "gallus": {
+    "name": "Gallus",
+    "class": ["Dark Bishop", "Sorcerer"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"]
+  },
+  "canis": {
+    "name": "Canis",
+    "class": ["Shaman", "Valkyrie"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "porcus": {
+    "name": "Porcus",
+    "class": ["Thief Fighter", "Assassin"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"]
+  },
+
+  "gouber": {
+    "name": "Gouber",
+    "class": "General",
+    "debut": "09/28/1997",
+    "main": ["FENMotE"],
+    "spinoff": ["BSFE"]
+  },
+  "ruben": {
+    "name": "Ruben",
+    "class": "Dracoknight",
+    "debut": "09/28/1997",
+    "main": ["FENMotE"],
+    "spinoff": ["BSFE"]
+  },
+  "vaam": {
+    "name": "Vaam",
+    "class": "Thief",
+    "debut": "09/28/1997",
+    "main": ["FENMotE"],
+    "spinoff": ["BSFE"]
+  },
+  "brzak": {
+    "name": "Brzak",
+    "class": "Manakete",
+    "debut": "09/28/1997",
+    "main": ["FENMotE"],
+    "spinoff": ["BSFE"]
+  },
+
+  "weismann": {
+    "name": "Weismann",
+    "class": "Sword Armor",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "bucks": {
+    "name": "Bucks",
+    "class": "Warrior",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "lifis": {
+    "name": "Lifis",
+    "class": "Thief",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "lobos": {
+    "name": "Lobos",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "veld": {
+    "name": "Veld",
+    "class": "Dark Bishop",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "raydrik": {
+    "name": "Raydrik",
+    "class": ["Baron", "General"],
+    "debut": "09/01/1999",
+    "main": ["FET776", "FEA"]
+  },
+  "bandol": {
+    "name": "Bandol",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "truman": {
+    "name": "Truman",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "eisenau": {
+    "name": "Eisenau",
+    "class": "Paladin",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "rumei": {
+    "name": "Rumei",
+    "class": "Wyvern Rider",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "gomez": {
+    "name": "Gomez",
+    "class": "Warrior",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "merlock": {
+    "name": "Merlock",
+    "class": "Wyvern Rider",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "dvorak": {
+    "name": "Osian",
+    "class": "Wyvern Rider",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "largo": {
+    "name": "Largo",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "kempf": {
+    "name": "Kempf",
+    "class": "Mage Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "oltoph": {
+    "name": "Oltoph",
+    "class": "Bishop",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "cullough": {
+    "name": "Cullough",
+    "class": "Warrior",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "list": {
+    "name": "List",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "baldack": {
+    "name": "Baldack",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "paulus": {
+    "name": "Paulus",
+    "class": "Baron",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "mcCloy": {
+    "name": "McCloy",
+    "class": "Wyvern Rider",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "codda": {
+    "name": "Codda",
+    "class": "Dark Bishop",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "eichmann": {
+    "name": "Eichmann",
+    "class": "Mercenary",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "zyle": {
+    "name": "Zyle",
+    "class": "Warrior",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "brook": {
+    "name": "Brook",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "moore": {
+    "name": "Moore",
+    "class": "Dark Bishop",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "nikalaf": {
+    "name": "Nikalaf",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "linecock": {
+    "name": "Linecock",
+    "class": "Dark Bishop",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "palman": {
+    "name": "Palman",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "gustaf": {
+    "name": "Gustaf",
+    "class": "Baron",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "xaiver": {
+    "name": "Xavier",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "wolf": {
+    "name": "Wolf",
+    "class": "Baron",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "barath": {
+    "name": "Barath",
+    "class": "Baron",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "seimetol": {
+    "name": "Seimetol",
+    "class": "Wyvern Rider",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "fraus": {
+    "name": "Fraus",
+    "class": "Bishop",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "zaom": {
+    "name": "Zaom",
+    "class": "Baron",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "reinhardt": {
+    "name": "Reinhardt",
+    "class": "Mage Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "cohen": {
+    "name": "Cohen",
+    "class": "Baron",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "alphand": {
+    "name": "Alphand",
+    "class": "Dark Bishop",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "farden": {
+    "name": "Farden",
+    "class": "Paladin",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+
+  "damas": {
+    "name": "Damas",
+    "class": "Fighter",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "ruud": {
+    "name": "Ruud",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "slater": {
+    "name": "Slater",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "erik": {
+    "name": "Erik",
+    "class": "Cavalier",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB"]
+  },
+  "dory": {
+    "name": "Dory",
+    "class": "Brigand",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "wagner": {
+    "name": "Wagner",
+    "class": "Shaman",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "debias": {
+    "name": "Debias",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "legance": {
+    "name": "Legance",
+    "class": "General",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "henning": {
+    "name": "Henning",
+    "class": "Hero",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "scott": {
+    "name": "Scott",
+    "class": "Berserker",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "nord": {
+    "name": "Nord",
+    "class": "Druid",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "zinque": {
+    "name": "Zinque",
+    "class": "General",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "scollan": {
+    "name": "Scollan",
+    "class": "Brigand",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "orlo": {
+    "name": "Orlo",
+    "class": "Bishop",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "roberts": {
+    "name": "Roberts",
+    "class": "Paladin",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "morgan": {
+    "name": "Morgan",
+    "class": "General",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "ein": {
+    "name": "Ein",
+    "class": "Manakete",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "guerrero": {
+    "name": "Guerrero",
+    "class": "Berserker",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "flaer": {
+    "name": "Flaer",
+    "class": "Wyvern Lord",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "randy": {
+    "name": "Randy",
+    "class": "Hero",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "maggie": {
+    "name": "Maggie",
+    "class": "Berserker",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "rose": {
+    "name": "Rose",
+    "class": "Berserker",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "oates": {
+    "name": "Oates",
+    "class": "Sage",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "raith": {
+    "name": "Raith",
+    "class": "Paladin",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "windham": {
+    "name": "Windham",
+    "class": "Bishop",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "arcardo": {
+    "name": "Arcardo",
+    "class": "Paladin",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "martel": {
+    "name": "Martel",
+    "class": "Bishop",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "monke": {
+    "name": "Monke",
+    "class": "Nomad Trooper",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "sigune": {
+    "name": "Sigune",
+    "class": "Falcon Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "kel": {
+    "name": "Kel",
+    "class": "Swordmaster",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "roartz": {
+    "name": "Roartz",
+    "class": "General",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "tick": {
+    "name": "Tick",
+    "class": "General",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "thoril": {
+    "name": "Thoril",
+    "class": "Nomad Trooper",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "brakul": {
+    "name": "Brakul",
+    "class": "Druid",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "kudoka": {
+    "name": "Kudoka",
+    "class": "Nomad Trooper",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "marral": {
+    "name": "Marral",
+    "class": "Druid",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "kabul": {
+    "name": "Kabul",
+    "class": "Nomad Trooper",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "chan": {
+    "name": "Chan",
+    "class": "Druid",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "jahn": {
+    "name": "Jahn",
+    "class": "Manakete",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "idunn": {
+    "name": "Idunn",
+    "class": "Demon Dragon",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+
+  "batta": {
+    "name": "Batta",
+    "class": "Brigand",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "zugu": {
+    "name": "Zugu",
+    "class": "Brigand",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "glass": {
+    "name": "Glass",
+    "class": "Mercenary",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "migal": {
+    "name": "Migal",
+    "class": "Brigand",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "carjiga": {
+    "name": "Carjiga",
+    "class": "Brigand",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "bug": {
+    "name": "Bug",
+    "class": "Brigand",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "bool": {
+    "name": "Knight",
+    "class": "Bishop",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "heintz": {
+    "name": "Heintz",
+    "class": "Shaman",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "beyard": {
+    "name": "Beyard",
+    "class": "Mercenary",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "yogi": {
+    "name": "Yogi",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "eagler": {
+    "name": "Eagler",
+    "class": "Paladin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "lundgren": {
+    "name": "Lundgren",
+    "class": "General",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "groznyi": {
+    "name": "Groznyi",
+    "class": "Brigand",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "zagan": {
+    "name": "Zagan",
+    "class": "Fighter",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "boies": {
+    "name": "Boies",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "puzon": {
+    "name": "Puzon",
+    "class": "Mercenary",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "bauker": {
+    "name": "Bauker",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "bernard": {
+    "name": "Bernard",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "fargus": {
+    "name": "Fargus",
+    "class": "Berserker",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "damian": {
+    "name": "Damian",
+    "class": "Paladin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "zoldam": {
+    "name": "Zoldam",
+    "class": "Shaman",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "uhai": {
+    "name": "Uhai",
+    "class": "Nomadic Trooper",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "aion": {
+    "name": "Aion",
+    "class": "Sage",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "kishuna": {
+    "name": "Kishuna",
+    "class": "Magic",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "cameron":{
+    "name": "Cameron",
+    "class": "Paladin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "darin": {
+    "name": "Darin",
+    "class": "General",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "oleg": {
+    "name": "Oleg",
+    "class": "Warrior",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "eubans": {
+    "name": "Eubans",
+    "class": "Paladin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "paul": {
+    "name": "Paul",
+    "class": "Warrior",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "jasmine": {
+    "name": "Jasmine",
+    "class": "Warrior",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "linus": {
+    "name": "Linus",
+    "class": "Hero",
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "lloyd": {
+    "name": "Lloyd",
+    "class": "Swordmaster",
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "vaida": {
+    "name": "Vadia",
+    "class": "Wyvern Lord",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "kenneth": {
+    "name": "Kenneth",
+    "class": "Bishop",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "jerme": {
+    "name": "Jerme",
+    "class": "Assassin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "ursula": {
+    "name": "Ursula",
+    "class": "Valkyrie",
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "maxime": {
+    "name": "Maxime",
+    "class": "Paladin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "sonia": {
+    "name": "Sonia",
+    "class": "Sage",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "georg": {
+    "name": "Georg",
+    "class": "Berserker",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "denning": {
+    "name": "Denning",
+    "class": "Sniper",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "limstella": {
+    "name": "Limstella",
+    "class": "Sage",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "brendan": {
+    "name": "Brendan",
+    "class": "Warrior",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "nergal": {
+    "name": "Nergal",
+    "class": ["Dark Druid", "Sorcerer"],
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "dragon": {
+    "name": "Dragon",
+    "class": "Fire Dragon",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "wire": {
+    "name": "Wire",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "sealen": {
+    "name": "Sealen",
+    "class": "Nomad",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "teodor": {
+    "name": "Teodor",
+    "class": "Bishop",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "pascal": {
+    "name": "Pascal",
+    "class": "Paladin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "kaim": {
+    "name": "Kaim",
+    "class": "Hero",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+
+  "o'neill": {
+    "name": "O'Neill",
+    "class": "Fighter",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "breguet": {
+    "name": "Breguet",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "bone": {
+    "name": "Bone",
+    "class": "Brigand",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "bazba": {
+    "name": "Bazba",
+    "class": "Brigand",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "bandit": {
+    "name": "Bandit",
+    "class": "Brigand",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "saar": {
+    "name": "Saar",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "zonta": {
+    "name": "Zonta",
+    "class": "Mercenary",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "novala": {
+    "name": "Novala",
+    "class": "Shaman",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "murray": {
+    "name": "Murray",
+    "class": "Cavalier",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "tirado": {
+    "name": "Tirado",
+    "class": "General",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "binks": {
+    "name": "Binks",
+    "class": "Warrior",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "gheb": {
+    "name": "Gheb",
+    "class": "Warrior",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "pablo": {
+    "name": "Pablo",
+    "class": "Sage",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "beran": {
+    "name": "Beran",
+    "class": "Ranger",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "aias": {
+    "name": "Aias",
+    "class": "Great Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "carlyle": {
+    "name": "Carlyle",
+    "class": "Swordmaster",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "vigarde": {
+    "name": "Vigarde",
+    "class": "General",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "morva": {
+    "name": "Morva",
+    "class": "Manakete",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "fomortiis": {
+    "name": "Fomortiis",
+    "class": "Demon King",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+
+  "greil": {
+    "name": "Greil",
+    "class": "Hero",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB"]  
+  },
+  "zawana": {
+    "name": "Zawana",
+    "class": "Bandit",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "ikanau": {
+    "name": "Ikanau",
+    "class": "Bandit",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "havetti": {
+    "name": "Havetti",
+    "class": "Bandit",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "maijin": {
+    "name": "Maijin",
+    "class": "Knight",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "dakova": {
+    "name": "Dakova",
+    "class": "Knight",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "emil": {
+    "name": "Emil",
+    "class": "Halberdier",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "balmer": {
+    "name": "Balmer",
+    "class": "Sage",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "kamura": {
+    "name": "Kamura",
+    "class": "Knight",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "nedata": {
+    "name": "Nedata",
+    "class": "Bandit",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "kotaff": {
+    "name": "Kotaff",
+    "class": "Halberdier",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "danomill": {
+    "name": "Danomill",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "mackoya": {
+    "name": "Mackoya",
+    "class": "Paladin",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "black_knight": {
+    "name": "Black Knight",
+    "class": ["General", "Black Knight"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["FEC"]
+  },
+  "seeker": {
+    "name": "Seeker",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "norris": {
+    "name": "Norris",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "gashilama": {
+    "name": "Gashilama",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "muarim": {
+    "name": "Muarim",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "kimaarsi": {
+    "name": "Kimaarsi",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "kayachey": {
+    "name": "Kayachey",
+    "class": "Sage",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "homasa": {
+    "name": "Homasa",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "shiharam": {
+    "name": "Shiharam",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "kasatai": {
+    "name": "Kasatai",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "ena": {
+    "name": "Ena",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "tomenami": {
+    "name": "Tomenami",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "schaeffer": {
+    "name": "Schaeffer",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "rikard": {
+    "name": "Rikard",
+    "class": "Paladin",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "gromell": {
+    "name": "Gromell",
+    "class": "Wyvern Lord",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"] 
+  },
+  "bertram": {
+    "name": "Bertram",
+    "class": "Paladin",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"],
+    "spinoffs": ["FEH"] 
+  },
+  "hafedd": {
+    "name": "Hafedd",
+    "class": "Halberdier",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "heddwyn": {
+    "name": "Heddwyn",
+    "class": "Sage",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "ashnard": {
+    "name": "Ashnard",
+    "class": "King Daein",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"],
+    "smash": ["SSBB"] 
+  },
+
+  "pugo": {
+    "name": "Pugo",
+    "class": "Fighter",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "isaiya": {
+    "name": "Isaiya",
+    "class": "Myrmidon",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "zaltan": {
+    "name": "Zaltan",
+    "class": "Armor Lance",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "burton": {
+    "name": "Burton",
+    "class": "Sword Knight",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "pain": {
+    "name": "Pain",
+    "class": "Tiger",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "agony": {
+    "name": "Agony",
+    "class": "Tiger",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "wystan": {
+    "name": "Wystan",
+    "class": "Fire Mage",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "laverton": {
+    "name": "Laverton",
+    "class": "Lance Knight",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "djur": {
+    "name": "Djur",
+    "class": "Armor Sword",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "radmin": {
+    "name": "Radmin",
+    "class": "Thunder Sage",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "jarod": {
+    "name": "Jarod",
+    "class": "Halberdier",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"]
+  },
+  "zeffren": {
+    "name": "Zeffren",
+    "class": "Dragonmaster",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "yeardley": {
+    "name": "Yeardley",
+    "class": "Lance General",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "maraj": {
+    "name": "Maraj",
+    "class": "Wind Sage",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "tashoria": {
+    "name": "Tashoria",
+    "class": "Swordmaster",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "ludveck": {
+    "name": "Ludveck",
+    "class": "Axe General",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "silvano": {
+    "name": "Silvano",
+    "class": "Sniper",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "rommit": {
+    "name": "Rommit",
+    "class": "Halberdier",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "istvan": {
+    "name": "Istvan",
+    "class": "Dragonmaster",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "veyona": {
+    "name": "Veyona",
+    "class": "Druid",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "callum": {
+    "name": "Callum",
+    "class": "Sword General",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "lombroso": {
+    "name": "Lombroso",
+    "class": "Axe Paladin",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "kezhda": {
+    "name": "Kezhda",
+    "class": "Cat",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "septimus": {
+    "name": "Septimus",
+    "class": "Lance General",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "roark": {
+    "name": "Roark",
+    "class": "Halberdier",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "sergei": {
+    "name": "Sergei",
+    "class": "Bow Paladin",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "goran": {
+    "name": "Goran",
+    "class": "Warrior",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "yuma": {
+    "name": "Yuma",
+    "class": "Blade Paladin",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "catalena": {
+    "name": "Catalena",
+    "class": "Falcon Knight",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "valtome": {
+    "name": "Valtome",
+    "class": "Bishop",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "lekain": {
+    "name": "Lekain",
+    "class": "Saint",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "numida": {
+    "name": "Numida",
+    "class": "Bishop",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "hetzel": {
+    "name": "Hetzel",
+    "class": "Saint",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "izuka": {
+    "name": "Izuka",
+    "class": "Summoner",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "levail": {
+    "name": "Levail",
+    "class": "Sentinel",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "dheginsea": {
+    "name": "Dheginsea",
+    "class": "Black Dragon",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "ashera": {
+    "name": "Ashera",
+    "class": "Order Incarnate",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"]
+  },
+
+  "captain": {
+    "name": "Captain",
+    "class": "Cavalier",
+    "debut": "08/07/2008",
+    "main": ["FESD"]
+  },
+  "bathys": {
+    "name": "Bathys",
+    "class": "Pirate",
+    "debut": "08/07/2008",
+    "main": ["FESD"]
+  },
+  "dejanira": {
+    "name": "Dejanira",
+    "class": "Paladin",
+    "debut": "08/07/2008",
+    "main": ["FESD"]
+  },
+  "dactyl": {
+    "name": "Dactyl",
+    "class": "General",
+    "debut": "08/07/2008",
+    "main": ["FESD"]
+  },
+  "larissa": {
+    "name": "Larissa",
+    "class": "General",
+    "debut": "08/07/2008",
+    "main": ["FESD"]
+  },
+
+  "clarisse": {
+    "name": "Clarisse",
+    "class": "Sniper",
+    "debut": "07/15/2010",
+    "main": ["FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "legion": {
+    "name": "Legion",
+    "class": "Berserker",
+    "debut": "07/15/2010",
+    "main": ["FENMotE", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "eremiya": {
+    "name": "Eremiya",
+    "class": "Bishop",
+    "debut": "07/15/2010",
+    "main": ["FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+
+  "validar": {
+    "name": "Validar",
+    "class": "Sorcerer",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSB3DS"]
+  },
+  "garrick": {
+    "name": "Garrick",
+    "class": "Barbarian",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["TMSFE"] 
+  },
+  "raimi": {
+    "name": "Raimi",
+    "class": "Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "orton": {
+    "name": "Orton",
+    "class": "Wyvern Rider",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "vasto": {
+    "name": "Vasto",
+    "class": "Wyvern Rider",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "chalard": {
+    "name": "Chalard",
+    "class": "Dark Mage",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "campari": {
+    "name": "Campari",
+    "class": "General",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "mustafa": {
+    "name": "Mustafa",
+    "class": "Berserker",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "dalton": {
+    "name": "Dalton",
+    "class": "Paladin",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "ignatius": {
+    "name": "Ignatius",
+    "class": "General",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "farber": {
+    "name": "Farber",
+    "class": "Dark Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "cervantes": {
+    "name": "Cervantes",
+    "class": "General",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["TMSFE", "FEH"] 
+  },
+  "pheros": {
+    "name": "Pheros",
+    "class": "Valkyrie",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["TMSFE"] 
+  },
+  "excellus": {
+    "name": "Excellus",
+    "class": "Sage",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["TMSFE", "FEH"] 
+  },
+  "algol": {
+    "name": "Algol",
+    "class": "Berserker",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "aversa": {
+    "name": "Aversa",
+    "class": "Villager",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["TMSFE", "FEH"] 
+  },
+  "grima": {
+    "name": "Grima",
+    "class": "Grima",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "roddick": {
+    "name": "Roddick",
+    "class": "Barbarian",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "victor": {
+    "name": "Victor",
+    "class": "Berserker",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "crossovers": ["WWG"]
+  },
+  "vincent": {
+    "name": "Vincent",
+    "class": "Berserker",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "gecko": {
+    "name": "Gecko",
+    "class": "Assassin",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "xalbador": {
+    "name": "Xalbador",
+    "class": "Hero",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "cassius": {
+    "name": "Cassius",
+    "class": "Sorcerer",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "ruger": {
+    "name": "Ruger",
+    "class": "Trickster",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "nelson": {
+    "name": "Nelson",
+    "class": "Sage",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "morristan": {
+    "name": "Morristan",
+    "class": "Berserker",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "gyral": {
+    "name": "Gyral",
+    "class": "General",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "dalen": {
+    "name": "Dalen",
+    "class": "Paladin",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "monbry": {
+    "name": "Monbry",
+    "class": "Warrior",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "ezra": {
+    "name": "Ezra",
+    "class": "Bow Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "zanth": {
+    "name": "Zanth",
+    "class": "Berserker",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "ardri": {
+    "name": "Ardri",
+    "class": "Sorcerer",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+
+  "omozu": {
+    "name": "Omozu",
+    "class": "Ninja",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "faceless": {
+    "name": "Faceless",
+    "class": "Faceless",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "fuga": {
+    "name": "Fuga",
+    "class": "Master of Arms",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "kotaro": {
+    "name": "Kotaro",
+    "class": "Master Ninja",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "zola": {
+    "name": "Zola",
+    "class": "Dark Mage",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "iago": {
+    "name": "Iago",
+    "class": "Sorcerer",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"]
+  },
+  "hans": {
+    "name": "Hans",
+    "class": "Berserker",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "garon": {
+    "name": "Garon",
+    "class": "Nohrian King",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "hoshidan": {
+    "name": "Hoshidan",
+    "class": "Samurai",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "other": ["FEC"]
+  },
+  "anthony": {
+    "name": "Anthony",
+    "class": "Faceless",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "arete": {
+    "name": "Arete",
+    "class": "Strategist",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "mikoto": {
+    "name": "Mikoto",
+    "class": "Priestess",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "sumeragi": {
+    "name": "Sumeragi",
+    "class": "Swordmaster",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "gunter": {
+    "name": "Gunter",
+    "class": "Great Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "anakos": {
+    "name": "Anakos",
+    "class": "Silent Dragon",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "llewelyn": {
+    "name": "Llewelyn",
+    "class": "Berserker",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "Lloyd": {
+    "name": "Lloyd",
+    "class": "Berserker",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+
+  "gojuin": {
+    "name": "Gojuin",
+    "class": "Myrmidon",
+    "debut": "12/26/2015",
+    "spinoffs": ["TMSFE"]
+  },
+  "m-deus": {
+    "name": "M-DEUS",
+    "class": "Shadow Dragon",
+    "debut": "12/26/2015",
+    "spinoffs": ["TMSFE"]
+  },
+  
+  "bridgand_boss": {
+    "name": "Brigand Boss",
+    "class": "Brigand",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "berkut": {
+    "name": "Berkut",
+    "class": "Paladin",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "fernand": {
+    "name": "Fernand",
+    "class": "Paladin",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "rinea": {
+    "name": "Rinea",
+    "class": "Witch",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "hades": {
+    "name": "Hades",
+    "class": "Gold Knight",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"] 
+  },
+  "cerberus": {
+    "name": "Cerberus",
+    "class": "Dread Fighter",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"] 
+  },
+  "naberius": {
+    "name": "Naberius",
+    "class": "Dread Fighter",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"] 
+  },
+  "aurum": {
+    "name": "Aurum",
+    "class": "Bow Knight",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"] 
+  },
+  "argentum": {
+    "name": "Argentum",
+    "class": "Bow Knight",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"] 
+  },
+  "the_creation": {
+    "name": "The Creation",
+    "class": "Fell Dragon",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"] 
+  },
+  "jarth": {
+    "name": "Jarth",
+    "class": "Mercenary",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"] 
+  },
+  "shade": {
+    "name": "Shade",
+    "class": "Saint",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"] 
+  },
+
+  "darios": {
+    "name": "Darios",
+    "class": "Great Lord",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEW"]
+  },
+  "velezark": {
+    "name": "Velezark",
+    "class": "Velezark",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEW"]
+  },
+  "count_rowe": {
+    "name": "Count Rowe",
+    "class": "Mage",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "gustave": {
+    "name": "Gustave",
+    "class": "Forrest Knight",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "menja": {
+    "name": "Viscount Menja",
+    "class": "Warlock",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "fenja": {
+    "name": "Viscount Fenja",
+    "class": "Falcon Knight",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+
+  "elidure": {
+    "name": "Viscount Elidure",
+    "class": "Cavalier",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "Mateus": {
+    "name": "Viscount Mateus",
+    "class": "Swordmaster",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "epimenides":{
+    "name": "Epimenides",
+    "class": "Avesta",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "mateus": {
+    "name": "Baron Mateus",
+    "class": "Sniper",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "gideon": {
+    "name": "Viscount Gideon",
+    "class": "Bishop",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "count_hevring": {
+    "name": "Count Hevring",
+    "class": "Warlock",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "count_varley": {
+    "name": "Count Varley",
+    "class": "Bishop",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "count_bergliez": {
+    "name": "Count Bergliez",
+    "class": "War Master",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "shahid": {
+    "name": "Shahlid",
+    "class": "Gurgan",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+  "jeralt": {
+    "name": "Jeralt",
+    "class": "Paladin",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEWTH"]
+  },
+
+  "kostas": {
+    "name": "Kostas",
+    "class": "Thief",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "edelgard": {
+    "name": "Edelgard",
+    "class": ["Noble", "Lord", "Flame Emperor"],
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "lonato": {
+    "name": "Lonato",
+    "class": "Paladin",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "death_knight": {
+    "name": "Death Knight",
+    "class": "Death Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "mysterious_mage": {
+    "name": "Mysterious Mage",
+    "class": "Dark Mage",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "miklan": {
+    "name": "Miklan",
+    "class": ["Armored Knight", "Black Beast"],
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH"]
+  },
+  "solon": {
+    "name": "Solon",
+    "class": "Dark Bishop",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "kronya": {
+    "name": "Kronya",
+    "class": "Assassin",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "metodey": {
+    "name": "Metodey",
+    "class": "Assassin",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "flame_emperor": {
+    "name": "Flame Emperor",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH"]
+  },
+  "rhea": {
+    "name": "Rhea",
+    "class": "Archbishop",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "smash": ["SSBU"]
+  },
+  "pallardo": {
+    "name": "Pallardo",
+    "class": "Thief",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "randolph": {
+    "name": "Randolph",
+    "class": "Warrior",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "gwendal": {
+    "name": "Gwendal",
+    "class": "Great Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "ladislava": {
+    "name": "Ladislava",
+    "class": "Wyvern Rider",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "archeron": {
+    "name": "Archeron",
+    "class": "Warlock",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "bias": {
+    "name": "Bias",
+    "class": "Gremory",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "pittacus": {
+    "name": "Pattacus",
+    "class": "Gremory",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "myson": {
+    "name": "Myson",
+    "class": "Warlock",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "chilon": {
+    "name": "Chilon",
+    "class": "Great Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "thales": {
+    "name": "Thales",
+    "class": "Agastya",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "the_immaculate_one": {
+    "name": "The Immaculate One",
+    "class": "The Immaculate One",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "cornelia": {
+    "name": "Cornelia",
+    "class": "Gremory",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "lord_arundel": {
+    "name": "Lord Arundel",
+    "class": "Dark Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "alliance_general": {
+    "name": "Alliance General",
+    "class": "Paladin",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "odesse": {
+    "name": "Odesse",
+    "class": "Dark Bishop",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "charon": {
+    "name": "Charon",
+    "class": "Mortal Savant",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "goneril": {
+    "name": "Goneril",
+    "class": "War Master",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "daphnel": {
+    "name": "Daphnel",
+    "class": "Holy Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "baliddyd": {
+    "name": "Baliddyd",
+    "class": "Dark Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "gautier": {
+    "name": "Gautier",
+    "class": "Great Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "gloucester": {
+    "name": "Gloucester",
+    "class": "Bishop",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "riegan": {
+    "name": "Riegan",
+    "class": "Bow Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "fraldarius": {
+    "name": "Fraldarius",
+    "class": "Falcon Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "dominic": {
+    "name": "Dominic",
+    "class": "Wyvern Lord",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "lamine": {
+    "name": "Lamine",
+    "class": "Gremory",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "nemesis": {
+    "name": "Nemesis",
+    "class": "King of Liberation",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH"]
+  },
+  "judith": {
+    "name": "Judith",
+    "class": "Lord",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "rodrigue": {
+    "name": "Rodrigue",
+    "class": "Holy Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+
+  "thasir": {
+    "name": "Thasir",
+    "debut": "09/30/2019",
+    "spinoffs": ["FEH"]
+  },
+  "hel": {
+    "name": "Hel",
+    "debut": "07/30/2020",
+    "spinoffs": ["FEH"]
+  },
+  "lif": {
+    "name": "Lif",
+    "debut": "02/05/2021",
+    "spinoffs": ["FEH"]
+  },
+  "triandra": {
+    "name": "Triandra",
+    "debut": "11/27/2020",
+    "spinoffs": ["FEH"]
+  },
+  "plumeria": {
+    "name": "Plumeria",
+    "debut": "01/01/2021",
+    "spinoffs": ["FEH"]
+  },
+  "ginnungagap": {
+    "name": "Ginnungagap",
+    "debut": "11/17/2023",
+    "spinoffs": ["FEH"]
+  },
+  "otr": {
+    "name": "Otr",
+    "debut": "09/30/2021",
+    "spinoffs": ["FEH"]
+  },
+  "fafnir": {
+    "name": "Fafnir",
+    "class": "King of Desolation",
+    "debut": "02/02/2017",
+    "spinoffs": ["FEH", "FEW"] 
+  },
+  "embla": {
+    "name": "Embla",
+    "debut": "11/30/2022",
+    "spinoffs": ["FEH"]
+  }, 
+  "letizia": {
+    "name": "Letizia",
+    "debut": "06/08/2022",
+    "spinoffs": ["FEH"]
+  }, 
+  "gullveig": {
+    "name": "Gullveig",
+    "debut": "11/28/2023",
+    "spinoffs": ["FEH"]
+  },
+  "kvasir": {
+    "name": "Kvasir",
+    "debut": "01/01/2024",
+    "spinoffs": ["FEH"]
+  },
+  "hraesvelgr": {
+    "name": "Hraesvelgr",
+    "debut": "10/30/2024",
+    "spinoffs": ["FEH"]
+  },
+  "niethhoggr": {
+    "name": "Niethhoggr",
+    "debut": "11/28/2024",
+    "spinoffs": ["FEH"]
+  },
+  "eikthynir": {
+    "name": "Eikthynir",
+    "debut": "07/26/2024",
+    "spinoffs": ["FEH"]
+  },
+  "laeraithr": {
+    "name": "Laeraithr",
+    "debut": "11/28/2024",
+    "spinoffs": ["FEH"]
+  },
+  "alfaethor": {
+    "name": "Alfaethor",
+    "debut": "11/17/2024",
+    "spinoffs": ["FEH"]
+  },
+  "baldr": {
+    "name": "Baldr",
+    "debut": "07/29/2025",
+    "spinoffs": ["FEH"]
+  },
+  "hoethr": {
+    "name": "Hoethr",
+    "debut": "07/29/2025",
+    "spinoffs": ["FEH"]
+  },
+  "vali": {
+    "name": "Vali",
+    "debut": "11/17/2025",
+    "spinoffs": ["FEH"]
+  },
+  "heimdallr": {
+    "name": "Heimdallr",
+    "debut": "10/30/2025",
+    "spinoffs": ["FEH"]
+  },
+
+  "sombron": {
+    "name": "Sombron",
+    "class": ["Fell Monarch", "Great Fell Dragon"],
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "lumera": {
+    "name": "Lumera",
+    "class": "Divine Dragon",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "abyme": {
+    "name": "Abyme",
+    "class": ["Axe Armor", "Berserker"],
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "rodine": {
+    "name": "Rodine",
+    "class": "Lance Armor",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "nelucce": {
+    "name": "Nelucce",
+    "class": "Axe Fighter",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "teronda": {
+    "name": "Teronda",
+    "class": "Barbarian",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "morion": {
+    "name": "Morion",
+    "class": "Hero",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "hyacinth": {
+    "name": "Hyacinth",
+    "class": "Martial Master",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "veyle": {
+    "name": "Veyle",
+    "class": "Fell Child",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "zephia": {
+    "name": "Zephia",
+    "class": "Melusine",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "griss": {
+    "name": "Griss",
+    "class": "Sage",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "marni": {
+    "name": "Marni",
+    "class": "General",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "totchie": {
+    "name": "Totchie",
+    "class": "Barbarian",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "tetchie": {
+    "name": "Tetchie",
+    "class": "Barbarian",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "mitan": {
+    "name": "Mitan",
+    "class": "Barbarian",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  }
+
+
+
+}

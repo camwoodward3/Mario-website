@@ -1,0 +1,464 @@
+{
+  "fox": {
+    "name": "Fox McCloud",
+    "type": "protagonist",
+    "debut": "06/03/1993",
+    "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
+    "smash": ["SSF64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
+    "other": ["SRFX", "DKA2", "DKA3", "MM", "WWSM", "SPMP", "TTT2", "MK8", "MK8DLC", "B2", "OPSGBX", "AHL+", "MHG", "SMM", "YWW", "SMM3DS", "P&YWW", "WGG", "SL", "SBFA"],
+    "movies": ["TSMGM"]
+  },
+  "falco": {
+    "name": "Falco Lombardi",
+    "type": "protagonist",
+    "debut": "06/03/1993",
+    "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["MM", "DKA2", "DKA3", "WWSM", "SMM", "SMM3DS", "P&YWW", "WGG", "MHG", "SBFA"],
+    "movies": ["TSMGM"]
+  },
+  "peppy": {
+    "name": "Peppy Hare",
+    "type": "protagonist",
+    "debut": "06/03/1993",
+    "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["MM", "DKA2", "WWSM", "SMM", "SMM3DS", "SD", "SBFA"],
+    "movies": ["TSMGM"]
+
+  },
+  "slippy_toad": {
+    "name": "Slippy Toad",
+    "type": "protagonist",
+    "debut": "06/03/1993",
+    "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["MM", "DKA2", "DKA3", "WWSM", "SMM", "SMM3DS", "GUARD", "SBFA"],
+    "movies": ["TSMGM"]
+  },
+  "general_pepper": {
+    "name": "General Pepper",
+    "type": "protagonist",
+    "debut": "06/03/1993",
+    "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
+    "smash": ["SSBB", "SSB3DS", "SSBU"]
+  },
+  "rob_64": {
+    "name": "ROB 64",
+    "type": "protagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF643D"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU"]
+  },
+  "bill_grey": {
+    "name": "Bill Grey",
+    "type": "protagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "COMMAND", "SF643D", "ZERO"]
+  },
+  "katt_monroe": {
+    "name": "Katt Monroe",
+    "type": "protagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "COMMAND", "SF643D", "ZERO", "SF2"]
+  },
+  "james": {
+    "name": "James McCloud",
+    "type": "supporting character",
+    "debut": "06/03/1993",
+    "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SFNS2"],
+    "smash": ["SSB3DS", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"],
+    "other": ["F-ZERO_X", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "yaru_de_pon": {
+    "name": "Yaru de Pon",
+    "type": "protagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },
+  "krystal": {
+    "name": "Krystal",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES", "ASSAULT", "COMMAND"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["DKA2", "DKA3"]
+  },
+  "tricky": {
+    "name": "Tricky",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES", "ASSAULT"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+  },
+  "thornTail": {
+    "name": "ThornTail",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "warpStone": {
+    "name": "WarpStone",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "earthWalker": {
+    "name": "EarthWalker",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "king_earthWalker": {
+    "name": "King EarthWalker",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "queen_earthWalker": {
+    "name": "Queen EarthWalker",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "cloudRunner": {
+    "name": "CloudRunner",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "queen_cloudRunner": {
+    "name": "Queen CloudRunner",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "queen_cloudRunner's_child": {
+    "name": "Queen CloudRunner's Child",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "snowHorn": {
+    "name": "SnowHorn",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "garunda_te": {
+    "name": "Garunda Te",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "belina_te": {
+    "name": "Belina Te",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "highTop": {
+    "name": "HighTop",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "lightFort": {
+  "name": "LightFort",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]    
+  },
+  "chief_lightFort": {
+    "name": "Chief LightFort",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "gradabug": {
+    "name": "Gradabug",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "shopKeeper": {
+    "name": "ShopKeeper",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "muscleFoot": {
+    "name": "MuscleFoot",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "krazoa_god": {
+    "name": "Krazoa God",
+    "type": "supporting character",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "beltino_toad": {
+    "name": "Beltino Toad",
+    "type": "supporting character",
+    "debut": "02/15/2005",
+    "main": ["ASSAULT", "COMMAND"]
+  },
+  "lucy_hare": {
+    "name": "Lucy Hare",
+    "type": "supporting character",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "amanda": {
+    "name": "Amanda",
+    "type": "supporting character",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "dash_bowman": {
+    "name": "Dash Bowman",
+    "type": "supporting character",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"],
+    "smash": ["SSBU"]
+  },
+  "vivian_hare": {
+    "name": "Vivian Hare",
+    "type": "supporting character",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "marcus": {
+    "name": "Marcus",
+    "type": "supporting character",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "slippy's_son": {
+    "name": "Slippy's Son",
+    "type": "supporting character",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "peppy's_granddaughter": {
+    "name": "Peppy's Granddaughter",
+    "type": "supporting character",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "dog_soldiers": {
+    "name": "Dog Soldiers",
+    "type": "supporting character",
+    "debut": "04/22/2016",
+    "main": ["ZERO"]
+  },
+  "grippy_toad": {
+    "name": "Grippy Toad",
+    "type": "supporting character",
+    "debut": "04/22/2016",
+    "other": ["GUARD"]
+  },
+  "direct-i": {
+    "name": "Direct-I",
+    "type": "supporting character",
+    "debut": "04/22/2016",
+    "main": ["ZERO"]
+  },
+  "fay": {
+    "name": "Dog Soldiers",
+    "type": "supporting character",
+    "debut": "09/30/2017",
+    "main": ["SF2"]
+  },
+  
+
+  "andross": {
+    "name": "Andross",
+    "type": "antagonist",
+    "debut": "06/03/1993",
+    "main": ["SF", "SF64", "ADVENTURES", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "wolf": {
+    "name": "Wolf O'Donnell",
+    "type": "antagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["SBFA"]
+  },
+  "leon_powalski": {
+    "name": "Leon Powalski",
+    "type": "antagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU"],
+    "other": ["SBFA"]
+  },
+  "pigma_dengar": {
+    "name": "Pigma Dengar",
+    "type": "antagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "ASSAULT", "COMMAND", "ZERO", "SF2"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["MM", "SBFA"]
+  },
+  "andrew_oikonny": {
+    "name": "Andrew Oikonny",
+    "type": "antagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "ASSAULT", "SF643D", "ZERO"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["DKA2", "DKA3", "SBFA"]
+  },
+  "panther_caroso": {
+    "name": "Panther Caroso",
+    "type": "boss",
+    "debut": "02/15/2005",
+    "main": ["ASSAULT", "COMMAND"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "anglar_emperor": {
+    "name": "Anglar Emperor",
+    "type": "boss",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+
+  "zazan": {
+    "name": "Zazan",
+    "type": "boss",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "zoldge": {
+    "name": "Zoldge",
+    "type": "boss",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "octoman": {
+    "name": "Octoman",
+    "type": "boss",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  
+  "granga": {
+    "name": "Granga Pilot",
+    "type": "antagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64"]
+  },
+  "attack_carrier_captain": {
+    "name": "Attack Carrier Captain",
+    "type": "boss",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D", "ZERO"]
+  },
+  "shogun_pilot": {
+    "name": "Shogun Pilot",
+    "type": "boss",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D", "ZERO"]
+  },
+  "meteo_crusher_pilot": {
+    "name": "Meteo Crusher Pilot",
+    "type": "boss",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D", "ZERO"]
+  },
+  "submarine_captain": {
+    "name": "Submarine Captain",
+    "type": "boss",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D", "ZERO"]
+  },
+  "forever_train_engineer": {
+    "name": "Forever Train Engineer",
+    "type": "boss",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D", "ZERO"]
+  },
+  "caiman": {
+    "name": "Caiman",
+    "type": "antagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D", "ZERO"]
+  },
+  "area_6_commander": {
+    "name": "Area 6 Commander",
+    "type": "antagonist",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D", "ZERO"]
+  },
+  "spyborg": {
+    "name": "Spyborg",
+    "type": "boss",
+    "debut": "06/23/1997",
+    "main": ["SF64", "SF643D"]
+  },  
+  "flying_galleon": {
+    "name": "Flying Galleon",
+    "type": "boss",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "gadon": {
+    "name": "Gadon",
+    "type": "boss",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]    
+  },
+  "king_redEye": {
+    "name": "King RedEye",
+    "type": "boss",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]    
+  },
+  "drakor": {
+    "name": "Drakor",
+    "type": "boss",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "general_scales": {
+    "name": "General Scales",
+    "type": "boss",
+    "debut": "09/23/2002",
+    "main": ["ADVENTURES"]
+  },
+  "algy": {
+    "name": "Algy",
+    "type": "boss",
+    "debut": "09/30/2017",
+    "main": ["SF2"]
+  },
+  
+
+
+  "aparoid_queen": {
+    "name": "Apraoid Queen",
+    "type": "antagonist",
+    "debut": "02/15/2005",
+    "main": ["ASSAULT"],
+    "smash": ["SSBWIIU"]
+  },
+
+  "grunner": {
+    "name": "Grunner",
+    "type": "boss",
+    "debut": "08/28/2006",
+    "main": ["COMMAND"]
+  },
+  "cosmic_dodora": {
+    "name": "Cosmic Dodora",
+    "type": "boss",
+    "debut": "04/22/2016",
+    "main": ["ZERO"]
+  }
+
+} 

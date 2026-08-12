@@ -1,0 +1,10 @@
+{
+  "rob": {
+    "name": "R.O.B.",
+    "type": "mechanical robot",
+    "debut": "10/18/1985",
+    "games": ["GYRO", "STACK", "ST", "SMRPG", "KDL3", "F-ZERO_GX", "WWI", "WWTW", "WWTO", "PIKMIN2", "MKDS", "WWSM", "TL", "MM3D", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWGIT", "SMRPGNS", "MKW"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "movies": ["TSMGM"]
+  }
+}

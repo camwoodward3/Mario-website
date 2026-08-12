@@ -1,0 +1,335 @@
+{
+  "captain_falcon": {
+    "name": "Captain Falcon",
+    "debut": "08/23/1991",
+    "main": ["F-ZERO", "BS_GP", "BS_GP2", "F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_AX", "GP_LEGEND", "CLIMAX", "F-ZERO_99"],
+    "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIU", "SBBU"],
+    "shows": ["GP_LEGEND_ANIME"],
+    "other": ["SPMP", "NL", "TTT2", "MK8", "AHL+", "SMM", "YWW", "SMM3DS", "MK8DLC", "WWG"]
+  },
+  "dr.stewart": {
+    "name": "Dr. Stewart",
+    "debut": "08/23/1991",
+    "main": ["F-ZERO", "BS_GP", "BS_GP2", "F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_AX", "GP_LEGEND", "CLIMAX", "F-ZERO_99"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "pico": {
+    "name": "Pico",
+    "debut": "08/23/1991",
+    "main": ["F-ZERO", "BS_GP", "BS_GP2", "F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_AX", "GP_LEGEND", "CLIMAX", "F-ZERO_99"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "samurai_goroh": {
+    "name": "Samurai Goroh",
+    "debut": "08/23/1991",
+    "main": ["F-ZERO", "BS_GP", "BS_GP2", "F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_AX", "GP_LEGEND", "CLIMAX", "F-ZERO_99"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "mr.zero": {
+    "name": "Mr. Zero",
+    "debut": "08/23/1991",
+    "main": ["F-ZERO", "F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX", "F-ZERO_99"]
+  },
+  "mighty_gazelle": {
+    "name": "Mighty Gazelle",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "jody_summer": {
+    "name": "Jody Summer",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBM", "SSBB", "SSBWIIU", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "baba": {
+    "name": "Baba",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBU"]
+  },
+  "octoman": {
+    "name": "Octoman",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "mr.ead": {
+    "name": "Mr. Ead",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBWIIU", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "billy": {
+    "name": "Billy",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "kate_alen": {
+    "name": "Kate Alen",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "zoda": {
+    "name": "Zoda",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "jack_levin": {
+    "name": "Jack Levin",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND"],
+    "smash": ["SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "bio_rex": {
+    "name": "Bio Rex",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "the_skull": {
+    "name": "The Skull",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "antonio_guster": {
+    "name": "Antonio Guster",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "beastman": {
+    "name": "Beastman",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "leon": {
+    "name": "Leon",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "super_arrow": {
+    "name": "Super Arrow",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "mrs.arrow": {
+    "name": "Mrs. Arrow",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "gomar&shioh": {
+    "name": "Gomar & Shioh",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "silver_neelsen": {
+    "name": "Silver Neelsen",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "michael_chain": {
+    "name": "Mighty Gazelle",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "blood_falcon": {
+    "name": "Blood Falcon",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+  },
+  "john_tanaka": {
+    "name": "John Tanaka",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "draq": {
+    "name": "Draq",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "roger_buster": {
+    "name": "Roger Buster",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"]
+  },
+  "dr.clash": {
+    "name": "Dr. Clash",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "black_shadow": {
+    "name": "Black Shadow",
+    "debut": "10/27/1998",
+    "main": ["F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_GX", "GP_LEGEND", "CLIMAX"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "megan": {
+    "name": "Megan",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "mickey_marcus": {
+    "name": "Mickey Marcus",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "jane_b_christie": {
+    "name": "Jane B. Christie",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "nichi": {
+    "name": "Nichi",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "lord_cyber": {
+    "name": "Lord Cyber",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "alexander_o'neil": {
+    "name": "Alexander O'Neil",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "blitz_wagner": {
+    "name": "Blitz Wagner",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "kent_akechi": {
+    "name": "Kent Akechi",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "kumiko": {
+    "name": "Kumiko",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "professor_yazoo_jr": {
+    "name": "Professor Yazoo Jr.",
+    "debut": "01/01/2001",
+    "main": ["MV"]
+  },
+  "deathborn": {
+    "name": "Deathborn",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX"],
+    "smash": ["SSBWIIU"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "don_genie": {
+    "name": "Don Genie",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "digi-boy": {
+    "name": "Terry 'Digi-Boy' Getter",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "dai_shen_gen": {
+    "name": "Dai Shen Gen",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "spade": {
+    "name": "Spade",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "daigoroh": {
+    "name": "Daigoroh",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "princia_ramode": {
+    "name": "Princia Ramode",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "lily_flyer": {
+    "name": "Lily Flyer",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "pj": {
+    "name": "PJ",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "qqq": {
+    "name": "QQQ",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "phoenix": {
+    "name": "Phoenix",
+    "debut": "08/25/2003",
+    "main": ["F-ZERO_GX", "F-ZERO_AX"]
+  },
+  "rick_wheeler": {
+    "name": "Rick Wheeler",
+    "debut": "09/20/2004",
+    "main": ["GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "lucy_liberty": {
+    "name": "Lucy Liberty",
+    "debut": "09/20/2004",
+    "main": ["GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "misaki_haruka": {
+    "name": "Misaki Haruka",
+    "debut": "09/20/2004",
+    "main": ["GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "lisa_brilliant": {
+    "name": "Lisa Brilliant",
+    "debut": "09/20/2004",
+    "main": ["GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  },
+  "dark_soldier": {
+    "name": "Dark Soldier",
+    "debut": "10/21/2004",
+    "main": ["GP_LEGEND", "CLIMAX"]
+  },
+  "berserker": {
+    "name": "Berserker",
+    "debut": "10/21/2004",
+    "main": ["GP_LEGEND", "CLIMAX"]
+  },
+  "clank_hughes": {
+    "name": "Clank Hughes",
+    "debut": "10/21/2004",
+    "main": ["GP_LEGEND", "CLIMAX"],
+    "shows": ["GP_LEGEND_ANIME"]
+  }
+
+}

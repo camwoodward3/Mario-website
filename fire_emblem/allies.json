@@ -1,0 +1,67 @@
+{
+  "evan": {
+    "name": "Evan",
+    "class": "Paladin",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "evar": {
+    "name": "Evar",
+    "class": "Paladin",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "alvar": {
+    "name": "Alvar",
+    "class": "Paladin",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "annand": {
+    "name": "Annand",
+    "class": "Falcon Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "byron": {
+    "name": "Byron",
+    "class": "Master Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "palmarch": {
+    "name": "Palmarch",
+    "class": "Bishop",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+
+  "maiko_shimazaki": {
+    "name": "Maiko Shimazaki",
+    "debut": "12/26/2015",
+    "spinoffs": ["TMSFE"]
+  },
+  "barry_goodman": {
+    "name": "Barry Goodman",
+    "debut": "12/26/2015",
+    "spinoffs": ["TMSFE"]
+  },
+
+  "sothis": {
+    "name": "Sothis",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "jeralt": {
+    "name": "Jeralt",
+    "class": "Paladin",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  }
+}

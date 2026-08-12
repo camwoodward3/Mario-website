@@ -1,0 +1,5283 @@
+{
+  "marth": {
+    "name": "Marth",
+    "class": ["Lord", "Lodestar"],
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA", "FEF", "FEESoV", "FEE"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["STEAM", "DL", "FEC"],
+    "crossovers": ["SPMP", "OPSGBX", "MHG", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWMI"]
+  },
+  "abel": {
+    "name": "Abel",
+    "class": "Cavalier",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["TMSFE", "FEH"] ,
+    "other": ["FEC"]
+  },
+  "cain": {
+    "name": "Cain",
+    "class": "Cavalier",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["TMSFE", "FEH"],
+    "other": ["FEC"]
+  },
+  "jagen": {
+    "name": "Jagen",
+    "class": "Paladin",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["TMSFE", "FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "gordin": {
+    "name": "Gordin",
+    "class": "Archer",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["TMSFE", "FEH"] 
+  },
+  "draug": {
+    "name": "Draug",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["TMSFE", "FEH"],
+    "smash": ["SSBU"]
+  },
+  "caeda": {
+    "name": "Caeda",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA"],
+    "spinoffs": ["TMSFE", "FEH", "FEW"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["FEC"] 
+  },
+  "wrys": {
+    "name": "Wrys",
+    "class": "Curate",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "bord": {
+    "name": "Bord",
+    "class": "Fighter",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["TMSFE"],
+    "smash": ["SSBU"]
+  },
+  "cord": {
+    "name": "Cord",
+    "class": "Fighter",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["TMSFE"],
+    "smash": ["SSBU"] 
+  },
+  "barst": {
+    "name": "Barst",
+    "class": "Fighter",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "ogma": {
+    "name": "Ogma",
+    "class": ["Mercenary", "Hero"],
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA"],
+    "spinoffs": ["TMSFE", "FEH"] 
+  },
+  "darros": {
+    "name": "Darros",
+    "class": "Pirate",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "castor": {
+    "name": "Castor",
+    "class": "Hunter",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE", "FEH"]
+  },
+  "julian": {
+    "name": "Julian",
+    "class": "Thief",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "lena": {
+    "name": "Lena",
+    "class": "Curate",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE", "FEH"]
+  },
+  "navarre": {
+    "name": "Navarre",
+    "class": ["Mercenary", "Swordmaster"],
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA"],
+    "spinoffs": ["BSFE", "TMSFE", "FEH", "FEW"],
+    "smash": ["SSBB", "SSBU"] 
+  },
+  "matthis": {
+    "name": "Matthis",
+    "class": "Cavalier",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "merric": {
+    "name": "Merric",
+    "class": "Mage",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "roshea": {
+    "name": "Roshea",
+    "class": "Cavalier",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE", "FEH"]
+  },
+  "vyland": {
+    "name": "Vyland",
+    "class": "Cavalier",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "sedgar": {
+    "name": "Sedgar",
+    "class": "Horseman",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  "wolf": {
+    "name": "Wolf",
+    "class": "Horseman",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE", "FEH"]
+  },
+  "hardin": {
+    "name": "Hardin",
+    "class": ["Cavalier", "General"],
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA"],
+    "spinoffs": ["BSFE", "FEH"]
+  },
+  "wendell": {
+    "name": "Wendell",
+    "class": "Bishop",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  "rickard": {
+    "name": "Rickard",
+    "class": "Thief",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE", "FEH"]
+  },
+  "bantu": {
+    "name": "Bantu",
+    "class": "Manakete",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "caesar": {
+    "name": "Caesar",
+    "class": "Mercenary",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  "anna": {
+    "name": "Anna",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FEGotHW", "FET776", "FETBB", "FETBLB", "FETSS", "FEPoR", "FERD", "FESD", "FENMotE", "FEA", "FEF", "FETH", "FEE"],
+    "spinoffs": ["FEH", "FEW", "FEWTH"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "radd": {
+    "name": "Radd",
+    "class": "Mercenary",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  "roger": {
+    "name": "Roger",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD"]
+  },
+  "jeorge": {
+    "name": "Jeorge",
+    "class": "Sniper",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "maria": {
+    "name": "Maria",
+    "class": "Curate",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "minerva": {
+    "name": "Minerva",
+    "class": ["Knight", "Lord"],
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA", "FEF"],
+    "spinoffs": ["BSFE", "FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "linde": {
+    "name": "Linde",
+    "class": "Mage",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA"],
+    "spinoffs": ["TMSFE", "FEH", "FEW"],
+    "smash": ["SSBU"]
+  },
+  "jake": {
+    "name": "Jake",
+    "class": "Ballistician",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEGotHW", "FETBLB", "FESD", "FENMotE"]
+  },
+  "dolph": {
+    "name": "Dolph",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE", "TMSFE"]
+  },
+  "macellan": {
+    "name": "Macellan",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE", "TMSFE"]
+  },
+  "tomas": {
+    "name": "Tomas",
+    "class": "Archer",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE"]
+  },
+  "boah": {
+    "name": "Boah",
+    "class": "Lord",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE"]
+  },
+  "midia": {
+    "name": "Midia",
+    "class": "Paladin",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["BSFE"]
+  },
+  "astram": {
+    "name": "Astram",
+    "class": "Hero",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "beck": {
+    "name": "Beck",
+    "class": "Ballistician",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FESD", "FENMotE"]
+  },
+  "catria": {
+    "name": "Catria",
+    "class": ["Knight", "Flier"],
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEG", "FEMotE", "FENMotE", "FEA", "FEESoV"],
+    "spinoffs": ["BSFE", "FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "palla": {
+    "name": "Palla",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA", "FEESoV"],
+    "spinoffs": ["BSFE", "TMSFE", "FEH"],
+    "smash": ["SSBU"]
+  },
+  "arran": {
+    "name": "Arran",
+    "class": "Paladin",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  "samson": {
+    "name": "Samson",
+    "class": "Hero",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  "xane": {
+    "name": "Xane",
+    "class": "Freelancer",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "est": {
+    "name": "Est",
+    "class": "Knight",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEG", "FEMotE", "FENMotE", "FEA", "FEESoV"],
+    "spinoffs": ["BSFE", "FEH"],
+    "smash": ["SSBU"]
+  },
+  "tiki": {
+    "name": "Tiki",
+    "class": "Manakete",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA", "FEE"],
+    "spinoffs": ["TMSFE", "FEH", "FEW", "FES"],
+    "smash": ["SSB3DS", "SSBU"],
+    "other": ["DL", "FEC"]
+  },
+  "lorenz": {
+    "name": "Lorenz",
+    "class": "General",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["TMSFE"] 
+  },
+  "elice": {
+    "name": "Elice",
+    "class": "Curate",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "gotoh": {
+    "name": "Gotah",
+    "class": "Bishop",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "nyna": {
+    "name": "Nyna",
+    "class": ["Bishop", "Sage"],
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA"],
+    "spinoffs": ["BSFE", "FEH"],
+    "smash": ["SSBU"]
+  },
+
+  "alm": {
+    "name": "Alm",
+    "class": ["Fighter", "Hero"],
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "lukas": {
+    "name": "Lukas",
+    "class": "Soldier",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "gray": {
+    "name": "Gray",
+    "class": "Villager",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "tobin": {
+    "name": "Tobin",
+    "class": "Villager",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "kliff": {
+    "name": "Kliff",
+    "class": "Villager",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "silque": {
+    "name": "Silque",
+    "class": "Cleric",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "clair": {
+    "name": "Clair",
+    "class": "Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "clive": {
+    "name": "Clive",
+    "class": ["Cavalier", "Paladin"],
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "forsyth": {
+    "name": "Forsyth",
+    "class": "Soldier",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "python": {
+    "name": "Python",
+    "class": "Archer",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "luthier": {
+    "name": "Luthier",
+    "class": ["Mage", "Sage"],
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "mathilda": {
+    "name": "Mathilda",
+    "class": "Paladin",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "delthea": {
+    "name": "Delthea",
+    "class": "Mage",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "tatiana": {
+    "name": "Tatiana",
+    "class": "Saint",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "zeke": {
+    "name": "Zeke",
+    "class": "Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "mycen": {
+    "name": "Mycen",
+    "class": "Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "celica": {
+    "name": "Celica",
+    "class": ["Priestess", "Sage"],
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH", "FEW", "FES"],
+    "other": ["FEC"],
+    "crossovers": ["WWMI"]
+  },
+  "mae": {
+    "name": "Mae",
+    "class": "Mage",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "boey": {
+    "name": "Boey",
+    "class": "Mage",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "genny": {
+    "name": "Genny",
+    "class": "Cleric",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "saber": {
+    "name": "Saber",
+    "class": "Mercenary",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "valbar": {
+    "name": "Valbar",
+    "class": "Knight",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "kamui": {
+    "name": "Kamui",
+    "class": "Mercenary",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "leon": {
+    "name": "Leon",
+    "class": "Archer",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "atlas": {
+    "name": "Atlas",
+    "class": "Villager",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "jesse": {
+    "name": "Jesse",
+    "class": "Mercenary",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "sonya": {
+    "name": "Sonya",
+    "class": "Mage",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "deen": {
+    "name": "Deen",
+    "class": ["Myrmidon", "Swordmaster"],
+    "debut": "03/14/1992",
+    "main": ["FEG", "FET776", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "nomah": {
+    "name": "Nomah",
+    "class": "Sage",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEA", "FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+
+  "luke": {
+    "name": "Luke",
+    "class": "Cavalier",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "cecil": {
+    "name": "Cecil",
+    "class": "Cavalier",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "arlen": {
+    "name": "Arlen",
+    "class": "Mage",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "roderick": {
+    "name": "Roderick",
+      "class": "Cavalier",
+      "debut": "01/21/1994",
+      "main": ["FEMotE", "FENMotE"],
+      "spinoffs": ["FEH"]
+  },
+  "ryan": {
+    "name": "Ryan",
+    "class": "Archer",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "marisha": {
+    "name": "Marisha",
+    "class": "Cleric",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "warren": {
+    "name": "Warren",
+    "class": "Hunter",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "yuliya": {
+    "name": "Yuliya",
+    "class": "Cleric",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "jubelo": {
+    "name": "Jubelo",
+    "class": "Mage",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "sirius": {
+    "name": "Sirius",
+    "class": "Paladin",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "samuel": {
+    "name": "Samuel",
+    "class": "Mercenary",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "phina": {
+    "name": "Phina",
+    "class": "Dancer",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "sheena": {
+    "name": "Sheena",
+    "class": "General",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+
+  "sigurd": {
+    "name": "Sigurd",
+    "class": ["Lord", "Paladin"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA", "FEE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "naoise": {
+    "name": "Naoise",
+    "class": "Cavalier",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "ulster": {
+    "name": "Ulster",
+    "class": "Myrmidon",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"]
+  },
+  "alec": {
+    "name": "Alec",
+    "class": "Cavalier",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "arden": {
+    "name": "Arden",
+    "class": ["Armor", "Knight"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "azelle": {
+    "name": "Azelle",
+    "class": "Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "lex": {
+    "name": "Lex",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "quan": {
+    "name": "Quan",
+    "class": ["Knight", "Paladin"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "finn": {
+    "name": "Finn",
+    "class": ["Knight", "Paladin"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG", "FEC"]
+  },
+  "ethlyn": {
+    "name": "Ethlyn",
+    "class": ["Troubadour", "Valkyrie"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "midir": {
+    "name": "Midir",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "dew": {
+    "name": "Dew",
+    "class": "Thief",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "edain": {
+    "name": "Edain",
+    "class": "Priest",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "ayra": {
+    "name": "Ayra",
+    "class": ["Priest", "Swordmaster"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG", "FEC"]
+  },
+  "deirdre": {
+    "name": "Deirdre",
+    "class": ["Shaman", "Mage"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "jamke": {
+    "name": "Jamke",
+    "class": ["Fighter", "Archer"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "chulainn": {
+    "name": "Chulainn",
+    "class": "Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "lachesis": {
+    "name": "Lachesis",
+    "class": ["Princess", "Troubadour"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG", "FEC"]
+  },
+  "beowolf": {
+    "name": "Beowolf",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "lewyn": {
+    "name": "Lewyn",
+    "class": ["Bard", "Sage"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG", "FEC"]
+  },
+  "silvia": {
+    "name": "Silvia",
+    "class": "Dancer",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "erinys": {
+    "name": "Erinys",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "other": ["FETCG"]
+  },
+  "brigid": {
+    "name": "Brigid",
+    "class": "Sniper",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "tailtiu": {
+    "name": "Tailtiu",
+    "class": "Lord",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "claud": {
+    "name": "Claud",
+    "class": "Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "seliph": {
+    "name": "Seliph",
+    "class": ["Junior Lord", "Swordmaster"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "scathach": {
+    "name": "Scathach",
+    "class": "Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "dalvin": {
+    "name": "Dalvin",
+    "class": "Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "larcei": {
+    "name": "Larcei",
+    "class": ["Fighter", "Swordmaster"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "creidne": {
+    "name": "Creidne",
+    "class": "Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "lana": {
+    "name": "Lana",
+    "class": "Priest",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "muirne": {
+    "name": "Muirne",
+    "class": "Priest",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "darmuid": {
+    "name": "Darmuid",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "tristan": {
+    "name": "Tristan",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "lester": {
+    "name": "Lester",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "deimne": {
+    "name": "Deimne",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "oifey": {
+    "name": "Oifey",
+    "class": "Paladin",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "julia": {
+    "name": "Julia",
+    "class": ["Shaman", "Sage"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "fee": {
+    "name": "Fee",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "hermina": {
+    "name": "Hermina",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "arthur": {
+    "name": "Arthur",
+    "class": "Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "amid": {
+    "name": "Amid",
+    "class": "Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "other": ["FETCG"]
+  },
+  "iucharba": {
+    "name": "Iucharba",
+    "class": "Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "iuchar": {
+    "name": "Iuchar",
+    "class": "Knight",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "leif": {
+    "name": "Leif",
+    "class": ["Prince", "Trickster"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA", "FEE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FETCG", "FEC"]
+  },
+  "nanna": {
+    "name": "Nanna",
+    "class": "Troubadour",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "jeanne": {
+    "name": "Jeanne",
+    "class": "Troubadour",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "shannan": {
+    "name": "Shannan",
+    "class": "Swordmaster",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "patty": {
+    "name": "Patty",
+    "class": "Thief",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "daisy": {
+    "name": "Daisy",
+    "class": "Thief",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "ares": {
+    "name": "Ares",
+    "class": ["Cavalier", "Knight"],
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG", "FEC"]
+  },
+  "lene": {
+    "name": "Lene",
+    "class": "Dancer",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "laylea": {
+    "name": "Laylea",
+    "class": "Dancer",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "tine": {
+    "name": "Tine",
+    "class": "Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "linda": {
+    "name": "Linda",
+    "class": "Mage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "other": ["FETCG"]
+  },
+  "febail": {
+    "name": "Febail",
+    "class": "Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"],
+    "spinoffs": ["FEH"]
+  },
+  "asaello": {
+    "name": "Asaello",
+    "class": "Fighter",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "ced": {
+    "name": "Ced",
+    "class": "Sage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG"]
+  },
+  "hawk": {
+    "name": "Hawk",
+    "class": "Sage",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "hannibal": {
+    "name": "Hannibal",
+    "class": "General",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776"],
+    "other": ["FETCG"]
+  },
+  "coirpre": {
+    "name": "Coirpe",
+    "class": "Priest",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW", "FET776"]
+  },
+  "charlot": {
+    "name": "Charlot",
+    "class": "Priest",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "altena": {
+    "name": "Altena",
+    "class": ["Knight", "Lord"],
+    "debut": "05/14/1996",
+    "main": ["FEGotW", "FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FETCG", "FEC"]
+  },
+
+  "reiden": {
+    "name": "Reiden",
+    "class": "Cavalier",
+    "debut": "09/28/1997",
+    "main": ["FENMotE"],
+    "spinoffs": ["BSFE"]
+  },
+  "belf": {
+    "name": "Belf",
+    "class": "Cavalier",
+    "debut": "09/28/1997",
+    "main": ["FENMotE"],
+    "spinoffs": ["BSFE"]
+  },
+  "dice": {
+    "name": "Dice",
+    "class": "Fighter",
+    "debut": "09/28/1997",
+    "main": ["FENMotE"],
+    "spinoffs": ["BSFE"]
+  },
+  "malice": {
+    "name": "Malice",
+    "class": "Mercenary",
+    "debut": "09/28/1997",
+    "main": ["FENMotE", "FEA", "FEH"],
+    "spinoffs": ["BSFE", "FEH"]
+  },
+  "frost": {
+    "name": "Frost",
+    "class": "Bishop",
+    "debut": "09/28/1997",
+    "main": ["FENMotE"],
+    "spinoffs": ["BSFE"]
+  },
+
+  "osian": {
+    "name": "Osian",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "halvan": {
+    "name": "Halvan",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "eyvel": {
+    "name": "Eyvel",
+    "class": "Swordmaster",
+    "debut": "09/01/1999",
+    "main": ["FET776", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "dagdar": {
+    "name": "Dagdar",
+    "class": "Warrior",
+    "debut": "09/01/1999",
+    "main": ["FET776", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "tanya": {
+    "name": "Tanya",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "marty": {
+    "name": "Marty",
+    "class": "Brigand",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "ronan": {
+    "name": "Ronan",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "safy": {
+    "name": "Safy",
+    "class": "Priest",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "lifis": {
+    "name": "Lifis",
+    "class": "Thief",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "machyua": {
+    "name": "Machyua",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "brighton": {
+    "name": "Brighton",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "lara": {
+    "name": "Lara",
+    "class": "Thief",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "fergus": {
+    "name": "Fergus",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "karin": {
+    "name": "Karin",
+    "class": "Pegasus Rider",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "dalsin": {
+    "name": "Dalsin",
+    "class": "Armor",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "asbel": {
+    "name": "Asbel",
+    "class": "Mage",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "hicks": {
+    "name": "Hicks",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "shiva": {
+    "name": "Shiva",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "carrion": {
+    "name": "Carrion",
+    "class": "Cavalier",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "selphina": {
+    "name": "Selphina",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "alva": {
+    "name": "Alva",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "robert": {
+    "name": "Robert",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "fred": {
+    "name": "Fred",
+    "class": "Paladin",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "olwen": {
+    "name": "Olwen",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "mareeta": {
+    "name": "Mareeta",
+    "class": ["Fighter", "Swordmaster"],
+    "debut": "09/01/1999",
+    "main": ["FET776", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "salem": {
+    "name": "Salem",
+    "class": "Mage",
+    "debut": "09/01/1999",
+    "main": ["FET776", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "perne": {
+    "name": "Perne",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "troude": {
+    "name": "Troude",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "tina": {
+    "name": "Tina",
+    "class": "Priest",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "glade": {
+    "name": "Glade",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "eda": {
+    "name": "Eda",
+    "class": "Dragon Rider",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "other": ["FETCG"]
+  },
+  "homer": {
+    "name": "Homer",
+    "class": "Bard",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "linoan": {
+    "name": "Linoan",
+    "class": "Cleric",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "ralf": {
+    "name": "Ralf",
+    "class": "Mercenary",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "ilios": {
+    "name": "Ilios",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "sleuf": {
+    "name": "Sleuf",
+    "class": "Priest",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "misha": {
+    "name": "Misha",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "sara": {
+    "name": "Sara",
+    "class": "Cleric",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "shannam": {
+    "name": "Shannam",
+    "class": "Swordmaster",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "other": ["FEC"]
+  },
+  "miranda": {
+    "name": "Miranda",
+    "class": "Mage",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "xaiver": {
+    "name": "Xavier",
+    "class": "General",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "amalda": {
+    "name": "Amalda",
+    "class": "Paladin",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "conomor": {
+    "name": "Conomor",
+    "class": "Fighter",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+  "diarmuid": {
+    "name": "Diarmuid",
+    "class": "Ranger",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "other": ["FETCG"]
+  },
+  "saias": {
+    "name": "Saias",
+    "class": ["High Priest", "Sage"],
+    "debut": "09/01/1999",
+    "main": ["FET776", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "galzus": {
+    "name": "Galzus",
+    "class": "Mercenary",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "Cain": {
+    "name": "Cain",
+    "class": "Knight",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+
+  "roy": {
+    "name": "Roy",
+    "class": ["Lord", "Mercenary"],
+    "debut": "12/03/2001",
+    "main": ["FETBB", "FETBLB", "FEA", "FEESoV", "FEE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["FEC"],
+    "crossovers": ["P&YWW"]
+  },
+  "marcus": {
+    "name": "Marcus",
+    "class": "Paladin",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+
+  "alen": {
+    "name": "Alen",
+    "class": "Cavalier",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "lance": {
+    "name": "Lance",
+    "class": "Cavalier",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "wolt": {
+    "name": "Wolt",
+    "class": "Archer",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "bors": {
+    "name": "Bors",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "merlinus": {
+    "name": "Merlinus",
+    "class": "Transporter",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "elen": {
+    "name": "Elen",
+    "class": "Priest",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "dieck": {
+    "name": "Deick",
+    "class": "Mercenary",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB"] 
+  },
+  "ward": {
+    "name": "Ward",
+    "class": "Fighter",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "lot": {
+    "name": "Lot",
+    "class": "Fighter",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "shanna": {
+    "name": "Shanna",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "chad": {
+    "name": "Chad",
+    "class": "Thief",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "lugh": {
+    "name": "Lugh",
+    "class": "Mage",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "clarine": {
+    "name": "Clarine",
+    "class": "Troubadour",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "rutger": {
+    "name": "Rutger",
+    "class": "Myrmidon",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB"] 
+  },
+  "saul": {
+    "name": "Saul",
+    "class": "Priest",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "dorothy": {
+    "name": "Dorothy",
+    "class": "Archer",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "sue": {
+    "name": "Sue",
+    "class": "Nomad",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "zelot": {
+    "name": "Zelot",
+    "class": "Paladin",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "trec": {
+    "name": "Trec",
+    "class": "Cavalier",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "noah": {
+    "name": "Noah",
+    "class": "Cavalier",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "astolfo": {
+    "name": "Astolfo",
+    "class": "Thief",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "lilina": {
+    "name": "Lilina",
+    "class": ["Mage", "Sage"],
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["FEC"]
+  },
+  "barthe": {
+    "name": "Barthe",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "ogier": {
+    "name": "Ogier",
+    "class": "Mercenary",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "gwendolyn": {
+    "name": "Gwendolyn",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "fir": {
+    "name": "Fir",
+    "class": "Myrmidon",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "sin": {
+    "name": "Sin",
+    "class": "Nomad",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "geese": {
+    "name": "Geese",
+    "class": "Pirate",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "gonzalez": {
+    "name": "Gonzalez",
+    "class": "Brigand",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "klein": {
+    "name": "Klein",
+    "class": "Sniper",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "thea": {
+    "name": "Thea",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "larum": {
+    "name": "Larum",
+    "class": "Dancer",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "elffin": {
+    "name": "Elffin",
+    "class": "Bard",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "echidna": {
+    "name": "Echidna",
+    "class": "Hero",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "bartre": {
+    "name": "Barte",
+    "class": "Warrior",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB"],
+    "spinoffs": ["FEH"]
+  },
+  "raigh": {
+    "name": "Raigh",
+    "class": ["Shaman", "Mage"],
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "cath": {
+    "name": "Cath",
+    "class": "Thief",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "melady": {
+    "name": "Melady",
+    "class": "Rider",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "perceval": {
+    "name": "Perceval",
+    "class": "Paladin",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "ceclia": {
+    "name": "Ceclia",
+    "class": "Valkyrie",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FEA", "FEE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "sophia": {
+    "name": "Sophia",
+    "class": ["Shaman", "Sorcerer"],
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "igrene": {
+    "name": "Igrene",
+    "class": "Sniper",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "garret": {
+    "name": "Garret",
+    "class": "Berserker",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "fae": {
+    "name": "Fae",
+    "class": "Manakete",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB"],
+    "spinoffs": ["FEH"]
+  },
+  "hugh": {
+    "name": "Hugh",
+    "class": "Mage",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "zeiss": {
+    "name": "Zeiss",
+    "class": "Rider",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "douglas": {
+    "name": "Douglas",
+    "class": "General",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "niime": {
+    "name": "Niime",
+    "class": "Druid",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "juno": {
+    "name": "Juno",
+    "class": "Knight",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "dayan": {
+    "name": "Dayan",
+    "class": "Nomadic Trooper",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "yoder": {
+    "name": "Yoder",
+    "class": "Bishop",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "karel": {
+    "name": "Karel",
+    "class": "Swordmaster",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"] 
+  },
+  "narcian": {
+    "name": "Narcian",
+    "class": "Lord",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "galle": {
+    "name": "Galle",
+    "class": "Lord",
+    "debut": "03/29/2002",
+    "main": ["FETBB"],
+    "spinoffs": ["FEH"]
+  },
+  "hector": {
+    "name": "Hector",
+    "class": ["General", "Lord"],
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB", "FEA", "FEE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["FEC"]
+  },
+  "brunnya": {
+    "name": "Brunnya",
+    "class": "Sage",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "murdock": {
+    "name": "Murdock",
+    "class": "General",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB"],
+    "spinoffs": ["FEH"]
+  },
+  "eliwood": {
+    "name": "Eliwood",
+    "class": ["Paladin", "General"],
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "zephiel": {
+    "name": "Zephiel",
+    "class": ["King", "General"],
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "guinivere": {
+    "name": "Guinivere",
+    "class": "Sage",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB"],
+    "spinoffs": ["FEH"]
+  },
+  "iduun": {
+    "name": "Iduun",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB", "FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "bramimond": {
+    "name": "Bramimond",
+    "debut": "03/29/2002",
+    "main": ["FETBB", "FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+
+  
+  "lyn": {
+    "name": "Lyn",
+    "class": ["Lord", "Swordmaster"],
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA", "FEE"],
+    "spinoffs": ["FEH", "FEW", "FES"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["FEC"]
+  },
+  "sain": {
+    "name": "Sain",
+    "class": "Cavalier",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "kent": {
+    "name": "Kent",
+    "class": "Cavalier",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "florina": {
+    "name": "Florina",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"]
+  },
+  "wil": {
+    "name": "Wil",
+    "class": "Archer",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "dorcas": {
+    "name": "Dorcas",
+    "class": "Fighter",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "serra": {
+    "name": "Serra",
+    "class": "Cleric",
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "erk": {
+    "name": "Erk",
+    "class": "Mage",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "rath": {
+    "name": "Rath",
+    "class": "Nomad",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "matthew": {
+    "name": "Matthew",
+    "class": "Thief",
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "nils": {
+    "name": "Nils",
+    "class": "Bard",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "lucius": {
+    "name": "Lucius",
+    "class": "Monk",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "wallace": {
+    "name": "Wallace",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "lowen": {
+    "name": "Lowen",
+    "class": "Cavalier",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "rebecca": {
+    "name": "Rebecca",
+    "class": "Archer",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "oswin": {
+    "name": "Oswin",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "guy": {
+    "name": "Guy",
+    "class": "Myrmidon",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB"] 
+  },
+  "priscilla": {
+    "name": "Priscilla",
+    "class": "Troubadour",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "canas": {
+    "name": "Canas",
+    "class": "Shaman",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "dart": {
+    "name": "Dart",
+    "class": "Pirate",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "fiora": {
+    "name": "Fiora",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "legault": {
+    "name": "Legault",
+    "class": "Thief",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "ninian": {
+    "name": "Ninian",
+    "class": "Dancer",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "isadora": {
+    "name": "Isadora",
+    "class": "Paladin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "heath": {
+    "name": "Heath",
+    "class": "Rider",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "hawkeye": {
+    "name": "Hawkeye",
+    "class": "Berserker",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "geitz": {
+    "name": "Geitz",
+    "class": "Warrior",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "pent": {
+    "name": "Pent",
+    "class": "Sage",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "louise": {
+    "name": "Louise",
+    "class": "Sniper",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "harken": {
+    "name": "Harken",
+    "class": "Swordmaster",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "nino": {
+    "name": "Nino",
+    "class": "Mage",
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "jaffar": {
+    "name": "Jaffar",
+    "class": "Assassin",
+    "debut": "04/25/2003",
+    "main": ["FETBLB", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "vaida": {
+    "name": "Vaida",
+    "class": "Lord",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "renault": {
+    "name": "Renault",
+    "class": "Bishop",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "athos": {
+    "name": "Athos",
+    "class": "Sage",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"] 
+  },
+  "raven": {
+    "name": "Raven",
+    "class": "Mercenary",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "farina": {
+    "name": "Farina",
+    "class": "Knight",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "karla": {
+    "name": "Karla",
+    "class": "Bishop",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+
+  "eirika": {
+    "name": "Eirika",
+    "class": ["Lord", "Bride", "Myrmidon"],
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA", "FEE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["FEC"]
+  },
+  "seth": {
+    "name": "Seth",
+    "class": "Paladin",
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "franz": {
+    "name": "Franz",
+    "class": "Cavalier",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"]
+  },
+  "gilliam": {
+    "name": "Gilliam",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "vanessa": {
+    "name": "Vanessa",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "moulder": {
+    "name": "Moulder",
+    "class": "Priest",
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"]
+  },
+  "ross": {
+    "name": "Ross",
+    "class": "Journeyman",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "garcia": {
+    "name": "Garcia",
+    "class": "Fighter",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "neimi": {
+    "name": "Neimi",
+    "class": "Archer",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "colm": {
+    "name": "Colm",
+    "class": "Thief",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "artur": {
+    "name": "Artur",
+    "class": "Monk",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "lute": {
+    "name": "Lute",
+    "class": "Mage",
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "natasha": {
+    "name": "Natasha",
+    "class": "Cleric",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "joshua": {
+    "name": "Joshua",
+    "class": "Myrmidon",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB"] 
+  },
+  "ephraim": {
+    "name": "Ephraim",
+    "class": ["Lord", "Knight"],
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"],
+    "spinoffs": ["FEH", "FES"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "forde": {
+    "name": "Forde",
+    "class": "Cavalier",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "kyle": {
+    "name": "Kyle",
+    "class": "Cavalier",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "orson": {
+    "name": "Orson",
+    "class": "Paladin",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "tana": {
+    "name": "Tana",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "amelia": {
+    "name": "Amelia",
+    "class": ["Recruit", "Knight"],
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"],
+    "other": ["FEC"]
+  },
+  "innes": {
+    "name": "Innes",
+    "class": "Sniper",
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "gerik": {
+    "name": "Gerik",
+    "class": "Mercenary",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "tethys": {
+    "name": "Tethys",
+    "class": "Dancer",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "marisa": {
+    "name": "Marisa",
+    "class": ["Myrmidon", "Swordmaster"],
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "l'arachel": {
+    "name": "L'Arachel",
+    "class": ["Troubadour", "Cleric"],
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "dozla": {
+    "name": "Dozla",
+    "class": "Berserker",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "saleh": {
+    "name": "Saleh",
+    "class": "Sage",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "ewan": {
+    "name": "Ewan",
+    "class": "Pupil",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "cormag": {
+    "name": "Cormag",
+    "class": "Lord",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "rennac": {
+    "name": "Rennac",
+    "class": "Rogue",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "duessel": {
+    "name": "Duessel",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"]
+  },
+  "knoll": {
+    "name": "Knoll",
+    "class": "Shaman",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "myrrh": {
+    "name": "Myrrh",
+    "class": "Manakete",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB"] 
+  },
+  "syrene": {
+    "name": "Syrene",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "caellach": {
+    "name": "Caellach",
+    "class": "Hero",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "riev": {
+    "name": "Riev",
+    "class": "Bishop",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "ismaire": {
+    "name": "Ismaire",
+    "class": "Swordmaster",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "selena": {
+    "name": "Selena",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "glen": {
+    "name": "Glen",
+    "class": "Lord",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "hayden": {
+    "name": "Hayden",
+    "class": "Ranger",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "valter": {
+    "name": "Valter",
+    "class": "Knight",
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"] 
+  },
+  "fado": {
+    "name": "Fado",
+    "class": "General",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "lyon": {
+    "name": "Lyon",
+    "class": ["Necromancer", "Sorcerer"],
+    "debut": "10/07/2004",
+    "main": ["FETSS"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+
+  "ike": {
+    "name": "Ike",
+    "class": ["Ranger", "Hero"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA", "FEF", "FEESoV", "FEE"],
+    "spinoffs": ["FEH", "FES"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["STEAM", "FEC"],
+    "crossovers": ["SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"]
+  },
+  "boyd": {
+    "name": "Boyd",
+    "class": ["Fighter", "Warrior"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "titania": {
+    "name": "Titania",
+    "class": ["Paladin", "Knight"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "oscar": {
+    "name": "Oscar",
+    "class": ["Knight", "Paladin"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "rhys": {
+    "name": "Rhys",
+    "class": ["Priest", "Bishop"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "shinon": {
+    "name": "Shinon",
+    "class": "Sniper",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "gatrie": {
+    "name": "Gatrie",
+    "class": ["Knight", "General"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "soren": {
+    "name": "Soren",
+    "class": ["Mage", "Sage"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA", "FEE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "mia": {
+    "name": "Mia",
+    "class": ["Myrmidon", "Swordmaster"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "ilyana": {
+    "name": "Ilyana",
+    "class": "Mage",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "mist": {
+    "name": "Mist",
+    "class": "Cleric",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["FEC"] 
+  },
+  "rolf": {
+    "name": "Rolf",
+    "class": ["Archer", "Sniper"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "marcia": {
+    "name": "Marcia",
+    "class": "Knight",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "lethe": {
+    "name": "Lethe",
+    "class": "Cat",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "mordecai": {
+    "name": "Mordecai",
+    "class": "Tiger",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "volke": {
+    "name": "Volke",
+    "class": ["Thief", "Assassin"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "kieran": {
+    "name": "Kieran",
+    "class": "Knight",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "nephenee": {
+    "name": "Nephence",
+    "class": ["Soldier", "Halberdier", "Knight"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "brom": {
+    "name": "Brom",
+    "class": ["Knight", "General"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"]
+  },
+  "zihark": {
+    "name": "Zihark",
+    "class": ["Myrmidon", "Swordmaster"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "sothe": {
+    "name": "Sothe",
+    "class": ["Thief", "Rogue", "Trickster"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["FEC"]
+  },
+  "jill": {
+    "name": "Jill",
+    "class": ["Rider", "Knight"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "astrid": {
+    "name": "Astrid",
+    "class": ["Knight", "Paladin"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "makalov": {
+    "name": "Makalov",
+    "class": "Knight",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "tormod": {
+    "name": "Tormod",
+    "class": ["Mage", "Sage"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"] 
+  },
+  "muarim": {
+    "name": "Muarim",
+    "class": "Tiger",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "stefan": {
+    "name": "Stefan",
+    "class": ["Swordmaster", "Trueblade"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "danved": {
+    "name": "Danved",
+    "class": "Halberdier",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "tanith": {
+    "name": "Tanith",
+    "class": "Knight",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "reyson": {
+    "name": "Reyson",
+    "class": "Hero",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "janaff": {
+    "name": "Janaff",
+    "class": "Hawk",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "ullki": {
+    "name": "Ullki",
+    "class": "Hawk",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "calill": {
+    "name": "Calill",
+    "class": "Sage",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "tauroneo": {
+    "name": "Tauroneo",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "ranulf": {
+    "name": "Ranulf",
+    "class": "Cat",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "haar": {
+    "name": "Haar",
+    "class": ["Lord", "Dragonmaster"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"]
+  },
+  "bastian": {
+    "name": "Bastian",
+    "class": "Sage",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "lucia": {
+    "name": "Lucia",
+    "class": "Swordmaster",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "geoffrey": {
+    "name": "Geoffrey",
+    "class": "Paladin",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "largo": {
+    "name": "Largo",
+    "class": "Berserker",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "elincia": {
+    "name": "Elincia",
+    "class": ["Princess", "Queen", "Knight"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "other": ["FEC"]
+  },
+  "nasir": {
+    "name": "Nasir",
+    "class": "Dragon",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "ena": {
+    "name": "Ena",
+    "class": "Dragon",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "tibarn": {
+    "name": "Tibarn",
+    "class": ["Hawk", "King"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "naesala": {
+    "name": "Naesala",
+    "class": ["Raven", "King"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "giffca": {
+    "name": "Giffca",
+    "class": "Lion",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "oliver": {
+    "name": "Oliver",
+    "class": ["Bishop", "Saint", "Sorcerer"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "shiharam": {
+    "name": "Shiharam",
+    "class": "Lord",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "petrine": {
+    "name": "Petrine",
+    "class": "Paladin",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "bryce": {
+    "name": "Bryce",
+    "class": "General",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "ashnard": {
+    "name": "Ashnard",
+    "class": ["King", "Lord"],
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBU"]
+  },
+  "nealuchi": {
+    "name": "Nealuchi",
+    "class": "Raven",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "leanne": {
+    "name": "Leanne",
+    "class": "Hero",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "sigrun": {
+    "name": "Sigrun",
+    "class": "Knight",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "zelgius": {
+    "name": "Zelgius",
+    "class": "Cat",
+    "debut": "4/20/2005",
+    "main": ["FEPoR", "FERD", "FEA", "FEE"],
+    "spinoffs": ["FEH"]
+  },
+
+  "micaiah": {
+    "name": "Micaiah",
+    "class": ["Myrmidon", "Mage", "Sage"],
+    "debut": "02/22/2007",
+    "main": ["FERD", "FEA", "FEE"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBB", "SSBU"],
+    "other": ["FEC"]
+  },
+  "edward": {
+    "name": "Edward",
+    "class": "Myrmidon",
+    "debut": "02/22/2007",
+    "main": ["FERD", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "leonardo": {
+    "name": "Leonardo",
+    "class": "Archer",
+    "debut": "02/22/2007",
+    "main": ["FERD", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "nolan": {
+    "name": "Nolan",
+    "class": "Fighter",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "laura": {
+    "name": "Laura",
+    "class": "Priest",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "aran": {
+    "name": "Aran",
+    "class": "Soldier",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "meg": {
+    "name": "Meg",
+    "class": "Armor",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "volug": {
+    "name": "Volug",
+    "class": "Wolf",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "fiona": {
+    "name": "Fiona",
+    "class": "Knight",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "vika": {
+    "name": "Vika",
+    "class": "Raven",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "rafiel": {
+    "name": "Rafiel",
+    "class": "Hero",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "nailah": {
+    "name": "Nailah",
+    "class": "Queen",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "heather": {
+    "name": "Heather",
+    "class": "Rogue",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "kyza": {
+    "name": "Kyza",
+    "class": "Tiger",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "skrimir": {
+    "name": "Skrimir",
+    "class": "Lion",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "sanaki": {
+    "name": "Sanaki",
+    "class": ["Empress", "Sage"],
+    "debut": "02/22/2007",
+    "main": ["FERD", "FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"] 
+  },
+  "pelleas": {
+    "name": "Pelleas",
+    "class": "Sage",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "caineghis": {
+    "name": "Caineghis",
+    "class": "King",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "kurthnaga": {
+    "name": "Kurthnaga",
+    "class": "Prince",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "renning": {
+    "name": "Renning",
+    "class": "Knight",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "sephiran": {
+    "name": "Sephiran",
+    "class": ["Chancellor", "Sage"],
+    "debut": "02/22/2007",
+    "main": ["FERD", "FEA"],
+    "spinoffs": ["FEH"] 
+  },
+  "altina": {
+    "name": "Altina",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"]
+  }, 
+  "lyre": {
+    "name": "Lyre",
+    "class": "Cat",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"]
+  },
+  "yune": {
+    "name": "Yune",
+    "class": "Goddess",
+    "debut": "02/22/2007",
+    "main": ["FERD"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  
+  "frey": {
+    "name": "Frey",
+    "class": "Cavalier",
+    "debut": "08/07/2008",
+    "main": ["FESD", "FENMotE"]
+  },
+  "norne": {
+    "name": "Norne",
+    "class": "Archer",
+    "debut": "08/07/2008",
+    "main": ["FESD", "FENMotE", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "athena": {
+    "name": "Athena",
+    "class": ["Myrmidon", "Swordmaster"],
+    "debut": "08/07/2008",
+    "main": ["FESD", "FENMotE", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "horace": {
+    "name": "Horace",
+    "class": "General",
+    "debut": "08/07/2008",
+    "main": ["FESD", "FENMotE", "FEA"]
+  },
+  "etzel": {
+    "name": "Etzel",
+    "class": "Sorcerer",
+    "debut": "08/07/2008",
+    "main": ["FESD", "FEA"]
+  },
+  "ymir": {
+    "name": "Ymir",
+    "class": "Warrior",
+    "debut": "08/07/2008",
+    "main": ["FESD", "FENMotE"]
+  },
+  "nagi": {
+    "name": "Nagi",
+    "class": "Manakete",
+    "debut": "08/07/2008",
+    "main": ["FESD", "FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+
+  "kris": {
+    "name": "Kris",
+    "debut": "07/15/2010",
+    "main": ["FENMotE"],
+    "spinoffs": ["FEH"]
+  },
+  "katarina": {
+    "name": "Katarina",
+    "class": ["Sage", "Grandmaster"],
+    "debut": "07/15/2010",
+    "main": ["FENMotE", "FEA"],
+    "spinoffs": ["FEH"]
+  },
+
+  "robin": {
+    "name": "Robin",
+    "class": "Tactician",
+    "debut": "04/19/2012",
+    "main": ["FEA", "FEF", "FEESoV", "FEE"],
+    "spinoffs": ["FEH", "FEW", "FES"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["STEAM", "FEC"],
+    "crossovers": ["SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"]
+  },
+  "chrom": {
+    "name": "Chrom",
+    "class": "Lord",
+    "debut": "04/19/2012",
+    "main": ["FEA", "FEF", "FEE"],
+    "spinoffs": ["TMSFE", "FEH", "FEW"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["PXZ2", "DL", "FEC"],
+    "crossovers": ["WWG"]
+  },
+  "lissa": {
+    "name": "Lissa",
+    "class": "Cleric",
+    "debut": "04/19/2012",
+    "main": ["FEA", "FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "frederick": {
+    "name": "Frederick",
+    "class": "Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA", "FEF"],
+    "spinoffs": ["FEH", "FEW"]
+  },
+  "sully": {
+    "name": "Sully",
+    "class": "Cavalier",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "virion": {
+    "name": "Virion",
+    "class": "Archer",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["TMSFE", "FEH"]
+  },
+  "stahl": {
+    "name": "Stahl",
+    "class": "Cavalier",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "vaike": {
+    "name": "Vaike",
+    "class": "Fighter",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "miriel": {
+    "name": "Miriel",
+    "class": "Mage",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "sumia": {
+    "name": "Sumia",
+    "class": "Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "kellam": {
+    "name": "Kellam",
+    "class": "Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "lon'qu": {
+    "name": "Lon'qu",
+    "class": "Myrmidon",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "ricken": {
+    "name": "Ricken",
+    "class": "Mage",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "maribelle": {
+    "name": "Maribelle",
+    "class": "Troubadour",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "panne": {
+    "name": "Panne",
+    "class": "Taguel",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "gaius": {
+    "name": "Gaius",
+    "class": "Thief",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSB3DS"]
+  },
+  "cordelia": {
+    "name": "Cordelia",
+    "class": "Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSB3DS", "SSBU"],
+    "other": ["FEC"]
+  },
+  "gregor": {
+    "name": "Gregor",
+    "class": "Mercenary",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "nowi": {
+    "name": "Nowi",
+    "class": "Manakete",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "libra": {
+    "name": "Libra",
+    "class": "Monk",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "tharja": {
+    "name": "Tharja",
+    "class": "Mage",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["TMSFE", "FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "olivia": {
+    "name": "Olivia",
+    "class": "Dancer",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH", "FEW"],
+    "other": ["FEC"]
+  },
+  "cherche": {
+    "name": "Cherche",
+    "class": "Rider",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "henry": {
+    "name": "Henry",
+    "class": "Mage",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "lucina": {
+    "name": "Lucina",
+    "class": "Lord",
+    "debut": "04/19/2012",
+    "main": ["FEA", "FEF", "FEESoV", "FEE"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["STEAM", "PXZ2", "FEC"],
+    "crossovers": ["SMM", "YWW", "SMM3DS", "P&YWW"]
+  },
+  "say'ri": {
+    "name": "Say'ri",
+    "class": "Swordmaster",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "basilio": {
+    "name": "Basilio",
+    "class": "Warrior",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "flavia": {
+    "name": "Flavia",
+    "class": "Hero",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "donnel": {
+    "name": "Donnel",
+    "class": "Villager",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "Anna": {
+    "name": "Anna",
+    "class": ["Trickster", "Merchant"],
+    "debut": "04/19/2012",
+    "main": ["FEA", "FEF"],
+    "spinoffs": ["FEW"]
+  },
+  "owain": {
+    "name": "Owain",
+    "class": "Myrmidon",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSB3DS", "SSBU"]
+  },
+  "inigo": {
+    "name": "Inigo",
+    "class": "Mercenary",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSB3DS"]
+  },
+  "brady": {
+    "name": "Brady",
+    "class": "Priest",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "kjelle": {
+    "name": "Kjelle",
+    "class": "Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "cythina": {
+    "name": "Cythina",
+    "class": "Knight",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "severa": {
+    "name": "Severa",
+    "class": "Mercenary",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "gerome": {
+    "name": "Gerome",
+    "class": "Rider",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "morgan": {
+    "name": "Morgan",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "yarne": {
+    "name": "Yarne",
+    "class": "Taguel",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "laurent": {
+    "name": "Laurent",
+    "class": "Mage",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "noire": {
+    "name": "Noire",
+    "class": "Archer",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "nah": {
+    "name": "Nah",
+    "class": "Manakete",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "gangrel": {
+    "name": "Gangrel",
+    "class": "Trickster",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["TMSFE", "FEH"],
+    "smash": ["SSBU"] 
+  },
+  "walhart": {
+    "name": "Walhart",
+    "class": "Conquerer",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "emmeryn": {
+    "name": "Emmeryn",
+    "class": "Sage",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "yen'fay": {
+    "name": "Yen'fay",
+    "class": "Swordmaster",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "aversa": {
+    "name": "Aversa",
+    "class": "Flier",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "priam": {
+    "name": "Priam",
+    "class": "Hero",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+
+  "corrin": {
+    "name": "Corrin",
+    "class": ["Prince", "Princess"],
+    "debut": "06/25/2015",
+    "main": ["FEF", "FEE"],
+    "spinoffs": ["FEH", "FEW", "FES"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["FEC"],
+    "crossovers": ["P&YWW", "WWMI"]
+  },
+  "gunter": {
+    "name": "Gunter",
+    "class": "Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "felicia": {
+    "name": "Felicia",
+    "class": "Maid",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "jakob": {
+    "name": "Jakob",
+    "class": "Butler",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"]
+  },
+  "rinkah": {
+    "name": "Rinkah",
+    "class": "Oni Savage",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "kaze": {
+    "name": "Kaze",
+    "class": "Ninja",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "sakura": {
+    "name": "Sakura",
+    "class": "Shrine Maiden",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "azura": {
+    "name": "Azura",
+    "class": "Songstress",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "hana": {
+    "name": "Hana",
+    "class": "Samurai",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "subaki": {
+    "name": "Subaki",
+    "class": "Sky Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "saizo": {
+    "name": "Saizo",
+    "class": "Ninja",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "orochi": {
+    "name": "Orochi",
+    "class": "Diviner",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "silas": {
+    "name": "Silas",
+    "class": "Cavalier",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "hinoka": {
+    "name": "Hinoka",
+    "class": "Sky Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "azama": {
+    "name": "Azama",
+    "class": "Monk",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "setsuna": {
+    "name": "Setsuna",
+    "class": "Archer",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "hayato": {
+    "name": "Hayato",
+    "class": "Diviner",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "oboro": {
+    "name": "Oboro",
+    "class": "Fighter",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "other": ["FEC"]
+  },
+  "hinata": {
+    "name": "Hinata",
+    "class": "Samurai",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "takumi": {
+    "name": "Takumi",
+    "class": "Archer",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "kagero": {
+    "name": "Kagero",
+    "class": "Ninja",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "reina": {
+    "name": "Reina",
+    "class": "Kinshi Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "kaden": {
+    "name": "Kaden",
+    "class": "Kitsune",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "ryoma": {
+    "name": "Ryoma",
+    "class": "Swordmaster",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSB3DS", "SSBU"],
+    "other": ["FEC"]
+  },
+  "scarlet": {
+    "name": "Scarlet",
+    "class": "Lord",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "izana": {
+    "name": "Izana",
+    "class": "Onmyoji",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "shura": {
+    "name": "Shura",
+    "class": "Adventurer",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "yukimura": {
+    "name": "Yukimura",
+    "class": "Merchanist",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "elise": {
+    "name": "Elise",
+    "class": "Troubadour",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "effie": {
+    "name": "Effie",
+    "class": "Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "Arthur": {
+    "name": "Arthur",
+    "class": "Fighter",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "odin": {
+    "name": "Odin",
+    "class": "Mage",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "niles": {
+    "name": "Niles",
+    "class": "Outlaw",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"]
+  },
+  "nyx": {
+    "name": "Nyx",
+    "class": "Mage",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "camilla": {
+    "name": "Camilla",
+    "class": "Malig Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF", "FEE"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "beruka": {
+    "name": "Beruka",
+    "class": "Rider",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "laslow": {
+    "name": "Laslow",
+    "class": "Mercenary",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "peri": {
+    "name": "Peri",
+    "class": "Cavalier",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "benny": {
+    "name": "Benny",
+    "class": "Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "charlotte": {
+    "name": "Charlotte",
+    "class": "Fighter",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "leo": {
+    "name": "Leo",
+    "class": "Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "keaton": {
+    "name": "Keaton",
+    "class": "Wolfskin",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "xander": {
+    "name": "Xander",
+    "class": "Paladin",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH", "FEW"],
+    "smash": ["SSB3DS", "SSBU"],
+    "other": ["FEC"]
+  },
+  "flora": {
+    "name": "Flora",
+    "class": "Maid",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "mozu": {
+    "name": "Mozu",
+    "class": "Villager",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "kana": {
+    "name": "Kana",
+    "class": ["Prince", "Princess"],
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "shigure": {
+    "name": "Shigure",
+    "class": "Nohr",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "dwyer": {
+    "name": "Dwyer",
+    "class": "Troubadour",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "sophie": {
+    "name": "Sophie",
+    "class": "Cavalier",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "midori": {
+    "name": "Midori",
+    "class": "Apothecary",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "shiro": {
+    "name": "Shiro",
+    "class": "Fighter",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "kiragi": {
+    "name": "Kiragi",
+    "class": "Archer",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "asugi": {
+    "name": "Asugi",
+    "class": "Ninja",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "selkie": {
+    "name": "Selkie",
+    "class": "Kitsune",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "hisame": {
+    "name": "Hisame",
+    "class": "Samurai",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "mitama": {
+    "name": "Mitama",
+    "class": "Shrine Maiden",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "caeldori": {
+    "name": "Caeldori",
+    "class": "Sky Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "rhajat": {
+    "name": "Rhajat",
+    "class": "Diviner",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "siegbert": {
+    "name": "Siegbert",
+    "class": "Cavalier",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "forrest": {
+    "name": "Forrest",
+    "class": "Troubadour",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "ignatius": {
+    "name": "Ignatius",
+    "class": "Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "velouria": {
+    "name": "Velouria",
+    "class": "Wolfskin",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "percy": {
+    "name": "Percy",
+    "class": "Rider",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "ophelia": {
+    "name": "Ophelia",
+    "class": "Mage",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "soleil": {
+    "name": "Soleil",
+    "class": "Mercenary",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "nina": {
+    "name": "Nina",
+    "class": "Outlaw",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "daniela": {
+    "name": "Daniela",
+    "class": "Strategist",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "haitaka": {
+    "name": "Haitaka",
+    "class": "Fighter",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "kumagera": {
+    "name": "Kumagera",
+    "class": "Oni Chieftain",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "llewelyn": {
+    "name": "Llewelyn",
+    "class": "Berserker",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "lloyd": {
+    "name": "Lloyd",
+    "class": "Berserker",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "nichol": {
+    "name": "Nichol",
+    "class": "Malig Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "candace": {
+    "name": "Candace",
+    "class": "Adventurer",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "tarba": {
+    "name": "Tarba",
+    "class": "Berserker",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "funke": {
+    "name": "Funke",
+    "class": "Adventurer",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "daichi": {
+    "name": "Daichi",
+    "class": "Basara",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "gazak": {
+    "name": "Gazak",
+    "class": ["Fighter", "Berserker"],
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "senno": {
+    "name": "Senno",
+    "class": ["Apothecary", "Merchant"],
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "zhara": {
+    "name": "Zhara",
+    "class": ["Mercenary", "Hero"],
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "ippei": {
+    "name": "Ippei",
+    "class": "Samurai",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "jitaro": {
+    "name": "Jitaro",
+    "class": "Archer",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "minori": {
+    "name": "Minori",
+    "class": "Shrine Maiden",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "shinobu": {
+    "name": "Shinobu",
+    "class": "Fighter",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "goro": {
+    "name": "Goro",
+    "class": "Ninja",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "musashi": {
+    "name": "Musashi",
+    "class": "Diviner",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "nanaki": {
+    "name": "Nanaki",
+    "class": "Oni Savage",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "hachio": {
+    "name": "Hachio",
+    "class": "Apothecary",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "konoe": {
+    "name": "Konoe",
+    "class": "Sky Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "unil": {
+    "name": "Unil",
+    "class": "Mercenary",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "dua": {
+    "name": "Dua",
+    "class": "Fighter",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "trim": {
+    "name": "Trim",
+    "class": "Troubadour",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "quatro": {
+    "name": "Quatro",
+    "class": "Cavalier",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "penvo": {
+    "name": "Penvo",
+    "class": "Outlaw",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "xestu": {
+    "name": "Xestu",
+    "class": "Mage",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "hepto": {
+    "name": "Hepto",
+    "class": "Knight",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "octu": {
+    "name": "Octu",
+    "class": "Rider",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+
+  "itsuki_aoi": {
+    "name": "Itsuku Aoi",
+    "class": "Myrmidon",
+    "debut": "12/26/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "tsubasa_oribe": {
+    "name": "Tsubasa Oribe",
+    "class": "Knight",
+    "debut": "12/26/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"]
+  },
+  "touma_akagi": {
+    "name": "Touma Akagi",
+    "class": "Cavalier",
+    "debut": "12/26/2015",
+    "main": ["FEF"]
+  },
+  "kiria_kurono": {
+    "name": "Kiria Kurono",
+    "class": "Mage",
+    "debut": "12/26/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "eleonora_yumizuru": {
+    "name": "Eleonora Yumizuru",
+    "class": "Archer",
+    "debut": "12/26/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "mamori_minamoto": {
+    "name": "Mamori Minamoto",
+    "class": "Knight",
+    "debut": "12/26/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "yashiro_tsurugi": {
+    "name": "Yashiro Tsurugi",
+    "class": "Myrmidon",
+    "debut": "12/26/2015",
+    "main": ["FEF"]
+  },
+
+
+
+  "veronica": {
+    "name": "Veronica",
+    "class": ["Emblian Princess", "Princess Beset"],
+    "debut": "02/02/2017",
+    "main": ["FEE"],
+    "spinoffs": ["FEH", "FES"],
+    "other": ["DL"]
+  },
+  "gustav": {
+    "name": "Gustav",
+    "class": "Exsanguinator",
+    "debut": "02/02/2017",
+    "spinoffs": ["FEH"] 
+  },
+  "fimbulvetr": {
+    "name": "Fimbulvetr",
+    "class": "The Bitter End",
+    "debut": "02/02/2017",
+    "spinoffs": ["FEH"] 
+  },
+
+  "faye": {
+    "name": "Faye",
+    "class": "Villager",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "conrad": {
+    "name": "Conrad",
+    "class": "Knight",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+
+  "elimine": {
+    "name": "Elimine",
+    "class": "Saint",
+    "debut": "02/02/2017",
+    "spinoffs": ["FEH"]
+  },
+  "alfonse": {
+    "name": "Alfonse",
+    "class": "Prince",
+    "debut": "02/02/2017",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"],
+    "other": ["DL", "FEC"]
+  },
+  "sharena": {
+    "name": "Sharena",
+    "class": "Princess",
+    "debut": "02/02/2017",
+    "spinoffs": ["FEH"],
+    "other": ["DL", "FEC"]
+  },
+  "anna4": {
+    "name": "Anna",
+    "class": "Commander",
+    "debut": "02/02/2017",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "fjorm": {
+    "name": "Fjorm",
+    "class": "Princess",
+    "debut": "11/28/2017",
+    "spinoffs": ["FEH"],
+    "other": ["DL", "FEC"]
+  },
+  "gunnthra": {
+    "name": "Gunnthra",
+    "class": "Princess",
+    "debut": "12/28/2017",
+    "spinoffs": ["FEH"]
+  },
+  "ylgr": {
+    "name": "Ylgr",
+    "class": "Princess",
+    "debut": "11/21/2018",
+    "spinoffs": ["FEH"]
+  },
+  "surtr": {
+    "name": "Surtr",
+    "class": "King",
+    "debut": "09/21/2018",
+    "spinoffs": ["FEH"]
+  },
+  "laegjarn": {
+    "name": "Laegjarn",
+    "class": "Princess",
+    "debut": "09/21/2018",
+    "spinoffs": ["FEH"]
+  },
+  "eir": {
+    "name": "Eir",
+    "class": "Princess",
+    "debut": "12/11/2018",
+    "spinoffs": ["FEH"]
+  },
+  "helbindi": {
+    "name": "Helbindi",
+    "class": "General",
+    "debut": "03/19/2019",
+    "spinoffs": ["FEH"]
+  },
+  "laevatein": {
+    "name": "Laevatein",
+    "class": "Princess",
+    "debut": "03/19/2019",
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "hrid": {
+    "name": "Hrid",
+    "class": "Prince of Nifl",
+    "debut": "01/01/2019",
+    "spinoffs": ["FEH"]
+  },
+  "bruno": {
+    "name": "Bruno",
+    "class": "Prince of Embla",
+    "debut": "03/19/2019",
+    "spinoffs": ["FEH"]
+  },  
+  
+
+  "nifl": {
+    "name": "Nifl",
+    "class": "God of Ice",
+    "debut": "07/19/2021",
+    "spinoffs": ["FEH"]
+  },
+  "muspell": {
+    "name": "Bruno",
+    "class": "Flame God",
+    "debut": "09/17/2021",
+    "spinoffs": ["FEH"]
+  },
+  "thorr": {
+    "name": "Thorr",
+    "debut": "11/30/2021",
+    "spinoffs": ["FEH"],
+    "other": ["DL"]
+  },
+  "Ymir": {
+    "name": "Ymir",
+    "debut": "07/19/2022",
+    "spinoffs": ["FEH"]
+  },
+  "ganglot": {
+    "name": "Ganglot",
+    "debut": "11/18/2022",
+    "spinoffs": ["FEH"]
+  },
+  "loki": {
+    "name": "Loki",
+    "class": "Trickster",
+    "debut": "10/23/2018",
+    "spinoffs": ["FEH"],
+    "other": ["DL"]
+  },
+  "peony": {
+    "name": "Peony",
+    "debut": "12/06/2019",
+    "spinoffs": ["FEH"],
+    "other": ["DL", "FEC"]
+  },
+  "mirabilis": {
+    "name": "Mirabilis",
+    "debut": "06/05/2020",
+    "spinoffs": ["FEH"]
+  },
+  "freyr": {
+    "name": "Freyr",
+    "class": "Dream King",
+    "debut": "07/28/2023",
+    "spinoffs": ["FEH"]
+  },
+  "freyja": {
+    "name": "Freyja",
+    "debut": "11/27/2020",
+    "spinoffs": ["FEH"]
+  },
+  "eitr": {
+    "name": "Eitr",
+    "debut": "07/18/2023",
+    "spinoffs": ["FEH"]
+  },
+
+  "niedhavellir": {
+    "name": "Niedhavellir",
+    "debut": "07/16/2024",
+    "spinoffs": ["FEH"]
+  },
+  "reignn": {
+    "name": "Reignn",
+    "debut": "12/08/2020",
+    "spinoffs": ["FEH"]
+  },
+  "thjazi": {
+    "name": "Thjazi",
+    "debut": "11/14/2022",
+    "spinoffs": ["FEH"]
+  },
+  "dagr": {
+    "name": "Reignn",
+    "class": "Princess",
+    "debut": "03/30/2021",
+    "spinoffs": ["FEH"]
+  },
+  "nott": {
+    "name": "Nott",
+    "debut": "06/08/2021",
+    "spinoffs": ["FEH"]
+  },
+  "eitri": {
+    "name": "Eitri",
+    "debut": "11/18/2021",
+    "spinoffs": ["FEH"]
+  },
+  "askr": {
+    "name": "Askr",
+    "class": "Divine Dragon",
+    "debut": "07/26/2022",
+    "spinoffs": ["FEH"]
+  },
+  "vanitas": {
+    "name": "Vanitas",
+    "debut": "11/28/2025",
+    "spinoffs": ["FEH"]
+  },
+  "ash": {
+    "name": "Ash",
+    "class": "Divine Dragon",
+    "debut": "12/07/2021",
+    "spinoffs": ["FEH"]
+  },
+  "meliai": {
+    "name": "Meliai",
+    "debut": "07/18/2025",
+    "spinoffs": ["FEH"]
+  },
+
+  "elm": {
+    "name": "Elm",
+    "class": "Retainer",
+    "debut": "01/01/2023",
+    "spinoffs": ["FEH"]
+  },
+  "seithr": {
+    "name": "Seithr",
+    "debut": "12/07/2022",
+    "spinoffs": ["FEH"]
+  },
+  "heiethr": {
+    "name": "Heiethr",
+    "class": "Goddess",
+    "debut": "06/08/2023",
+    "spinoffs": ["FEH"]
+  },
+  "groa": {
+    "name": "Groa",
+    "class": "Goddess",
+    "debut": "07/17/2026",
+    "spinoffs": ["FEH"]
+  },
+  "nerthuz": {  
+    "name": "Nerthuz",
+    "class": "Godess",
+    "debut": "04/28/2023",
+    "spinoffs": ["FEH"]
+  },
+  "ratatoskr": {
+    "name": "Rataoskr",
+    "debut": "12/07/2023",
+    "spinoffs": ["FEH"]
+  },
+  "heiethrun": {
+    "name": "Heiethrun",
+    "debut": "07/26/2024",
+    "spinoffs": ["FEH"]
+  },
+  "baldr": {
+    "name": "Laeraithr",
+    "debut": "10/30/2024",
+    "spinoffs": ["FEH"]
+  },
+  "jormungandr": {
+    "name": "Jormungandr",
+    "debut": "06/29/2026",
+    "spinoffs": ["FEH"]
+  },
+  "rune": {
+    "name": "Rune",
+    "debut": "06/06/2024",
+    "spinoffs": ["FEH"]
+  },  
+
+  "rowan": {
+    "name": "Rowan",
+    "class": "Lord",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEH"]
+  },
+  "lianna": {
+    "name": "Lianna",
+    "class": "Lord",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+
+  "holst": {
+    "name": "Holst",
+    "class": "Lord",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH"]
+  },
+
+
+
+  "byleth": {
+    "name": "Byleth",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH", "FEE"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "smash": ["SSBU"],
+    "other": ["FEC"],
+    "crossovers": ["WWMI"]
+  },
+  "edelgard": {
+    "name": "Edelgard",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH", "FEE"],
+    "spinoffs": ["FEH", "FEWTH", "FES"],
+    "smash": ["SSBU"],
+    "other": ["FEC"],
+    "crossovers": ["WWGIT"]
+  },
+
+  "hubert": {
+    "name": "Hubert",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "ferdinand": {
+    "name": "Ferdinand",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+
+  "linhardt": {
+    "name": "Linhardt",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "caspar": {
+    "name": "Caspar",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "bernadetta": {
+    "name": "Bernadetta",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "dorothea": {
+    "name": "Dorothea",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "smash": ["SSBU"]
+  },
+  "petra": {
+    "name": "Petra",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "dimitri": {
+    "name": "Dimitri",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH", "FEE"],
+    "spinoffs": ["FEH", "FEWTH", "FES"],
+    "smash": ["SSBU"],
+    "other": ["FEC"],
+    "crossovers": ["WWGIT"]
+  },
+  "dedue": {
+    "name": "Dedue",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "felix": {
+    "name": "Felix",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "ashe": {
+    "name": "Ashe",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "sylvain": {
+    "name": "Sylvain",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "mercedes": {
+    "name": "Mercedes",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "annette": {
+    "name": "Annette",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "ingrid": {
+    "name": "Ingrid",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "smash": ["SSBU"]
+  },
+  "claude": {
+    "name": "Claude",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH", "FEE"],
+    "spinoffs": ["FEH", "FEWTH", "FES"],
+    "smash": ["SSBU"],
+    "other": ["FEC"],
+    "crossovers": ["WWGIT"]
+  },
+  "raphael": {
+    "name": "Raphael",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "ignatz": {
+    "name": "Ignatz",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "lysithea": {
+    "name": "Lysithea",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "marianne": {
+    "name": "Marianne",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "hilda": {
+    "name": "Hilda",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "smash": ["SSBU"]
+  },
+  "leonie": {
+    "name": "Leonie",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "seteth": {
+    "name": "Seteth",
+    "class": "Rider",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "smash": ["SSBU"]
+  },
+  "flayn": {
+    "name": "Flayn",
+    "class": "Priest",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "other": ["FEC"]
+  },
+  "hanneman": {
+    "name": "Hanneman",
+    "class": "Mage",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "manuela": {
+    "name": "Manuela",
+    "class": "Priest",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "gilbert": {
+    "name": "Gilbert",
+    "class": "Fortress Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "alois": {
+    "name": "Alois",
+    "class": "Warrior",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "catherine": {
+    "name": "Catherine",
+    "class": "Swordmaster",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "shamir": {
+    "name": "Shamir",
+    "class": "Sniper",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "cyril": {
+    "name": "Cyril",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "jeritza": {
+    "name": "Jeritza",
+    "class": "Death Knight",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "anna2": {
+    "name": "Anna",
+    "class": "Myrmidon",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "other": ["FEC"]
+  },
+  "yuri": {
+    "name": "Yuri",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "other": ["FEC"]
+  },
+  "balthus": {
+    "name": "Balthus",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "constance": {
+    "name": "Constance",
+    "class": "Noble",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"],
+    "other": ["FEC"]
+  },
+  "hapi": {
+    "name": "Hapi",
+    "class": "Commoner",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "Lorenz": {
+    "name": "Lorenz",
+    "class": "Paladin",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "gatekeeper": {
+    "name": "Gatekeeper",
+    "class": "Gatekeeper",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH"],
+    "other": ["FEC"]
+  },
+  "shez": {
+    "name": "Shez",
+    "class": "Myrmidon",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "arval": {
+    "name": "Arval",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH"]
+  },
+
+
+  "alear": {
+    "name": "Alear",
+    "class": "Dragon Child",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "vander": {
+    "name": "Vander",
+    "class": "Paladin",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "clanne": {
+    "name": "Clanne",
+    "class": "Mage",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "framme": {
+    "name": "Framme",
+    "class": "Monk",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "alfred": {
+    "name": "Alfred",
+    "class": "Noble",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "etie": {
+    "name": "Etie",
+    "class": "Archer",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "bouchero": {
+    "name": "Bounchero",
+    "class": "Fighter",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "celine": {
+    "name": "Celine",
+    "class": "Noble",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "chloe": {
+    "name": "Chloe",
+    "class": "Flier",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "louis": {
+    "name": "Louis",
+    "class": "Armor",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "yunaka": {
+    "name": "Yunaka",
+    "class": "Thief",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH", "FES"]
+  },
+  "alcryst": {
+    "name": "Alcryst",
+    "class": "Lord",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "citrinne": {
+    "name": "Citrinne",
+    "class": "Mage",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "lapis": {
+    "name": "Lapis",
+    "class": "Fighter",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "diamant": {
+    "name": "Diamant",
+    "class": "Lord",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "amber": {
+    "name": "Amber",
+    "class": "Lance Cavalier",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "jade": {
+    "name": "Jade",
+    "class": "Armor",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "ivy": {
+    "name": "Ivy",
+    "class": "Wing Tamer",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "kagestu": {
+    "name": "Kagestu",
+    "class": "Swordmaster",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "zelkov": {
+    "name": "Zelkov",
+    "class": "Thief",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "fogado": {
+    "name": "Fogado",
+    "class": "Sentinel",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "pandreo": {
+    "name": "Pandreo",
+    "class": "High Priest",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "bunet": {
+    "name": "Bunet",
+    "class": "Knight",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "timerra": {
+    "name": "Timerra",
+    "class": "Sentinel",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "panette": {
+    "name": "Panette",
+    "class": "Berserker",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "merrin": {
+    "name": "Merrin",
+    "class": "Wolf Knight",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "hortensia": {
+    "name": "Hortensia",
+    "class": "Wing Tamer",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "seadall": {
+    "name": "Seadall",
+    "class": "Dancer",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "rosado": {
+    "name": "Rosado",
+    "class": "Knight",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "goldmary": {
+    "name": "Goldmary",
+    "class": "Hero",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "lindon": {
+    "name": "Lindon",
+    "class": "Sage",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "saphir": {
+    "name": "Saphir",
+    "class": "Warrior",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "mauvier": {
+    "name": "Mauvier",
+    "class": "Royal Knight",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "veyle": {
+    "name": "Veyle",
+    "class": "Fell Child",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "jean": {
+    "name": "Jean",
+    "class": "Monk",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "anna3": {
+    "name": "Anna",
+    "class": "Fighter",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "nel": {
+    "name": "Nel",
+    "class": "Fell Child",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "nill/rafal": {
+    "name": "Nill/Rafal",
+    "class": "Fell Child",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "zelestia": {
+    "name": "Zelestia",
+    "class": "Melusine",
+    "debut": "01/20/2023",
+    "main": ["FEE"],
+    "spinoffs": ["FEH"]
+  },
+  "gregory": {
+    "name": "Gregory",
+    "class": "Sage",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+  "madeline": {
+    "name": "Madeline",
+    "class": "General",
+    "debut": "01/20/2023",
+    "main": ["FEE"]
+  },
+
+  "kurt": {
+    "name": "Kurt",
+    "class": "Prince",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "gotthold": {
+    "name": "Gotthold",
+    "class": "The Shield",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "carina": {
+    "name": "Carina",
+    "class": "The Bull",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "alberta": {
+    "name": "Alberta",
+    "class": "THe Panther",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "zasha": {
+    "name": "Zasha",
+    "class": "Ebon Wings",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "rose": {
+    "name": "Rose",
+    "class": "Ivory Wings",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "sai": {
+    "name": "Sai",
+    "class": "Dragon's Ear",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "shea": {
+    "name": "Shea",
+    "class": "Dragon's Eye",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "skoll": {
+    "name": "Skoll",
+    "class": "Wolf's Fang",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "hati": {
+    "name": "Hati",
+    "class": "Wolf's Claw",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "tamamo": {
+    "name": "Tamamo",
+    "class": "Devious Fox",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "bartolomeus": {
+    "name": "Bartolomeus",
+    "class": "Predator",
+    "debut": "09/25/2025",
+    "spinoffs": ["FES"]
+  },
+  "joachim": {
+    "name": "Joachim",
+    "class": "Wolf Brother",
+    "debut": "10/08/2025",
+    "spinoffs": ["FES"]
+  },
+  "micaela": {
+    "name": "Micaela",
+    "class": "Nurturer",
+    "debut": "11/12/2025",
+    "spinoffs": ["FES"]
+  },
+  "estel": {
+    "name": "Estel",
+    "class": "Loving Hare",
+    "debut": "12/10/2025",
+    "spinoffs": ["FES"]
+  },
+  "erma": {
+    "name": "Erma",
+    "class": "Knight",
+    "debut": "01/14/2025",
+    "spinoffs": ["FES"]
+  },
+  "yuni": {
+    "name": "Yuni",
+    "class": "Nomad",
+    "debut": "02/11/2026",
+    "spinoffs": ["FES"]
+  },
+  "uka": {
+    "name": "Uka",
+    "debut": "03/11/2026",
+    "spinoffs": ["FES"]
+  },
+  "rusty": {
+    "name": "Rusty",
+    "debut": "03/27/2026",
+    "spinoffs": ["FES"]
+  },
+  "ananke": {
+    "name": "Annake",
+    "debut": "04/15/2026",
+    "spinoffs": ["FES"]
+  },
+  "hanya": {
+    "name": "Hanya",
+    "debut": "05/13/2026",
+    "spinoffs": ["FES"]
+  },
+  "eugene": {
+    "name": "Eugene",
+    "class": "Knight",
+    "debut": "06/10/2026",
+    "spinoffs": ["FES"]
+  },
+  "perenna": {
+    "name": "Perenna",
+    "class": "Tutor",
+    "debut": "07/15/2026",
+    "spinoffs": ["FES"]
+  }
+
+
+
+
+
+
+}

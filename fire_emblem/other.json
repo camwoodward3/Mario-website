@@ -1,0 +1,495 @@
+{
+
+  "anri": {
+    "name": "Anri",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  
+  "cornelius": {
+    "name": "Cornelius",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  "malledus": {
+    "name": "Malledus",
+    "debut": "04/20/1990",
+    "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE"]
+  },
+  
+  "halcyon": {
+    "name": "Halcyon",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "massena": {
+    "name": "Massena",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "liprica": {
+    "name": "Liprica",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "lima_IV": {
+    "name": "Lima IV",
+    "debut": "03/14/1992",
+    "main": ["FEG", "FEESoV"]
+  },
+  "king_of_aurelis": {
+    "name": "King of Aurelis",
+    "debut": "01/21/1994",
+    "main": ["FEMotE", "FENMotE"]
+  },
+  "filat": {
+    "name": "Filat",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "batu": {
+    "name": "Batu",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "lahna": {
+    "name": "Lahna",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "azmur": {
+    "name": "Azmur",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "kurth": {
+    "name": "Kurth",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "ling": {
+    "name": "Ling",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+  "felipe": {
+    "name": "Felipe",
+    "debut": "05/14/1996",
+    "main": ["FEGotHW"]
+  },
+
+  "august": {
+    "name": "August",
+    "debut": "09/01/1999",
+    "main": ["FET776"],
+    "spinoffs": ["FEH"]
+  },
+  "dryas": {
+    "name": "Dryas",
+    "debut": "09/01/1999",
+    "main": ["FET776"]
+  },
+
+  "mordred": {
+    "name": "Mordred",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "mary": {
+    "name": "Mary",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "mieu": {
+    "name": "Mieu",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+  "orun": {
+    "name": "Orun",
+    "debut": "03/29/2002",
+    "main": ["FETBB"]
+  },
+
+  "mark": {
+    "name": "Mark",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "marquess_araphen": {
+    "name": "Marquess Araphen",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "hausen": {
+    "name": "Hausen",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "hassar": {
+    "name": "Hassar",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "madelyn": {
+    "name": "Madelyn",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "reissmann": {
+    "name": "Reissmann",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "elbert": {
+    "name": "Elbert",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "eleanora": {
+    "name": "Eleanora",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "helman": {
+    "name": "Helman",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "uther": {
+    "name": "Uther",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "leila": {
+    "name": "Leila",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"],
+    "spinoffs": ["FEH"] 
+  },
+  "desmond": {
+    "name": "Desmond",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "hellene": {
+    "name": "Hellene",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "ephidel": {
+    "name": "Ephidel",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "igor": {
+    "name": "Igor",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "jan": {
+    "name": "Jan",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "roland": {
+    "name": "Roland",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "durban": {
+    "name": "Durban",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "hannah": {
+    "name": "Hannah",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  "fargus": {
+    "name": "Fargus",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+  
+  "natalie": {
+    "name": "Natalie",
+    "debut": "04/25/2003",
+    "main": ["FETBLB"]
+  },
+
+  "klimt": {
+    "name": "Klimt",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "dara": {
+    "name": "Dara",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+  "monica": {
+    "name": "Monica",
+    "debut": "10/07/2004",
+    "main": ["FETSS"]
+  },
+
+  "muston": {
+    "name": "Muston",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "aimee": {
+    "name": "Aimee",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "daniel": {
+    "name": "Daniel",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"]
+  },
+  "jorge": {
+    "name": "Jorge",
+    "debut": "04/20/2005",
+    "main": ["FEPoR", "FERD"],
+    "spinoffs": ["FEH"] 
+  },
+  "caineghis": {
+    "name": "Ashnard",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "sigrun": {
+    "name": "Sigrun",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "sanaki": {
+    "name": "Sanaki",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  
+  "lotz": {
+    "name": "Lotz",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "sephiran": {
+    "name": "Sephiran",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  
+  "kurthnaga": {
+    "name": "Kurthnaga",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "dheginsea": {
+    "name": "Dheginsea",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "gareth": {
+    "name": "Gareth",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "lekain": {
+    "name": "Lekain",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "hetzel": {
+    "name": "Hetzel",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "izuka": {
+    "name": "Izuka",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+  "rajajon": {
+    "name": "Rajajon",
+    "debut": "04/20/2005",
+    "main": ["FEPoR"]
+  },
+
+  "almedha": {
+    "name": "Almedha",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "amy": {
+    "name": "Amy",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "ajaion": {
+    "name": "Ajain",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "yune": {
+    "name": "Yune",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+  "ashunera": {
+    "name": "Ashunera",
+    "debut": "02/22/2007",
+    "main": ["FERD"]
+  },
+
+  "phila": {
+    "name": "Phila",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "hierarch": {
+    "name": "Hierarch",
+    "class": "Villager",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "maiden": {
+    "name": "Maiden",
+    "class": "Villager",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "holland": {
+    "name": "Holland",
+    "class": "Villager",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+  "naga": {
+    "name": "Naga",
+    "class": "Villager",
+    "debut": "04/19/2012",
+    "main": ["FEA"],
+    "spinoffs": ["FEH"]
+  },
+  "old_hubba": {
+    "name": "Old Hubba",
+    "class": "Villager",
+    "debut": "04/19/2012",
+    "main": ["FEA"]
+  },
+
+  "lilith": {
+    "name": "Lilith",
+    "debut": "06/25/2015",
+    "main": ["FEF"],
+    "spinoffs": ["FEH"]
+  },
+  "rainbow_sage": {
+    "name": "Rainbow Sage",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "layla": {
+    "name": "Layla",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+  "cassita": {
+    "name": "Cassita",
+    "debut": "06/25/2015",
+    "main": ["FEF"]
+  },
+
+  "tikilsmywaifu": {
+    "name": "TikilsMyWaifu",
+    "debut": "12/26/2015",
+    "spinoffs": ["TMSFE"]
+  },
+
+  "henriette": {
+    "name": "Henriette",
+    "debut": "02/02/2017",
+    "spinoffs": ["FEH"] 
+  },
+  "njoror": {
+    "name": "Njoror",
+    "debut": "02/02/2017",
+    "spinoffs": ["FEH"] 
+  },
+  
+  "mila": {
+    "name": "Mila",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"],
+    "spinoffs": ["FEH"]
+  },
+  "irma": {
+    "name": "Irma",
+    "debut": "04/20/2017",
+    "main": ["FEESoV"]
+  },
+
+  "yelena": {
+    "name": "Yelena",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEW"]
+  },
+  "oskar": {
+    "name": "Oskar",
+    "debut": "09/28/2017",
+    "spinoffs": ["FEW"]
+  },
+
+  "tomas": {
+    "name": "Tomas",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "Monica": {
+    "name": "Monica",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH", "FEWTH"]
+  },
+  "ionius_ix": {
+    "name": "Ionius IX",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "duke_aegir": {
+    "name": "Duke Aegir",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "fleche": {
+    "name": "Fleche",
+    "class": "Assassin",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEWTH"]
+  },
+  "lambert": {
+    "name": "Lambert",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "nader": {
+    "name": "Nader",
+    "debut": "07/26/2019",
+    "main": ["FETH"]
+  },
+  "aelfric": {
+    "name": "Aelfric",
+    "debut": "07/26/2019",
+    "main": ["FETH"],
+    "spinoffs": ["FEH"]
+  }
+}
