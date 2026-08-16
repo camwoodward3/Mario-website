@@ -1,0 +1,1113 @@
+{
+  "olimar": {
+    "name": "Captain Olimar",
+    "type": "protagonist",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "online": ["SPACEFORCE", "GARDEN"],
+    "other": ["NL", "PSM"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["LM", "WWDIY", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "WWG", "WWMI"]
+  },
+  "louie": {
+    "name": "Louie",
+    "type": "protagonist",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN2_NS"],
+    "online": ["GARDEN"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["WWMI"]
+  },
+  "the_president": {
+    "name": "The President",
+    "type": "ally",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"],
+    "online": ["GARDEN"],
+    "smash": ["SSBB"]
+  },
+  "alph": {
+    "name": "Alph",
+    "type": "protagonist",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"],
+    "online": ["GARDEN"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "brittany": {
+    "name": "Brittant",
+    "type": "protagonist",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"],
+    "online": ["GARDEN"]
+  },
+  "charlie": {
+    "name": "Captain Charlie",
+    "type": "protagonist",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"],
+    "online": ["GARDEN"]
+  },
+
+  "red_pikmin": {
+    "name": "Red Pikmin",
+    "type": "ally",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P", "BLOOM"],
+    "online": ["SPACEFORCE", "FINDER", "GARDEN"],
+    "other": ["NL", "PWP", "PSM"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["LM", "MGTT", "DKA2", "WWSM", "CF", "WWDIY", "NL", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "WWG", "WWGIT", "WWMI", "MAPP"],
+    "movies": ["TSMGM"]
+  },
+  "yellow_pikmin": {
+    "name": "Yellow Pikmin",
+    "type": "ally",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P", "BLOOM"],
+    "online": ["SPACEFORCE", "FINDER", "GARDEN"],
+    "other": ["NL", "PWP", "PSM"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["LM", "MGTT", "DKA2", "WW", "WWSM", "NL", "SMM", "YWW", "SMM3DS", "P&YWW", "WWGIT", "MAPP"],
+    "movies": ["TSMGM"]
+  },
+  "blue_pikmin": {
+    "name": "Blue Pikmin",
+    "type": "ally",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P", "BLOOM"],
+    "online": ["SPACEFORCE", "FINDER", "GARDEN"],
+    "other": ["NL", "PWP", "PSM"],
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["LM", "MGTT", "DKA2", "WW", "WWSM", "CF", "NL", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWGIT", "MAPP"],
+    "movies": ["TSMGM"]
+  },
+  "purple_pikmin": {
+    "name": "Purple Pikmin",
+    "type": "ally",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["BLOOM"],
+    "online": ["FINDER", "GARDEN"],
+    "other": ["PSM"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["WWSM", "WWGIT", "WWMI", "MAPP"]
+  },
+  "white_pikmin": {
+    "name": "White Pikmin",
+    "type": "ally",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["BLOOM"],
+    "online": ["FINDER", "GARDEN"],
+    "other": ["NL", "PSM"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["WWGIT", "MAPP"]
+  },
+  "rock_pikmin": {
+    "name": "Rock Pikmin",
+    "type": "ally",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "spinoffs": ["H!P", "BLOOM"],
+    "online": ["FINDER", "GARDEN"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["NL", "MAPP"]
+  },
+  "winged_pikmin": {
+    "name": "Winged Pikmin",
+    "type": "ally",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "spinoffs": ["H!P", "BLOOM"],
+    "online": ["FINDER", "GARDEN"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["NL", "MAPP"]
+  },
+  "ice_pikmin": {
+    "name": "Ice Pikmin",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "spinoffs": ["BLOOM"],
+    "online": ["FINDER", "GARDEN"],
+    "crossovers": ["MAPP"]
+  },
+  "glow_pikmin": {
+    "name": "Glow Pikmin",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["FINDER", "GARDEN"],
+    "crossovers": ["MAPP"]
+  },
+  "oatchi": {
+    "name": "Oatchi",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["FINDER", "GARDEN"],
+    "smash": ["SSBU"]
+  },
+  "bulbmin": {
+    "name": "Bulbmin",
+    "type": ["ally", "enemy"],
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"]
+  },
+
+  "armored_cannon_beetle": {
+    "name": "Armored Cannon Beetle",
+    "type": "boss",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN_WII", "PIKMIN_NS"]
+  },
+  "beady_long_legs": {
+    "name": "Beady Long Legs",
+    "type": "boss",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN_WII", "PIKMIN2", "PIKMIN2_WII", "PIKMIN_NS", "PIKMIN2_NS"]
+  },
+  "breadbug": {
+    "name": "Breadbug",
+    "type": "enemy",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"]
+  },
+  "burrowing_snagret": {
+    "name": "Burrowing Snagret",
+    "type": "boss",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+  },
+  "bulbear": {
+    "name": "Bulbear",
+    "type": "enemy",
+    "variants": ["Dwarf Bulbear", "Spotty Bulbear" ],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"]
+  },
+  "bulborb": {
+    "name": "Bulborb",
+    "type": ["enemy", "boss"],
+    "variants": ["Dwarf Bulborb", "Dwarf Orange Bulborb", "Dwarf Red Bulborb", "Spotty Bulborb", "Hairy Bulborb", "Orange Bulborb", "Red Bulborb", "Snow Bulborb", "Bulborb Larva", "Whiptongue Bulborb", "Albino Dward Bulborb", "Frosty Bulorb", "Dward Frosty Bulborb", "Moldy Dwarf Bulborb", "Whiptongue Bulorb", "Fireflap Bulborb"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "online": ["FINDER", "GARDEN"],
+    "other": ["NL"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["LM", "DKA2", "NINTENDOGS", "NL"]
+  },
+  "dwarf_bulborb": {
+    "name": "Dwarf Bulborb",
+    "type": ["enemy", "boss"],
+    "variants": ["Albino Dward Bulborb", "Dwarf Orange Bulborb", "Dwarf Red Bulborb", "Dwarf Frosty Bulorb"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"]
+  },
+  "emperor_bulblax": {
+    "name": "Emperor Bulblax",
+    "type": "boss",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"],
+    "smash": ["SSBU"]
+  },
+  "sheargrub": {
+    "name": "Sheargrub",
+    "type": "enemy",
+    "variants": ["Male Sheargrub", "Female Sheargrub", "Swarming Sheargrub", "Mama Sheargrub"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "online": ["GARDEN"]
+  },
+  "blowhog": {
+    "name": "Blowhog",
+    "type": "enemy",
+    "variants": ["Fiery Blowhog", "Puffy Blowhog", "Watery Blowhog", "Whithering Blowhog", "Snow Blowhog"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"],
+    "other": ["NL"],
+    "smash": ["SSBB"]
+  },
+  "fiery_blowhog": {
+    "name": "Fiery Blowhog",
+    "type": ["enemy", "boss"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "smash": ["SSBB"]
+  },
+  "goolix": {
+    "name": "Goolix",
+    "type": "boss",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN_WII", "PIKMIN_NS"]
+  },
+  "honeywisp": {
+    "name": "Honeywisp",
+    "type": "enemy",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"]
+  },
+  "beetle": {
+    "name": "Beetle",
+    "type": "enemy",
+    "variants": ["Iridescent Flint Beetle", "Anode Beetle", "Antenna Beetle", "Amored Cannon Beetle Larva", "Decorated Cannon Beetle", "Iridescent Glint Beetle", "Doodlebug", "Arctic Cannon Beetle", "Widemouthed Anode Beetle", "Firesnout Beetle", "Stony Flint Beetle"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "crossovers": ["LM"]
+  },
+  "mamuta": {
+    "name": "Mamuta",
+    "type": ["boss", "enemy"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "pearly_clamclamp": {
+    "name": "Pearly Clamclamp",
+    "type": "enemy",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN_WII", "PIKMIN_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "puffstool": {
+    "name": "Puffstool",
+    "type": "boss",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN_WII", "PIKMIN_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "shearwig": {
+    "name": "Shearwig",
+    "type": "enemy",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"]
+  },
+  "smokey_progg": {
+    "name": "Smokey Progg",
+    "type": "boss",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN_WII", "PIKMIN_NS", "PIKMIN4"],
+    "online": ["GARDEN"],
+    "smash": ["SSBU"]
+  },
+  "snitchbug": {
+    "name": "Snitchbug",
+    "type": "enemy",
+    "variants": ["Swooping Snitchbug", "Bumbling Snitchbug"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "online": ["GARDEN"],
+    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+  },
+  "water_dumple": {
+    "name": "Water Dumple",
+    "type": "enemy",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN_WII", "PIKMIN_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "wolpole": {
+    "name": "Wolpole",
+    "type": "enemy",
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "wollyhop": {
+    "name": "Wollyhop",
+    "type": "enemy",
+    "variants": ["Yellow Wollyhop", "Chillyhop"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"],
+    "smash": ["SSBB"]
+  },
+  "puffy_blowhog": {
+    "name": "Puffy Blowhog",
+    "type": ["enemy", "boss"],
+    "debut": "12/03/2001",
+    "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"]
+  },
+
+  "dweevil": {
+    "name": "Dweevil",
+    "type": "enemy",
+    "variants": ["Anode Dweevil", "Fiery Dweevil", "Hydro Dweevil", "Munge Dweevil", "Volatile Dweevil", "Venom Dweevil"],
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "careening_dirigibug": {
+    "name": "Careening Dirigibug",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"],
+    "smash": ["SSBB"]
+  },
+  "cloaking_burrow-nit": {
+    "name": "Cloaking Burow-nit",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"]
+  },
+  "creeping_chrysanthemum": {
+    "name": "Creeping Chrysanthemum",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"],
+    "smash": ["SSBB"]
+  },
+  "empress_bulblax": {
+    "name": "Empress Bulblax",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"],
+    "smash": ["SSBB", "SSBU"],
+    "crossovers": ["WWSM"]
+  },
+  "groink": {
+    "name": "Groink",
+    "type": "enemy",
+    "variants": ["Gatling Groink", "Firefinger Groink"],
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"],
+    "spinoffs": ["H!P"]
+  },
+  "giant_breadbug": {
+    "name": "Giant Breadbug",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "greater_spotted_jellyfloat": {
+    "name": "Greater Spotted Jellyfloat",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "lesser_spotted_jellyfloat": {
+    "name": "Lesser Spotted Jellyfloat",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "hermit_crawmad": {
+    "name": "Hermit Crawmad",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "man-at-legs": {
+    "name": "Man-at-Legs",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "mitite": {
+    "name": "Mitite",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "pileated_snagret": {
+    "name": "Pileated Snagret",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"]
+  },
+  "raging_long_legs": {
+    "name": "Raging Long Legs",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"]
+  },
+  "ranging_bloyster": {
+    "name": "Ranging Bloyster",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"]
+  },
+  "fiery_bulblax": {
+    "name": "Fiery Bulblax",
+    "type": "enemy",
+    "variants": ["Fiery Dwarf Bulblax"],
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "smash": ["SSBU"]
+  },
+
+  "ravenous_whiskerpillar": {
+    "name": "Ravenous Whiskerpillar",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"]
+  },
+  "segmented_crawbster": {
+    "name": "Segmented Crawbster",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"]
+  },
+  "skitter_leaf": {
+    "name": "Skitter Leaf",
+    "type": "enemy",
+    "variants": ["Desiccated Skitter Leaf", "Desiccated Skitter Leaf"],
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "titan_dweevil": {
+    "name": "Titan Dweevil",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII"]
+  },
+  "toady_bloyster": {
+    "name": "Toady Bloyster",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "ujadani": {
+    "name": "Ujadani",
+    "type": "enemy",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS"]
+  },
+  "spectralids": {
+    "name": "Spectralids",
+    "type": "enemy",
+    "variants": ["Unmarked Spectralids", "Red Spectralids", "White Spectralids", "Yellow Spectralids", "Electric Spectralid"],
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "online": ["GARDEN"]
+  },
+  "waterwraith": {
+    "name": "Waterwraith",
+    "type": "boss",
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "larva": {
+    "name": "Larva",
+    "type": "enemy",
+    "variants": ["Amored Cannon Beetle Larva", "Bulborb Larva", "Arctic Cannon Larva", "Armored Cannon Larva"],
+    "debut": "08/30/2004",
+    "main": ["PIKMIN2", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN2_NS", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+
+  "armored_mawdad": {
+    "name": "Armored Mawdad",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "baldy_long_legs": {
+    "name": "Baldy Long Legs",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"]
+  },
+  "bearded_amprat": {
+    "name": "Bearded Amprat",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "bug-eyed_crawmad": {
+    "name": "Bug-eyed Crawmad",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "crushblat": {
+    "name": "Crushblat",
+    "type": "enemy",
+    "variants": ["Calcified Crushblat", "Crystalline Crushblat", "Elongated Crushblat"],
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"],
+    "spinoffs": ["H!P"]
+  },
+  "joustmite": {
+    "name": "Joustmite",
+    "type": "enemy",
+    "variants": ["Flighty Joustmite"],
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "slurker": {
+    "name": "Slurker",
+    "type": "enemy",
+    "variants": ["Medusal Slurker", "Clicking Slurker"],
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"],
+    "spinoffs": ["H!P"]
+  },
+  "mysterious_life-form": {
+    "name": "Mysterious Life-Form",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "nectarous_dandelfly": {
+    "name": "Nectarous Dandelfly",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "peckish_aristocrab": {
+    "name": "Peckish Aristocrab",
+    "type": "enemy",
+    "variants": ["Aristocrab Offspring"],
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "online": ["GARDEN"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "phosbat": {
+    "name": "Phosbat",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "plasm_wraith": {
+    "name": "Plasm Wraith",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "puckering_blinnow": {
+    "name": "Puckering Blinnow",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "online": ["GARDEN"]
+  },
+  "slooch": {
+    "name": "Slooch",
+    "type": "enemy",
+    "variants": ["Pyroclasmic Slooch", "Moldy Slooch"],
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "quaggled_mireclops": {
+    "name": "Quaggled Mireclops",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"],
+    "smash": ["SSBWIIU"]
+  },
+  "sandbelching_meerslug": {
+    "name": "Sandbelching Meerslug",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "scornet": {
+    "name": "Scornet",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "scornet_maestro": {
+    "name": "Scornet Maestro",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "shaggy_long_legs": {
+    "name": "Shaggy Long Legs",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "skeeterskate": {
+    "name": "Skeeterskate",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "skutterchuck": {
+    "name": "Skutterchuck",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "online": ["GARDEN"]
+  },
+  "sputtlefish": {
+    "name": "Sputtlefish",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "vehemoth_phosbat": {
+    "name": "Vehemoth Phosbat",
+    "type": "boss",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX"]
+  },
+  "waddlepus": {
+    "name": "Waddlepus",
+    "type": "enemy",
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "yellow_wollywog": {
+    "name": "Yellow Wollywog",
+    "type": "enemy",
+    "variants": ["Young Yellow Wollywog", "Fiery Young Yellow Wollywog"],
+    "debut": "08/04/2013",
+    "main": ["PIKMIN3", "PIKMIN3DX", "PIKMIN4"],
+    "spinoffs": ["H!P"],
+    "other": ["NL"],
+    "smash": ["SSBWIIU", "SSBU"],
+    "crossovers": ["LM"]
+  },
+
+  "armurk": {
+    "name": "Armurk",
+    "type": "boss",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "berserk_leech_hydroe": {
+    "name": "Berserk Leech Hydroe",
+    "type": "boss",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+
+  "centipare": {
+    "name": "Centipare",
+    "type": "enemy",
+    "variants": ["Adult Centipare"],
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "blubbug": {
+    "name": "Blubbug",
+    "type": "enemy",
+    "variants": ["Puffy Blubbug"],
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "coppeller": {
+    "name": "Coppeller",
+    "type": "enemy",
+    "variants": ["Spiny Coppeller"],
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "crammed_wraith": {
+    "name": "Crammed Wraith",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "mockiwi": {
+    "name": "Mockiwi",
+    "type": "enemy",
+    "variants": ["Crested Mockiwi"],
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"],
+    "smash": ["SSBU"]
+  },
+  "eye-stalker_bulbeel": {
+    "name": "Eye-Stalker Bulbeel",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "electric_cottonade": {
+    "name": "Electric Cottonade",
+    "type": "boss",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "electripede": {
+    "name": "Electripede",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+
+  "fiery_blowlet": {
+    "name": "Fiery Blowlet",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "flatterchuck": {
+    "name": "Flatterchuck",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "flying_spotted_jellyfloat": {
+    "name": "Flying Spotted Jellyfloat",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "grabbit": {
+    "name": "Grabbit",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "large_splurchin": {
+    "name": "Large Splurchin",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "leech_hydroe": {
+    "name": "Leech Hydroe",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "long_water_dumple": {
+    "name": "Long Water Dumple",
+    "type": "boss",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "luring_slurker": {
+    "name": "Luring Slurker",
+    "type": "boss",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "muggonfly": {
+    "name": "Muggonfly",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "puffstalk": {
+    "name": "Puffstalk",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "queen_shearwig": {
+    "name": "Queen Shearwig",
+    "type": "boss",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "red_bubblimp": {
+    "name": "Red Bubblimp",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "seedbagger": {
+    "name": "Seedbagger",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "shearblug": {
+    "name": "Shearblug",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "shooting_sniper": {
+    "name": "Shooting Sniper",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "sparrowhead": {
+    "name": "Sparrowhead",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "sporegrub": {
+    "name": "Sporegrub",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "spornet": {
+    "name": "Spornet",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "starnacle": {
+    "name": "Starnacle",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+  "stuffed_bellbloom": {
+    "name": "Stuffed Bellbloom",
+    "type": "enemy",
+    "debut": "07/28/2017",
+    "spinoffs": ["H!P"]
+  },
+
+  "ancient_sirehound": {
+    "name": "Ancient Sirehound",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "arachnode": {
+    "name": "Arachnode",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "arctic_cannon_beetle": {
+    "name": "Arctic Cannon Beetle",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "blizzarding_blowhog": {
+    "name": "Blizzarding Blowhog",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "bloomcap_bloyster": {
+    "name": "Bloomcap Bloyster",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "bogswallow": {
+    "name": "Bogswallow",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "crusted_rumpup": {
+    "name": "Crusted Rumpup",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "downy_snaget": {
+    "name": "Downy Snaget",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "foolix": {
+    "name": "Foolix",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "freezecake": {
+    "name": "Freezecake",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "gildemander": {
+    "name": "Gildemander",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "gildemandwee": {
+    "name": "Gildemandwee",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "groovy_long_legs": {
+    "name": "Groovy Long Legs",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "grubchucker": {
+    "name": "Grubchucker",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "horned_cannon_beetle": {
+    "name": "Horned Cannon Beetle",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "jumbo_bulorb": {
+    "name": "Jumbo Bulorb",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "mammoth_snootwhacker": {
+    "name": "Mammoth Snootwhacker",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "masterhop": {
+    "name": "Masterhop",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "miniature_snootwhacker": {
+    "name": "Miniature Snootwhacker",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "moss": {
+    "name": "Moss",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "muckerskate": {
+    "name": "Muckerskate",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "porquillion": {
+    "name": "Porquillion",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "pricklepuff": {
+    "name": "Pricklepuff",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "scorchcake": {
+    "name": "Scorchcake",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "shearflea": {
+    "name": "Shearflea",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "shockwave": {
+    "name": "Shockwave",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "snowflake_fluttertail": {
+    "name": "Snowflake Fluttertail",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "sovereign_bulblax": {
+    "name": "Sovereign Bulblax",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "startle_spore": {
+    "name": "Startle Spore",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "sunsquish": {
+    "name": "Sunsquish",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "titan_blowhog": {
+    "name": "Titan Blowhog",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "toxstool": {
+    "name": "Toxstool",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"],
+    "online": ["GARDEN"]
+  },
+  "tusked_blowhog": {
+    "name": "Tusked Blowhog",
+    "type": "boss",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "waddlequaff": {
+    "name": "Waddlequaff",
+    "type": "enemy",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  }
+
+
+
+}

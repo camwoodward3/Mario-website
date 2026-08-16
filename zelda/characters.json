@@ -10,7 +10,7 @@
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
     "shows": ["TLoZ"],
     "mobile": ["NT"],
-    "other": ["T", "SMB&FWIGU", "F1-RACE", "DKC2", "DKL2", "SMRPG", "MAPS", "PNP", "G&WG4", "DKC2GBA", "SCII", "WWIMM", "DKA2", "DKA3", "WWI", "WWTW", "WWTO", "TDS", "WWSM", "WWDIY",  "WWG", "WWGIT", "WWMI", "CR", "B", "SPMP", "NMP", "TTT2", "NL", "SU", "ACNF", "MH4", "MH4U", "CNB", "SLW", "SM3DW", "MK8", "B2", "OPSGBX", "SMM", "YWW", "AHL+", "MHX", "MHS", "SMM3DS", "P&YWW", "WA", "P3DR2", "MII16", "MII21", "MK8DLC", "MHG", "SMM2", "BF", "MHGU", "JRC", "SMRPGNS"]
+    "other": ["T", "SMB&FWIGU", "F1-RACE", "DKC2", "DKL2", "SMRPG", "MAPS", "PNP", "SC2", "G&WG4", "DKC2GBA", "SCII", "WWIMM", "DKA2", "DKA3", "WWI", "WWTW", "WWTO", "NINTENDOGS", "TDS", "WWSM", "WWDIY",  "WWG", "WWGIT", "WWMI", "CR", "B", "SPMP", "NMP", "DWVS", "TTT2", "NL", "SU", "ACNF", "MH4", "MH4U", "CNB", "SLW", "SM3DW", "MK8", "B2", "OPSGBX", "SMM", "YWW", "AHL+", "MHX", "MHS", "SMM3DS", "P&YWW", "SKYRIM", "WA", "P3DR2", "MII16", "MII21", "MK8DLC", "MHG", "MHGU", "SMM2", "BF", "MHGU", "JRC", "SMRPGNS"]
     
   },
   "zelda": {
@@ -191,7 +191,7 @@
     "main": ["OoT", "MM", "TP", "OoT3D", "TPHD", "MM3D"],
     "spinoff": ["HWDE", "MNP", "HW", "HWL", "COH"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
-    "other": ["MHS"]
+    "other": ["NL", "MHS"]
   },
   "tael": {
     "name": "Tael",
@@ -377,7 +377,7 @@
     "main": ["TP", "TPHD"],
     "spinoff": ["HW", "HWDE", "MNP", "HWL"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
-    "other": ["WWG"]
+    "other": ["NL", "WWG"]
   },  
   "zant": {
     "name": "Zant",
@@ -479,7 +479,8 @@
     "debut": "11/18/2011",
     "main": ["SS", "SSHD"],
     "spinoff": ["HW", "HWDE", "HWL"],
-    "smash": ["SSBWIIU", "SSBU"]
+    "smash": ["SSBWIIU", "SSBU"],
+    "other": ["NL"]
   },
   "ghirahim": {
     "name": "Ghirahim",

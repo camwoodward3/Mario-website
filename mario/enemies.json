@@ -121,7 +121,7 @@
       "gamewatch": ["SMBG&W20"],
       "mobile": ["DMW", "LSM", "NT", "NM", "HELLOM", "HELLOY"],
       "other": ["AW", "MTT", "MGG", "MPIC", "G&WG2", "FSA", "MTT2", "MFUN", "MPL", "DDR", "SPP", "NBA", "D&D", "MWIIU", "MNS", "M3DS", "MBR"],
-      "crossovers": ["LA", "LAGBC", "LANS", "OoS", "OoA", "NMP"]
+      "crossovers": ["LA", "LAGBC", "LANS", "PC", "OoS", "OoA", "NMP"]
     },
     "blooper": { 
       "name": "Blooper",
@@ -139,7 +139,7 @@
       "gamewatch": ["SMBG&W20"],
       "mobile": ["DMW", "LSM", "NM", "HELLOM", "HELLOY"],
       "other": ["SMSW", "AW", "SMB&FWIGU", "Y", "YC", "MTT", "YS", "EBBBM", "NPC", "DDR", "SPP", "MOTMI", "NL", "NBA", "D&D", "MWIIU", "MNS", "M3DS", "MBR"],
-      "crossovers": ["LA", "LAGBC", "LANS", "SPMP", "NMP"]
+      "crossovers": ["LA", "LAGBC", "LANS", "SPMP", "PC", "NMP"]
     },
     "lakitu": { 
       "name": "Lakitu",
@@ -598,7 +598,7 @@
       "gamewatch": ["SMBG&W20"],
       "mobile": ["DMW", "LSM", "NT", "NM", "HELLOM", "HELLOY"],
       "other": ["Y", "YC", "HM", "MC", "MGG", "MPIC", "G&WG2", "EBBBM", "MNQ", "MFUN", "MNP", "MF", "G&WG4", "NPC", "MPL", "DDR", "YDS", "SPP", "FS", "NBA",  "CNP+", "D&D", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["LA", "LAGBC", "LANS", "NMP", "SU"]
+      "crossovers": ["LA", "LAGBC", "LANS", "NMP", "H!P", "SU"]
     },
     "thwomp": { 
       "name": "Thwomp",
@@ -616,7 +616,7 @@
       "gamewatch": ["SMBG&W20"],
       "mobile": ["DMW", "LSM", "NT"],
       "other": ["SMBPW", "MTT", "G&WG2", "FSA", "MTT2", "SPP", "NPC", "MPL", "ISDS", "FS", "NBA", "D&D", "MWIIU", "MNS", "M3DS", "MBR"],
-      "crossovers": ["LA", "LAGBC", "LANS", "OoS", "NMP"]
+      "crossovers": ["LA", "LAGBC", "LANS", "OoS", "NMP", "NH"]
     },
     "chain-chomp": { 
       "name": "Chain Chomp",
@@ -1906,7 +1906,8 @@
       "party": ["MPIT", "MP10", "SMP", "MPS", "MPS"],
       "sports": ["MG64", "MGSR", "MTF"],
       "rpg": ["PMSS"],
-      "mobile": ["LSM"]
+      "mobile": ["LSM"],
+      "crossovers": ["PC"]
     },
     "sushi": { 
       "name": "Sushi",
@@ -3443,7 +3444,8 @@
       "debut": "11/15/2009",
       "main": ["NSMBW", "NSMBU", "NSLU", "NSMBUDLC"],
       "kart": ["MKT"],
-      "mobile": ["LSM"]
+      "mobile": ["LSM"],
+      "crossovers": ["PC"]
     },
     "bulber": { 
       "name": "Bulber",

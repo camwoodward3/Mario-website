@@ -5,7 +5,7 @@
       "name": "Mario",
       "type": "hero",
       "debut": "07/09/1981",
-      "main": ["WC", "SMB", "TLL", "SMBS", "ANN", "SMB2", "CLASSICS", "MBR", "SML", "SMB3", "SMW", "SML2", "SMAS", "DKGB", "SMW2", "BSSMUSA", "DKC2", "SM64", "SMBDLC", "WC98", "SMA", "LM", "SMA2", "SMA4", "SMS", "WWIMM", "MVSDK", "SM64DS", "DKA", "DKC2GBA", "YTAG", "DKA2", "DKA3", "WWTW", "WWTO", "NSMB", "MOTMI", "YIDS", "WWSM", "SMG", "MMA", "NSMBW", "SMG2", "SMASLE", "MLM", "SM3DL", "NSMB2", "NSMBU", "NSLU", "MOTMO", "LM2", "G&W", "SM3DW", "YNI", "CTTT", "TS", "SMM", "YWW", "MM&F", "SMM3DS", "SMR", "P&YWW", "SMO", "WWG", "LM3DS", "NSMBUDLC", "SMM2", "LM3", "SMB35", "SM3DAS", "BF", "WWGIT", "WWMI", "SMBW", "MVSDKNS", "LM2HD", "SMG1+2", "MAPP"],
+      "main": ["WC", "SMB", "TLL", "SMBS", "ANN", "SMB2", "CLASSICS", "MBR", "SML", "SMB3", "SMW", "SML2", "SMAS", "DKGB", "SMW2", "BSSMUSA", "DKC2", "SM64", "SMBDLC", "WC98", "SMA", "LM", "SMA2", "SMA4", "SMS", "WWIMM", "MVSDK", "SM64DS", "DKA", "DKC2GBA", "YTAG", "DKA2", "DKA3", "WWTW", "WWTO", "NSMB", "MOTMI", "YIDS", "WWSM", "SMG", "MMA", "WWDIY", "NSMBW", "SMG2", "SMASLE", "MLM", "SM3DL", "NSMB2", "NSMBU", "NSLU", "MOTMO", "LM2", "G&W", "SM3DW", "YNI", "CTTT", "TS", "SMM", "YWW", "MM&F", "SMM3DS", "SMR", "P&YWW", "SMO", "WWG", "LM3DS", "NSMBUDLC", "YCW", "SMM2", "LM3", "SMB35", "SM3DAS", "BF", "WWGIT", "WWMI", "SMBW", "MVSDKNS", "LM2HD", "SMG1+2", "MAPP"],
       "kart": ["SMK", "MK64", "MKSC", "MKDD", "MKAGP", "MKDS", "MKAGP2", "MKWII", "MK7", "MKAGPDX", "MK8", "MK8DLC", "MKAGPVR", "MKT", "MKLHC", "MKW"],
       "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
       "party": ["MP", "MP2", "MP3", "MP4", "MPE", "MP5", "MP6", "MPA", "MP7", "MP8", "MPDS", "MP9", "MPIT", "MP10", "MPSR", "MPT100", "SMP", "MPS", "SMPJ", "SMPJ+JTV"],
@@ -17,13 +17,13 @@
       "gamewatch": ["DKG&W", "MCF", "MBG&W", "MBA", "MBG&W", "DKCI", "PBMB", "DKH", "SMBG&W", "MTJ", "SMBG&W20"],
       "mobile": ["SMRS", "8BITSMS", "DMW", "LSM", "NT", "NM", "HELLOM"],
       "other": ["PB", "SMSW", "AW", "TGB", "SMBPW", "SMB&FWIGU", "Y", "YC", "MP", "MTT", "MIM", "YS", "HM", "MEY", "MGG", "DM", "EBBBM", "DM64", "M&W", "MC", "USG", "MPIC",  "MSPIC", "PIC2", "MNQ", "MF", "G&WG", "G&WG2", "MTT2", "G&WG3", "MFUN", "MNP", "MAPS", "MAPOS", "G&WG4", "NPC", "MPL", "DDR", "YDS", "SPP", "ISDS", "FS", "NL", "NBA", "CR", "CNP+", "D&D", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["PO!!", "T", "SC", "QIX", "LA", "LAGBC", "F1-RACE", "KSS", "PW64", "PS2", "NBASV3", "SSX", "TDS", "KSSU", "JD3", "NMP", "SPMP", "TTT2", "RML", "SU", "MH4U", "OPSGBX", "BB", "P3DR2", "AHL+", "MPBB", "MII16", "KPR", "JD18", "SSSS", "RL", "MII21", "JRC"]
+      "crossovers": ["PO!!", "T", "SC", "QIX", "ALttP", "LA", "LAGBC", "OoT", "MM", "ALttPDX", "F1-RACE", "KSS", "PW64", "PS2", "NBASV3", "MGSTTS", "A&OXXL2", "SSX", "NINTENDOGS", "TDS", "FIT", "KSSU", "JD3", "NMP", "SPMP", "TTT2", "RML", "SU", "MH4", "MH4U", "NSB2", "OPSGBX", "BB", "P3DR2", "AHL+", "MPBB", "MII16", "H!P", "KPR", "JD18", "SSSS", "RL", "MII21", "JRC", "WW", "CF", "TT", "NL", "SSFF", "NH"]
     },
     "luigi": {
       "name": "Luigi",
       "type": "hero",
       "debut": "07/14/1983",
-      "main": ["WC", "SMB", "TLL", "ANN", "SMB2", "MBR", "SMB3", "SMW", "SMAS", "SMW2", "BSSMUSA", "SMBDLC", "WC98", "SMA", "LM", "SMA2", "SMA4", "SM64DS", "WWTO", "WWTW", "DKA2", "DKA3", "YTAG", "NSMB", "YIDS", "WWSM", "SMG", "NSMBW", "SMG2", "SMASLE", "SM3DL", "NSMB2", "NSMBU", "LM2", "SM3DW", "YNI", "CTTT", "SMR", "TS","SMM", "YWW", "MM&F", "SMM3DS", "P&YWW", "SMO", "WWG", "NSMBUDLC", "LM3DS", "SMM2", "LM3", "SM3DAS", "SMB35", "BF", "WWMI", "SMBW", "LM2HD", "SMG1+2", "MAPP"],
+      "main": ["WC", "SMB", "TLL", "ANN", "SMB2", "MBR", "SMB3", "SMW", "SMAS", "SMW2", "BSSMUSA", "SMBDLC", "WC98", "SMA", "LM", "SMA2", "SMA4", "SM64DS", "WWTO", "WWTW", "DKA2", "DKA3", "YTAG", "NSMB", "YIDS", "WWSM", "SMG", "NSMBW", "SMG2", "SMASLE", "SM3DL", "NSMB2", "NSMBU", "LM2", "SM3DW", "YNI", "CTTT", "SMR", "TS","SMM", "YWW", "MM&F", "SMM3DS", "P&YWW", "SMO", "WWG", "NSMBUDLC", "YCW", "LM3DS", "SMM2", "LM3", "SM3DAS", "SMB35", "BF", "WWMI", "SMBW", "LM2HD", "SMG1+2", "MAPP"],
       "kart": ["SMK", "MK64", "MKSC", "MKDD", "MKAGP", "MKDS", "MKAGP2", "MKWII", "MK7", "MKAGPDX", "MK8", "MK8DLC", "MKAGPVR", "MKT", "MKLHC", "MKW"],
       "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
       "party": ["MP", "MP2", "MP3", "MP4", "MPE", "MP5", "MP6", "MPA", "MP7", "MP8", "MPDS", "MP9", "MPIT", "MP10", "MPSR", "MPT100", "SMP", "MPS", "SMPJ", "SMPJ+JTV"],
@@ -35,13 +35,13 @@
       "gamewatch": ["MBG&W", "PBMB", "SMBG&W20"],
       "mobile": ["SMRS", "8BITSMS", "DMW", "LSM", "NT", "NM"],
       "other": ["SMSW", "TGB", "SMBPW", "SMB&FWIGU", "Y", "MTT", "MIM", "MTM", "M&W", "HM", "MEY", "MGG", "MC", "G&WG", "G&WG2", "MTT2", "EBBBM", "G&WG3", "MFUN", "MAPS", "MF", "G&WG4", "DDR", "YDS", "SPP", "ISDS", "FS", "NL", "DL", "NBA", "CNP+", "D&D", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["T", "QIX", "LA", "LAGBC", "F1-RACE", "KSS", "KSSU", "NBASV3", "SSX", "TDS", "NMP", "SPMP", "TTT2", "RML", "SU", "P3DR2", "MH4U", "OPSGBX", "AHL+", "MPBB", "MII16", "RL", "SSSS", "MII21", "JRC"]
+      "crossovers": ["T", "QIX", "LA", "LAGBC", "OoT", "F1-RACE", "KSS", "KSSU", "NBASV3", "SSX", "NINTENDOGS", "TDS", "NMP", "SPMP", "TTT2", "RML", "SU", "P3DR2", "MH4U", "OPSGBX", "AHL+", "MPBB", "MII16", "H!P", "RL", "SSSS", "MII21", "JRC", "WW", "TT", "MH4", "CF", "NL", "NH"]
     },
     "peach": {
       "name": "Peach",
       "type": "hero",
       "debut": "09/13/1985",
-      "main": ["SMB", "TLL", "SMBS", "ANN", "SMB2", "SMB3", "SMW", "SMAS", "BSSMUSA", "SM64", "SMBDLC", "WC98", "SMA", "SMA2", "SMA4", "SMS", "DKA", "SM64DS", "WWTW", "DKA2", "DKA3", "NSMB", "MOTMI", "YIDS", "WWSM", "SMG", "NSMBW", "SMG2", "SMASLE", "MLM", "SM3DL", "NSMB2", "NSMBU", "NSLU", "SM3DW", "CTTT", "TS", "SMM", "YWW", "MM&F", "SMM3DS", "SMR", "P&YWW", "SMO", "WWG", "NSMBUDLC", "SMM2", "LM3", "SM3DAS", "BF", "WWMI", "SMBW", "SMG1+2", "MAPP"],
+      "main": ["SMB", "TLL", "SMBS", "ANN", "SMB2", "SMB3", "SMW", "SMAS", "BSSMUSA", "SM64", "SMBDLC", "WC98", "SMA", "SMA2", "SMA4", "SMS", "DKA", "SM64DS", "WWTW", "DKA2", "DKA3", "NSMB", "MOTMI", "YIDS", "WWSM", "SMG", "NSMBW", "SMG2", "SMASLE", "MLM", "SM3DL", "NSMB2", "NSMBU", "NSLU", "SM3DW", "CTTT", "TS", "SMM", "YWW", "MM&F", "SMM3DS", "SMR", "P&YWW", "SMO", "YCW", "WWG", "NSMBUDLC", "SMM2", "LM3", "SM3DAS", "BF", "WWMI", "SMBW", "SMG1+2", "MAPP"],
       "kart": ["SMK", "MK64", "MKSC", "MKDD", "MKAGP", "MKDS", "MKAGP2", "MKWII", "MK7", "MKAGPDX", "MK8", "MK8DLC", "MKT", "MKAGPVR", "MKLHC", "MKW"],
       "smash": ["SSBM", "SSBB", "SBS3DS", "SSBWIIU", "SSBU"],
       "party": ["MP", "MP2", "MP3", "MP4", "MPE", "MP5", "MP6", "MPA", "MP7", "MP8", "MPDS", "MP9", "MPIT", "MP10", "MPSR", "MPT100", "SMP", "MPS", "SMPJ", "SMPJ+JTV"],
@@ -53,13 +53,13 @@
       "gamewatch": ["SMBG&W", "SMBG&W20"],
       "mobile": ["SMRS", "8BITSMS", "DMW", "LSM", "NT", "NM"],
       "other": ["SMSW", "SMBPW", "SMB&FWIGU", "YC", "MTT", "MIM", "YS", "M&W", "HM", "MEY", "MC", "MGG", "G&WG", "G&WG2", "MTT2", "EBBBM", "MFUN", "G&WG3", "MNP", "MAPS", "MF", "G&WG4", "YDS", "MPL", "SPP", "ISDS", "FS", "NBA", "CNP+", "D&D", "MWIIU",  "MNS", "M3DS", "MBR", "PPST", "T99"],
-      "crossovers": ["T", "QIX", "LA", "LAGBC", "LANS", "F1-RACE", "NBASV3", "SSX", "KSSU", "B", "NMP", "SPMP", "TTT2", "SU", "B2", "P3DR2", "AHL+", "MPBB", "MII16", "SSSS", "MII21", "JRC"]
+      "crossovers": ["T", "QIX", "LA", "LAGBC", "OoT","LANS", "F1-RACE", "NBASV3", "SSX", "NINTENDOGS", "DNS4", "KSSU", "B", "NMP", "SPMP", "TTT2", "SU", "B2", "P3DR2", "AHL+", "MPBB", "MII16", "H!P", "SSSS", "MII21", "JRC", "TT", "NH"]
     },
     "toad": { 
       "name": "Toad",
       "type": "ally", 
       "debut": "09/13/1985",
-      "main": ["SMB", "TLL", "SMBS", "SMB2", "SMB3", "SMAS", "BSSMUSA", "SM64", "SMBDLC", "SMA", "SMA4", "LM", "SMS", "SM64DS", "DKA2", "MVSDK", "SM64DS", "DKA3", "WWTO", "NSMB", "MOTMI", "WWSM", "SMG", "NSMBW", "SMG2", "SMASLE", "MLM", "SM3DL", "NSMB2", "NSMBU", "LM2", "MOTMO", "NSLU", "SM3DW", "TS", "SMM", "YWW", "MM&F", "SMM3DS", "SMR", "P&YWW", "SMO", "WWG", "LM3DS", "NSMBUDLC", "SMM2", "LM3", "SMB35", "SM3DAS", "BF", "WWGIT", "WWMI", "SMBW", "MVSDKNS", "LM2HD", "SMG1+2", "MAPP"],
+      "main": ["SMB", "TLL", "SMBS", "SMB2", "SMB3", "SMAS", "BSSMUSA", "SM64", "SMBDLC", "SMA", "SMA4", "LM", "SMS", "SM64DS", "DKA2", "MVSDK", "SM64DS", "DKA3", "WWTO", "NSMB", "MOTMI", "WWSM", "SMG", "NSMBW", "SMG2", "SMASLE", "MLM", "SM3DL", "NSMB2", "NSMBU", "LM2", "MOTMO", "NSLU", "SM3DW", "TS", "SMM", "YWW", "MM&F", "SMM3DS", "SMR", "P&YWW", "SMO", "WWG", "LM3DS", "NSMBUDLC", "YCW", "SMM2", "LM3", "SMB35", "SM3DAS", "BF", "WWGIT", "WWMI", "SMBW", "MVSDKNS", "LM2HD", "SMG1+2", "MAPP"],
       "kart": ["SMK", "MK64", "MKSC", "MKDD", "MKAGP", "MKDS", "MKAGP2", "MKWII", "MK7", "MKAGPDX", "MK8", "MK8DLC", "MKAGPVR", "MKT", "MKLHC", "MKW"],
       "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
       "party": ["MP", "MP2", "MP3", "MP4", "MPE", "MP5", "MP6", "MPA", "MP7", "MP8", "MPDS", "MP9", "MPIT", "MP10", "SMP", "MPS", "SMPJ", "SMPJ+JTV"],
@@ -71,13 +71,13 @@
       "gamewatch": ["MTJ"],
       "mobile": ["SMRS", "8BITSMS", "DMW", "LSM", "NT", "HELLOM", "HELLOY"],
       "other": ["SMBPW", "SMB&FWIGU", "MTT", "WW", "MGG", "MC", "G&WG", "G&WG2", "MTT2", "EBBBM", "G&WG3", "MFUN", "MNP", "MAPS", "G&WG4", "DDR", "YDS", "MPL", "SPP", "ISDS", "FS", "NL", "NBA", "CNP+", "D&D", "MWIIU", "MNS", "M3DS", "MBR", "PPST", "T99"],
-      "crossovers": ["F1-RACE", "QIX", "KSS", "KSSU", "SPMP", "TTT2", "SU", "P3DR2", "MII16", "JRC", "MII21"]
+      "crossovers": ["F1-RACE", "QIX", "KSS", "CF", "KSSU", "SPMP", "NL", "TTT2", "SU", "P3DR2", "MII16", "H!P", "JRC", "MII21"]
     },
     "bowser": { 
       "name": "Bowser",
       "type": "boss",
       "debut": "09/13/1985",
-      "main": ["SMB", "TLL", "SMBS", "ANN", "SMB3", "SMW", "SMAS", "SMW2", "SM64", "YST", "SMBDLC", "WC98", "LM", "SMA2", "SMS", "SMA3", "SMA4", "SM64DS", "YTAG", "YTT", "NSMB", "YIDS", "SMG", "NSMBW", "SMG2", "SMASLE", "SM3DL", "NSMB2", "NSMBU", "SM3DW", "SMM", "YWW", "MM&F", "SMM3DS", "SMR", "P&YWW", "SMO", "WWG", "LM3DS", "NSMBUDLC", "SMM2", "SM3DAS", "BF", "WWGIT", "WWMI", "SMBW", "SMG1+2", "MAPP"],
+      "main": ["SMB", "TLL", "SMBS", "ANN", "SMB3", "SMW", "SMAS", "SMW2", "SM64", "YST", "SMBDLC", "WC98", "LM", "SMA2", "SMS", "SMA3", "SMA4", "SM64DS", "YTAG", "YTT", "NSMB", "YIDS", "SMG", "NSMBW", "SMG2", "SMASLE", "SM3DL", "NSMB2", "NSMBU", "SM3DW", "SMM", "YWW", "MM&F", "SMM3DS", "SMR", "P&YWW", "SMO", "WWG", "LM3DS", "NSMBUDLC", "YCW", " SMM2", "SM3DAS", "BF", "WWGIT", "WWMI", "SMBW", "SMG1+2", "MAPP"],
       "kart": ["SMK", "MK64", "MKSC", "MKDD", "MKAGP", "MKDS", "MKAGP2", "MKWII", "MK7", "MK8", "MK8DLC", "MKAGPVR", "MKT", "MKW"],
       "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
       "party": ["MP", "MP2", "MP3", "MP4", "MPE", "MP5", "MP6", "MPA", "MP7", "MKAGPDX", "MP8", "MPDS", "MP9", "MPIT", "MP10", "MPSR", "MPT100", "SMP", "MPS", "SMPJ", "SMPJ+JTV"],
@@ -89,13 +89,13 @@
       "gamewatch": ["SMBG&W", "SMBG&W20"],
       "mobile": ["LSM", "8BITSMS", "DMW", "NT", "NM"],
       "other": ["AW", "SMBPW", "SMB&FWIGU", "MTT", "YC", "MIM", "MTM", "YS", "HM", "MEY", "MC", "MGG", "TA", "G&WG", "G&WG2", "MNQ", "MTT2", "G&WG3", "MFUN", "MNP", "MAPS", "G&WG4", "NPC", "YDS", "MPL", "SPP", "ISDS", "SPMP", "FS", "NBA", "CNP+", "D&D", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["T", "SC", "F1-RACE", "TDS", "B", "NMP", "SPMP", "SU", "TTT2", "P3DR2", "AHL+", "SLSC", "MPBB", "MII16", "JRC", "MII21"]
+      "crossovers": ["T", "SC", "F1-RACE", "TDS", "B", "NMP", "OoT", "NINTENDOGS", "SPMP", "SU", "TTT2", "P3DR2", "AHL+", "SLSC", "MPBB", "MII16", "H!P", "JRC", "MII21"]
     },
     "yoshi": { 
       "name": "Yoshi",
       "type": "ally",
       "debut": "08/23/1991",
-      "main": ["SMW", "SMAS", "SMW2", "DKC2", "SM64", "YST", "SMBDLC", "SMA2", "SMA4", "SMS", "SMA3", "DKA", "SM64DS", "DKA2", "DKA3", "YTT", "DKC2GBA", "YTAG", "NSMB", "YIDS", "NSMBW", "SMG2", "SMASLE", "NSMBU", "LM2", "YNI", "SMM", "YWW", "MM&F", "SMR", "SMM3DS", "P&YWW", "SMO", "WWG", "NSMBUDLC", "YCW", "SMM2", "SM3DAS", "WWMI", "SMBW", "SMG1+2", "MAPP", "Y&TMB"],
+      "main": ["SMW", "SMAS", "SMW2", "DKC2", "SM64", "YST", "SMBDLC", "SMA2", "SMA4", "SMS", "SMA3", "DKA", "SM64DS", "DKA2", "DKA3", "YTT", "DKC2GBA", "YTAG", "NSMB", "YIDS", "WWDIY", "NSMBW", "SMG2", "SMASLE", "NSMBU", "LM2", "YNI", "SMM", "YWW", "MM&F", "SMR", "SMM3DS", "P&YWW", "SMO", "WWG", "NSMBUDLC", "YCW", "SMM2", "SM3DAS", "WWMI", "SMBW", "SMG1+2", "MAPP", "Y&TMB"],
       "kart": ["SMK", "MK64", "MKSC", "MKDD", "MKAGP", "MKDS", "MKAGP2", "MKWII", "MK7", "MK8", "MK8DLC", "MKAGPVR", "MKT", "MKLHC", "MKW"],
       "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
       "party": ["MP", "MP2", "MP3", "MP4", "MPE", "MP5", "MP6", "MPA", "MP7", "MKAGPDX", "MP8", "MPDS", "MP9", "MPIT", "MP10", "MPSR", "MPT100", "SMP", "MPS", "SMPJ", "SMPJ+JTV"],
@@ -107,7 +107,7 @@
       "gamewatch": ["SMBG&W20"],
       "mobile": ["LSM", "YY&PS", "NT", "NM", "HELLOY"],
       "other": ["Y", "YC", "MP", "M&W", "MIM", "MTM", "YS", "MC", "MGG", "MPIC", "TA", "G&WG", "G&WG2", "MTT2", "EBBBM", "G&WG3", "MFUN", "MNP", "MAPS", "MAPOS", "G&WG4", "MF", "NPC",  "NL", "NBA", "CNP+", "D&D", "YDS", "ISDS", "FS", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["LA", "LAGBC", "LANS", "PS2", "TDS", "SPMP", "SU", "SLW", "OPSGBX", "P3DR2", "MII16", "SSSS", "MII21"]
+      "crossovers": ["LA", "LAGBC", "OoT", "LANS", "PS2", "MGSTTS", "NINTENDOGS", "TDS", "SPMP", "SU", "SLW", "OPSGBX", "P3DR2", "MII16", "H!P", "SSSS", "MII21"]
     },
     "daisy": { 
       "name": "Daisy",
@@ -122,7 +122,7 @@
       "movies": ["SMB1993", "TSMGM"],
       "mobile": ["DMW", "NM"],
       "other": ["SMBPW", "YDS", "ISDS", "FS", "NBA", "CNP+", "MWIIU", "MNS", "M3DS", "MBR"],
-      "crossovers": ["B", "SPMP", "B2", "MII16", "MII21"]
+      "crossovers": ["B", "SPMP", "B2", "MII16", "H!P", "MII21"]
     },
     "toadette": { 
       "name": "Toadette",
@@ -148,14 +148,14 @@
       "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
       "party": ["MP", "MP2", "MP3", "MP4", "MPE", "MP5", "MP6", "MP7", "MP8", "MPDS", "MP9", "MP10", "MPSR", "MPT100", "SMP", "MPS", "SMPJ", "SMPJ+JTV"],
       "sports": ["NESOTG", "MG64", "MT64", "MTGBC", "MGTT", "MGAT", "MPT", "MTPT", "MSB", "SMST", "MH303", "MSTC", "MSSL", "MPTWII", "M&SATOWG", "M&SATOWGDS", "MSM", "M&SATL12OG", "M&SATL12OG3DS", "MTO", "M&SATS14OWG", "MGWT", "MTUS", "M&SATR16OG", "M&SATR16OG3DS", "MSS", "MTA", "M&SATT20OG", "MGSR", "MSTBL", "MTF"],
-      "rpg": ["M&RKBDLC"],
+      "rpg": ["M&RKBDLC", "PMTOK"],
       "movies": ["TSMBM", "TSMGM"],
       "shows": ["SS", "CNTGM", "DKCS", "DKTV"],
       "arcade": ["DK", "CK", "CK2", "DKJR", "DKSM", "MK64SM", "MPFNKC", "M&SATR16OGAE", "M&SATT20OGAE"],
       "mobile": ["DMW", "LSM", "NT", "NM"],
       "gamewatch": ["DKG&W", "DKJRG&W", "DK2G&W", "DK3G&W", "DKCI", "PBMB", "DKH"],
       "other": ["MC", "G&WG2", "G&WG3", "MAPS", "PNP", "G&WG4", "YDS", "ISDS", "FS", "NBA", "CNP+", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["T", "F1-RACE", "PS2", "TDS", "PO!!WII", "NMP", "SPMP", "OPSGBX", "AHL+", "SLSC", "MII16", "MII21"] 
+      "crossovers": ["PO!!", "T", "F1-RACE", "PS2", "TDS", "PO!!WII", "NMP", "SPMP", "OPSGBX", "AHL+", "SLSC", "MII16", "H!P", "MII21"] 
     },
     "wario": { 
       "name": "Wario",
@@ -170,7 +170,7 @@
       "arcade": ["MK64SM", "SMFNKP", "SMFNKP2", "MPFNKC", "M&SATR16OGAE", "M&SATT20OGAE"],
       "mobile": ["LSM", "NM"],
       "other": ["M&W", "WW", "MSPIC", "PIC2", "MF", "G&WG2", "EBBBM", "G&WG3", "MAPS", "G&WG4", "DDR", "YDS", "ISDS", "FS", "NBA", "CNP+", "MWIIU", "MNS", "M3DS", "MBR", "JRC", "T99"],
-      "crossovers": ["PW64", "KSSU"]
+      "crossovers": ["PW64", "NINTENDOGS", "DNS3", "KSSU", "CF", "NL", "H!P", "NH"]
     },
     "waluigi": { 
       "name": "Waluigi",
@@ -183,7 +183,9 @@
       "sports": ["MT64", "MTGBC", "MGTT", "MGAT", "MPT", "MSB", "SMST", "MH303", "MSTC", "M&SATOG", "M&SATOGDS", "MSSL", "MPTWII", "M&SATOWG", "M&SATOWGDS", "MSM", "M&SATL12OG", "M&SATL12OG3DS", "MTO", "M&SATS14OWG", "MGWT", "MTUS", "M&SATR16OG", "M&SATR16OG3DS", "MSS", "MTA", "M&SATT20OG", "MGSR", "MSTBL", "MTF"],
       "arcade": ["SMFNKP", "SMFNKP2", "MPFNKC", "M&SATR16OGAE", "M&SATT20OGAE"],
       "mobile": ["DMW", "NM"],
-      "other": ["G&WG4", "YDS", "DDR", "ISDS", "KSSU", "FS", "NBA", "CNP+", "MWIIU", "MNS", "M3DS", "MBR"]
+      "other": ["G&WG4", "YDS", "DDR", "ISDS", "KSSU", "FS", "NBA", "CNP+", "MWIIU", "MNS", "M3DS", "MBR"],
+      "crossovers": ["H!P"]
+
     },
     "rosalina": { 
       "name": "Rosalina",
@@ -197,7 +199,7 @@
       "movies": ["TSMGM"],
       "mobile": ["DMW", "NM"],
       "other": ["NBA", "D&D", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["SPMP", "MPBB", "MII16", "MII21"]
+      "crossovers": ["SPMP", "MPBB", "NSB2", "MII16", "H!P", "MII21"]
     },
     "diddy-kong": { 
       "name": "Diddy Kong",
@@ -213,7 +215,7 @@
       "arcade": ["DKSM"],
       "mobile": ["DMW", "LSM", "NT"],
       "other": ["YDS", "FS", "NBA", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["SPMP", "SLSC", "MII16", "MII21"]
+      "crossovers": ["SPMP", "SLSC", "MII16", "H!P", "MII21"]
     },
     "bowser-jr": { 
       "name": "Bowser Jr.",
@@ -229,7 +231,7 @@
       "arcade": ["M&SATR16OGAE", "M&SATT20OGAE"],
       "mobile": ["DMW", "LSM", "NT", "NM"],
       "other": ["NBA", "PNP", "D&D", "YDS", "FS", "NBA", "CNP+", "MWIIU", "MNS", "M3DS", "MBR", "T99"],
-      "crossovers": ["MPBB"]
+      "crossovers": ["H!P", "MPBB"]
     },
 
     "pauline": { 
@@ -275,7 +277,7 @@
       "name": "Birdo",
       "type": "ally",
       "debut": "07/10/1987",
-      "main": ["YKDDP", "SMB2", "SMAS", "BSSMUSA", "SMA", "SMASLE", "SMM", "SMM3DS"],
+      "main": ["YKDDP", "SMB2", "SMAS", "BSSMUSA", "SMA", "SMASLE", "SMM", "SMM3DS", "SMM2"],
       "kart": ["MKDD", "MKWII", "MK8DLC", "MKT", "MKW"],
       "smash": ["SSBM", "SSBB", "SSBU"],
       "party": ["MP7", "MP8", "MP9", "MPIT", "SMP", "MPS", "SMPJ", "SMPJ+JTV"],

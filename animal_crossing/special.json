@@ -20,7 +20,7 @@
     "software": ["CALCULATOR_DS", "CALCULATOR_3DS", "PLAZA", "PHOTOS"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "KPR", "SMM3DS", "P&YWW", "TNTATD", "MII16", "WWG", "MII21"]
+    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "KPR", "SMM3DS", "P&YWW", "H!P", "TNTATD", "MII16", "WWG", "MII21"]
   },
   "timmy_&_tommy": {
     "name": "Timmy & Tommy Nook",
@@ -32,7 +32,7 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
   "beppe": {
     "name": "Beppe",
@@ -60,7 +60,7 @@
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "MK8", "MK8DLC", "SMM", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["SPMP", "MK8", "MK8DLC", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
 
   },
   "booker": {
@@ -109,7 +109,7 @@
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
 
   },
   "chip": {
@@ -151,7 +151,7 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
   "daisy_mae": {
     "name": "Daisy Mae",
@@ -169,7 +169,7 @@
     "spinoffs": ["HHD", "AF"],
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBU"],
-    "other": ["SPMP", "SMM", "SMM3DS", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
   "dj_kk": {
     "name": "DJ K.K.",
@@ -309,7 +309,7 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "SSFF", "TNTATD", "MH4U", "MII16", "SSSS", "WWG", "MII21", "JRC"]
+    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "SSFF", "TNTATD", "MH4U", "MII16", "P&YWW", "H!P", "SSSS", "WWG", "MII21", "JRC"]
   },
   "jack": {
     "name": "Jack",
@@ -361,7 +361,7 @@
     "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSBB", "SSB3DS", "SSBU"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
   "katie": {
     "name": "Katie",
@@ -393,7 +393,7 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SMM", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
 
   },
   "k.k._slider": {
@@ -405,7 +405,7 @@
     "spinoffs": ["FILM", "HHD", "AF"],
     "software": ["CALCULATOR_DS", "CALCULATOR_3DS", "CLOCK_DS", "CLOCK_3DS", "PLAZA", "PHOTOS"],
     "smash": ["SSBM", "SSBB", "SSBWIIU", "SSBU"],
-    "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "WWG"],
+    "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
     "mobile": ["NT"]
   },
   "label": {
@@ -467,7 +467,7 @@
     "spinoffs": ["HHD", "AF", "PC", "CPC"],
     "smash": ["SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "SMM", "SMM3DS", "SSFF", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "SSFF", "WWG"]
   },
   "luna": {
     "name": "Luna",
@@ -499,7 +499,7 @@
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
   "mr.resetti": {
     "name": "Mr. Resetti",
@@ -510,7 +510,7 @@
     "spinoffs": ["FILM", "HHD", "AF"],
     "software": ["PLAZA"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["CNB", "MK8", "MK8DLC", "SMM", "SMM3DS", "MH4U", "P&YWW", "MII16", "WWG", "MII21"]
+    "other": ["CNB", "MK8", "MK8DLC", "SMM", "SMM3DS", "MH4U", "P&YWW", "MII16", "P&YWW", "H!P", "WWG", "MII21"]
   },
   "nat": {
     "name": "Nat",
@@ -633,7 +633,7 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
   "rover": {
     "name": "Rover",
@@ -645,7 +645,7 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["P&YWW", "WWG"]
+    "other": ["P&YWW", "H!P", "WWG"]
   },
   "sable": {
     "name": "Sable",

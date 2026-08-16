@@ -8,7 +8,7 @@
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
     "mobile": ["NT"],
-    "other": ["ARCANA", "LA", "LAGBC", "LANS", "EB", "KTB", "KS", "PS2", "SPMP", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "P3DR2", "OPSGBX", "BB!", "MII16", "MII21", "BBBT", "TNTDNF"]
+    "other": ["ARCANA", "LA", "LAGBC", "LANS", "EB", "KTB", "KS", "PS2", "NINTENDOGS",  "SPMP", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "P3DR2", "OPSGBX", "BB!", "MII16", "MII21", "BBBT", "TNTDNF"]
   },
    
   "king_dedede": {

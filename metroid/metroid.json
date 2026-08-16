@@ -5,7 +5,7 @@
     "debut": "08/15/1987",
     "main": ["M", "TROS", "SM", "FUSION", "ZERO", "PRIME", "ECHOES", "PINBALL", "HUNTERS", "CORRUPTION", "FORCE", "MOM", "SR", "DREAD", "MPBB", "PRIMENS", "BEYOND"],
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
-    "other": ["T", "F1-RACE", "SMRPG", "SMRPGNS", "KDL3", "TDS", "WWIMM", "WWTW", "WWTO", "WWSM", "KSSU", "ACCF", "WWDIY", "B", "NMP", "SPMP", "TTT2", "ACNL", "NL", "MK8", "MK8DLC", "B2", "MH4U", "MHG", "OPSGBX", "AHL+", "SMM", "YWW",  "SMM3DS", "P&YWW", "MII16", "RL", "MII21", "BBBT", "WWG", "JRC", "PMOK", "WWGIT", "WWMI"]
+    "other": ["T", "F1-RACE", "SMRPG", "SMRPGNS", "KDL3", "TDS", "WWIMM", "WWTW", "WWTO", "WWSM", "NINTENDOGS", "KSSU", "ACCF", "WWDIY", "B", "NMP", "SPMP", "DWVS", "TTT2", "ACNL", "NL", "MK8", "MK8DLC", "B2", "MH4U", "MHG", "OPSGBX", "AHL+", "SMM", "YWW",  "SMM3DS", "P&YWW", "MII16", "RL", "MII21", "BBBT", "WWG", "JRC", "PMOK", "WWGIT", "WWMI"]
   },
   "ridley": {
     "name": "Ridley",
