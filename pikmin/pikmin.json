@@ -8,7 +8,8 @@
     "online": ["SPACEFORCE", "GARDEN"],
     "other": ["NL", "PSM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["LM", "WWDIY", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "WWG", "WWMI"]
+    "crossovers": ["LM", "WWDIY", "SPMP", "MK8", "AHL+", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "WWG", "WWMI"],
+    "mobile": ["NM"]
   },
   "louie": {
     "name": "Louie",
@@ -40,6 +41,7 @@
     "type": "protagonist",
     "debut": "08/04/2013",
     "main": ["PIKMIN3", "PIKMIN3DX"],
+    "smash": ["SSB3DS", "SSBWIIU"],
     "online": ["GARDEN"]
   },
   "charlie": {
@@ -47,9 +49,52 @@
     "type": "protagonist",
     "debut": "08/04/2013",
     "main": ["PIKMIN3", "PIKMIN3DX"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "online": ["GARDEN"]
   },
 
+  "rookie_rescue_officer": {
+    "name": "Rookie Rescue Officer",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "shepherd": {
+    "name": "Shepherd",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "collin": {
+    "name": "Collin",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "russ": {
+    "name": "Russ",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "dingo": {
+    "name": "Dingo",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "yonny": {
+    "name": "Yonny",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
+  "bernard": {
+    "name": "Bernard",
+    "type": "ally",
+    "debut": "07/21/2023",
+    "main": ["PIKMIN4"]
+  },
   "red_pikmin": {
     "name": "Red Pikmin",
     "type": "ally",
@@ -59,8 +104,9 @@
     "online": ["SPACEFORCE", "FINDER", "GARDEN"],
     "other": ["NL", "PWP", "PSM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["LM", "MGTT", "DKA2", "WWSM", "CF", "WWDIY", "NL", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "WWG", "WWGIT", "WWMI", "MAPP"],
-    "movies": ["TSMGM"]
+    "crossovers": ["LM", "MGTT", "DKA2", "WWSM", "CF", "WWDIY", "NL", "AHL+", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "WWG", "WWGIT", "WWMI", "MAPP"],
+    "movies": ["TSMGM"],
+    "mobile": ["NT", "NM"]
   },
   "yellow_pikmin": {
     "name": "Yellow Pikmin",
@@ -71,8 +117,9 @@
     "online": ["SPACEFORCE", "FINDER", "GARDEN"],
     "other": ["NL", "PWP", "PSM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["LM", "MGTT", "DKA2", "WW", "WWSM", "NL", "SMM", "YWW", "SMM3DS", "P&YWW", "WWGIT", "MAPP"],
-    "movies": ["TSMGM"]
+    "crossovers": ["LM", "MGTT", "DKA2", "WW", "WWSM", "NL", "AHL+",  "SMM", "YWW", "SMM3DS", "P&YWW", "WWGIT", "MAPP"],
+    "movies": ["TSMGM"],
+    "mobile": ["NT", "NM"]
   },
   "blue_pikmin": {
     "name": "Blue Pikmin",
@@ -83,8 +130,9 @@
     "online": ["SPACEFORCE", "FINDER", "GARDEN"],
     "other": ["NL", "PWP", "PSM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["LM", "MGTT", "DKA2", "WW", "WWSM", "CF", "NL", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWGIT", "MAPP"],
-    "movies": ["TSMGM"]
+    "crossovers": ["LM", "MGTT", "DKA2", "WW", "WWSM", "CF", "NL", "AHL+", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWGIT", "MAPP"],
+    "movies": ["TSMGM"],
+    "mobile": ["NT", "NM"]
   },
   "purple_pikmin": {
     "name": "Purple Pikmin",
@@ -95,7 +143,8 @@
     "online": ["FINDER", "GARDEN"],
     "other": ["PSM"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["WWSM", "WWGIT", "WWMI", "MAPP"]
+    "crossovers": ["WWSM", "WWGIT", "WWMI", "MAPP"],
+    "mobile": ["NT", "NM"]
   },
   "white_pikmin": {
     "name": "White Pikmin",
@@ -106,7 +155,8 @@
     "online": ["FINDER", "GARDEN"],
     "other": ["NL", "PSM"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["WWGIT", "MAPP"]
+    "crossovers": ["WWGIT", "MAPP"],
+    "mobile": ["NT", "NM"]
   },
   "rock_pikmin": {
     "name": "Rock Pikmin",
@@ -116,7 +166,8 @@
     "spinoffs": ["H!P", "BLOOM"],
     "online": ["FINDER", "GARDEN"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["NL", "MAPP"]
+    "crossovers": ["NL", "MAPP"],
+    "mobile": ["NT", "NM"]
   },
   "winged_pikmin": {
     "name": "Winged Pikmin",
@@ -126,7 +177,8 @@
     "spinoffs": ["H!P", "BLOOM"],
     "online": ["FINDER", "GARDEN"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["NL", "MAPP"]
+    "crossovers": ["NL", "MAPP"],
+    "mobile": ["NT", "NM"]
   },
   "ice_pikmin": {
     "name": "Ice Pikmin",
@@ -135,7 +187,8 @@
     "main": ["PIKMIN4"],
     "spinoffs": ["BLOOM"],
     "online": ["FINDER", "GARDEN"],
-    "crossovers": ["MAPP"]
+    "crossovers": ["MAPP"],
+    "mobile": ["NT", "NM"]
   },
   "glow_pikmin": {
     "name": "Glow Pikmin",
@@ -143,7 +196,8 @@
     "debut": "07/21/2023",
     "main": ["PIKMIN4"],
     "online": ["FINDER", "GARDEN"],
-    "crossovers": ["MAPP"]
+    "crossovers": ["MAPP"],
+    "mobile": ["NT", "NM"]
   },
   "oatchi": {
     "name": "Oatchi",
@@ -151,7 +205,8 @@
     "debut": "07/21/2023",
     "main": ["PIKMIN4"],
     "online": ["FINDER", "GARDEN"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NT", "NM"]
   },
   "bulbmin": {
     "name": "Bulbmin",
@@ -203,7 +258,8 @@
     "online": ["FINDER", "GARDEN"],
     "other": ["NL"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "crossovers": ["LM", "DKA2", "NINTENDOGS", "NL"]
+    "crossovers": ["LM", "DKA2", "NINTENDOGS", "NL"],
+    "mobile": ["NT", "NM"]
   },
   "dwarf_bulborb": {
     "name": "Dwarf Bulborb",

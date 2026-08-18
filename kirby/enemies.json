@@ -58,7 +58,8 @@
     "copy": ["Clean"],
     "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KRTDLDX"],
     "spinoff": ["KPL", "KDC", "KAV", "KBB", "KTNT", "KAR", "KBLB", "KARS"],
-    "smash": ["SSBWIIU"]
+    "smash": ["SSBWIIU"],
+    "mobile": ["NM"]
   },
   "cappy": {
     "name": "Cappy",
@@ -67,7 +68,8 @@
     "copy": false,
     "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KPL", "KBB", "KTNT", "KAR", "KCC", "KMA", "KBLB", "KDB", "KARS"],
-    "smash": ["SSBB", "SSBWIIU"]
+    "smash": ["SSBB", "SSBWIIU"],
+    "mobile": ["NM"]
   },
   "cawcun": {
     "name": "Cawcun",
@@ -132,7 +134,8 @@
     "main": ["KDL", "KA", "KDL2", "KSS", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KPL", "KBB", "KTNT", "KAR", "KCC", "KEY", "KMA", "DDDD", "KFD", "KATRC", "KBLB", "KEEY", "KF2", "KDB", "KARS"],
     "smash": ["SSBB", "SSB3DS", "SSBU"],
-    "other": ["SML2"]
+    "other": ["SML2"],
+    "mobile": ["NM"]
   },
   "grizzo": {
     "name": "Grizzo",
@@ -258,7 +261,8 @@
     "copy": ["Crash"],
     "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KPL", "KBB", "KAR", "KEY", "KMA", "DDDD", "KBLB", "KEEY", "KARS"],
-    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "mobile": ["NM"]
   },
   "shotzo": {
     "name": "Shotzo",
@@ -277,7 +281,8 @@
     "copy": ["Cutter"],
     "main": ["KDL", "LA", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KARS"],
-    "smash": ["SSBB", "SSBWIIU"]
+    "smash": ["SSBB", "SSBWIIU"],
+    "mobile": ["NM"]
   },
   "skuller": {
     "name": "Skuller",
@@ -324,7 +329,7 @@
     "spinoff": ["KPL", "KDC", "KAV", "KBB", "KSST", "KTNT", "KAR", "KCC", "KEY", "DDDD", "KBR", "TKCD", "KBLB", "KEEY", "SKC", "KARS"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["KTB"]
   },
   "waddle-doo": {
@@ -336,7 +341,8 @@
     "main": ["KDL", "KA", "KSS", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KPL", "KDC", "KAV", "KTNT", "KCC", "KEY", "KMA", "KEEY", "KBR", "KDB", "KARS"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU"],
-    "shows": ["KRBAY"]
+    "shows": ["KRBAY"],
+    "mobile": ["NM"]
   },
   "whiskers": {
     "name": "Whiskers",
@@ -358,7 +364,8 @@
     "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KPL", "KDC", "KAV", "KBB", "KTNT", "KAR", "KEY", "KMA", "KATRC", "TKCD", "KDB", "KEEY", "KARS"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
-    "shows": ["KRBAY"]
+    "shows": ["KRBAY"],
+    "mobile": ["NM"]
   },
   "lololo_&_lalala": {
     "name": "Lololo & Lalala",
@@ -381,7 +388,8 @@
     "main": ["KDL", "KA", "KDL2", "KSS", "KNIDL", "K&TAM", "KSSU", "KDCSE", "KTD", "KSA"],
     "spinoff": ["KPL", "KAV", "KBB", "KTNT", "KAR", "KCC", "KEY", "KMA", "KFD", "KATRC", "KBLB", "KEEY", "SKC", "KF2", "KDB"],
     "smash": ["SSBB", "SSBU"],
-    "other": ["KTB"]
+    "other": ["KTB"],
+    "mobile": ["NM"]
   },
 
 
@@ -404,7 +412,7 @@
     "spinoff": ["KPL", "KMA", "KARS"],
     "smash": ["SSBB", "SSBWIIU"],
     "shows": ["KRBAY"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "bomber": {
     "name": "Bomber",
@@ -458,7 +466,8 @@
     "variants": ["Big Chilly", "Supper Chilly"],
     "copy": ["Freeze", "Ice"],
     "main": ["KA", "KSS", "KDL3", "TCS", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
-    "spinoff": ["KPL", "KDC", "KBB", "KAR", "KCC", "KEY", "KEEY", "KARS"]
+    "spinoff": ["KPL", "KDC", "KBB", "KAR", "KCC", "KEY", "KEEY", "KARS"],
+    "mobile": ["NM"]
   },
   "cool-spark": {
     "name": "Cool Spark",
@@ -564,7 +573,8 @@
     "copy": ["Stone"],
     "main": ["KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KDC", "KBB", "KCC", "KARS"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "rolling-turtle": {
     "name": "Rolling Turtle",
@@ -672,7 +682,8 @@
     "debut": "05/01/1993",
     "copy": ["Hammer", "Sleep"],
     "main": ["KA", "KNIDL", "KTD"],
-    "spinoff": ["KAV", "KDB"]
+    "spinoff": ["KAV", "KDB"],
+    "mobile": ["NM"]
   },
 
 
@@ -857,7 +868,7 @@
     "copy": ["Ninja"],
     "main": ["KSS", "KSQS", "KSSU", "KDCSE", "KSA"],
     "spinoff": ["KMA"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "birdon": {
     "name": "Birdon",
@@ -871,7 +882,8 @@
     "type": ["enemy", "helper", "friend"],
     "debut": "09/20/1996",
     "copy": ["Fire"],
-    "main": ["KSS", "KSSU", "KDCSE", "KSA"]
+    "main": ["KSS", "KSSU", "KDCSE", "KSA"],
+    "mobile": ["NM"]
   },
   "capsule-j": {
     "name": "Capsule J",
@@ -890,7 +902,8 @@
     "main": ["KSS", "KSSU", "KDCSE", "KSA"],
     "spinoff": ["KMA", "KARS"],
     "smash": ["SSBB", "SSBU"],
-    "shows": ["KRBAY"]
+    "shows": ["KRBAY"],
+    "mobile": ["NM"]
   },
   "gator": {
     "name": "Gator",
@@ -935,7 +948,8 @@
     "main": ["KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KARS"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "shows": ["KRBAY"]
+    "shows": ["KRBAY"],
+    "mobile": ["NM"]
   },
   "lovely": {
     "name": "Lovely",
@@ -1806,6 +1820,9 @@
     "copy": false,
     "spinoff": ["KTNT"]
   },
+
+
+  
   
   
   "needlous": {
@@ -2085,6 +2102,43 @@
     "main": ["K&TAM", "KTD", "KPR"],
     "spinoff": ["KCC", "KATRC", "KBLB"]
   },
+  "king_golem": {
+    "name": "King Golem",
+    "type": "boss",
+    "debut": "10/18/2004",
+    "main": ["K&TAM"],
+    "spinoff": ["KARS"]
+  },
+  "moley": {
+    "name": "Moley",
+    "type": "boss",
+    "debut": "10/18/2004",
+    "copy": ["Burning", "Cutter", "Stone", "Wheel"],
+    "main": ["K&TAM"],
+    "spinoff": ["KMA"],
+    "smash": ["SSBU"]
+  },
+  "mega_titan": {
+    "name": "Mega Titan",
+    "type": "boss",
+    "debut": "10/18/2004",
+    "main": ["K&TAM", "KTD"]
+  },
+  "gobbler": {
+    "name": "Gobbler",
+    "type": "boss",
+    "debut": "10/18/2004",
+    "copy": ["Sword"],
+    "main": ["K&TAM", "KTD", "KPR"],
+    "spinoff": ["KDB", "KARS"]
+  },
+  "wiz": {
+    "name": "Wiz",
+    "type": "boss",
+    "debut": "10/18/2004",
+    "main": ["K&TAM"]
+  },
+
 
   "blado": {
     "name": "Blado",
@@ -2245,6 +2299,7 @@
     "copy": false,
     "main": ["KSQS"]
   },
+  
 
   "croucars": {
     "name": "Croucars",
@@ -3138,6 +3193,45 @@
     "main": ["KRTDL", "KTD", "KPR", "KRTDLDX"]
   },
 
+  "mr.dooter": {
+    "name": "Mr. Dooter",
+    "type": "boss",
+    "debut": "10/24/2011",
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "fatty_puffer": {
+    "name": "Fatty Puffer",
+    "type": "boss",
+    "debut": "10/24/2011",
+    "main": ["KRTDL", "KRTDLDX"],
+    "spinoff": ["KARS"]
+  },
+  "goriath": {
+    "name": "Goriath",
+    "type": "boss",
+    "debut": "10/24/2011",
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "grand_doomer": {
+    "name": "Grand Doomer",
+    "type": "boss",
+    "debut": "10/24/2011",
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "metal_general": {
+    "name": "Metal General",
+    "type": "boss",
+    "debut": "10/24/2011",
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+  "hr-d3": {
+    "name": "HR-D3",
+    "type": "boss",
+    "debut": "10/24/2011",
+    "main": ["KRTDL", "KRTDLDX"]
+  },
+
+
 
   "antler": {
     "name": "Antler",
@@ -3254,6 +3348,33 @@
     "copy": ["Archer"],
     "main": ["KTD", "KPR"]
   },
+  "flowery_woods": {
+    "name": "Flowery Woods",
+    "type": "boss",
+    "debut": "05/02/2014",
+    "main": ["KTD"]
+  },
+  "paintra": {
+    "name": "Paintra",
+    "type": "boss",
+    "debut": "05/02/2014",
+    "main": ["KTD"],
+    "spinoff": ["KARS"]
+  },
+  "coily_ratter": {
+    "name": "Coily Ratter",
+    "type": "boss",
+    "debut": "05/02/2014",
+    "main": ["KTD", "KPR"]
+  },
+  "pyribbit": {
+    "name": "Pyribbit",
+    "type": "boss",
+    "debut": "05/02/2014",
+    "main": ["KTD", "KPR"],
+    "spinoff": ["TKCD", "SKC", "KARS"]
+  },
+  
   
   "barampa": {
     "name": "Barampa",
@@ -3460,6 +3581,46 @@
     "copy": ["Whip"],
     "main": ["KPR", "KSA"]
   },
+  "gigavolt": {
+    "name": "Gigavolt",
+    "type": "boss",
+    "debut": "06/10/2016",
+    "main": ["KPR"],
+    "spinoff": ["KF2"]
+  },
+  "clanky_woods": {
+    "name": "Clanky Woods",
+    "type": "boss",
+    "debut": "06/10/2016",
+    "main": ["KPR"]
+  },
+  "cogs": {
+    "name": "C.O.G.S.",
+    "type": "boss",
+    "debut": "06/10/2016",
+    "main": ["KPR"]
+  },
+  "holo_defense_api": {
+    "name": "Holo Defense API",
+    "type": "boss",
+    "debut": "06/10/2016",
+    "main": ["KPR"],
+    "spinoff": ["KARS"]
+  },
+  "mecha_knight": {
+    "name": "Mecha Knight",
+    "type": "boss",
+    "debut": "06/10/2016",
+    "main": ["KPR"],
+    "spinoffs": ["KBR"]
+  },
+  "star_dream": {
+    "name": "Star Dream",
+    "type": "boss",
+    "debut": "06/10/2016",
+    "main": ["KPR", "KSA"]
+  },
+
 
   "anger-masker": {
     "name": "Anger Masker",

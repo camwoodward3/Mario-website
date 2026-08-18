@@ -1,0 +1,363 @@
+{
+  "inkling": {
+    "name": "Inkling",
+    "type": "protagonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["SO"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NT", "NM"],
+    "crossovers": ["SPMP", "SMM", "YWW", "MII16", "SMM3DS", "WA", "P&YWW", "MK8DLC", "TNTDNF",  "WWG", "MII21"]
+  },
+  "captain": {
+    "name": "Captain",
+    "type": ["protagonist", "deuteragonist"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "callie": {
+    "name": "Callie",
+    "type": ["deuteragonist", "boss"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "smash": ["SSBU"],
+    "mobile": ["NT", "NM"],
+    "crossovers": ["SMM", "YWW", "MII16", "SMM3DS", "P&YWW", "H!P", "WWG", "MII21"]
+  },
+  "marie": {
+    "name": "Marie",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "smash": ["SSBU"],
+    "mobile": ["NT", "NM"],
+    "crossovers": ["SMM", "YWW", "MII16", "SMM3DS",  "P&YWW", "H!P", "WWG", "MII21"]
+  },
+  "judd": {
+    "name": "Judd",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "cap'n_cuttlefish": {
+    "name": "Cap'n Cuttlefish",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"],
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
+  },
+  "spyke": {
+    "name": "Spyke",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+  "sheldon": {
+    "name": "Sheldon",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+  "annie": {
+    "name": "Annie",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+  "moe": {
+    "name": "Moe",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON3"]
+  },
+  "jelonzo": {
+    "name": "Jelonzo",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+  "crusty_sean": {
+    "name": "Crusty Sean",
+    "type": "deuteragonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+  "octarian": {
+    "name": "Octarian",
+    "type": "antagonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "mobile": ["NT"]
+  },
+  "dj_octavio": {
+    "name": "DJ Octavio",
+    "type": "antagonist",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
+  },
+
+  "octoling": {
+    "name": "Octoling",
+    "type": ["enemy", "protagonist"],
+    "variants": ["Sanitized Octoling", "Fuzzy Octoling"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE", "SO"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"]
+  },
+  "agent_4": {
+    "name": "Agent 4",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"]
+  },
+  "agent_8": {
+    "name": "Agent 8",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE", "SO"]
+  },
+  "pearl": {
+    "name": "Pearl",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE", "SO"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "crossovers": ["WWG"]
+  },
+  "marina": {
+    "name": "Marina",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE", "SO"],
+    "smash": ["SSBU"],
+    "mobile": ["NT"],
+    "crossovers": ["WWG"]
+  },
+  "li'l_judd": {
+    "name": "Li'l Judd",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "mobile": ["NT"],
+    "smash": ["SSBU"]
+  },
+  "murch": {
+    "name": "Murch",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+  "flow": {
+    "name": "Flow",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "smash": ["SSBU"]
+  },
+  "craymond": {
+    "name": "Craymond",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"]
+  },
+  "jelfonzo": {
+    "name": "Jelfonzo",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "smash": ["SSBU"]
+  },
+  "bisk": {
+    "name": "Bisk",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "smash": ["SSBU"]
+  },
+  "mr.grizz": {
+    "name": "Mr. Grizz",
+    "type": ["deuteragonist", "boss"],
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"]
+  },
+  "cq_cumber": {
+    "name": "C.Q. Cumber",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "expansions": ["OE"]
+  },
+  "iso_padre": {
+    "name": "Iso Padre",
+    "type": "deuteragonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "expansions": ["OE"]
+  },
+  "salmonoids": {
+    "name": "Salmonoids",
+    "type": "antagonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3", "RAIDERS"],
+    "mobile": ["NT"]
+  },
+  "commander_tartar": {
+    "name": "Commander Tartar",
+    "type": "antagonist",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "expansions": ["OE"]
+  },
+
+  "smallfry": {
+    "name": "Smallfry",
+    "type": "protagonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3", "RAIDERS"],
+    "mobile": ["NT"]
+  },
+  "shiver": {
+    "name": "Shiver",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3", "RAIDERS"],
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
+  },
+  "frye": {
+    "name": "Frye",
+    "type": ["deuteragonist", "boss"],
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3", "RAIDERS"],
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
+  },
+  "big_man": {
+    "name": "Big Man",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3", "RAIDERS"],
+    "mobile": ["NM"]
+  },
+  "orca":{
+    "name": "O.R.C.A.",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "gnarly_eddy_and_nails": {
+    "name": "Gnarly Eddy & Nails",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "jel_la_fleur": {
+    "name": "Jel la Fleur",
+    "type": ["deuteragonist", "boss"],
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "mr.coco": {
+    "name": "Mr. Coco",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "harmony": {
+    "name": "Harmony",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"],
+    "mobile": ["NM"]
+  },
+  "staff": {
+    "name": "Staff",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "fred_crumbs": {
+    "name": "Fred Crumbs",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "shelly_and_donny": {
+    "name": "Shelly & Donny",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "acht": {
+    "name": "Acht",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"],
+    "expansions": ["SO"],
+    "mobile": ["NM"]
+  },
+  "cipher": {
+    "name": "Cipher",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"],
+    "expansions": ["SO"]
+  },
+  "zapfish": {
+    "name": "Zapfish",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+  "super_sea_snails": {
+    "name": "Super Sea Snails",
+    "type": "deuteragonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+  "jelletons": {
+    "name": "Jelletons",
+    "type": "antagonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "overlorder": {
+    "name": "Overlorder",
+    "type": "antagonist",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"],
+    "expansions": ["SO"]
+  },
+
+  "mechanic": {
+    "name": "Mechanic",
+    "type": "protagonist",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  }
+
+
+
+
+}

@@ -5,7 +5,8 @@
     "debut": "08/15/1987",
     "main": ["M", "TROS", "SM", "FUSION", "ZERO", "PRIME", "ECHOES", "PINBALL", "HUNTERS", "CORRUPTION", "FORCE", "MOM", "SR", "DREAD", "MPBB", "PRIMENS", "BEYOND"],
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
-    "other": ["T", "F1-RACE", "SMRPG", "SMRPGNS", "KDL3", "TDS", "WWIMM", "WWTW", "WWTO", "WWSM", "NINTENDOGS", "KSSU", "ACCF", "WWDIY", "B", "NMP", "SPMP", "DWVS", "TTT2", "ACNL", "NL", "MK8", "MK8DLC", "B2", "MH4U", "MHG", "OPSGBX", "AHL+", "SMM", "YWW",  "SMM3DS", "P&YWW", "MII16", "RL", "MII21", "BBBT", "WWG", "JRC", "PMOK", "WWGIT", "WWMI"]
+    "other": ["T", "F1-RACE", "SMRPG", "SMRPGNS", "KDL3", "TDS", "WWIMM", "WWTW", "WWTO", "WWSM", "NINTENDOGS", "KSSU", "ACCF", "WWDIY", "B", "NMP", "SPMP", "DWVS", "TTT2", "ACNL", "NL", "MK8", "MK8DLC", "B2", "MH4U", "MHG", "OPSGBX", "AHL+", "SMM", "YWW",  "SMM3DS", "P&YWW", "MII16", "RL", "MII21", "BBBT", "WWG", "JRC", "PMOK", "WWGIT", "WWMI"],
+    "mobile": ["NM"]
   },
   "ridley": {
     "name": "Ridley",
@@ -13,7 +14,8 @@
     "debut": "08/15/1987",
     "main": ["M", "SM", "FUSION", "PRIME", "ZERO", "MOM", "PRIMENS"],
     "smash": ["SSB64", "SSBM", "SSBB", "SSBWIIU", "SSBU"],
-    "other": ["NL"]
+    "other": ["NL"],
+    "mobile": ["NM"]
   },
   "mother_brain": {
     "name": "Mother Brain",
@@ -131,7 +133,8 @@
     "debut": "08/15/1987",
     "main": ["M", "TROS", "SM", "FUSION", "ZERO", "PRIME", "ECHOES", "PINBALL", "CORRUPTION", "FORCE", "MOM", "SR", "DREAD",  "PRIMENS", "BEYOND"],
     "smash": ["SSBM", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["KDL3", "WWTW", "WWTO", "TDS", "WWDIY",  "NL", "DKCTF", "WWG"]
+    "other": ["KDL3", "WWTW", "WWTO", "TDS", "WWDIY",  "NL", "DKCTF", "WWG"],
+    "mobile": ["NM"]
   },
   "alpha_metroid": {
     "name": "Alpha Metroid",

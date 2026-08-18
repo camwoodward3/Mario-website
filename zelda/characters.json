@@ -9,7 +9,7 @@
     "spinoff": ["ZG&W", "TFOE", "TWOG", "ADVENTURE", "AST", "LCT", "HW", "HWDE", "MNP", "HWL", "COH", "AOC", "V"],
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
     "shows": ["TLoZ"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["T", "SMB&FWIGU", "F1-RACE", "DKC2", "DKL2", "SMRPG", "MAPS", "PNP", "SC2", "G&WG4", "DKC2GBA", "SCII", "WWIMM", "DKA2", "DKA3", "WWI", "WWTW", "WWTO", "NINTENDOGS", "TDS", "WWSM", "WWDIY",  "WWG", "WWGIT", "WWMI", "CR", "B", "SPMP", "NMP", "DWVS", "TTT2", "NL", "SU", "ACNF", "MH4", "MH4U", "CNB", "SLW", "SM3DW", "MK8", "B2", "OPSGBX", "SMM", "YWW", "AHL+", "MHX", "MHS", "SMM3DS", "P&YWW", "SKYRIM", "WA", "P3DR2", "MII16", "MII21", "MK8DLC", "MHG", "MHGU", "SMM2", "BF", "MHGU", "JRC", "SMRPGNS"]
     
   },
@@ -23,7 +23,7 @@
     "spinoff": ["ZG&W","TFOE", "TWOG", "ADVENTURE", "AST", "HW", "HWDE", "MNP", "HWL", "COH", "AOC", "AOI"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
     "shows": ["TLoZ"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["DKA2", "DKA3", "PNP", "NMP", "SPMP", "TTT2", "SU", "CNB", "SMM", "YWW", "AHL+", "MII16", "P&YWW", "SSSS", "WWG", "MII21", "SMM3DS", "P&YWW"]
   },
   "ganon": {
@@ -75,7 +75,8 @@
     "main": ["OoT", "TWW", "TP", "OoT3D", "TWWHD", "TPHD", "TOTK"],
     "spinoff": ["HWDE", "MNP", "HW", "HWL", "COH"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
-    "other": ["DKA2", "DKA3", "PNP", "TTT2", "SU", "SMM", "MII16", "WWG", "MII21", "SMM3DS", "P&YWW"]
+    "other": ["DKA2", "DKA3", "PNP", "TTT2", "SU", "SMM", "MII16", "WWG", "MII21", "SMM3DS", "P&YWW"],
+    "mobile": ["NM"]
   },
   "navi": {
     "name": "Navi",
@@ -95,7 +96,7 @@
     "main": ["OoT", "MM", "TMC", "TP", "OoT3D", "MM3D", "TPHD", "BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["MNP", "SU"],
     "smash": ["SSBB", "SSB3DS", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["PNP", "SU", "MHS", "WA"]
   },
   "great-deku-tree": {
@@ -103,7 +104,8 @@
     "type": "ally",
     "species": "Tree/Deity",
     "debut": "11/21/1998",
-    "main": ["OoT", "TWW", "OoT3D", "TWWHD", "BOTW", "TOTK", "EOW", "BOTWNS", "TOTKNS"]
+    "main": ["OoT", "TWW", "OoT3D", "TWWHD", "BOTW", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
+    "mobile": ["NM"]
   },
   "rauru": {
     "name": "Rauru",
@@ -260,14 +262,16 @@
     "main": ["TWW", "FSA", "PHG", "TWWHD"],
     "spinoff": ["HW", "HWDE", "HWL"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
-    "other": ["DKA2", "DKA3", "SMM", "SMM3DS"]
+    "other": ["DKA2", "DKA3", "SMM", "SMM3DS"],
+    "mobile": ["NM"]
   },
   "aryll": {
     "name": "Aryll",
     "species": "Hylian",
     "debut": "12/13/2002",
     "main": ["TWW", "FSA", "TWWHD"],
-    "smash": ["SSBB", "SSBWIIU", "SSBU"]
+    "smash": ["SSBB", "SSBWIIU", "SSBU"],
+    "mobile": ["NM"]
   },
   "fado": {
     "name": "Fado",
@@ -291,7 +295,8 @@
     "main": ["TWW", "FSA", "TWWHD"],
     "spinoff": ["HW", "HWDE", "HWL"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
-    "other": ["WA"]
+    "other": ["WA"],
+    "mobile": ["NM"]
   },
   "komali": {
     "name": "Komali",
@@ -311,7 +316,8 @@
     "title": ["Wind Sage"],
     "debut": "12/13/2002",
     "main": ["TWW", "RSA", "TWWHD"],
-    "smash": ["SSBB"]
+    "smash": ["SSBB"],
+    "mobile": ["NM"]
   },
   "cyclos": {
     "name": "Cyclos",
@@ -432,7 +438,8 @@
     "species": "Hylian",
     "debut": "06/23/2007",
     "main": ["PHG"],
-    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NM"]
   },
   "belium": {
     "name": "Belium",
@@ -480,7 +487,8 @@
     "main": ["SS", "SSHD"],
     "spinoff": ["HW", "HWDE", "HWL"],
     "smash": ["SSBWIIU", "SSBU"],
-    "other": ["NL"]
+    "other": ["NL"],
+    "mobile": ["NM"]
   },
   "ghirahim": {
     "name": "Ghirahim",
@@ -489,14 +497,16 @@
     "debut": "11/18/2011",
     "main": ["SS", "SSHD"],
     "spinoff": ["HW", "HWDE", "HWL"],
-    "smash": ["SSB3DS", "SSBWIIU", "SBBU"]
+    "smash": ["SSB3DS", "SSBWIIU", "SBBU"],
+    "mobile": ["NM"]
   },
   "groose": {
     "name": "Groose",
     "species": "Hylian",
     "debut": "11/18/2011",
     "main": ["SS", "SSHD"],
-    "smash": ["SSBWIIU", "SSBU"]
+    "smash": ["SSBWIIU", "SSBU"],
+    "mobile": ["NM"]
   },
 
   "ravio": {
@@ -506,7 +516,8 @@
     "debut": "11/22/2013",
     "main": ["ALBW"],
     "spinoff": ["HW", "HWDE", "HWL"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "sheerow": {
     "name": "Sheerow",
@@ -519,7 +530,8 @@
     "title": ["Princess of Lorule"],
     "debut": "11/22/2013",
     "main": ["ALBW"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "yuga": {
     "name": "Yuga",
@@ -613,7 +625,7 @@
     "main": ["BOTW", "BOTWNS"],
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["WWG"]
   },
   "mipha": {
@@ -624,7 +636,7 @@
     "main": ["BOTW", "BOTWNS"],
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["WWG"]
   },
   "urbosa": {
@@ -635,7 +647,7 @@
     "main": ["BOTW", "BOTWNS"],
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["WWG"]
   },
   "revali": {
@@ -646,7 +658,7 @@
     "main": ["BOTW", "BOTWNS"],
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["WWG"]
   },
   "yunobo": {
@@ -656,7 +668,7 @@
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["AOC"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "sidon": {
     "name": "Sidon",
@@ -665,7 +677,7 @@
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["AOC"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "riju": {
     "name": "Riju",
@@ -674,7 +686,7 @@
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["AOC"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "teba": {
     "name": "Teba",
@@ -714,7 +726,7 @@
     "title": ["Bard"],
     "debut": "03/03/2017",
     "main": ["BOTW", "BOTWNS"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "purah": {
     "name": "Purah",
@@ -723,7 +735,7 @@
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["AOC"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "robbie": {
     "name": "Robbie",
@@ -742,7 +754,7 @@
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["AOC"],
     "smash": ["SSBB", "SSBWIIU", "SSB3DS"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
 
   },
   "tulin": {
@@ -751,7 +763,8 @@
     "title": ["Wind Sage"],
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
-    "other": ["NH"]
+    "other": ["NH"],
+    "mobile": ["NT", "NM"]
   },
   "dorephan": {
     "name": "King Dorephan",
@@ -792,7 +805,7 @@
     "debut": "05/12/2023",
     "main": ["TOTK", "TOTKNS"],
     "spinoff": ["AOI"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "sonia": {
     "name": "Sonia",
@@ -800,7 +813,8 @@
     "title": ["Queen of Hyrule"],
     "debut": "05/12/2023",
     "main": ["TOTK", "TOTKNS"],
-    "spinoff": ["AOI"]
+    "spinoff": ["AOI"],
+    "mobile": ["NM"]
   },
   "mineru": {
     "name": "Mineru",
@@ -809,7 +823,7 @@
     "debut": "05/12/2023",
     "main": ["TOTK", "TOTKNS"],
     "spinoff": ["AOI"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["NH"]
   },
   "raphica": {
@@ -871,7 +885,8 @@
     "species": "Korok",
     "title": ["Traveling Korok"],
     "debut": "11/06/2025",
-    "spinoff": ["AOI"]
+    "spinoff": ["AOI"],
+    "mobile": ["NM"]
   },
   "typhan": {
     "name": "Typhan",

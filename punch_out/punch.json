@@ -1,0 +1,255 @@
+{
+  "little_mac": {
+    "name": "Little Mac",
+    "type": "playable",
+    "debut": "10/18/1987",
+    "main": ["MTPO!!", "PO!!", "SUPER_PO!!", "PO!!_WII"],
+    "spinoffs": ["DLPO!!"],
+    "crossovers": ["WWMM", "WWDIY", "WWG"],
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU"]
+  },
+  "giga_mac": {
+    "name": "Giga Mac",
+    "type": "playable",
+    "debut": "05/18/2009",
+    "main": ["PO!!_WII"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "challenger": {
+    "name": "Little Mac",
+    "type": "playable",
+    "debut": "01/01/1984",
+    "main": ["PO!!_ARCADE", "SUPER_PO!!_ARCADE"],
+    "spinoffs": ["ARM_WRESTLING"]
+  },
+  "glass_joe": {
+    "name": "Glass Joe",
+    "type": "opponent",
+    "debut": "01/01/1984",
+    "main": ["PO!!_ARCADE", "MTPO!!", "PO!!", "PO!!_WII"],
+    "crossovers": ["WWSM"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "piston_hurricane": {
+    "name": "Piston Hurricane",
+    "type": "opponent",
+    "debut": "01/01/1984",
+    "main": ["PO!!_ARCADE", "SUPER_PO!!"]
+  },
+  "bald_bull": {
+    "name": "Bald Bull",
+    "type": "opponent",
+    "debut": "01/01/1984",
+    "main": ["PO!!_ARCADE", "MTPO!!", "PO!!", "SUPER_PO!!"],
+    "spinoffs": ["ARM_WRESTLING"],
+    "crossovers": ["WWSM", "WWDIY"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "kid_quick": {
+    "name": "Kid Quick",
+    "type": "opponent",
+    "debut": "01/01/1984",
+    "main": ["PO!!_ARCADE"]
+  },
+  "pizza_pasta": {
+    "name": "Pizza Pasta",
+    "type": "opponent",
+    "debut": "01/01/1984",
+    "main": ["PO!!_ARCADE"]
+  },
+  "mr.sandman": {
+    "name": "Mr. Sandman",
+    "type": "opponent",
+    "debut": "01/01/19834",
+    "main": ["PO!!_ARCADE", "MTPO!!", "PO!!", "SUPER_PO!!", "PO!!_WII"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+  "bear_hugger": {
+    "name": "Bear Hugger",
+    "type": "opponent",
+    "debut": "10/01/1984",
+    "main": ["SUPER_PO!!_ARCADE", "SUPER_PO!!", "PO!!_WII"],
+    "smash": ["SSBU"]
+  },
+  "dragon_chan": {
+    "name": "Dragon Chan",
+    "type": "opponent",
+    "debut": "10/01/1984",
+    "main": ["SUPER_PO!!_ARCADE", "SUPER_PO!!"]
+  },
+  "soda_popinski": {
+    "name": "Soda Popinski",
+    "type": "opponent",
+    "debut": "10/01/1984",
+    "main": ["SUPER_PO!!_ARCADE", "MTPO!!", "PO!!", "PO!!_WII"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "great_tiger": {
+    "name": "Great Tiger",
+    "type": "opponent",
+    "debut": "10/01/1984",
+    "main": ["SUPER_PO!!_ARCADE", "MTPO!!", "PO!!", "PO!!_WII"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "super_macho_man": {
+    "name": "Super Macho Man",
+    "type": "opponent",
+    "debut": "10/01/1984",
+    "main": ["SUPER_PO!!_ARCADE", "MTPO!!", "PO!!", "SUPER_PO!!", "PO!!_WII"],
+    "smash": ["SSBU"]
+  },
+  
+  
+
+  "texas_mac": {
+    "name": "Texas Mac",
+    "type": "opponent",
+    "debut": "05/01/1985",
+    "spinoffs": ["ARM_WRESTLING"]
+  },
+  "kabuki": {
+    "name": "Kabuki",
+    "type": "opponent",
+    "debut": "05/01/1985",
+    "spinoffs": ["ARM_WRESTLING"]
+  },
+  "alice_&_ape_III": {
+    "name": "Alice & Ape III",
+    "type": "opponent",
+    "debut": "05/01/1985",
+    "spinoffs": ["ARM_WRESTLING"]
+  },
+  "frank_jr": {
+    "name": "Frank Jr.",
+    "type": "opponent",
+    "debut": "05/01/1985",
+    "spinoffs": ["ARM_WRESTLING"]
+  },
+
+  
+  "von_kaiser": {
+    "name": "Von Kaiser",
+    "type": "opponent",
+    "debut": "10/18/1987",
+    "main": ["MTPO!!", "PO!!", "PO!!_WII"],
+    "crossovers": ["WWSM"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "piston_honda": {
+    "name": "Piston Honda",
+    "type": "opponent",
+    "debut": "10/18/1987",
+    "main": ["MTPO!!", "PO!!", "PO!!_WII"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "don_flamenco": {
+    "name": "Don Flamenco",
+    "type": "opponent",
+    "debut": "10/18/1987",
+    "main": ["MTPO!!", "PO!!", "PO!!_WII"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "king_hippo": {
+    "name": "King Hippo",
+    "type": "opponent",
+    "debut": "10/18/1987",
+    "main": ["MTPO!!", "PO!!", "PO!!_WII"],
+    "smash": ["SSBWIIU", "SSBU"]
+  },
+  "mike_tyson": {
+    "name": "Mike Tyson",
+    "type": "opponent",
+    "debut": "10/18/1987",
+    "main": ["MTPO!!", "PO!!"]
+  },
+  "doc_louis": {
+    "name": "Doc Louis",
+    "type": "non-boxer",
+    "debut": "10/18/1987",
+    "main": ["MTPO!!", "PO!!", "PO!!_WII"],
+    "spinoffs": ["DLPO!!"],
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+  },
+
+  "gabby_jay": {
+    "name": "Gabby Jay",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+  "bob_charlie": {
+    "name": "Bob Charlie",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+  "masked_muscle": {
+    "name": "Masked Muscle",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+  "aran_ryan": {
+    "name": "Aran Ryan",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!", "PO!!_WII"]
+  },
+  "heike_kagero": {
+    "name": "Heike Kagero",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+  "mad_clown": {
+    "name": "Mad Clown",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+  "narcis_prince": {
+    "name": "Narcis Prince",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+  "hoy_quarlow": {
+    "name": "Gabby Jay",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+  "rick_bruiser": {
+    "name": "Gabby Jay",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+  "nick_bruiser": {
+    "name": "Gabby Jay",
+    "type": "opponent",
+    "debut": "10/01/1994",
+    "main": ["SUPER_PO!!"]
+  },
+
+  "disco_kid": {
+    "name": "Disco Kid",
+    "type": "playable",
+    "debut": "05/18/2009",
+    "main": ["PO!!_WII"]
+  },
+
+
+  "money_holder": {
+    "name": "Money Holder",
+    "type": "non-boxer",
+    "debut": "05/01/1985",
+    "spinoffs": ["ARM_WRESTLING"]
+  },
+  "arm_candy": {
+    "name": "Arm Candy",
+    "type": "non-boxer",
+    "debut": "05/01/1985",
+    "spinoffs": ["ARM_WRESTLING"]
+  }
+}

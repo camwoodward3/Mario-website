@@ -2,7 +2,7 @@ import json
 import time
 
 ALLOWED_TYPES = {'protagonist', 'antagonist', 'boss', 'supporting character', 'enemy', 'mid-boss'}
-GAME_CATEGORIES = ('main', 'smash', 'other')
+GAME_CATEGORIES = ('main', 'smash', 'other', 'mobile')
 
 def process_metroid_data(file_path='metroid.json'):
   start_time = time.perf_counter()

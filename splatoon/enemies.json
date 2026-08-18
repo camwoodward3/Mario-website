@@ -1,0 +1,390 @@
+{
+  "octotrooper": {
+    "name": "Octotrooper",
+    "type": "enemy",
+    "variants": ["Shielded Octotrooper", "Twintacle Octotrooper", "Blobby Octotrooper", "Rocket Twintacle Octotrooper", "Sanitized Octotrooper", "Sanitized Blobby Octotrooper", "Sanitized Shielded Octotrooper", "Sanitized Twintacle Octotrooper", "Sanitized Rocket Twintacle Octotrooper", "Fuzzy Blobby Octotrooper", "Fuzzy Octotrooper", "Fuzzy Shielded Octotrooper", "Fuzzy Twintacle Octotrooper", "Fuzzy Rocket Twintacle Octotrooper"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octoball": {
+    "name": "Octoball",
+    "type": "enemy",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON"]
+  },
+  "octopod": {
+    "name": "Octopod",
+    "type": "enemy",
+    "variants": ["Sanitized Octopod", "Oversized Octopod"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "squee-g": {
+    "name": "Squee-G",
+    "type": "enemy",
+    "variants": ["Industrial Squee-G"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octobomber": {
+    "name": "Octobomber",
+    "type": "enemy",
+    "variants": ["Rocket Octobomber", "Sanitized Rocket Octobomber", "Sanitized Octobomber", "Fuzzy Octobomber", "Fuzzy Rocket Octobomber"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octocopter": {
+    "name": "Octocopter",
+    "type": "enemy",
+    "variants": ["Rocket Octocopter", "Sanitized Octocopter", "Sanitized Rocket Octocopter", "Sanitized Missile Octocopter", "Sanitized Speedy Missile Octocopter", "Fuzzy Octocopter", "Fuzzy Rocket Octocopter"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octostamp": {
+    "name": "Octostamp",
+    "type": "enemy",
+    "variants": ["Octostamp DX", "Sanitized Octostamp", "Sanitized Octostamp DX", "Fuzzy Octostamp", "Fuzzy Amped Octostamp"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octodiver": {
+    "name": "Octodiver",
+    "type": "enemy",
+    "variants": ["Sanitized Octodiver", "Sanitized Twintacle Octodiver", "Fuzzy Octodiver"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  
+  "octostriker": {
+    "name": "Octostriker",
+    "type": "enemy",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON"]
+  },
+  "flooder": {
+    "name": "Flooder",
+    "type": "enemy",
+    "variants": ["Sanitized Flooder"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octosniper": {
+    "name": "Octosniper",
+    "type": "enemy",
+    "variants": ["Sanitized Octosniper", "Fuzzy Octosniper"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octorpedo": {
+    "name": "Octorpedo",
+    "type": "enemy",
+    "variants": ["Sanitized Octorpedo"],
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+
+  "octostomp": {
+    "name": "Octostomp",
+    "type": "boss",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON"],
+    "expansions": ["OE"]
+  },
+  "octonozzle": {
+    "name": "Octonozzle",
+    "type": "boss",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON"]
+  },
+  "octowhirl": {
+    "name": "Octowhirl",
+    "type": "boss",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON"]
+  },
+  "octomaw": {
+    "name": "Octomaw",
+    "type": "boss",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON"]
+  },
+  "octobot_king": {
+    "name": "Octobot King",
+    "type": "boss",
+    "debut": "05/29/2015",
+    "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
+    "smash": ["SSBU"]
+  },
+
+  "octohurler": {
+    "name": "Octohurler",
+    "type": "enemy",
+    "variants": ["Sanitized Octohurler"],
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"]
+  },
+  "octomissile": {
+    "name": "Octomissile",
+    "type": "enemy",
+    "variants": ["Sanitized Octomissile", "Fuzzy Octomissile"],
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octozepplin": {
+    "name": "Octozepplin",
+    "type": "enemy",
+    "variants": ["Sanitized Octozeppelin", "Fuzzy Octozepplin"],
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octoseeker": {
+    "name": "Octoseeker",
+    "type": "enemy",
+    "variants": ["Sanitized Octoseeker"],
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "expansions": ["OE"]
+  },
+  "tentakook": {
+    "name": "Tantakook",
+    "type": "enemy",
+    "variants": ["Sanitized Tantakook", "Fuzzy Tantakooj"],
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octoballer": {
+    "name": "Octoballer",
+    "type": "enemy",
+    "variants": ["Sanitized Octoballer", "Fuzzy Octoballer"],
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octocommander": {
+    "name": "Octocommander",
+    "type": "enemy",
+    "variants": ["Sanitized Octocommander", "Fuzzy Octocommander"],
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2", "SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octo_oven": {
+    "name": "Octo Oven",
+    "type": "boss",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "expansions": ["OE"]
+  },
+  "octo_samurai": {
+    "name": "Octo Samurai",
+    "type": "boss",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "expansions": ["OE"]
+  },
+  "neo_octostomp": {
+    "name": "Neo Octostomp",
+    "type": "boss",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"]
+  },
+  "octo_shower": {
+    "name": "Octo Shower",
+    "type": "boss",
+    "debut": "07/21/2017",
+    "main": ["SPLATOON2"],
+    "expansions": ["OE"]
+  },
+
+  "octowasher": {
+    "name": "Octowasher",
+    "type": "enemy",
+    "debut": "06/14/2018",
+    "main": ["SPLATOON3"],
+    "expansions": ["OE"]
+  },
+  "octohopper": {
+    "name": "Octohopper",
+    "type": "enemy",
+    "variants": ["Fuzzy Octohopper"],
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "octodisco": {
+    "name": "Octodisco",
+    "type": "enemy",
+    "variants": ["Fuzzy Octodisco"],
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "master_nega": {
+    "name": "Master Nega",
+    "type": "boss",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+  "big_man": {
+    "name": "Big Man",
+    "type": "boss",
+    "debut": "09/09/2022",
+    "main": ["SPLATOON3"]
+  },
+
+  "chum": {
+    "name": "Chum",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"],
+    "mobile": ["NT"]
+  },
+  "cohock": {
+    "name": "Cohock",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "scrapper": {
+    "name": "Scrapper",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "stinger": {
+    "name": "Stinger",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "fish_stick": {
+    "name": "Fish Stick",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "slammin'_lid": {
+    "name": "Slammin' Lid",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "steelhead": {
+    "name": "Steelhead",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "big_shot": {
+    "name": "Big Shot",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "steel_eel": {
+    "name": "Steel Eel",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "flyfish": {
+    "name": "Flyfish",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "drizzler": {
+    "name": "Drizzler",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "flipper-flopper": {
+    "name": "Flipper-flopper",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "maws": {
+    "name": "Maws",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "goldie": {
+    "name": "Goldie",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "tong_chum": {
+    "name": "Tong Chum",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "tong_cohock": {
+    "name": "Tong Cohock",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "spring_chum": {
+    "name": "Spring Chum",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "sparky": {
+    "name": "Sparky",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "spinook": {
+    "name": "Spinook",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "bomb_cohock": {
+    "name": "Bomb Cohock",
+    "type": "enemy",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+
+  "salty_tongue": {
+    "name": "Salty Tongue",
+    "type": "boss",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "salivator": {
+    "name": "Salivator",
+    "type": "boss",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  },
+  "smoker": {
+    "name": "Smoker",
+    "type": "boss",
+    "debut": "07/23/2016",
+    "main": ["RAIDERS"]
+  }
+
+
+
+
+}

@@ -114,7 +114,8 @@
       "mobile": [
         "POKEMATE",
         "CAMP",
-        "PLAYHOUSE"
+        "PLAYHOUSE",
+        "NM"
       ],
       "others": [
         "PP",
@@ -407,7 +408,8 @@
       ],
       "mobile": [
         "POKEMATE",
-        "CAMP"
+        "CAMP",
+        "NM"
       ],
       "others": [
         "TA",
@@ -565,7 +567,8 @@
       "mobile": [
         "POKEMATE",
         "CAMP",
-        "PLAYHOUSE"
+        "PLAYHOUSE",
+        "NM"
       ],
       "others": [
         "TA",
@@ -869,7 +872,8 @@
       ],
       "mobile": [
         "POKEMATE",
-        "CAMP"
+        "CAMP",
+        "NM"
       ],
       "others": [
         "TA",
@@ -1059,7 +1063,8 @@
       "mobile": [
         "POKEMATE",
         "CAMP",
-        "PLAYHOUSE"
+        "PLAYHOUSE",
+        "NM"
       ],
       "others": [
         "TA",
@@ -1341,7 +1346,8 @@
       ],
       "mobile": [
         "POKEMATE",
-        "CAMP"
+        "CAMP",
+        "NM"
       ],
       "others": [
         "PP",
@@ -1695,7 +1701,8 @@
         "PMB"
       ],
       "mobile": [
-        "POKEMATE"
+        "POKEMATE",
+        "NM"
       ],
       "others": [
         "TA",
@@ -2146,7 +2153,8 @@
         "PMB"
       ],
       "mobile": [
-        "POKEMATE"
+        "POKEMATE",
+        "NM"
       ],
       "others": [
         "TA",
@@ -3266,7 +3274,8 @@
         "CAMP",
         "D?PB",
         "PLAYHOUSE",
-        "PWH"
+        "PWH",
+        "NM"
       ],
       "others": [
         "TA",
@@ -11864,7 +11873,8 @@
       ],
       "mobile": [
         "POKEMATE",
-        "CAMP"
+        "CAMP",
+        "NM"
       ],
       "others": [
         "TA",
@@ -16514,7 +16524,8 @@
       ],
       "mobile": [
         "POKEMATE",
-        "CAMP"
+        "CAMP",
+        "NM"
       ],
       "others": [
         "CONQUEST",
@@ -18026,7 +18037,8 @@
       ],
       "mobile": [
         "POKEMATE",
-        "PLAYHOUSE"
+        "PLAYHOUSE",
+        "NM"
       ],
       "others": [
         "TA",
@@ -18173,7 +18185,8 @@
         "PMB"
       ],
       "mobile": [
-        "POKEMATE"
+        "POKEMATE",
+        "NM"
       ],
       "others": [
         "PP",
@@ -18301,7 +18314,8 @@
         "PMB"
       ],
       "mobile": [
-        "POKEMATE"
+        "POKEMATE",
+        "NM"
       ],
       "others": [
         "PP",
@@ -18432,7 +18446,8 @@
         "PMB"
       ],
       "mobile": [
-        "POKEMATE"
+        "POKEMATE",
+        "NM"
       ],
       "others": [
         "PP",
@@ -18952,7 +18967,8 @@
       ],
       "mobile": [
         "POKEMATE",
-        "D?PB"
+        "D?PB",
+        "NM"
       ],
       "others": [
         "CONQUEST",
@@ -19543,7 +19559,8 @@
       ],
       "mobile": [
         "POKEMATE",
-        "PLAYHOUSE"
+        "PLAYHOUSE",
+        "NM"
       ],
       "others": [
         "TA",
@@ -28929,7 +28946,8 @@
         "PMB"
       ],
       "mobile": [
-        "POKEMATE"
+        "POKEMATE",
+        "NM"
       ],
       "others": [
         "PP",
@@ -29044,7 +29062,8 @@
         "PMB"
       ],
       "mobile": [
-        "POKEMATE"
+        "POKEMATE",
+        "NM"
       ],
       "others": [
         "PP",
@@ -42066,7 +42085,8 @@
         "PMB"
       ],
       "mobile": [
-        "POKEMATE"
+        "POKEMATE",
+        "NM"
       ],
       "others": [
         "CONQUEST",
@@ -51380,7 +51400,8 @@
       ],
       "mobile": [
         "PST",
-        "PLAYHOUSE"
+        "PLAYHOUSE",
+        "NM"
       ],
       "advanced": [
         "ITPBSM!"
@@ -65049,7 +65070,8 @@
         "PTCGP"
       ],
       "mobile": [
-        "PLAYHOUSE"
+        "PLAYHOUSE",
+        "NM"
       ],
       "movies": [
         "PRatTofS",
@@ -68976,7 +68998,8 @@
         "PTCGP"
       ],
       "mobile": [
-        "PWH"
+        "PWH",
+        "NM"
       ],
       "anime": [
         "PMJ",
@@ -69097,7 +69120,8 @@
         "PTCGP"
       ],
       "mobile": [
-        "PWH"
+        "PWH",
+        "NM"
       ],
       "anime": [
         "PJ"
@@ -69230,7 +69254,8 @@
         "PTCGP"
       ],
       "mobile": [
-        "PWH"
+        "PWH",
+        "NM"
       ],
       "anime": [
         "PJ",
@@ -71821,6 +71846,9 @@
         "PTCGL",
         "PTCGCD",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ]
     },
     "zamazenta": {
@@ -71879,6 +71907,9 @@
         "PTCGL",
         "PTCGCD",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ]
     },
     "kubfu": {
@@ -71908,6 +71939,9 @@
         "PTCGL",
         "PTCGCD",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ]
     },
     "urshifu": {
@@ -72127,6 +72161,9 @@
         "PTCGL",
         "PTCGCD",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ]
     },
     "wyrdeer": {
@@ -72373,6 +72410,9 @@
         "PTCGL",
         "PTCGP"
       ],
+      "mobile": [
+        "NM"
+      ],
       "anime": [
         "PH"
       ]
@@ -72478,6 +72518,9 @@
         "PTCGL",
         "PTCGP"
       ],
+      "mobile": [
+        "NM"
+      ],
       "anime": [
         "PH",
         "TSfA"
@@ -72575,6 +72618,9 @@
       "trading": [
         "PTCGL",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ],
       "anime": [
         "PH",
@@ -74573,6 +74619,9 @@
       "trading": [
         "PTCGL",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ]
     },
     "scream_tail": {
@@ -75102,6 +75151,9 @@
       "trading": [
         "PTCGL",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ]
     },
     "iron_valiant": {
@@ -75128,6 +75180,9 @@
       "trading": [
         "PTCGL",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ]
     },
     "koraidon": {
@@ -75189,6 +75244,9 @@
       "trading": [
         "PTCGL",
         "PTCGP"
+      ],
+      "mobile": [
+        "NM"
       ]
     },
     "walking_wake": {

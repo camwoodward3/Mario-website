@@ -723,7 +723,7 @@
       "movies": ["TSMGM"],
       "arcade": ["MR", "BM", "SMWA"],
       "mobile": ["DMW", "LSM", "NM"],
-      "other": ["HM", "MTT2", "D&D", "MWIIU", "MNS", "M3DS", "MBR"]
+      "other": ["HM", "MTT2", "G&WG4", "D&D", "MWIIU", "MNS", "M3DS", "MBR"]
     },
     "chargin-chuck": { 
       "name": "Chargin' Chuck",
@@ -976,7 +976,23 @@
       "mobile": ["LSM"],
       "other": ["SPP"]
     },
-
+    "reznor": {
+      "name": "Reznor",
+      "type": "boss",
+      "debut": "08/23/1991",
+      "main": ["SMW", "SMA2", "NSBM2"],
+      "other": ["MWIIU", "M3DS", "MNS", "MBR"]
+    },
+    "big_boo": {
+      "name": "Big Boo",
+      "type": "boss",
+      "main": ["SMW", "SMW2", "SM64", "LM", "SMA2", "SMA3", "SMS", "SMA4", "SM64DS", "YTT", "YIDS", "SMG", "NSMBW", "SMG2", "SM3DL", "NSMB2", "NSMBU", "LM2", "NSLU", "SM3DW", "YNI", "CTTT", "SMM", "SMM3DS", "CTTTNS", "CTTTNS", "LM3DS", "SMM2", "SM3DAS", "BF", "LM2HD", "SMG1+2"],
+      "party": ["MPE"],
+      "sports": ["MGWT", "MSS", "MTA"],
+      "rpg": ["SMRPG", "PMTTYD", "SPM", "PMSS", "MQ", "BJJ", "SMRPGNS", "PMTTYDNS"],
+      "other": ["YS", "HM", "MFUN", "G&WG4", "DDR", "SPP"],
+      "shows": ["SMWS"]
+    },  
 
     "kritter": {
       "name": "Kritter",
@@ -1965,6 +1981,43 @@
       "party": ["MP10"],
       "rpg": ["PMSS"]
     },
+    "whomp_king": {
+      "name": "Whomp King",
+      "type": "boss",
+      "debut": "09/30/1996",
+      "main": ["SM64", "SM64DS", "SMG2", "SMG1+2"],
+      "party": ["MP3"],
+      "mobile": ["DMW"]
+
+    },
+    "big_mr_i": {
+      "name": "Big Mr. I.",
+      "type": "boss",
+      "debut": "09/30/1996",
+      "main": ["SM64", "SM64DS", "SM3DAS"]
+    },
+    "big_bully":{
+      "name": "Big Bully",
+      "type": "boss",
+      "debut": "09/30/1996",
+      "main": ["SM64", "SM64DS"]
+    },
+    "eyerok": {
+      "name": "Eyerok",
+      "type": "boss",
+      "debut": "09/30/1996",
+      "main": ["SM64", "SM64DS", "SM3DAS"],
+      "kart": ["MKDS"]
+    },
+    "chill_bully": {
+      "name": "Chill Bully",
+      "type": "boss",
+      "debut": "09/30/1996",
+      "main": ["SM64", "SM64DS", "SM3DAS"],
+      "kart": ["MKW"],
+      "sports": ["MG64"]
+
+    },
 
     "bazuka": {
       "name": "Bazuka",
@@ -2159,6 +2212,7 @@
       "debut": "11/18/1996",
       "main": ["DKC3", "DKL3", "DKC3GBA"]
     },
+
 
     "air_bag": {
       "name": "Air Bag",
@@ -2796,6 +2850,61 @@
       "main": ["SMS", "SMG", "SM3DAS", "SMG1+2"],
       "kart": ["MKDD", "MKWII", "MKW"]
     },
+    
+    "proto_piranha": {
+      "name": "Proto Piranha",
+      "type": "boss",
+      "colors": ["orange", "brown", "black"],
+      "debut": "08/19/2002",
+      "main": ["SMS", "SM3DAS"],
+      "sports": ["MGAT", "MPT", "MPTWII", "MTF"]
+    },
+    "shadow_mario": {
+      "name": "Shadow Mario",
+      "type": "boss",
+      "debt": "08/19/2002",
+      "main": ["SMS", "SM3DAS"],
+      "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+      "sports": ["MGTT", "MGAT"]
+    },
+    "plungelo": {
+      "name": "Plungelo",
+      "type": "boss",
+      "debt": "08/19/2002",
+      "main": ["SMS", "SM3DAS"]
+    },
+    "phantamanta": {
+      "name": "Phantamanta",
+      "type": "boss",
+      "debt": "08/19/2002",
+      "main": ["SMS", "SM3DAS"]
+    },
+    "gooper_blooper": {
+      "name": "Gooper Blooper",
+      "type": "boss",
+      "debt": "08/19/2002",
+      "main": ["SMS", "SM3DAS"],
+      "smash": ["SSB3DS"],
+      "sports": ["MPT", "MH303", "MSSL", "M&SATL12OG", "MPTWII", "MTA"],
+      "rpg": ["PMSS", "PMTOK"],
+      "other": ["SPP"]
+    },
+    "mecha-bowser": {
+      "name": "Mecha-Bowser",
+      "type": "boss",
+      "debt": "08/19/2002",
+      "main": ["SMS", "SMG", "SM3DAS", "SMG1+2"],
+      "kart": ["MKAGP", "MKAGP2"],
+      "party": ["MP5", "MP7", "MP9", "MPT100", "MPS"],
+      "sports": ["MPT", "MPTWII"],
+      "other": ["MWIIU", "M3DS", "MNS", "MBR"]
+    },
+    "eely-mouth": {
+      "name": "Eely-Mouth",
+      "type": "boss",
+      "debt": "08/19/2002",
+      "main": ["SMS", "SM3DAS"]
+    },
 
     "brier": {
       "name": "Brier",
@@ -3362,6 +3471,98 @@
       "debut": "11/12/2007",
       "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"]
     },
+    "dino_piranha": {
+      "name": "Dino Piranha",
+      "type": "boss",
+      "variants": ["Black Dino Piranha"],
+      "debut": "11/12/2007",
+      "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"],
+      "sports": ["M&SATL12OG"]
+    },
+    "king_kaliente": {
+      "name": "King Kaliente",
+      "type": "boss",
+      "variants": ["Black King Kaliente"],
+      "debut": "11/12/2007",
+      "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"],
+      "movies": ["TSMGM"]
+    },
+    "mandibug_stack": {
+      "name": "Mandibug Stack",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"]
+    },
+    "bugaboom": {
+      "name": "Bugaboom",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"]
+    },
+    "megaleg": {
+      "name": "Megaleg",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SM3DAS", "SMG1+2"],
+      "movies": ["TSMGM"]
+    },
+    "kamella": {
+      "name": "Kamella",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SM3DAS", "SMG1+2"]
+    },
+    "tarantox": {
+      "name": "Tarantox",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SM3DAS", "SMG1+2"]
+    },
+    "topmaniac": {
+      "name": "Topmaniac",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SM3DAS", "SMG1+2"]
+    },
+    "bouldergeist": {
+      "name": "Bouldergeist",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"]
+    },
+    "major_burrows": {
+      "name": "Major Burrows",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"]
+    },
+    "baron_brrr": {
+      "name": "Baron Brrr",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SM3DAS", "SMG1+2"],
+      "sports": ["MTF"]
+    },
+    "water_bazooka": {
+      "name": "Water Bazooka",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"]
+    },
+    "electric_bazooka": {
+      "name": "Electric Bazooka",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SMG2", "SM3DAS", "SMG1+2"]
+    },
+    "kingfin": {
+      "name": "Kingfin",
+      "type": "boss",
+      "debut": "11/12/2007",
+      "main": ["SMG", "SM3DAS", "SMG1+2"]
+    },
+
+
 
 
     "ice-bro": { 
@@ -3560,6 +3761,73 @@
       "type": "enemy",
       "debut": "05/23/2010",
       "main": ["SMG2", "NSMBU", "NSLU", "NSMBUDLC", "SMG1+2"]
+    },
+    "peewee_piranha": {
+      "name": "Peewee Piranha",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"],
+      "mobile": ["DMW"]
+    },
+    "king_lakitu": {
+      "name": "King Lakitu",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"]
+    },
+    "digga-leg": {
+      "name": "Digga-leg",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"],
+      "crossovers": ["SPMP"]
+    },
+    "gobblegut": {
+      "name": "Gobblegut",
+      "type": "boss",
+      "variants": ["Black Gobblegut"],
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"],
+      "kart": ["MK8", "MK8DLC"],
+      "rpg": ["MRKB"],
+      "movie": ["TSMGM"],
+      "other": ["MWIIU", "M3DS", "MNS", "MBR"]
+    },
+    "rollodillo": {
+      "name": "Rollodillo",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"]
+    },
+    "sorbetti": {
+      "name": "Sorbetti",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"]
+    },
+    "megahammer": {
+      "name": "Megahammer",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"]
+    },
+    "glamdozer": {
+      "name": "Glamdozer",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"]
+    },
+    "squizzard": {
+      "name": "Squizzard",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"]
+    },
+    "prince_pikante": {
+      "name": "Prince Pikante",
+      "type": "boss",
+      "debut": "05/23/2010",
+      "main": ["SMG2", "SMG1+2"]
     },
 
     "mugly": {
@@ -4448,7 +4716,7 @@
 
     "hisstocrat": { 
       "name": "Hisstocrat",
-      "type": "enemy",
+      "type": "boss",
       "debut": "11/22/2013",
       "main": ["SM3DW", "BF"],
       "sports": ["MTF"]
@@ -4534,6 +4802,31 @@
       "debut": "11/22/2013",
       "main": ["SM3DW", "CTTT", "CTTTNS", "CTTT3DS", "SMM2", "BF"],
       "party": ["MP10"]
+    },
+    "boss_brolder": {
+      "name": "Boss Brolder",
+      "type": "boss",
+      "debut": "11/22/2013",
+      "main": ["SM3DW", "BF"],
+      "sports": ["MTF"]
+    },
+    "king_ka-thunk": {
+      "name": "King Ka-thunk",
+      "type": "boss",
+      "debut": "11/22/2013",
+      "main": ["SM3DW", "BF"]
+    },
+    "prince_bully": {
+      "name": "Prince Bully",
+      "type": "boss",
+      "debut": "11/22/2013",
+      "main": ["SM3DW", "BF"]
+    },
+    "motley_bossblob": {
+      "name": "Motley Bossblob",
+      "type": "boss",
+      "debut": "11/22/2013",
+      "main": ["SM3DW", "BF"]
     },
 
     "mame-san": {
@@ -5051,6 +5344,73 @@
       "type": "enemy",
       "debut": "10/27/2017",
       "main": ["SMO"]
+    },
+    "topper": {
+      "name": "Topper",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "hariet": {
+      "name": "Hariet",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "spewart": {
+      "name": "Spewart",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "rango": {
+      "name": "Rango",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "madame_broode": {
+      "name": "Madame Broode",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "knucklotec": {
+      "name": "Knucklotec",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "torkdrift": {
+      "name": "Torkdrift",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "mechawiggler": {
+      "name": "Mechawiggler",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "mollusque-lanceur": {
+      "name": "Mollusque-Lanceur",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"]
+    },
+    "cookatiel": {
+      "name": "Cookatiel",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO", "CTTTNS", "CTTT3DS"]
+    },
+    "ruined_dragon": {
+      "name": "Ruined Dragon",
+      "type": "boss",
+      "debut": "10/27/2017",
+      "main": ["SMO"],
+      "movies": ["TSMGM"]
     },
 
     "goob": {

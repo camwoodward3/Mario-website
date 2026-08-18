@@ -2,7 +2,7 @@ import json
 import time
 
 GAME_CATEGORIES = (
-    'main', 'side', 'stadium', 'snap', 'spinoffs', 'trading', 'smash', 'rpg', 'arcade', 'mini', 'pc', 'mobile' 'others', 'crossovers', 'advanced'
+    'main', 'side', 'stadium', 'snap', 'spinoffs', 'other', 'trading', 'smash', 'rpg', 'arcade', 'mini', 'pc', 'mobile', 'others', 'crossovers', 'advanced', 'movies', 'anime'
 )
 
 def process_pokemon_data(file_path='pokemon.json', output_path='pokemon_game_counts.txt'):
@@ -68,7 +68,7 @@ def process_pokemon_data(file_path='pokemon.json', output_path='pokemon_game_cou
   print(f"Success! Processed {len(final_results)} entries in {total_time:.4f} seconds.")
   print(f"Full results saved to: {output_path}\n")
   print("--- Top 10 Preview ---")
-  for poke in final_results[:650]:
+  for poke in final_results[:700]:
     print(f"{poke['name']} - {poke['total_games']} games total")
 
 if __name__ == "__main__":

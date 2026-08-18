@@ -7,7 +7,7 @@
     "spinoff": ["KPL", "KDC", "KAV", "KBB", "KSST", "KTNT", "KAR", "KCC", "KEY", "KMA", "DDDD", "KFD", "KATRC", "TKCD", "KBLB", "KBR", "SKC", "KEEY", "KF2", "KDB", "KARS"],
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["ARCANA", "LA", "LAGBC", "LANS", "EB", "KTB", "KS", "PS2", "NINTENDOGS",  "SPMP", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "P3DR2", "OPSGBX", "BB!", "MII16", "MII21", "BBBT", "TNTDNF"]
   },
    
@@ -19,7 +19,7 @@
     "spinoff": ["KPL", "KAV", "KBB", "KSST", "KTNT", "KAR", "KCC", "KEY", "KMA", "DDDD", "KBLB", "KBR", "KEEY", "SKC", "KF2", "KDB", "KARS"],
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["KTB", "M&LSS", "SPMP", "SG", "SMM", "YWW", "SMM3DS", "P&YWW", "P3DR2", "BBBT"]
   },
   "meta_knight": {
@@ -30,7 +30,7 @@
     "spinoff": ["KPL", "KDC", "KAV", "KSST", "KAR", "KCC", "KEY", "KMA", "KATRC", "KEEY", "SKC", "KF2", "KARS"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP", "P3DR2", "BBBT", "SMM", "YWW", "SMM3DS", "P&YWW"]
   },
   "nightmare": {
@@ -38,7 +38,8 @@
     "type": "antagonist",
     "debut": "05/01/1993",
     "main": ["KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
-    "smash": ["SSB3DS", "SSBWIIU", "SSBU"]
+    "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
+    "mobile": ["NM"]
   },
   "rick": {
     "name": "Rick",
@@ -48,7 +49,8 @@
     "spinoff": ["KSST", "KCC", "KMA", "KFD", "KATRC", "TKCD", "KBR", "SKC", "KF2", "KDB", "KARS"],
     "smash": ["SSBM", "SSBU"],
     "shows": ["KRBAY"],
-    "other": ["KTB", "SPMP"]
+    "other": ["KTB", "SPMP"],
+    "mobile": ["NM"]
   },
   "kine": {
     "name": "Kine",
@@ -58,7 +60,8 @@
     "spinoff": ["KSST", "KCC", "KMA", "KFD", "KATRC", "TKCD", "KBR", "SKC", "KF2", "KDB", "KARS"],
     "smash": ["SSBU"],
     "shows": ["KRBAY"],
-    "other": ["SPMP"]
+    "other": ["SPMP"],
+    "mobile": ["NM"]
   },
   "coo": {
     "name": "Coo",
@@ -76,7 +79,8 @@
     "debut": "05/01/1995",
     "main": ["KDL2", "KDL3", "KDCSE", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["SKC", "KF2", "KDB", "KARS"],
-    "smash": ["SSBM", "SSBU"]
+    "smash": ["SSBM", "SSBU"],
+    "mobile": ["NM"]
   },
   "dark_matter": {
     "name": "Dark Matter",
@@ -94,7 +98,7 @@
     "main": ["KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"], 
     "spinoff": ["KMA", "KATRC", "TKCD", "KBR", "KBLB", "SKC", "KF2", "KDB", "KARS"],
     "smash": ["SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP"]
 
     
@@ -106,7 +110,8 @@
     "main": ["KSS", "KTD", "KPR", "KSA"],
     "spinoff": ["KAR", "KMA", "KFD", "KBR", "SKC",  "KF2", "KDB", "KARS"],
     "smash": ["SSBB", "SSBU"],
-    "shows": ["KRBAY"]
+    "shows": ["KRBAY"],
+    "mobile": ["NM"]
 
   },
   "galactic_nova": {
@@ -139,7 +144,8 @@
     "debut": "11/27/1997",
     "main": ["KDL3", "TCS", "KDCSE", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KDB"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "chuchu": {
     "name": "ChuChu",
@@ -147,21 +153,24 @@
     "debut": "11/27/1997",
     "main": ["KDL3", "TCS", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KCC", "SKC", "KDB"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "pitch": {
     "name": "Pitch",
     "type": "supporting character",
     "debut": "11/27/1997",
     "main": ["KDL3", "TCS", "KDCSE", "KPR", "KSA", "KRTDLDX"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "zero": {
     "name": "Zero",
     "type": "antagonist",
     "debut": "11/27/1997",
     "main": ["KDL3", "KDCSE", "KPR", "KSA"],
-    "spinoff": ["KDB"]
+    "spinoff": ["KDB"],
+    "mobile": ["NM"]
   },
   "gryll": {
     "name": "Gryll",
@@ -175,14 +184,16 @@
     "name": "Ribbon",
     "type": "supporting character",
     "debut": "06/26/2000",
-    "main": ["TCS", "KDCSE", "KPR", "KSA"]
+    "main": ["TCS", "KDCSE", "KPR", "KSA"],
+    "mobile": ["NM"]
   },
   "Adeleine": {
     "name": "Adeleine",
     "type":"supporting character",
     "debut": "06/26/2000",
     "main": ["TCS", "KDCSE", "KPR", "KSA", "KRTDLDX"],
-    "spinoff": ["SKC", "KDB"]
+    "spinoff": ["SKC", "KDB"],
+    "mobile": ["NM"]
   },
   "02": {
     "name": "02",
@@ -202,7 +213,8 @@
     "type": ["supporting character", "antagonist"],
     "debut": "10/18/2004",
     "main": ["K&TAM", "KSSU", "KTD", "KPR", "KSA", "KRTDLDX"],
-    "spinoff": ["SKC", "KDB"]
+    "spinoff": ["SKC", "KDB"],
+    "mobile": ["NM"]
   },
   "dark_mind": {
     "name": "Dark Mind",
@@ -251,7 +263,8 @@
     "main": ["KPR"],
     "spinoff": ["KEY", "KEEY", "KDB"],
     "smash": ["SSBU"],
-    "other": ["SPMP"]
+    "other": ["SPMP"],
+    "mobile": ["NM"]
   },
   "yin-yarn": {
     "name": "Yin-Yarn",
@@ -274,7 +287,7 @@
     "main": ["KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["DDDD", "TKCD", "SKC", "KF2", "KDB", "KARS"],
     "smash": ["SSBWIIU", "SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "landia": {
     "name": "Landia",
@@ -290,7 +303,7 @@
     "debut": "05/02/2014",
     "main": ["KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["DDDD", "TKCD", "KBR", "SKC", "KDB", "KARS"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "queen_sectionia": {
     "name": "Queen Sectionia",
@@ -298,7 +311,8 @@
     "debut": "05/02/2014",
     "main": ["KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KBR", "SKC", "KF2"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "elline": {
     "name": "Elline",
@@ -306,7 +320,8 @@
     "debut": "02/20/2015",
     "main": ["KPR"],
     "spinoff": ["KATRC", "KF2", "KDB", "KARS"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "claycia": {
     "name": "Claycia",
@@ -328,14 +343,15 @@
     "main": ["KPR", "KSA", "KRTDLDX"],
     "spinoff": ["TKCD", "KBLB", "KBR", "SKC", "KDB", "KARS"],
     "smash": ["SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "haltmann": {
     "name": "President Haltmann",
     "type": "antagonist",
     "debut": "06/10/2016",
     "main": ["KPR", "KSA", "KRTDLDX"],
-    "spinoff": ["KDB"]
+    "spinoff": ["KDB"],
+    "mobile": ["NM"]
   },
   "star_dream": {
     "name": "Magolor",
@@ -350,7 +366,7 @@
     "main": ["KSA", "KRTDLDX"],
     "spinoff": ["SKC", "KF2", "KDB"],
     "smash": ["SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "flamberge": {
     "name": "Flamberge",
@@ -359,7 +375,7 @@
     "main": ["KSA", "KRTDLDX"],
     "spinoff": ["SKC", "KF2", "KDB"],
     "smash": ["SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "zan_partizanne": {
     "name": "Zan Partizanne",
@@ -368,14 +384,15 @@
     "main": ["KSA", "KRTDLDX"],
     "spinoff": ["SKC", "KF2", "KDB"],
     "smash": ["SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "hyness": {
     "name": "Hyness",
     "type": "antagonist",
     "debut": "03/16/2018",
     "main": ["KSA", "KRTDLDX"],
-    "spinoff": ["SKC"]
+    "spinoff": ["SKC"],
+    "mobile": ["NM"]
   },
   "void_termina": {
     "name": "Void Termina",
@@ -389,7 +406,8 @@
     "type": "antagonist",
     "debut": "03/16/2018",
     "main": ["KSA", "KATFL", "KRTDLDX", "SCW"],
-    "spinoff": ["SKC", "KDB"]
+    "spinoff": ["SKC", "KDB"],
+    "mobile": ["NM"]
   },
   "paallel_nightmare": {
     "name": "Paallel Nightmare",
@@ -403,7 +421,7 @@
     "debut": "03/25/2022",
     "main": ["KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KDB", "KARS"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "clawroline": {
     "name": "Clawroline",
@@ -417,13 +435,15 @@
     "type": "antagonist",
     "debut": "03/25/2022",
     "main": ["KATFL", "KRTDLDX", "SCW"],
-    "spinoff": ["KDB"]
+    "spinoff": ["KDB"],
+    "mobile": ["NM"]
   },
   "fecto_forgo": {
     "name": "Fecto Forgo",
     "type": "antagonist",
     "debut": "03/25/2022",
-    "main": ["KATFL", "SCW"]
+    "main": ["KATFL", "SCW"],
+    "mobile": ["NM"]
   },
   "starry": {
     "name": "Starry",
@@ -432,7 +452,7 @@
     "main": ["SCW"]
   },
   "genwel_meteonelfilis": {
-    "name": "Genwel Meteonelfillis",
+    "name": "Genwel Meteonelfilis",
     "type": "antagonist",
     "debut": "08/28/2025",
     "main": ["SCW"]

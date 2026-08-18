@@ -89,7 +89,7 @@
   },
   "aquamentus": {
     "name": "Aquamentus",
-    "type": "enemy",
+    "type": "boss",
     "debut": "02/21/1986",
     "main": ["TLoZ"],
     "shows": ["TLoZ"],
@@ -139,7 +139,7 @@
   },
   "digdogger": {
     "name": "Digdogger",
-    "type": "enemy",
+    "type": "boss",
     "variants": ["Mini Digdogger"],
     "debut": "02/21/1986",
     "main": ["TLoZ", "OoS"]
@@ -173,7 +173,7 @@
   },
   "gleeok": {
     "name": "Gleeok",
-    "type": "enemy",
+    "type": "boss",
     "variants": ["Gleeok Head", "Flame Gleeok", "Frost Gleeok", "Thunder Gleeok", "King Gleeok"],
     "debut": "02/21/1986",
     "main": ["TLoZ", "PH", "TOTK", "TOTKNS"],
@@ -182,7 +182,7 @@
   },
   "gohma": {
     "name": "Gohma",
-    "type": "enemy",
+    "type": "boss",
     "variants": ["Gohma Larva", "Baby Gohma", "Young Gohma"],
     "debut": "02/21/1986",
     "main": ["TLoZ", "LA", "LAGBC", "OoT", "OoS", "TWW", "FSA", "TP", "OoT3D", "TWWHD", "LANS", "EOW"],
@@ -226,7 +226,7 @@
   },
   "manhandla": {
     "name": "Manhandla", 
-    "type": "enemy",
+    "type": "boss",
     "variants": ["Big Manhandla", "Manhandla Stalk"],
     "debut": "02/21/1986",
     "main": ["TLoZ"],
@@ -332,6 +332,7 @@
     "main": ["TAoL"],
     "shows": ["TLoZ"]
   },
+
 
   "acheman": {
     "name": "Acheman",

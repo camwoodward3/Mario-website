@@ -7,7 +7,8 @@
     "spinoffs": ["FEH", "FEW"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["STEAM", "DL", "FEC"],
-    "crossovers": ["SPMP", "OPSGBX", "MHG", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWMI"]
+    "crossovers": ["SPMP", "OPSGBX", "MHG", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWMI"],
+    "mobile": ["NM"]
   },
   "abel": {
     "name": "Abel",
@@ -571,7 +572,8 @@
     "class": "Archer",
     "debut": "03/14/1992",
     "main": ["FEG", "FEESoV"],
-    "spinoffs": ["FEH"]
+    "spinoffs": ["FEH"],
+    "mobile": ["NM"]
   },
   "atlas": {
     "name": "Atlas",
@@ -704,7 +706,8 @@
     "main": ["FEGotHW", "FEA", "FEE"],
     "spinoffs": ["FEH"],
     "smash": ["SSBU"],
-    "other": ["FEC"]
+    "other": ["FEC"],
+    "mobile": ["NM"]
   },
   "naoise": {
     "name": "Naoise",
@@ -1017,7 +1020,8 @@
     "main": ["FEGotHW", "FET776", "FEA", "FEE"],
     "spinoffs": ["FEH"],
     "smash": ["SSBU"],
-    "other": ["FETCG", "FEC"]
+    "other": ["FETCG", "FEC"],
+    "mobile": ["NM"]
   },
   "nanna": {
     "name": "Nanna",
@@ -1498,7 +1502,8 @@
     "spinoffs": ["FEH"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["FEC"],
-    "crossovers": ["P&YWW"]
+    "crossovers": ["P&YWW"],
+    "mobile": ["NM"]
   },
   "marcus": {
     "name": "Marcus",
@@ -1784,7 +1789,8 @@
     "debut": "03/29/2002",
     "main": ["FETBB", "FEA", "FEE"],
     "spinoffs": ["FEH"],
-    "smash": ["SSBU"]
+    "smash": ["SSBU"],
+    "mobile": ["NM"]
   },
   "sophia": {
     "name": "Sophia",
@@ -1947,7 +1953,8 @@
     "main": ["FETBLB", "FEA", "FEE"],
     "spinoffs": ["FEH", "FEW", "FES"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["FEC"]
+    "other": ["FEC"],
+    "mobile": ["NM"]
   },
   "sain": {
     "name": "Sain",
@@ -2217,7 +2224,8 @@
     "main": ["FETSS", "FEA", "FEE"],
     "spinoffs": ["FEH"],
     "smash": ["SSBB", "SSBU"],
-    "other": ["FEC"]
+    "other": ["FEC"],
+    "mobile": ["NM"]
   },
   "seth": {
     "name": "Seth",
@@ -2524,7 +2532,8 @@
     "spinoffs": ["FEH", "FES"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["STEAM", "FEC"],
-    "crossovers": ["SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"]
+    "crossovers": ["SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"],
+    "mobile": ["NM"]
   },
   "boyd": {
     "name": "Boyd",
@@ -2913,7 +2922,8 @@
     "main": ["FERD", "FEA", "FEE"],
     "spinoffs": ["FEH"],
     "smash": ["SSBB", "SSBU"],
-    "other": ["FEC"]
+    "other": ["FEC"],
+    "mobile": ["NM"]
   },
   "edward": {
     "name": "Edward",
@@ -3139,7 +3149,8 @@
     "spinoffs": ["FEH", "FEW", "FES"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["STEAM", "FEC"],
-    "crossovers": ["SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"]
+    "crossovers": ["SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"],
+    "mobile": ["NM"]
   },
   "chrom": {
     "name": "Chrom",
@@ -3149,7 +3160,8 @@
     "spinoffs": ["TMSFE", "FEH", "FEW"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["PXZ2", "DL", "FEC"],
-    "crossovers": ["WWG"]
+    "crossovers": ["WWG"],
+    "mobile": ["NM"]
   },
   "lissa": {
     "name": "Lissa",
@@ -3157,7 +3169,8 @@
     "debut": "04/19/2012",
     "main": ["FEA", "FEF"],
     "spinoffs": ["FEH", "FEW"],
-    "smash": ["SSB3DS", "SSBU"]
+    "smash": ["SSB3DS", "SSBU"],
+    "mobile": ["NM"]
   },
   "frederick": {
     "name": "Frederick",
@@ -3326,7 +3339,8 @@
     "spinoffs": ["FEH", "FEW"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["STEAM", "PXZ2", "FEC"],
-    "crossovers": ["SMM", "YWW", "SMM3DS", "P&YWW"]
+    "crossovers": ["SMM", "YWW", "SMM3DS", "P&YWW"],
+    "mobile": ["NM"]
   },
   "say'ri": {
     "name": "Say'ri",
@@ -3502,7 +3516,8 @@
     "spinoffs": ["FEH", "FEW", "FES"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["FEC"],
-    "crossovers": ["P&YWW", "WWMI"]
+    "crossovers": ["P&YWW", "WWMI"],
+    "mobile": ["NM"]
   },
   "gunter": {
     "name": "Gunter",
@@ -4546,7 +4561,8 @@
     "spinoffs": ["FEH", "FEWTH"],
     "smash": ["SSBU"],
     "other": ["FEC"],
-    "crossovers": ["WWMI"]
+    "crossovers": ["WWMI"],
+    "mobile": ["NM"]
   },
   "edelgard": {
     "name": "Edelgard",
@@ -4865,7 +4881,8 @@
     "class": "Dragon Child",
     "debut": "01/20/2023",
     "main": ["FEE"],
-    "spinoffs": ["FEH"]
+    "spinoffs": ["FEH"],
+    "mobile": ["NM"]
   },
   "vander": {
     "name": "Vander",
@@ -4892,7 +4909,8 @@
     "class": "Noble",
     "debut": "01/20/2023",
     "main": ["FEE"],
-    "spinoffs": ["FEH"]
+    "spinoffs": ["FEH"],
+    "mobile": ["NM"]
   },
   "etie": {
     "name": "Etie",
@@ -4962,7 +4980,8 @@
     "class": "Lord",
     "debut": "01/20/2023",
     "main": ["FEE"],
-    "spinoffs": ["FEH"]
+    "spinoffs": ["FEH"],
+    "mobile": ["NM"]
   },
   "amber": {
     "name": "Amber",
@@ -4982,7 +5001,8 @@
     "class": "Wing Tamer",
     "debut": "01/20/2023",
     "main": ["FEE"],
-    "spinoffs": ["FEH"]
+    "spinoffs": ["FEH"],
+    "mobile": ["NM"]
   },
   "kagestu": {
     "name": "Kagestu",
@@ -5023,7 +5043,8 @@
     "class": "Sentinel",
     "debut": "01/20/2023",
     "main": ["FEE"],
-    "spinoffs": ["FEH"]
+    "spinoffs": ["FEH"],
+    "mobile": ["NM"]
   },
   "panette": {
     "name": "Panette",

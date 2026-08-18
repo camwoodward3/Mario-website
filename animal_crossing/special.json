@@ -7,6 +7,7 @@
     "expansions": ["WA", "PPH"],
     "spinoffs": ["HHD", "AF", "PC", "CPC"],
     "software": ["PLAZA"],
+    "mobile": ["NM"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["WWSM", "SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG"]
   },
@@ -19,7 +20,7 @@
     "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
     "software": ["CALCULATOR_DS", "CALCULATOR_3DS", "PLAZA", "PHOTOS"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "KPR", "SMM3DS", "P&YWW", "H!P", "TNTATD", "MII16", "WWG", "MII21"]
   },
   "timmy_&_tommy": {
@@ -31,7 +32,7 @@
     "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
   "beppe": {
@@ -59,7 +60,7 @@
     "spinoffs": ["FILM", "AF"],
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP", "MK8", "MK8DLC", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
 
   },
@@ -82,7 +83,7 @@
     "software": ["PLAZA", "PHOTOS"],
     "spinoffs": ["FILM"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["CNB+"]
   },
   "c.j.": {
@@ -190,6 +191,7 @@
     "expansions": ["WA", "PPH"],
     "spinoffs": ["HHD"],
     "software": ["PLAZA"],
+    "mobile": ["NM"],
     "smash": ["SSBWIIU", "SSBU"]
   },
   "dr.shrunk": {
@@ -277,7 +279,7 @@
     "spinoffs": ["FILM"],
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSB3DS"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
 
   },
   "harriet": {
@@ -308,7 +310,7 @@
     "spinoffs": ["HHD", "AF", "PC", "CPC"],
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "SSFF", "TNTATD", "MH4U", "MII16", "P&YWW", "H!P", "SSSS", "WWG", "MII21", "JRC"]
   },
   "jack": {
@@ -320,7 +322,7 @@
     "spinoffs": ["PC", "CPC"],
     "software": ["PLAZA"],
     "smash": ["SSBWIIU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
 
   },
   "jingle": {
@@ -330,7 +332,8 @@
     "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
     "expansions": ["WA", "PPH"],
     "software": ["PLAZA"],
-    "smash": ["SSBWIIU"]
+    "smash": ["SSBWIIU"],
+    "mobile": ["NM"]
   },
   "joan": {
     "name": "Joan",
@@ -360,6 +363,7 @@
     "expansions": ["WA", "PPH"],
     "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
     "software": ["PLAZA", "PHOTOS"],
+    "mobile": ["NM"],
     "smash": ["SSBB", "SSB3DS", "SSBU"],
     "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
@@ -381,7 +385,7 @@
     "main": ["DnM", "iQue", "DnM+", "AC", "DnMe+", "CF", "NL",  "NH", "NHNS2"],
     "expansions": ["WA", "PPH"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "kicks": {
     "name": "Kicks",
@@ -406,7 +410,7 @@
     "software": ["CALCULATOR_DS", "CALCULATOR_3DS", "CLOCK_DS", "CLOCK_3DS", "PLAZA", "PHOTOS"],
     "smash": ["SSBM", "SSBB", "SSBWIIU", "SSBU"],
     "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "label": {
     "name": "Label",
@@ -417,7 +421,7 @@
     "spinoffs": ["PC", "CPC"],
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP"]
 
   },
@@ -466,7 +470,7 @@
     "expansions": ["WA", "HHP"],
     "spinoffs": ["HHD", "AF", "PC", "CPC"],
     "smash": ["SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "SSFF", "WWG"]
   },
   "luna": {
@@ -498,7 +502,7 @@
     "spinoffs": ["FILM", "HHD", "AF", "PC", "CPC"],
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
   },
   "mr.resetti": {
@@ -509,6 +513,7 @@
     "expansions": ["WA", "PPH"],
     "spinoffs": ["FILM", "HHD", "AF"],
     "software": ["PLAZA"],
+    "mobile": ["NM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["CNB", "MK8", "MK8DLC", "SMM", "SMM3DS", "MH4U", "P&YWW", "MII16", "P&YWW", "H!P", "WWG", "MII21"]
   },
@@ -535,7 +540,7 @@
     "debut": "03/20/2020",
     "main": ["NH"],
     "smash": ["SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "pascal": {
     "name": "Pascal",
@@ -546,7 +551,7 @@
     "spinoffs": ["FILM", "HHD"],
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSBWIIU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "pave": {
     "name": "Pave",
@@ -555,7 +560,8 @@
     "main": ["CF", "NL",  "NH", "NHNS2"],
     "expansions": ["WA", "PPH"],
     "software": ["PLAZA"],
-    "smash": ["SSB3DS"]
+    "smash": ["SSB3DS"],
+    "mobile": ["NM"]
 
   },
   "pelly": {
@@ -621,6 +627,7 @@
     "expansions": ["WA", "PPH"],
     "spinoffs": ["FILM", "HHD"],
     "software": ["PLAZA"],
+    "mobile": ["NM"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
   },
   "reese": {
@@ -656,7 +663,7 @@
     "spinoffs": ["FILM", "HHD", "PC", "CPC"],
     "software": ["PHOTOS"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "mobile": ["NT"],
+    "mobile": ["NT", "NM"],
     "other": ["SPMP"]
   },
   "saharah": {
@@ -668,7 +675,7 @@
     "spinoffs": ["FILM", "HHD"],
     "software": ["CLOCK_DS", "CLOCK_3DS"],
     "smash": ["SSBB", "SSBWIIU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "serena": {
     "name": "Serena",
@@ -747,7 +754,7 @@
     "debut": "03/20/2020",
     "main": ["NH"],
     "smash": ["SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT", "NM"]
   },
   "wisp": {
     "name": "Wisp",
@@ -766,6 +773,7 @@
     "main": ["CF", "NL",  "NH", "NHNS2"],
     "expansions": ["WA", "PPH"],
     "software": ["PLAZA"],
-    "smash": ["SSB3DS", "SSBU"]
+    "smash": ["SSB3DS", "SSBU"],
+    "mobile": ["NM"]
   } 
 }

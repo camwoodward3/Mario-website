@@ -3236,7 +3236,8 @@
     "class": "Divine Dragon",
     "debut": "01/20/2023",
     "main": ["FEE"],
-    "spinoffs": ["FEH"]
+    "spinoffs": ["FEH"],
+    "mobile": ["NM"]
   },
   "abyme": {
     "name": "Abyme",
@@ -3278,7 +3279,8 @@
     "name": "Veyle",
     "class": "Fell Child",
     "debut": "01/20/2023",
-    "main": ["FEE"]
+    "main": ["FEE"],
+    "mobile": ["NM"]
   },
   "zephia": {
     "name": "Zephia",

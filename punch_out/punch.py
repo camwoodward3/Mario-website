@@ -1,22 +1,22 @@
 import json
 import time
 
-ALLOWED_TYPES = {'protagonist', 'ally', 'boss', 'enemy'}
-GAME_CATEGORIES = ('main', 'spinoffs', 'online', 'other', 'smash', 'crossovers', 'movies', 'mobile')
+ALLOWED_TYPES = {'playable', 'opponent', 'non-boxer'}
+GAME_CATEGORIES = ('main', 'spinoffs', 'crossovers', 'smash')
 
-def process_pikmin_data(file_path='pikmin.json'):
+def process_punch_data(file_path='punch.json'):
   start_time = time.perf_counter()
 
   try:
     with open(file_path, 'r') as file:
-      pikmin_data = json.load(file)
+      punch_data = json.load(file)
   except FileNotFoundError:
     print(f"Error: {file_path} not found.")
     return
 
   final_results = []
 
-  for character_key, character_data in pikmin_data.items():
+  for character_key, character_data in punch_data.items():
     if not isinstance(character_data, dict):
       continue
 
@@ -50,4 +50,4 @@ def process_pikmin_data(file_path='pikmin.json'):
   print(f"Total entries aggregated: {len(final_results)}")
 
 if __name__ == "__main__":
-  process_pikmin_data()
+  process_punch_data()
