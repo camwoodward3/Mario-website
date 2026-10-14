@@ -9,7 +9,8 @@
     "other": ["NL", "PSM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "crossovers": ["LM", "WWDIY", "SPMP", "MK8", "AHL+", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "WWG", "WWMI"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH"]
   },
   "louie": {
     "name": "Louie",
@@ -102,11 +103,12 @@
     "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
     "spinoffs": ["H!P", "BLOOM"],
     "online": ["SPACEFORCE", "FINDER", "GARDEN"],
-    "other": ["NL", "PWP", "PSM"],
+    "other": ["NL", "PWP", "NBA", "PSM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "crossovers": ["LM", "MGTT", "DKA2", "WWSM", "CF", "WWDIY", "NL", "AHL+", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "WWG", "WWGIT", "WWMI", "MAPP"],
     "movies": ["TSMGM"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["SMASH", "PIKMIN"]
   },
   "yellow_pikmin": {
     "name": "Yellow Pikmin",
@@ -115,11 +117,12 @@
     "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
     "spinoffs": ["H!P", "BLOOM"],
     "online": ["SPACEFORCE", "FINDER", "GARDEN"],
-    "other": ["NL", "PWP", "PSM"],
+    "other": ["NL", "PWP", "NBA", "PSM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "crossovers": ["LM", "MGTT", "DKA2", "WW", "WWSM", "NL", "AHL+",  "SMM", "YWW", "SMM3DS", "P&YWW", "WWGIT", "MAPP"],
     "movies": ["TSMGM"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["SMASH", "PIKMIN"]
   },
   "blue_pikmin": {
     "name": "Blue Pikmin",
@@ -128,11 +131,12 @@
     "main": ["PIKMIN", "PIKMIN2", "PIKMIN_WII", "PIKMIN2_WII", "PIKMIN3", "PIKMIN3DX", "PIKMIN_NS", "PIKMIN2_NS", "PIKMIN4"],
     "spinoffs": ["H!P", "BLOOM"],
     "online": ["SPACEFORCE", "FINDER", "GARDEN"],
-    "other": ["NL", "PWP", "PSM"],
+    "other": ["NL", "PWP", "NBA", "PSM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "crossovers": ["LM", "MGTT", "DKA2", "WW", "WWSM", "CF", "NL", "AHL+", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWGIT", "MAPP"],
     "movies": ["TSMGM"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["SMASH", "PIKMIN"]
   },
   "purple_pikmin": {
     "name": "Purple Pikmin",
@@ -167,7 +171,8 @@
     "online": ["FINDER", "GARDEN"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "crossovers": ["NL", "MAPP"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["PIKMIN"]
   },
   "winged_pikmin": {
     "name": "Winged Pikmin",
@@ -178,7 +183,8 @@
     "online": ["FINDER", "GARDEN"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "crossovers": ["NL", "MAPP"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["PIKMIN"]
   },
   "ice_pikmin": {
     "name": "Ice Pikmin",

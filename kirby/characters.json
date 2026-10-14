@@ -8,7 +8,8 @@
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
     "mobile": ["NT", "NM"],
-    "other": ["ARCANA", "LA", "LAGBC", "LANS", "EB", "KTB", "KS", "PS2", "NINTENDOGS",  "SPMP", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "P3DR2", "OPSGBX", "BB!", "MII16", "MII21", "BBBT", "TNTDNF"]
+    "other": ["ARCANA", "LA", "LAGBC", "LANS", "EB", "KTB",  "PNPVOL3", "KS", "PS2", "NINTENDOGS", "AR", "SPMP", "MK8", "SMM", "YWW", "SMM3DS", "P&YWW", "MK8DLC", "P3DR2", "OPSGBX", "BB!", "MII16", "MII21", "BBBT", "TNTDNF", "PTUFO"],
+    "amiibo": ["SMASH", "KIRBY"]
   },
    
   "king_dedede": {
@@ -20,7 +21,8 @@
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
     "mobile": ["NT", "NM"],
-    "other": ["KTB", "M&LSS", "SPMP", "SG", "SMM", "YWW", "SMM3DS", "P&YWW", "P3DR2", "BBBT"]
+    "other": ["PNPVOL3", "KTB", "M&LSS", "SPMP", "SG", "SMM", "YWW", "SMM3DS", "P&YWW", "P3DR2", "BBBT", "PTUFO"],
+    "amiibo": ["SMASH", "KIRBY"]
   },
   "meta_knight": {
     "name": "Meta Knight",
@@ -31,7 +33,8 @@
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
     "mobile": ["NT", "NM"],
-    "other": ["SPMP", "P3DR2", "BBBT", "SMM", "YWW", "SMM3DS", "P&YWW"]
+    "other": ["PNPVOL3", "SPMP", "P3DR2", "BBBT", "SMM", "YWW", "SMM3DS", "P&YWW", "PTUFO"],
+    "amiibo": ["SMASH", "KIRBY"]
   },
   "nightmare": {
     "name": "Nightmare",
@@ -99,7 +102,7 @@
     "spinoff": ["KMA", "KATRC", "TKCD", "KBR", "KBLB", "SKC", "KF2", "KDB", "KARS"],
     "smash": ["SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["SPMP"]
+    "other": ["SPMP", "PTUFO"]
 
     
   },

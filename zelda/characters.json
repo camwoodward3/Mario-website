@@ -10,7 +10,9 @@
     "smash": ["SSB64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
     "shows": ["TLoZ"],
     "mobile": ["NT", "NM"],
-    "other": ["T", "SMB&FWIGU", "F1-RACE", "DKC2", "DKL2", "SMRPG", "MAPS", "PNP", "SC2", "G&WG4", "DKC2GBA", "SCII", "WWIMM", "DKA2", "DKA3", "WWI", "WWTW", "WWTO", "NINTENDOGS", "TDS", "WWSM", "WWDIY",  "WWG", "WWGIT", "WWMI", "CR", "B", "SPMP", "NMP", "DWVS", "TTT2", "NL", "SU", "ACNF", "MH4", "MH4U", "CNB", "SLW", "SM3DW", "MK8", "B2", "OPSGBX", "SMM", "YWW", "AHL+", "MHX", "MHS", "SMM3DS", "P&YWW", "SKYRIM", "WA", "P3DR2", "MII16", "MII21", "MK8DLC", "MHG", "MHGU", "SMM2", "BF", "MHGU", "JRC", "SMRPGNS"]
+    "other": ["T", "SMB&FWIGU", "F1-RACE", "DKC2", "DKL2", "SMRPG", "MAPS", "PNPVOL8", "SC2", "G&WG4", "DKC2GBA", "SCII", "WWIMM", "DKA2", "DKA3", "WWI", "WWTW", "WWTO", "NINTENDOGS", "TDS", "WWSM", "WWDIY",  "WWG", "WWGIT", "WWMI", "CR", "B", "SPMP", "AR", "NMP", "DWVS", "TTT2", "NL", "SU", "ACNF", "MH4", "MH4U", "CNB", "SLW", "SM3DW", "MK8", "B2", "OPSGBX", "SMM", "YWW", "NBA", "AHL+", "MHX", "MHS", "SMM3DS", "P&YWW", "SKYRIM", "WA", "P3DR2", "MII16", "MII21", "MK8DLC", "MHG", "MHGU", "SMM2", "BF", "MHGU", "JRC", "SMRPGNS"],
+    "lego": ["TGDT", "OoTTFB"],
+    "amiibo": ["SMASH", "ZELDA"]
     
   },
   "zelda": {
@@ -24,7 +26,9 @@
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
     "shows": ["TLoZ"],
     "mobile": ["NT", "NM"],
-    "other": ["DKA2", "DKA3", "PNP", "NMP", "SPMP", "TTT2", "SU", "CNB", "SMM", "YWW", "AHL+", "MII16", "P&YWW", "SSSS", "WWG", "MII21", "SMM3DS", "P&YWW"]
+    "other": ["DKA2", "DKA3", "PNPVOL4",  "PNPVOL8", "NMP", "SPMP", "TTT2", "SU", "CNB", "SMM", "YWW", "AHL+", "MII16", "P&YWW", "SSSS", "WWG", "MII21", "SMM3DS", "P&YWW"],
+    "lego": ["TGDT", "OoTTFB"],
+    "amiibo": ["SMASH", "ZELDA"]
   },
   "ganon": {
     "name": "Ganon",
@@ -35,7 +39,8 @@
     "spinoff": ["TFOE", "TWOG", "ADVENTURE", "AST", "HW", "HWL", "COH", "AOI"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["TLoZ"],
-    "other": ["NL", "SU", "WA"]
+    "other": ["PNPVOL4", "NL", "SU", "WA"],
+    "lego": ["OoTTFB"]
   },
   "impa": {
     "name": "Impa",
@@ -72,11 +77,13 @@
     "type": "antagonist",
     "species": "Gerudo",
     "debut": "11/21/1998",
-    "main": ["OoT", "TWW", "TP", "OoT3D", "TWWHD", "TPHD", "TOTK"],
+    "main": ["OoT", "TWW", "TP", "OoT3D", "TWWHD", "TPHD", "TOTK", "TOTKNS"],
     "spinoff": ["HWDE", "MNP", "HW", "HWL", "COH"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
-    "other": ["DKA2", "DKA3", "PNP", "TTT2", "SU", "SMM", "MII16", "WWG", "MII21", "SMM3DS", "P&YWW"],
-    "mobile": ["NM"]
+    "other": ["DKA2", "DKA3", "PNPVOL4", "PNPVOL8", "TTT2", "SU", "SMM", "MII16", "WWG", "MII21", "SMM3DS", "P&YWW"],
+    "mobile": ["NM"],
+    "lego": ["OoTTFB"],
+    "amiibo": ["SMASH", "ZELDA"]
   },
   "navi": {
     "name": "Navi",
@@ -85,7 +92,8 @@
     "debut": "11/21/1998",
     "main": ["OoT", "OoT3D"],
     "smash": ["SSB3DS", "SSBWIIU"],
-    "other": ["SU", "PNP"]
+    "other": ["SU", "PNPVOL4", "PNPVOL8"],
+    "lego": ["TGDT", "OoTTFB"]
   },
 
   "epona": {
@@ -97,7 +105,7 @@
     "spinoff": ["MNP", "SU"],
     "smash": ["SSBB", "SSB3DS", "SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["PNP", "SU", "MHS", "WA"]
+    "other": ["PNPVOL4", "PNPVOL8", "SU", "NBA", "MHS", "WA"]
   },
   "great-deku-tree": {
     "name": "Great Deku Tree",
@@ -105,7 +113,8 @@
     "species": "Tree/Deity",
     "debut": "11/21/1998",
     "main": ["OoT", "TWW", "OoT3D", "TWWHD", "BOTW", "TOTK", "EOW", "BOTWNS", "TOTKNS"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "lego": ["TGDT"]
   },
   "rauru": {
     "name": "Rauru",
@@ -131,7 +140,7 @@
     "main": ["OoT", "TWW", "OoT3D", "TWWHD"],
     "spinoff": ["HW", "HWDE", "HWL"],
     "smash": ["SSBU"],
-    "other": ["PNP"]
+    "other": ["PNPVOL4", "PNPVOL8"]
   },
   "ruto": {
     "name": "Princess Ruto",
@@ -141,7 +150,7 @@
     "main": ["OoT", "TWW", "OoT3D", "TWWHD"],
     "spinoff": ["HW", "HWDE", "HWL"],
     "smash": ["SSBU"],
-    "other": ["PNP"]
+    "other": ["PNPVOL4", "PNPVOL8"]
   },
   "nabooru": {
     "name": "Nabooru",
@@ -626,7 +635,8 @@
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["WWG"]
+    "other": ["WWG"],
+    "amiibo": ["ZELDA"]
   },
   "mipha": {
     "name": "Mipha",
@@ -637,7 +647,8 @@
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["WWG"]
+    "other": ["WWG"],
+    "amiibo": ["ZELDA"]
   },
   "urbosa": {
     "name": "Urbosa",
@@ -648,7 +659,8 @@
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["WWG"]
+    "other": ["WWG"],
+    "amiibo": ["ZELDA"]
   },
   "revali": {
     "name": "Revali",
@@ -659,7 +671,8 @@
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["WWG"]
+    "other": ["WWG"],
+    "amiibo": ["ZELDA"]
   },
   "yunobo": {
     "name": "Yunobo",
@@ -668,7 +681,8 @@
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["AOC"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["ZELDA"]
   },
   "sidon": {
     "name": "Sidon",
@@ -677,7 +691,8 @@
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["AOC"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["ZELDA"]
   },
   "riju": {
     "name": "Riju",
@@ -686,7 +701,8 @@
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["AOC"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["ZELDA"]
   },
   "teba": {
     "name": "Teba",
@@ -718,7 +734,8 @@
     "title": ["Musician of Korok Forest"],
     "debut": "03/03/2017",
     "main": ["BOTW", "TOTK", "BOTWNS", "TOTKNS"],
-    "spinoff": ["AOC"]
+    "spinoff": ["AOC"],
+    "lego": ["TGDT"]
   },
   "kass": {
     "name": "Kass",

@@ -1,0 +1,3039 @@
+{
+  "ball_hog": {
+    "name": "Ball Hog",
+    "type": "enemy",
+    "variants": ["Gold Tonton", "Hell Tonton"],
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH_13", "SLW", "MANIA", "MANIA+"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "batbrain": {
+    "name": "Batbrain",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH_13", "SLW", "MANIA", "MANIA+"],
+    "other": ["SJF", "SPEED"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "bomb": {
+    "name": "Bomb",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH28", "STH_13", "SLW"],
+    "other": ["SJF", "RUMBLE"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "burrobot": {
+    "name": "Burrobot",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH4.1", "STH_13", "SLW", "COLORS_ULTIMATE"],
+    "other": ["SPEED"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "buzz_bomber": {
+    "name": "Buzz Bomber",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "CHAOS", "SA2", "GENERATIONS", "STH_13", "SLW", "FORCES", "MANIA", "MANIA+", "FRONTIERS", "DREAM", "COLORS_ULTIMATE", "SXSG"],
+    "racing": ["CROSSWORLDS"],
+    "olympics": ["SAT20OG"],
+    "education": ["SSH"],
+    "other": ["SPINBALL8", "DASH2", "SRA", "SFSB", "SPEED", "RUMBLE"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "caterkiller": {
+    "name": "Caterkiller",
+    "type": "enemy",
+    "variants": ["Big Nal", "Sandworm", "Rattlekiller"],
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "S&K", "S3DB", "COLORS", "GENERATIONS", "STH4.2", "STH_13", "SLW", "MANIA", "MANIA+", "COLORS_ULTIMATE", "DREAM", "SXSG"],
+    "racing": ["TEAM", "CROSSWORLDS"],
+    "education": ["STHDIDJ"],
+    "other": ["SRA", "BLITZ", "RUMBLE"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "chopper": {
+    "name": "Chopper",
+    "type": "enemy",
+    "variants": ["Flying Chopper", "Mega Chopper", "Giant Chopper", "Bone Batabata"],
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH28", "STH3", "SA2", "COLORS_DS", "STH4.1", "GENERATIONS", "GENERATIONS_3DS", "STH_13", "SLW", "FORCES", "MANIA", "MANIA+", "COLORS_ULTIMATE", "FRONTIERS", "SXSG"],
+    "racing": ["S&ASRT", "TEAM", "CROSSWORLDS"],
+    "other": ["DASH", "SPEED", "RUMBLE"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+
+  },
+  "crabmeat": {
+    "name": "Crabmeat",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "variants": ["Missile Ganigani"],
+    "main": ["STH", "STH8", "SB", "COLORS", "GENERATIONS", "GENERATIONS_3DS", "STH_13", "SLW", "MANIA", "MANIA+", "COLORS_ULTIMATE", "FRONTIERS", "DREAM", "SXSG"],
+    "racing": ["TEAM"],
+    "other": ["DASH", "SJF", "DASH2", "SRA", "SPEED"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "jaws": {
+    "name": "Jaws",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH4.1", "STH_13", "SLW"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+"]
+  },
+  "moto_bug": {
+    "name": "Moto Bug",
+    "type": "enemy",
+    "variants": ["Black Moto Bug"],
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH4.1", "COLORS", "GENERATIONS", "GENERATIONS_3DS", "STH_13", "SLW", "MANIA", "FORCES", "MANIA+", "FORCES", "COLORS_ULTIMATE", "FRONTIERS", "DREAM", "SXSG"],
+    "racing": ["CROSSWORLDS"],
+    "olympics": ["M&SATR16OG3DS", "SAT20OG"],
+    "education": ["SSH"],
+    "other": ["DASH", "DASH2", "SRA", "SPEED", "TMOSTH", "BLITZ"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+"]
+  },
+  "newtron": {
+    "name": "Newtron",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH28", "STH4.1", "GENERATIONS_3DS", "STH_13", "SLW", "MANIA", "MANIA+"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+"]
+  },
+  "orbinaut": {
+    "name": "Orbinaut",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "variants": ["Unidus", "Uni Uni", "Gohla", "Big Gohla"],
+    "main": ["STH", "STH8", "STH2", "STH3", "SB", "SA", "SADXDC", "SA2", "ADVANCE2", "STH4.1", "STH_13", "STH2_13", "SLW", "MANIA", "MANIA+"],
+    "other": ["SPEED"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC"]
+  },
+  "roller": {
+    "name": "Roller",
+    "type": "enemy",
+    "variants": ["Roller Mk. II"],
+    "debut": "06/23/1991",
+    "main": ["STH", "STH_13", "MANIA+"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+"]
+  },
+
+  "spikes": {
+    "name": "Spikes",
+    "type": "enemy",
+    "debut": "06/23/1991",
+    "main": ["STH", "STH8", "STH4.2", "STH_13", "SLW"],
+    "other": ["DASH"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+"]
+  },
+
+  "asteron": {
+    "name": "Asteron",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "STH4.1", "STH2_13", "MANIA", "MANIA+"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "aquis": {
+    "name": "Aquis",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "SB", "STH2_13", "SLW", "MANIA+"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "balkiry": {
+    "name": "Balkiry",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "STH4.2", "STH2_13", "SLW", "FORCES"],
+    "other": ["SRA"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "buzzer": {
+    "name": "Buzzer",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "SB", "STHPA", "ADVANCE3", "STH4.1", "COLORS", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "STH2_13", "FORCES", "SXSG"],
+    "racing": ["TEAM"],
+    "education": ["STHDIDJ"],
+    "cafe": ["JUMP", "JUMP2"],
+    "other": ["SPP", "SJF", "BLITZ"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "chop_chop": {
+    "name": "Chop Chop",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STH4.2", "STH2_13"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "clucker": {
+    "name": "Clucker",
+    "type": "enemy",
+    "variants": ["Foot Kokeko", "Torococco"],
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "STH4.2", "STH2_13", "SLW", "MANIA", "MANIA+"],
+    "other": ["SPINBALL", "RUMBLE"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "coconuts": {
+    "name": "Coconuts",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "SB", "STHPA", "STH2_13", "SLW"],
+    "education": ["STHG", "STHDIDJ"],
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "crawl": {
+    "name": "Crawl",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STH4.1", "GENERATIONS_3DS", "STH2_13", "SLW"],
+    "other": ["SPINBALL", "RUMBLE"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "crawlton": {
+    "name": "Crawlton",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STH2_13", "SLW"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "flasher": {
+    "name": "Flasher",
+    "type": "enemy",
+    "variants": ["Flasher Mk. II"],
+    "debut": "11/24/1992",
+    "main": ["STH2", "STH2_13", "MANIA+"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "grabber": {
+    "name": "Grabbler",
+    "type": "enemy",
+    "variants": ["Laser Grabber"],
+    "debut": "11/24/1992",
+    "main": ["STH2", "GENERATIONS", "STH2_13", "SLW", "MANIA", "MANIA+", "FRONTIERS", "SXSG"],
+    "racing": ["CROSSWORLDS"],
+    "education": ["STHDIDJ"],
+    "other": ["RUMBLE"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "grounder": {
+    "name": "Grounder",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "STH2_13"],
+    "education": ["STHDIDJ"],
+    "other": ["DRMBM", "BLITZ"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "masher": {
+    "name": "Masher",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "SB", "STHPA", "STH2_13"],
+    "education": ["STHDIDJ"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "nebula": {
+    "name": "Nebula",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "STH2_13", "SLW", "FORCES"],
+    "other": ["SRA", "SPEED"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "octus": {
+    "name": "Octus",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STH2_13", "SLW", "MANIA", "MANIA+"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "rexon": {
+    "name": "Rexon",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "SB", "STH2_13", "MANIA", "MANIA+"],
+    "other": ["SPEED"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "shellcracker": {
+    "name": "Shellcracker",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "STH4.1", "STH2_13"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "slicer": {
+    "name": "Slicer",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "STH4.1", "STH2_13", "SLW"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "spiker": {
+    "name": "Spiker",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STH3", "STH2_13", "SLW"],
+    "other": ["SPEED"],
+    "compilations": ["3-IN-1", "S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "spiny": {
+    "name": "Spiny",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "COLORS", "GENERATIONS", "STH2_13", "MANIA", "MANIA+", "COLORS_ULTIMATE", "SXSG"],
+    "education": ["STHDIDJ"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "turtloids": {
+    "name": "Turtloids",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STH4.2", "STH2_13", "SLW"],
+    "other": ["SPEED"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "whisp": {
+    "name": "Whisp",
+    "type": "enemy",
+    "debut": "11/24/1992",
+    "main": ["STH2", "STHPA", "STH2_13"],
+    "compilations": ["3-IN-1", "JAM", "SCC", "SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "buton": {
+    "name": "Buton",
+    "type": "enemy",
+    "debut": "11/17/1992",
+    "main": ["STH28"]
+  },
+  "burrowbot": {
+    "name": "Burrowbot",
+    "type": "enemy",
+    "debut": "11/17/1992",
+    "main": ["STH28"]
+  },
+  "game-game": {
+    "name": "Game-Game",
+    "type": "enemy",
+    "debut": "11/17/1992",
+    "main": ["STH28"]
+  },
+  "mecha_hiyoka": {
+    "name": "Mecha Hiyoka",
+    "type": "enemy",
+    "debut": "11/17/1992",
+    "main": ["STH28", "CHAOS", "STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "new_motora": {
+    "name": "Mew Motora",
+    "type": "enemy",
+    "debut": "11/17/1992",
+    "main": ["STH28"]
+  },
+  "taraban": {
+    "name": "Taraban",
+    "type": "enemy",
+    "debut": "11/17/1992",
+    "main": ["STH28"]
+  },
+  "zaririn": {
+    "name": "Zaririn",
+    "type": "enemy",
+    "debut": "11/17/1992",
+    "main": ["STH28"]
+  },
+  "arms": {
+    "name": "Arms",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "frankly": {
+    "name": "Frankly",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "humpty": {
+    "name": "Humpty",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "davy_sprocket": {
+    "name": "Davy Sprocket",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "skweel": {
+    "name": "Skweel",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+"]
+  },
+  "dynamight": {
+    "name": "Dynamight",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "spike": {
+    "name": "Spike",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "sir_ffuzzy-logik": {
+    "name": "Sir Ffuzzy-Logik",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "dragon_breath": {
+    "name": "Dragon Breath",
+    "type": "enemy",
+    "debut": "11/01/1993",
+    "other": ["DRMBM", "DRMBM8"],
+    "compilations": ["3-IN-1", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+
+  "amenbo": {
+    "name": "Amenbo",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "anton": {
+    "name": "Anton",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "SLW"],
+    "other": ["TMOSTH"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "bata-pyon": {
+    "name": "Bata-Pyon",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "bigbom": {
+    "name": "Bigbom",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "dango": {
+    "name": "Dango",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "MANIA", "MANIA+"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "ga": {
+    "name": "Ga",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "hotaru": {
+    "name": "Hotaru",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "MANIA", "MANIA+"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "kabasira": {
+    "name": "Kabasira",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "MANIA", "MANIA+"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "kama-kama": {
+    "name": "Kama-Kama",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "kanabun": {
+    "name": "Kanabun",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "MANIA", "MANIA+"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "kemusi": {
+    "name": "Kemusi",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "kumo-kumo": {
+    "name": "Kumo-Kumo",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "mecha-bu": {
+    "name": "Mecha-Bu",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "MANIA", "MANIA+"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "minomusi": {
+    "name": "Minomusi",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "mosqui": {
+    "name": "Mosqui",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "needlenose": {
+    "name": "Needlenose",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "STHTT", "KC"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "noro-noro": {
+    "name": "Noro-Noro",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "pata-bata": {
+    "name": "Pata-Bata",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "other": ["SRA"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "poh-bee": {
+    "name": "Poh-Bee",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "MANIA", "MANIA+"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "sasori": {
+    "name": "Sasori",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "scarab": {
+    "name": "Scarab",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "MANIA", "MANIA+"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "semi": {
+    "name": "Semi",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "taga-taga": {
+    "name": "Taga-Taga",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "tamabboh": {
+    "name": "Tamabboh",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "tentou": {
+    "name": "Tentou",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD", "ADVANCE"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "tonbo": {
+    "name": "Tonbo",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "yago": {
+    "name": "Yago",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["STHCD"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+
+  "boing-o-bot": {
+    "name": "Boing-o-Bot",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["CHAOS"],
+    "compilations": ["ORIGINS"]
+  },
+  "bomblin": {
+    "name": "Bomblin",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["CHAOS"],
+    "compilations": ["ORIGINS"]
+  },
+  "coconut-bot": {
+    "name": "Coconut Bot",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["CHAOS"],
+    "compilations": ["ORIGINS"]
+  },
+  "frogger": {
+    "name": "Frogger",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["CHAOS"],
+    "compilations": ["ORIGINS"]
+  },
+  "metal-o-turtle": {
+    "name": "Metal-o-Turtle",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["CHAOS"],
+    "compilations": ["ORIGINS"]
+  },
+  "veg-o-bot": {
+    "name": "Veg-o-Bot",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "main": ["CHAOS"],
+    "compilations": ["ORIGINS"]
+  },
+
+  "buster": {
+    "name": "Buster",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "cluck": {
+    "name": "Cluck",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL", "SPINBALL8"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "ferron": {
+    "name": "Ferron",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL", "SPINBALL8"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "forebot": {
+    "name": "Forebot",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL", "SPINBALL8"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "krondor": {
+    "name": "Krondor",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL", "SPINBALL8"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "magma_worm": {
+    "name": "Magma Worm",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL", "SPINBALL8"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "rexxon": {
+    "name": "Rexxon",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL", "SPINBALL8"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "robohead": {
+    "name": "Robohead",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL", "SPINBALL8"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+  "scratch": {
+    "name": "Scratch",
+    "type": "enemy",
+    "debut": "11/23/1993",
+    "other": ["SPINBALL", "DRMBM", "DRMBM8"],
+    "compilations": ["SMC", "SUGC", "SMC+", "SGC", "ORIGINS"]
+  },
+
+  "batbot": {
+    "name": "Batbot",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "SB", "STH4.1", "COLORS_DS"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "sparkle": {
+    "name": "Sparkle",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "blastoid": {
+    "name": "Blastoid",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "bloominator": {
+    "name": "Bloominator",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "bubbles": {
+    "name": "Bubbles",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "STH4.1"],
+    "education": ["STHDIDJ"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "bugernaut": {
+    "name": "Bugernaut",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "catakiller_jr.": {
+    "name": "Catakiller, Jr.",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "clamer": {
+    "name": "Clamer",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "corkey": {
+    "name": "Corkey",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3"],
+    "education": ["STHDIDJ"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "flybot767": {
+    "name": "Flybot767",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "jawz": {
+    "name": "Jawz",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "COLORS", "COLORS_DS", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "mantis": {
+    "name": "Mantis",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "STH4.2"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "monkey_dude": {
+    "name": "Monkey Dude",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "penguinator": {
+    "name": "Penguinator",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "SLW"],
+    "other": ["RUMBLE"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "pointdexter": {
+    "name": "Pointdexter",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "rhinoBot": {
+    "name": "RhinoBot",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "variants": ["Fire RhinoBot"],
+    "main": ["STH3", "MANIA+"],
+    "other": ["RUMBLE"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "ribot": {
+    "name": "Ribot",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "snail_blaster": {
+    "name": "Snail Blaster",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "SLW"],
+    "other": ["SRA"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "star_pointer": {
+    "name": "Star Pointer",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "turbo_spiker": {
+    "name": "Turbo Spiker",
+    "type": "enemy",
+    "debut": "02/02/1994",
+    "main": ["STH3", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+
+  "blaster": {
+    "name": "Blaster",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "SLW", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "butterdroid": {
+    "name": "Butterdroid",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "GENERATIONS_3DS", "SLW"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "chainspike": {
+    "name": "Chainspike",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "cluckoid": {
+    "name": "Cluckoid",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "SLW"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "dragonfly": {
+    "name": "Dragonfly",
+    "type": "enemy",
+    "variants": ["Big Dragonfly"],
+    "debut": "10/18/1994",
+    "main": ["S&K", "GENERATIONS_3DS", "SLW", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "eggrobo": {
+    "name": "Eggrobo",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "variants": ["Missile Eggrobo"],
+    "main": ["S&K", "GENERATIONS", "FRONTIERS", "SXSG"],
+    "racing": ["CROSSWORLDS"],
+    "other": ["SCTDB", "BLITZ"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "fireworm": {
+    "name": "Fireworm",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "hyudoro": {
+    "name": "Hyudoro",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K"],
+    "racing": ["RIVALS2"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "iwamodoki": {
+    "name": "Iwamodoki",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "MANIA", "MANIA+"],
+    "other": ["RUMBLE"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "madmole": {
+    "name": "Madmole",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "GENERATIONS_3DS", "SLW"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "mushmeanie": {
+    "name": "Mushmeanie",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "GENERATIONS_3DS", "SLW"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "rock'n": {
+    "name": "Rock'n",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "skorp": {
+    "name": "Skorp",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K"],
+    "education": ["STHDIDJ"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "spikebonker": {
+    "name": "Spikebonker",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "technosqueek": {
+    "name": "Technosqueek",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+  "toxomister": {
+    "name": "Toxomister",
+    "type": "enemy",
+    "debut": "10/18/1994",
+    "main": ["S&K", "MANIA", "MANIA+"],
+    "compilations": ["S&KC", "JAM", "SCC", "SMC", "SUGC", "SMC+", "ORIGINS"]
+  },
+
+  "bombaberry": {
+    "name": "Bombaberry",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "bomblur": {
+    "name": "Bomblur",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "eeliotte": {
+    "name": "Eeliotte",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "ladybuggy": {
+    "name": "Ladybuggy",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "penguin_bomber": {
+    "name": "Penguin Bomber",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "rabibin": {
+    "name": "Rabibin",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "ridal_tap": {
+    "name": "Ridal Tap",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "spidal_tap": {
+    "name": "Spidal Tap",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+  "springshell": {
+    "name": "Springshell",
+    "type": "enemy",
+    "debut": "11/01/1994",
+    "main": ["STHTT"],
+    "compilations": ["SGC", "ORIGINS"]
+  },
+
+  "am-bush": {
+    "name": "Am-Bush",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "beatal": {
+    "name": "Beatal",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "blitz": {
+    "name": "Blitz",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "bombbearer": {
+    "name": "Bombbearer",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "burboom": {
+    "name": "Burboom",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "bushbubble": {
+    "name": "Bushbubble",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "catalurcher": {
+    "name": "Catalurcher",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "dribbler": {
+    "name": "Dribbler",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "floatsam": {
+    "name": "Floatsam",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "gotcha": {
+    "name": "Gotcha",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "gut_buster": {
+    "name": "Gut Buster",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "hoverby_mk_ii": {
+    "name": "Hoverby Mk II",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "liftor": {
+    "name": "Liftor",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "marina_madness_badnik": {
+    "name": "Marina Madness Badnik",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "motorspike": {
+    "name": "Motorspike",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "piranha": {
+    "name": "Piranha",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "poptank": {
+    "name": "Poptank",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "ringleader": {
+    "name": "Ringleader",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "spiketower": {
+    "name": "Spiketower",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "ticktock": {
+    "name": "Ticktock",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "triclod": {
+    "name": "Triclod",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+  "trundull": {
+    "name": "Trundull",
+    "type": "enemy",
+    "debut": "05/01/1995",
+    "main": ["KC"]
+  },
+
+  "combatant": {
+    "name": "Combatant",
+    "type": "enemy",
+    "variants": ["Bomb Throwing Combatant", "Jumping Combatant", "Pilot Combatant", "Rock Throwing Combatant"],
+    "debut": "11/01/1995",
+    "main": ["KC"]
+  },
+  "combat_mini-sub": {
+    "name": "Combat Mini-Sub",
+    "type": "enemy",
+    "debut": "11/01/1995",
+    "main": ["KC"]
+  },
+  "combat_walker": {
+    "name": "Combat Walker",
+    "type": "enemy",
+    "debut": "11/01/1995",
+    "main": ["KC"]
+  },
+  "flying_bomber": {
+    "name": "Flying Bomber",
+    "type": "enemy",
+    "debut": "11/01/1995",
+    "main": ["KC"]
+  },
+  "nezu": {
+    "name": "Nezu",
+    "type": "enemy",
+    "debut": "11/01/1995",
+    "main": ["KC"]
+  },
+  "sniper_kukku": {
+    "name": "Sniper Kukku",
+    "type": "enemy",
+    "debut": "11/01/1995",
+    "main": ["KC"]
+  },
+
+  "egg_pogo": {
+    "name": "Egg Pogo",
+    "type": "enemy",
+    "debut": "12/12/1996",
+    "main": ["SB"],
+    "compilations": ["SMC+", "ORIGINS"]
+  },
+  "egg_saucer": {
+    "name": "Egg Saucer",
+    "type": "enemy",
+    "debut": "12/12/1996",
+    "main": ["SB"],
+    "compilations": ["SMC+", "ORIGINS"]
+  },
+  "egg_sentry": {
+    "name": "Egg Sentry",
+    "type": "enemy",
+    "debut": "12/12/1996",
+    "main": ["SB"],
+    "compilations": ["SMC+", "ORIGINS"]
+  },
+  "octopus": {
+    "name": "Octopus",
+    "type": "enemy",
+    "debut": "12/12/1996",
+    "main": ["SB"],
+    "compilations": ["SMC+", "ORIGINS"]
+  },
+  "sandoom": {
+    "name": "Sandoom",
+    "type": "enemy",
+    "debut": "12/12/1996",
+    "main": ["SB"],
+    "compilations": ["SMC+", "ORIGINS"]
+  },
+
+  "beat": {
+    "name": "Beat",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "spinner": {
+    "name": "Spinner",
+    "type": "enemy",
+    "variants": ["Thunder Spinner", "Metal Spinner"],
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC", "ADVANCE2", "ADVANCE3", "UNLEASHED", "COLORS", "GENERATIONS", "GENERATIONS_3DS", "FORCES", "COLORS_ULTIMATE", "SXSG"],
+    "other": ["SRA", "SPEED"]
+  },
+  "boa-boa": {
+    "name": "Boa-Boa",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "buyoon": {
+    "name": "Buyoon",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "cop_speeder": {
+    "name": "Cop Speeder",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC", "GENERATIONS", "SXSG"]
+  },
+  "egg_keeper": {
+    "name": "Egg Keeper",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "fighter_aircraft": {
+    "name": "Fighter Aircraft",
+    "type": "enemy",
+    "variants": ["Fighter Aircraft A", "Fighter Aircraft B"],
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "ice_ball": {
+    "name": "Ice Ball",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "icecaps_unnamed_aircraft": {
+    "name": "Icecap's Unnamed Aircraft",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "kiki": {
+    "name": "Kiki",
+    "type": "enemy",
+    "variants": ["Cart Kiki"],
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC", "SA2", "ADVANCE", "ADVANCE2", "GENERATIONS_3DS"],
+    "olympics": ["M&SATOGDS", "M&SATOWG", "M&SATL12OG"],
+    "other": ["SPP"]
+  },
+  "leon": {
+    "name": "Leon",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC", "ADVANCE"]
+  },
+  "mechanical_fish": {
+    "name": "Mechanical Fish",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "pirate": {
+    "name": "Pirate",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "rhinotank": {
+    "name": "Rhinotank",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC", "ADVANCE", "GENERATIONS_3DS"]
+  },
+  "saru_air_a": {
+    "name": "Saru Air A",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "satellite": {
+    "name": "Satellite",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "spark_unit": {
+    "name": "Spark Unit",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC"]
+  },
+  "sweeper": {
+    "name": "Sweeper",
+    "type": "enemy",
+    "debut": "12/23/1998",
+    "main": ["SA", "SADXDC", "GENERATIONS_3DS"]
+  },
+
+  "artificial_chaos_p-1": {
+    "name": "Artificial Chaos P-1",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "SXSG"],
+    "other": ["RUMBLE"]
+  },
+  "artificial_chaos_p-100": {
+    "name": "Artificial Chaos P-100",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "SHADOW", "SXSG"],
+    "other": ["RUMBLE"]
+  },
+  "cell": {
+    "name": "Cell",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "SHADOW"]
+  },
+  "float_type": {
+    "name": "Float Type",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "guard_type": {
+    "name": "Guard Type",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "boo": {
+    "name": "Boo",
+    "type": "enemy",
+    "variants": ["Boom Boo"],
+    "debut": "06/19/2001",
+    "main": ["SA2", "SLW"],
+    "racing": ["TEAM", "CROSSWORLDS"],
+    "other": ["RUNNERS", "SFSB", "SPEED"]
+  },
+  "blue_eagle": {
+    "name": "Blue Eagle",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "GENERATIONS_3DS"],
+    "racing": ["CROSSWORLDS"]
+  },
+  "bomb_beetle": {
+    "name": "Bomb Beetle",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "bomb_wing": {
+    "name": "Bomb Wing",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "gold_beetle": {
+    "name": "Gold Beetle",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "SHADOW", "GENERATIONS_3DS"]
+  },
+  "gun_beetle": {
+    "name": "G.U.N. Beetle",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "SHADOW", "GENERATIONS", "SXSG"],
+    "other": ["RUMBLE"]
+  },
+  "hawk": {
+    "name": "Hawk",
+    "type": "enemy",
+    "variants": ["G.U.N. Hawk", "Laser Hawk", "Sky Hawk", "Black Hawk", "Bomb Hawk"],
+    "debut": "06/19/2001",
+    "main": ["SA2", "SHADOW", "RUSH"]
+  },
+  "gun_hunter": {
+    "name": "G.U.N. Hunter",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "RUSH", "GENERATIONS", "GENERATIONS_3DS", "SXSG"]
+  },
+  "gun_wing": {
+    "name": "G.U.N. Wing",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "hornet-3": {
+    "name": "Hornet-3",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "hornet-6": {
+    "name": "Hornet-6",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "hornet-9": {
+    "name": "Hornet-9",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "laser_hornet": {
+    "name": "Laser Hornet",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "laser_hunter": {
+    "name": "Laser Hunter",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "mono_beetle": {
+    "name": "Mono Beetle",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "SHADOW", "GENERATIONS", "GENERATIONS_3DS", "SXSG"]
+  },
+  "phoenix": {
+    "name": "Phoenix",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "rhino_cannon": {
+    "name": "Rhino Cannon",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "RUSH"]
+  },
+  "rhino_jet": {
+    "name": "Rhino Jet",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "rhino_metal": {
+    "name": "Rhino Metal",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "rhino_spike": {
+    "name": "Rhino Spike",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "shield_hunter": {
+    "name": "Shield Hunter",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "sky_hawk": {
+    "name": "Sky Hawk",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+  "spark_beetle": {
+    "name": "Spark Beetle",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2", "SHADOW", "SXSG"]
+  },
+  "spring_beetle": {
+    "name": "Spring Beetle",
+    "type": "enemy",
+    "debut": "06/19/2001",
+    "main": ["SA2"]
+  },
+
+  "drisame": {
+    "name": "Drisame",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "gamiGami": {
+    "name": "GamiGami",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "hanabii": {
+    "name": "Hanabii",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "keroKero": {
+    "name": "KeroKero",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"],
+    "other": ["SPP"]
+  },
+  "kuraa": {
+    "name": "Kuraa",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "mirror": {
+    "name": "Mirror",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "mogu": {
+    "name": "Mogu",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "oct": {
+    "name": "Oct",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"],
+    "other": ["SPP"]
+  },
+  "pen": {
+    "name": "Pen",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE", "ADVANCE2"],
+    "other": ["SPP"]
+  },
+  "pierrot": {
+    "name": "Pierrot",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"],
+    "other": ["SPP"]
+  },
+  "senbon": {
+    "name": "Senbon",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "slot": {
+    "name": "Slot",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "stinger": {
+    "name": "Stinger",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE", "ADVANCE2"]
+  },
+  "wamu": {
+    "name": "Wamu",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+  "yukimaru": {
+    "name": "Yukimaru",
+    "type": "enemy",
+    "debut": "02/03/2002",
+    "main": ["ADVANCE"]
+  },
+
+  "balloon": {
+    "name": "Balloon",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "bell": {
+    "name": "Bell",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "circus": {
+    "name": "Circus",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "flickey": {
+    "name": "Flickey",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "hammerhead": {
+    "name": "Hammerhead",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "koura": {
+    "name": "Koura",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "kubinaga": {
+    "name": "Kubinaga",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "kura-kura": {
+    "name": "Kura-Kura",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "kyura": {
+    "name": "Kyura",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "madillo": {
+    "name": "Madillo",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "mon": {
+    "name": "Mon",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "mouse": {
+    "name": "Mouse",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "piko-piko": {
+    "name": "Piko-Piko",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "star": {
+    "name": "Star",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "straw": {
+    "name": "Straw",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+  "yado": {
+    "name": "Yado",
+    "type": "enemy",
+    "debut": "03/09/2003",
+    "main": ["ADVANCE2"]
+  },
+
+  "egg_pawn": {
+    "name": "Egg Pawn",
+    "type": "enemy",
+    "variants": ["Casino Egg Pawn", "Solid Pawn", "Egg Pawn Bunny", "Egg Pawn Manager", "Knight Pawn", "Sea Pawn", "Solid Pawn"],
+    "debut": "01/06/2004",
+    "main": ["HEROES", "SHADOW", "RUSH", "COLORS", "COLORS_DS", "GENERATIONS", "GENERATIONS_3DS", "GENERATIONS_3DS", "SLW", "FORCES", "DREAM", "SXSG"],
+    "racing": ["RIVALS", "RIVALS2", "TEAM"],
+    "olympics": ["M&SATOGDS", "M&SATL12OG", "M&SATL12OG3DS", "M&SATS14OWG", "M&SATR16OG", "M&SATR16OG3DS", "M&SAT20OG", "SAT20OG"],
+    "other": ["SFSB", "RUMBLE"]
+  },
+  "egg_knight": {
+    "name": "Egg Knight",
+    "type": "enemy",
+    "debut": "01/06/2004",
+    "main": ["HEROES"]
+  },
+  "egg_hammer": {
+    "name": "Egg Hammer",
+    "type": "enemy",
+    "variants": ["Heavy-Egg Hammer"],
+    "debut": "01/06/2004",
+    "main": ["HEROES", "RUSH", "COLORS_DS"],
+    "racing": ["TEAM"]
+  },
+  "egg_bishop": {
+    "name": "Egg Bishop",
+    "type": "enemy",
+    "variants": ["Egg Magician"],
+    "debut": "01/06/2004",
+    "main": ["HEROES", "RUSH"]
+  },
+  "e-2000": {
+    "name": "E-2000",
+    "type": "enemy",
+    "variants": ["E-2000R"],
+    "debut": "01/06/2004",
+    "main": ["HEROES"]
+  },
+  "flapper": {
+    "name": "Flapper",
+    "type": "enemy",
+    "variants": ["Bomb Flapper", "Cannon Flapper", "Gun Flapper", "Laser Flapper", "Needle Flapper", "Search Flapper", "Solid Flapper", "Battle Flapper", "Egg Flapper"],
+    "debut": "01/06/2004",
+    "main": ["HEROES", "RUSH", "SatBK", "COLORS_DS", "GENERATIONS_3DS", "SXSG"],
+    "racing": ["RIVALS", "RIVALS2"],
+    "olympics": ["M&SATOGDS", "M&SATOWG", "M&SATL12OG", "M&SATL12OG3DS", "M&SATR16OG3DS", "SAT20OG"],
+    "other": ["RUMBLE"]
+  },
+  "falco": {
+    "name": "Falco",
+    "type": "enemy",
+    "debut": "01/06/2004",
+    "main": ["HEROES", "RUSH"]
+  },
+  "cameron": {
+    "name": "Cameron",
+    "type": "enemy",
+    "variants": ["Gold Cameron"],
+    "debut": "01/06/2004",
+    "main": ["HEROES"]
+  },
+  "klagen": {
+    "name": "Klagen",
+    "type": "enemy",
+    "variants": ["Gold Klagen"],
+    "debut": "01/06/2004",
+    "main": ["HEROES", "RUSH", "GENERATIONS_3DS"]
+  },
+  "rhinoliner": {
+    "name": "Rhinoliner",
+    "type": "enemy",
+    "debut": "01/06/2004",
+    "main": ["HEROES", "SXSG"]
+  },
+  "pumkin_ghost": {
+    "name": "Pumpkin Ghost",
+    "type": "enemy",
+    "debut": "01/06/2004",
+    "main": ["HEROES"],
+    "other": ["SPEED"]
+  },
+
+  "akatento": {
+    "name": "Akatento",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"],
+    "cafe": ["JUMP", "JUMP2"]
+  },
+  "aotento": {
+    "name": "Aotento",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "ape": {
+    "name": "Ape",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "bu-bu": {
+    "name": "Bu-Bu",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "clam": {
+    "name": "Clam",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "condor": {
+    "name": "Condor",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"],
+    "cafe": ["JUMP2"]
+  },
+  "gaogao": {
+    "name": "Gaogao",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "gekogeko": {
+    "name": "Gekogeko",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "ginpe": {
+    "name": "Ginpe",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "guards": {
+    "name": "Guards",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "guruguru": {
+    "name": "Guruguru",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "hariisen": {
+    "name": "Hariisen",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"],
+    "cafe": ["JUMP", "JUMP2"]
+  },
+  "jousun": {
+    "name": "Jousun",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"],
+    "cafe": ["JUMP", "JUMP2"]
+  },
+  "juggling": {
+    "name": "Juggling",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "kamaki": {
+    "name": "Kamaki",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "kyacchaa": {
+    "name": "Kyacchaa",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "marun": {
+    "name": "Marun",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "minimole": {
+    "name": "Minimole",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "muukaden": {
+    "name": "Muukaden",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "takkon": {
+    "name": "Takkon",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"],
+    "cafe": ["JUMP", "JUMP2"]
+  },
+  "uutsubo": {
+    "name": "Uutsubo",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "yadokk": {
+    "name": "Yadokk",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+  "yukigasen": {
+    "name": "Yukigasen",
+    "type": "enemy",
+    "debut": "06/07/2004",
+    "main": ["ADVANCE3"]
+  },
+
+  "black_assassin": {
+    "name": "Black Assassin",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "black_hawk": {
+    "name": "Black Hawk",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "black_oak": {
+    "name": "Black Oak",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "black_volt": {
+    "name": "Black Volt",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "black_warrior": {
+    "name": "Black Warrior",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "black_wing": {
+    "name": "Black Wing",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "death_leech": {
+    "name": "Death Leech",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "death_worm": {
+    "name": "Death Worm",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "hammer_oak": {
+    "name": "Hammer Oak",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "kill_worm": {
+    "name": "Kill Worm",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "killer_plant": {
+    "name": "Killer Plant",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "sand_worm": {
+    "name": "Sand Worm",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "big_foot": {
+    "name": "Big Foot",
+    "type": "enemy",
+    "variants": ["Big Foot Type A", "Big Foot Type B"],
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "giga_trooper": {
+    "name": "Giga Trooper",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "gun_soldier": {
+    "name": "G.U.N. Soldier",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "gun_trooper": {
+    "name": "G.U.N. Trooper",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "rocket_beetle": {
+    "name": "Rocket Beetle",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "egg_bommer": {
+    "name": "Egg Bommer",
+    "type": "enemy",
+    "variants": ["Jack Bommer"],
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "egg_pierrot": {
+    "name": "Egg Pierrot",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+  "ark_missile_turret": {
+    "name": "Ark Missile Turret",
+    "type": "enemy",
+    "debut": "11/15/2005",
+    "main": ["SHADOW"]
+  },
+
+  "egg_armor": {
+    "name": "Egg Armor",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_bomber": {
+    "name": "Egg Bomber",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_buster": {
+    "name": "Egg Buster",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_cannon": {
+    "name": "Egg Cannon",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "chaser": {
+    "name": "Chaser",
+    "type": "enemy",
+    "variants": ["Egg Chaser", "Aero Chaser", "Big Chaser"],
+    "debut": "11/14/2006",
+    "main": ["STH06", "UNLEASHED", "COLORS", "GENERATIONS", "FORCES", "SXSG"],
+    "racing": ["S&ASRT", "CROSSWORLDS"],
+    "other": ["SFSB"]
+
+  },
+  "egg_commander": {
+    "name": "Egg Commander",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_flyer": {
+    "name": "Egg Flyer",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06", "SXSG"]
+  },
+  "egg_guardian": {
+    "name": "Egg Guardian",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06", "SXSG"]
+  },
+  "egg_gunner": {
+    "name": "Egg Gunner",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"],
+    "racing": ["CROSSWORLDS"]
+  },
+  "Egg_keeper": {
+    "name": "Egg Keeper",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_lancer": {
+    "name": "Egg Lancer",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_liner": {
+    "name": "Egg Liner",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_rounder": {
+    "name": "Egg Rounder",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_searcher": {
+    "name": "Egg Searcher",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_stinger": {
+    "name": "Egg Stinger",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06", "SXSG"]
+  },
+  "egg_sweeper": {
+    "name": "Egg Sweeper",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "egg_walker": {
+    "name": "Egg Walker",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "gazer": {
+    "name": "Gazer",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "golem": {
+    "name": "Golem",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "iblis_biter": {
+    "name": "Iblis Biter",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06", "GENERATIONS", "SXSG"]
+  },
+  "iblis_taker": {
+    "name": "Iblis Taker",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06", "GENERATIONS", "SXSG"]
+  },
+  "iblis_worm": {
+    "name": "Iblis Worm",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06", "GENERATIONS", "SXSG"]
+  },
+  "stalker": {
+    "name": "Stalker",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "titan": {
+    "name": "Titan",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "tricker": {
+    "name": "Tricker",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+  "shadow": {
+    "name": "Shadow",
+    "type": "enemy",
+    "debut": "11/14/2006",
+    "main": ["STH06"]
+  },
+
+  "drill_worm": {
+    "name": "Drill Worm",
+    "type": "enemy",
+    "debut": "11/24/2006",
+    "racing": ["RIVALS"]
+  },
+  "metal_hound": {
+    "name": "Metal Hound",
+    "type": "enemy",
+    "debut": "11/24/2006",
+    "racing": ["RIVALS"]
+  },
+  "monoClown": {
+    "name": "MonoClown",
+    "type": "enemy",
+    "debut": "11/24/2006",
+    "racing": ["RIVALS"]
+  },
+  "venoom": {
+    "name": "Venoom",
+    "type": "enemy",
+    "debut": "11/24/2006",
+    "racing": ["RIVALS"]
+  },
+  "vultur": {
+    "name": "Vultur",
+    "type": "enemy",
+    "debut": "11/24/2006",
+    "racing": ["RIVALS"]
+  },
+  "yetee": {
+    "name": "Yetee",
+    "type": "enemy",
+    "debut": "11/24/2006",
+    "racing": ["RIVALS"]
+  },
+
+  "bombat": { 
+    "name": "Bombat",
+    "type": "enemy",
+    "debut": "11/13/2007",
+    "racing": ["RIVALS2"]
+  }, 
+  "guardon_crab": {
+
+  },
+
+
+  "aero-cannon": {
+    "name": "Aero-Cannon",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED", "GENERATIONS", "SXSG"]
+  },
+  "egg_blizzard": {
+    "name": "Egg Blizzard",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "egg_burst": {
+    "name": "Egg Burst",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "egg_fighter": {
+    "name": "Egg Fighter",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED", "GENERATIONS", "SXSG"],
+    "racing": ["CROSSWORLDS"]
+  },
+  "egg_flame": {
+    "name": "Egg Flame",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "egg_launcher": {
+    "name": "Egg Launcher",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED", "GENERATIONS", "SXSG"]
+  },
+  "egg_shackle": {
+    "name": "Egg Shackle",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "egg_shooter": {
+    "name": "Egg Shooter",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "egg_typhoon": {
+    "name": "Egg Typhoon",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "interceptor": {
+    "name": "Interceptor",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "little_fighter": {
+    "name": "Little Fighter",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "mole_cannon": {
+    "name": "Mole Cannon",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "thunder_ball": {
+    "name": "Thunder Ball",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "big_mother": {
+    "name": "Big Mother",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "cure_master": {
+    "name": "Cure Master",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "dark_bat": {
+    "name": "Dark Bat",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"],
+    "other": ["RUNNERS", "SPEED"]
+  },
+  "dark_eel": {
+    "name": "Dark Eel",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "dark_fright": {
+    "name": "Dark Fright",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"],
+    "other": ["RUNNERS"]
+  },
+  "master": {
+    "name": "Master",
+    "type": "enemy",
+    "variants": ["Cure Master", "Dark Master", "Fire Master", "Lightning Master", "Power Master"],
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "evil_flower": {
+    "name": "Evil Flower",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "killer_bee": {
+    "name": "Killer Bee",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "little_rex": {
+    "name": "Little Rex",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+  "nightmare": {
+    "name": "Nightmare",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED", "DREAM"]
+  },
+  "Titan": {
+    "name": "Titan",
+    "type": "enemy",
+    "debut": "11/20/2008",
+    "main": ["UNLEASHED"]
+  },
+
+  "crusher_panel": {
+    "name": "Crusher Panel",
+    "type": "enemy",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_ULTIMATE"]
+  },
+  "mole": {
+    "name": "Mole",
+    "type": "enemy",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "COLORS_DS", "COLORS_ULTIMATE"]
+  },
+  "sprinkler": {
+    "name": "Sprinkler",
+    "type": "enemy",
+    "debut": "11/16/2010",
+    "main": ["COLORS", "GENERATIONS", "SLW", "FORCES", "COLORS_ULTIMATE", "SXSG"],
+    "other": ["RUMBLE"]
+  },
+
+  "snowy": {
+    "name": "Snowy",
+    "type": "enemy",
+    "debut": "05/16/2012",
+    "main": ["STH4.2"]
+  },
+  "flamer": {
+    "name": "Flamer",
+    "type": "enemy",
+    "debut": "05/16/2012",
+    "main": ["STH4.2"]
+  },
+  "scarabesque": {
+    "name": "Scarabesque",
+    "type": "enemy",
+    "debut": "05/16/2012",
+    "main": ["STH4.2"]
+  },
+  "zoomer": {
+    "name": "Zoomer",
+    "type": "enemy",
+    "debut": "05/16/2012",
+    "main": ["STH4.2"]
+  },
+  "steelion": {
+    "name": "Steelion",
+    "type": "enemy",
+    "debut": "05/16/2012",
+    "main": ["STH4.2"]
+  },
+  "fullboar": {
+    "name": "Fullboar",
+    "type": "enemy",
+    "debut": "05/16/2012",
+    "main": ["STH4.2"]
+  },
+
+  "splats": {
+    "name": "Splats",
+    "type": "enemy",
+    "debut": "05/16/2013",
+    "main": ["STH_13", "MANIA", "MANIA+"],
+    "other": ["SPEED"]
+  },
+
+  "antlion": {
+    "name": "Antlion",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"]
+  },
+  "galaga_bee": {
+    "name": "Galaga Bee",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW", "FORCES", "SXSG"]
+  },
+  "blowfish_transporter": {
+    "name": "Blowfish Transporter",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"],
+    "other": ["RUNNERS"]
+  },
+  "manbou": {
+    "name": "Manbou",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"]
+  },
+  "utsubo": {
+    "name": "Utsubo",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"]
+  },
+  "dung_beetle": {
+    "name": "Dung Beetle",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"]
+  },
+  "gustav_turtle": {
+    "name": "Gustav Turtle",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"]
+  },
+  "manta": {
+    "name": "Manta",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"]
+  },
+  "sheep": {
+    "name": "Sheep",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"]
+  },
+  "cactus_ball": {
+    "name": "Cactus Ball",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"]
+  },
+  "yeti": {
+    "name": "Yeti",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"],
+    "other": ["RUMBLE"]
+  },
+  "baku_baku": {
+    "name": "Baku Baku",
+    "type": "enemy",
+    "debut": "10/29/2013",
+    "main": ["SLW"],
+    "racing": ["CROSSWORLDS"]
+  },
+
+  "Batbot": {
+    "name": "Batbot",
+    "type": "enemy",
+    "debut": "12/12/2013",
+    "main": ["STH2_13"]
+  },
+  "jellygnite": {
+    "name": "Jellygnite",
+    "type": "enemy",
+    "debut": "12/12/2013",
+    "main": ["STH2_13", "MANIA", "MANIA+"]
+  },
+  "stegway": {
+    "name": "Stegway",
+    "type": "enemy",
+    "debut": "12/12/2013",
+    "main": ["STH2_13"]
+  },
+  "redz": {
+    "name": "Redz",
+    "type": "enemy",
+    "debut": "12/12/2013",
+    "main": ["STH2_13"]
+  },
+  
+  "armorillo": {
+    "name": "Armorillo",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "blunt_force": {
+    "name": "Blunt Force",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "buzz_saw": {
+    "name": "Buzz Saw",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "cliff_hanger": {
+    "name": "Cliff Hanger",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "mor-tar": {
+    "name": "Mor-Tar",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "rocko": {
+    "name": "Rocko",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "scrawl": {
+    "name": "Scrawl",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "scuttle": {
+    "name": "Scuttle",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "shocker": {
+    "name": "Shocker",
+    "type": "enemy",
+    "variants": ["Roller Shocker"],
+    "debut": "11/11/2014",
+    "main": ["SBSC", "SBRoL"]
+  },
+  "slynko": {
+    "name": "Slynko",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "spintrap": {
+    "name": "Spintrap",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "Stinger": {
+    "name": "Stinger",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "wrecks": {
+    "name": "Wrecks",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "zapo": {
+    "name": "Zapo",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  "zipper": {
+    "name": "Zipper",
+    "type": "enemy",
+    "debut": "11/10/2014",
+    "main": ["SBSC"]
+  },
+  
+  "guard": {
+    "name": "Guard",
+    "type": "enemy",
+    "variants": ["Blaster Guard", "Gunslinger Guard", "Swordsman Guard"],
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "trooper": {
+    "name": "Trooper",
+    "type": "enemy",
+    "variants": ["Blaster Trooper", "Gunslinger Trooper", "Swordsman Trooper"],
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "elite": {
+    "name": "Elite",
+    "type": "enemy",
+    "variants": ["Bomber Elite", "Gatling Elite"],
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "charger": {
+    "name": "Charger",
+    "type": "enemy",
+    "variants": ["Blaster Guard", "Gunslinger Guard", "Swordsman Guard"],
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "charger_dart": {
+    "name": "Charger Dart",
+    "type": "enemy",
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "commando_husk": {
+    "name": "Commando Husk",
+    "type": "enemy",
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "brute": {
+    "name": "Brute",
+    "type": "enemy",
+    "variants": ["Crusher Brute", "Fridge Brute", "Furnace Brute"],
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "snake": {
+    "name": "Snake",
+    "type": "enemy",
+    "variants": ["Driller Snake", "Parasite Snake"],
+    "debut": "11/11/2014",
+    "main": ["SBRoL"],
+    "racing": ["RIVALS2"]
+    
+  },
+  "minion": {
+    "name": "Minion",
+    "type": "enemy",
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "ring_thief": {
+    "name": "Ring Thief",
+    "type": "enemy",
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "roller_bouncer": {
+    "name": "Roller Bouncer",
+    "type": "enemy",
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  "roller_recoiler": {
+    "name": "Roller Recoiler",
+    "type": "enemy",
+    "variants": ["Blaster Guard", "Gunslinger Guard", "Swordsman Guard"],
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+  
+  "swarmer": {
+    "name": "Swarmer",
+    "type": "enemy",
+    "debut": "11/11/2014",
+    "main": ["SBRoL"]
+  },
+
+  "amy_doll": {
+    "name": "Amy Doll",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "armadiloid": {
+    "name": "Armadiloid",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "bumpalo": {
+    "name": "Bumpalo",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "cactinaut": {
+    "name": "Cactinaut",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "cactula": {
+    "name": "Cactinaut",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "canister": {
+    "name": "Canister",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "driller": {
+    "name": "Driller",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA"]
+  },
+  "fire_dropper": {
+    "name": "Fire Dropper",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA"]
+  },
+  "iceBomba": {
+    "name": "IceBomba",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "juggle_saw": {
+    "name": "Juggle Saw",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "matryoshka-bom": {
+    "name": "Matryoshka-Bom",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "mic_drop": {
+    "name": "Mic Drop",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "sentry_bug": {
+    "name": "Sentry Bug",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "shutterbug": {
+    "name": "Shutterbug",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "silver_sonic": {
+    "name": "Silver Sonic",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "tubinaut": {
+    "name": "Tubinaut",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "turbo_turtle": {
+    "name": "Turbo Turtle",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "vultron": {
+    "name": "Vultron",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+  "woodrow": {
+    "name": "Woodrow",
+    "type": "enemy",
+    "debut": "08/15/2017",
+    "main": ["MANIA", "MANIA+"]
+  },
+
+  "death_crab": {
+    "name": "Death Crab",
+    "type": "enemy",
+    "debut": "11/07/2017",
+    "main": ["FORCES"]
+  },
+  "egg_tank": {
+    "name": "Egg Tank",
+    "type": "enemy",
+    "debut": "11/07/2017",
+    "main": ["FORCES", "SXSG"]
+  },
+  "Egg_walker": {
+    "name": "Egg Walker",
+    "type": "enemy",
+    "debut": "11/07/2017",
+    "main": ["FORCES"]
+  },
+  "missile_pod": {
+    "name": "Missile Pod",
+    "type": "enemy",
+    "debut": "11/07/2017",
+    "main": ["FORCES"]
+  },
+  "death_egg_robot": {
+    "name": "Death Egg Robot",
+    "type": "enemy",
+    "debut": "11/07/2017",
+    "main": ["FORCES", "SXSG"],
+    "racing": ["CROSSWORLDS"]
+  },
+  
+  "sweep": {
+    "name": "Sweep",
+    "type": "enemy",
+    "debut": "11/05/2019",
+    "main": ["MANIA+"]
+  },
+
+  "asura": {
+    "name": "Balloon",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"],
+    "racing": ["CROSSWORLDS"]
+  },
+  "Balloon": {
+    "name": "Balloon",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  },
+  "banger": {
+    "name": "Banger",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  },
+  "bubble": {
+    "name": "Bubble",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  },
+  "cyclone": {
+    "name": "Cyclone",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS", "SXSG"]
+  },
+  "eagle": {
+    "name": "Eagle",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  },
+  "hopper": {
+    "name": "Hopper",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  },
+  "jellyfish": {
+    "name": "Jellyfish",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  },
+  "shell": {
+    "name": "Shell",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  },
+  "sniper": {
+    "name": "Sniper",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  },
+  "soldier": {
+    "name": "Soldier",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS", "SXSG"]
+  },
+  "squid": {
+    "name": "Squid",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"],
+    "racing": ["CROSSWORLDS"]
+  },
+  "tower": {
+    "name": "Tower",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"],
+    "racing": ["CROSSWORLDS"]
+  },
+  "wolf": {
+    "name": "Wolf",
+    "type": "enemy",
+    "debut": "11/08/2022",
+    "main": ["FRONTIERS"]
+  }
+  
+
+}

@@ -2,7 +2,7 @@ import json
 import time
 
 ALLOWED_TYPES = {'playable', 'opponent', 'non-boxer'}
-GAME_CATEGORIES = ('main', 'spinoffs', 'crossovers', 'smash')
+GAME_CATEGORIES = ('main', 'spinoffs', 'crossovers', 'smash', 'amiibo')
 
 def process_punch_data(file_path='punch.json'):
   start_time = time.perf_counter()

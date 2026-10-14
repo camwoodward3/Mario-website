@@ -3,9 +3,7 @@ import time
 
 ALLOWED_TYPES = {'enemy', 'hero', 'ally', 'boss', 'sub-boss', 'anti-hero', 'antagonist'}
 GAME_CATEGORIES = (
-    'main', 'kart', 'smash', 'party', 'sports', 
-    'rpg', 'shows', 'movies', 'arcade', 'gamewatch', 'mobile', 'other', 'crossovers'
-)
+    'atari2600', 'colecoVision', 'intellivision', 'nes', 'fcds', 'fcns', 'atari5600', 'atari7800', 'snes', 'satellaview', 'terebikko', 'philips_cd-i', 'n64', '64dd', 'ngc', 'dvd', 'iQue', 'wii', 'wiiWare', 'wiiU', 'classics', 'game&watch', 'coleco', 'gb', 'nelsonic', 'watch', 'barcode', 'gamewatch_boy', 'virtual_boy', 'gbc', 'mini_classics', 'sewing', 'gba', 'e-reader', 'ds', 'dsiware', '3ds', 'switch', 'switch2', 'arcade', 'vs.system', 'np10', 'nss', 'triforce', 'ti-99/4a', 'ms-dos', 'macintosh', 'mac-os', 'as', 'af', 'mobile', 'lego', 'amiibo', 'knex')
 
 def load_json_file(file_path):
   try:
@@ -23,8 +21,8 @@ def process_mario_data():
 
   # 1. Direct Data Ingestion (In Memory)
   combined_mario_data = {}
-  combined_mario_data.update(load_json_file('enemies.json'))
-  combined_mario_data.update(load_json_file('characters.json'))
+  combined_mario_data.update(load_json_file('enemies2.json'))
+  combined_mario_data.update(load_json_file('characters2.json'))
 
   final_results = []
 
@@ -55,8 +53,8 @@ def process_mario_data():
 
   # 4. Print Results
   print("\n--- Most to Least ---")
-  for char in final_results:
-    print(f"{char['name']} - {char['total_games']} games total")
+  for char in final_results[:1000]:
+    print(f"{char['name']} - {char['total_games']} products total")
 
   total_time = time.perf_counter() - start_time
   print(f"\nTotal Time To Calculate: {total_time:.4f} seconds")

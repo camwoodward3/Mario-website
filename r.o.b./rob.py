@@ -2,7 +2,7 @@ import json
 import time
 
 ALLOWED_TYPES = {'mechanical robot'}
-GAME_CATEGORIES = ('games', 'smash', 'movies')
+GAME_CATEGORIES = ('games', 'smash', 'movies', 'amiibo')
 
 def process_rob_data(file_path='rob.json'):
   start_time = time.perf_counter()

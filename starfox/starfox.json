@@ -5,8 +5,9 @@
     "debut": "06/03/1993",
     "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
     "smash": ["SSF64", "SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SBBU"],
-    "other": ["SRFX", "DKA2", "DKA3", "MM", "WWSM", "SPMP", "TTT2", "MK8", "MK8DLC", "B2", "OPSGBX", "AHL+", "MHG", "SMM", "YWW", "SMM3DS", "P&YWW", "WGG", "SL", "SBFA"],
-    "movies": ["TSMGM"]
+    "other": ["SRFX", "DKA2", "DKA3", "PNPVOL6", "MM", "WWSM", "SPMP", "TTT2", "MK8", "MK8DLC", "B2", "OPSGBX", "AHL+", "MHG", "SMM", "YWW", "SMM3DS", "P&YWW", "WGG", "SL", "SBFA"],
+    "movies": ["TSMGM"],
+    "amiibo": ["SMASH"]
   },
   "falco": {
     "name": "Falco Lombardi",
@@ -14,8 +15,9 @@
     "debut": "06/03/1993",
     "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["MM", "DKA2", "DKA3", "WWSM", "SMM", "SMM3DS", "P&YWW", "WGG", "MHG", "SBFA"],
-    "movies": ["TSMGM"]
+    "other": ["MM", "DKA2", "DKA3", "WWSM", "SMM", "SMM3DS", "P&YWW", "WGG", "MHG", "SBFA", "PNPVOL6"],
+    "movies": ["TSMGM"],
+    "amiibo": ["SMASH"]
   },
   "peppy": {
     "name": "Peppy Hare",
@@ -23,7 +25,7 @@
     "debut": "06/03/1993",
     "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["MM", "DKA2", "WWSM", "SMM", "SMM3DS", "SD", "SBFA"],
+    "other": ["MM", "DKA2", "WWSM", "SMM", "SMM3DS", "SD", "SBFA", "PNPVOL6"],
     "movies": ["TSMGM"]
 
   },
@@ -33,7 +35,7 @@
     "debut": "06/03/1993",
     "main": ["SF", "SF64", "ADVENTURES", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["MM", "DKA2", "DKA3", "WWSM", "SMM", "SMM3DS", "GUARD", "SBFA"],
+    "other": ["MM", "DKA2", "DKA3", "PNPVOL6", "WWSM", "SMM", "SMM3DS", "GUARD", "SBFA"],
     "movies": ["TSMGM"]
   },
   "general_pepper": {
@@ -280,7 +282,8 @@
     "type": "antagonist",
     "debut": "06/03/1993",
     "main": ["SF", "SF64", "ADVENTURES", "COMMAND", "SF643D", "ZERO", "SF2", "SFNS2"],
-    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"]
+    "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
+    "other": ["PNPVOL6"]
   },
   "wolf": {
     "name": "Wolf O'Donnell",
@@ -288,7 +291,8 @@
     "debut": "06/23/1997",
     "main": ["SF64", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["SBFA"]
+    "other": ["SBFA", "PNPVOL6"],
+    "amiibo": ["SMASH"]
   },
   "leon_powalski": {
     "name": "Leon Powalski",
@@ -296,7 +300,7 @@
     "debut": "06/23/1997",
     "main": ["SF64", "ASSAULT", "COMMAND", "SF643D", "ZERO", "SF2"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU"],
-    "other": ["SBFA"]
+    "other": ["SBFA", "PNPVOL6"]
   },
   "pigma_dengar": {
     "name": "Pigma Dengar",
@@ -304,7 +308,7 @@
     "debut": "06/23/1997",
     "main": ["SF64", "ASSAULT", "COMMAND", "ZERO", "SF2"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["MM", "SBFA"]
+    "other": ["MM", "SBFA", "PNPVOL6"]
   },
   "andrew_oikonny": {
     "name": "Andrew Oikonny",
@@ -312,7 +316,7 @@
     "debut": "06/23/1997",
     "main": ["SF64", "ASSAULT", "SF643D", "ZERO"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["DKA2", "DKA3", "SBFA"]
+    "other": ["DKA2", "DKA3", "SBFA", "PNPVOL6"]
   },
   "panther_caroso": {
     "name": "Panther Caroso",

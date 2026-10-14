@@ -2,7 +2,7 @@ import json
 import time
 
 GAME_CATEGORIES = (
-    'main', 'side', 'stadium', 'snap', 'spinoffs', 'other', 'trading', 'smash', 'rpg', 'arcade', 'mini', 'pc', 'mobile', 'others', 'crossovers', 'advanced', 'movies', 'anime'
+    'main', 'side', 'stadium', 'snap', 'spinoffs', 'other', 'trading', 'smash', 'rpg', 'arcade', 'mini', 'pc', 'mobile', 'others', 'crossovers', 'advanced', 'movies', 'anime', 'lego' 'amiibo'
 )
 
 def process_pokemon_data(file_path='pokemon.json', output_path='pokemon_game_counts.txt'):

@@ -6,7 +6,8 @@
     "main": ["MTPO!!", "PO!!", "SUPER_PO!!", "PO!!_WII"],
     "spinoffs": ["DLPO!!"],
     "crossovers": ["WWMM", "WWDIY", "WWG"],
-    "smash": ["SSBB", "SSB3DS", "SSBWIIU"]
+    "smash": ["SSBB", "SSB3DS", "SSBWIIU"],
+    "amiibo": ["SMASH"]
   },
   "giga_mac": {
     "name": "Giga Mac",

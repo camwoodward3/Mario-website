@@ -12,7 +12,8 @@
     "debut": "08/23/1991",
     "main": ["F-ZERO", "BS_GP", "BS_GP2", "F-ZERO_X", "F-ZERO_X_EXPANSION", "F-ZERO_GX", "F-ZERO_AX", "GP_LEGEND", "CLIMAX", "F-ZERO_99"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "shows": ["GP_LEGEND_ANIME"]
+    "shows": ["GP_LEGEND_ANIME"],
+    "amiibo": ["SMASH"]
   },
   "pico": {
     "name": "Pico",

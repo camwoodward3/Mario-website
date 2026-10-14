@@ -175,7 +175,8 @@
         "S&M",
         "PMJ",
         "PUJ"
-      ]
+      ],
+      "lego": ["BBWBAB"]
     },
     "ivysaur": {
       "name": "Ivysaur",
@@ -299,7 +300,8 @@
       ],
       "anime": [
         "IL"
-      ]
+      ],
+      "amiibo": ["SMASH"]
     },
     "venusaur": {
       "name": "Venusaur",
@@ -440,7 +442,8 @@
       "anime": [
         "IL",
         "DPBD"
-      ]
+      ],
+      "lego": ["VCAB"]
     },
     "charmander": {
       "name": "Charmander",
@@ -612,7 +615,8 @@
         "IL",
         "AitOI",
         "D&P"
-      ]
+      ],
+      "lego": ["C&GCC"]
     },
     "charmeleon": {
       "name": "Charmeleon",
@@ -939,7 +943,9 @@
         "PUJ",
         "PH",
         "TSfA"
-      ]
+      ],
+      "lego": ["VCAB", "CVSJUB"],
+      "amiibo": ["SMASH"]
     },
     "squirtle": {
       "name": "Squirtle",
@@ -1118,7 +1124,9 @@
         "BWAiUaB",
         "S&M",
         "PUJ"
-      ]
+      ],
+      "amiibo": ["SMASH"],
+      "lego": ["DASMN", "TBAWS"]
     },
     "wartortle": {
       "name": "Wartortle",
@@ -1379,7 +1387,8 @@
       ],
       "anime": [
         "IL"
-      ]
+      ],
+      "lego": ["VCAB"]
     },
     "caterpie": {
       "name": "Caterpie",
@@ -3368,7 +3377,9 @@
         "PUJ",
         "PH",
         "TSfA"
-      ]
+      ],
+      "lego": ["P&PB", "THWP", "ITMPB"],
+      "amiibo": ["SMASH", "POKEMON"]
     },
     "raichu": {
       "name": "Raichu",
@@ -5007,7 +5018,9 @@
       "anime": [
         "IL",
         "D&P"
-      ]
+      ],
+      "lego": ["JC"],
+      "amiibo": ["SMASH"]
     },
     "wigglytuff": {
       "name": "Wigglytuff",
@@ -7593,7 +7606,8 @@
       "anime": [
         "IL",
         "D&P"
-      ]
+      ],
+      "lego": ["A"]
     },
     "poliwag": {
       "name": "Poliwag",
@@ -9416,7 +9430,8 @@
         "PBF",
         "D&P",
         "S&M"
-      ]
+      ],
+      "lego": ["C&GCC"]
     },
     "graveler": {
       "name": "Graveler",
@@ -11914,7 +11929,8 @@
         "PJ",
         "PMJ",
         "PUJ"
-      ]
+      ],
+      "lego": ["CAGSS"]
     },
     "onix": {
       "name": "Onix",
@@ -13102,7 +13118,8 @@
       "anime": [
         "IL",
         "D&P"
-      ]
+      ],
+      "lego": ["CAGSS"]
     },
     "marowak": {
       "name": "Marowak",
@@ -16567,7 +16584,8 @@
         "S&NUA",
         "S&NUL",
         "PUJ"
-      ]
+      ],
+      "lego": ["EALTH"]
     },
     "ditto": {
       "name": "Ditto",
@@ -16698,7 +16716,8 @@
       "anime": [
         "IL",
         "D&P"
-      ]
+      ],
+      "lego": ["DASMN"]
     },
     "eevee": {
       "name": "Eevee",
@@ -16868,7 +16887,8 @@
         "PJ",
         "PMJ",
         "PUJ"
-      ]
+      ],
+      "lego": ["E", "EALTH", "ITMPB"]
     },
     "vaporeon": {
       "name": "Vaporeon",
@@ -17142,7 +17162,8 @@
       "anime": [
         "IL",
         "D&P"
-      ]
+      ],
+      "lego": ["CVSJUB"]
     },
     "flareon": {
       "name": "Flareon",
@@ -19004,7 +19025,9 @@
         "TRoD",
         "DatCoD",
         "MSBE"
-      ]
+      ],
+      "lego": ["MLB"],
+      "amiibo": ["SMASH", "POKEMON"]
     },
     "mew": {
       "name": "Mew",
@@ -19139,7 +19162,8 @@
       ],
       "anime": [
         "D&P"
-      ]
+      ],
+      "lego": ["DSFMM"]
     }
   },
   "generation2": {
@@ -21520,7 +21544,8 @@
       ],
       "anime": [
         "D&P"
-      ]
+      ],
+      "amiibo": ["SMASH"]
     },
     "igglybuff": {
       "name": "Igglybuff",
@@ -24190,7 +24215,8 @@
       ],
       "anime": [
         "D&P"
-      ]
+      ],
+      "lego": ["UVSGCB"]
     },
     "murkrow": {
       "name": "Murkrow",
@@ -42120,7 +42146,8 @@
       ],
       "anime": [
         "D&P"
-      ]
+      ],
+      "lego": ["R"]
     },
     "jirachi": {
       "name": "jirachi",
@@ -43425,7 +43452,8 @@
       ],
       "anime": [
         "D&P"
-      ]
+      ],
+      "lego": ["BBWBAB"]
     },
     "bibarel": {
       "name": "Bibarel",
@@ -46892,7 +46920,8 @@
       ],
       "anime": [
         "D&P"
-      ]
+      ],
+      "lego": ["UVSGCB"]
     },
     "munchlax": {
       "name": "Munchlax",
@@ -47005,7 +47034,8 @@
         "PBF",
         "D&P",
         "DPBD"
-      ]
+      ],
+      "lego": ["M"]
     },
     "riolu": {
       "name": "Riolu",
@@ -47224,7 +47254,8 @@
         "PJ",
         "PMJ",
         "PUJ"
-      ]
+      ],
+      "amiibo": ["SMASH"]
     },
     "hippopotas": {
       "name": "Hippopotas",
@@ -61475,7 +61506,8 @@
         "XY",
         "XYZ",
         "PUJ"
-      ]
+      ],
+      "amiibo": ["SMASH"]
     },
     "bunnelby": {
       "name": "Bunnelby",
@@ -65365,7 +65397,8 @@
         "S&NUL",
         "PJ",
         "PUJ"
-      ]
+      ],
+      "amiibo": ["SMASH"]
     },
     "popplio": {
       "name": "Popplio",
@@ -72415,7 +72448,8 @@
       ],
       "anime": [
         "PH"
-      ]
+      ],
+      "lego": ["SFAQB"]
     },
     "floragato": {
       "name": "Floragato",
@@ -72524,7 +72558,8 @@
       "anime": [
         "PH",
         "TSfA"
-      ]
+      ],
+      "lego": ["SFAQB"]
     },
     "crocalor": {
       "name": "Crocalor",
@@ -72625,7 +72660,8 @@
       "anime": [
         "PH",
         "TSfA"
-      ]
+      ],
+      "lego": ["SFAQB"]
     },
     "quaxwell": {
       "name": "Quaxwell",

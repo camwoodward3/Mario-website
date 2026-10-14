@@ -2,7 +2,7 @@ import json
 import time
 
 ALLOWED_TYPES = {'protagonist', 'deuteragonist', 'antagonist', 'supporting character', 'enemy'}
-GAME_CATEGORIES = ('main', 'smash', 'shows', 'movies', 'crossovers')
+GAME_CATEGORIES = ('main', 'smash', 'shows', 'movies', 'crossovers', 'amiibo')
 
 def process_icarus_data(file_path='icarus.json'):
   start_time = time.perf_counter()

@@ -2,7 +2,7 @@ import json
 import pydoc
 import time
 
-GAME_CATEGORIES = ('main', 'spinoffs', 'smash', 'other', 'crossovers', 'mobile')
+GAME_CATEGORIES = ('main', 'spinoffs', 'smash', 'other', 'crossovers', 'mobile', 'amiibo')
 
 
 def load_json_file(file_path):

@@ -7,7 +7,8 @@
     "expansions": ["SO"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT", "NM"],
-    "crossovers": ["SPMP", "SMM", "YWW", "MII16", "SMM3DS", "WA", "P&YWW", "MK8DLC", "TNTDNF",  "WWG", "MII21"]
+    "crossovers": ["SPMP", "SMM", "NBA", "YWW", "MII16", "SMM3DS", "WA", "P&YWW", "MK8DLC", "TNTDNF",  "WWG", "MII21"],
+    "amiibo": ["SMASH", "SPLATOON"]
   },
   "captain": {
     "name": "Captain",
@@ -23,7 +24,8 @@
     "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
     "smash": ["SSBU"],
     "mobile": ["NT", "NM"],
-    "crossovers": ["SMM", "YWW", "MII16", "SMM3DS", "P&YWW", "H!P", "WWG", "MII21"]
+    "crossovers": ["SMM", "YWW", "MII16", "SMM3DS", "P&YWW", "H!P", "WWG", "MII21"],
+    "amiibo": ["SPLATOON"]
   },
   "marie": {
     "name": "Marie",
@@ -32,7 +34,8 @@
     "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
     "smash": ["SSBU"],
     "mobile": ["NT", "NM"],
-    "crossovers": ["SMM", "YWW", "MII16", "SMM3DS",  "P&YWW", "H!P", "WWG", "MII21"]
+    "crossovers": ["SMM", "YWW", "MII16", "SMM3DS",  "P&YWW", "H!P", "WWG", "MII21"],
+    "amiibo": ["SPLATOON"]
   },
   "judd": {
     "name": "Judd",
@@ -116,7 +119,8 @@
     "main": ["SPLATOON", "SPLATOON2", "SPLATOON3"],
     "expansions": ["OE", "SO"],
     "smash": ["SSBU"],
-    "mobile": ["NT"]
+    "mobile": ["NT"],
+    "amiibo": ["SPLATOON"]
   },
   "agent_4": {
     "name": "Agent 4",
@@ -139,7 +143,8 @@
     "expansions": ["OE", "SO"],
     "smash": ["SSBU"],
     "mobile": ["NT"],
-    "crossovers": ["WWG"]
+    "crossovers": ["WWG"],
+    "amiibo": ["SPLATOON"]
   },
   "marina": {
     "name": "Marina",
@@ -149,7 +154,8 @@
     "expansions": ["OE", "SO"],
     "smash": ["SSBU"],
     "mobile": ["NT"],
-    "crossovers": ["WWG"]
+    "crossovers": ["WWG"],
+    "amiibo": ["SPLATOON"]
   },
   "li'l_judd": {
     "name": "Li'l Judd",
@@ -233,7 +239,8 @@
     "type": "protagonist",
     "debut": "09/09/2022",
     "main": ["SPLATOON3", "RAIDERS"],
-    "mobile": ["NT"]
+    "mobile": ["NT"],
+    "amiibo": ["SPLATOON"]
   },
   "shiver": {
     "name": "Shiver",
@@ -241,7 +248,8 @@
     "debut": "09/09/2022",
     "main": ["SPLATOON3", "RAIDERS"],
     "smash": ["SSBU"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SPLATOON"]
   },
   "frye": {
     "name": "Frye",
@@ -249,14 +257,16 @@
     "debut": "09/09/2022",
     "main": ["SPLATOON3", "RAIDERS"],
     "smash": ["SSBU"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SPLATOON"]
   },
   "big_man": {
     "name": "Big Man",
     "type": "deuteragonist",
     "debut": "09/09/2022",
     "main": ["SPLATOON3", "RAIDERS"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SPLATOON"]
   },
   "orca":{
     "name": "O.R.C.A.",

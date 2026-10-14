@@ -2,7 +2,7 @@ import json
 import time
 
 ALLOWED_TYPES = { 'protagonist', 'antagonist', 'enemy', 'supporting character', 'minor character'}
-GAME_CATEGORIES = ('main', 'smash', 'other')
+GAME_CATEGORIES = ('main', 'smash', 'other', 'amiibo')
 
 def process_earthbound_data(file_path='earthbound.json'):
   start_time = time.perf_counter()

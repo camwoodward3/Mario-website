@@ -1,7 +1,7 @@
 import json
 import time
 
-GAME_CATEGORIES = ('main', 'spinoff', 'smash', 'mobile', 'other')
+GAME_CATEGORIES = ('main', 'spinoff', 'smash', 'mobile', 'other', 'lego' 'amiibo')
 
 def load_json_file(file_path):
     try:

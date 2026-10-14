@@ -134,7 +134,7 @@
     "main": ["KDL", "KA", "KDL2", "KSS", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KPL", "KBB", "KTNT", "KAR", "KCC", "KEY", "KMA", "DDDD", "KFD", "KATRC", "KBLB", "KEEY", "KF2", "KDB", "KARS"],
     "smash": ["SSBB", "SSB3DS", "SSBU"],
-    "other": ["SML2"],
+    "other": ["SML2", "PNPVOL3"],
     "mobile": ["NM"]
   },
   "grizzo": {
@@ -237,7 +237,8 @@
     "copy": ["Bomb", "Cutter"],
     "main": ["KDL", "KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KPL", "KAV", "KBB", "KTNT", "KARS"],
-    "smash": ["SSBWIIU", "SSBU"]
+    "smash": ["SSBWIIU", "SSBU"],
+    "other": ["PNPVOL3"]
   },
   "poppy-bros-sr": {
     "name": "Poppy Bros. Sr.",
@@ -282,7 +283,8 @@
     "main": ["KDL", "LA", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSQS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KARS"],
     "smash": ["SSBB", "SSBWIIU"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "other": ["PNPVOL3"]
   },
   "skuller": {
     "name": "Skuller",
@@ -330,7 +332,8 @@
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "shows": ["KRBAY"],
     "mobile": ["NT", "NM"],
-    "other": ["KTB"]
+    "other": ["KTB", "PTUFO"],
+    "amiibo": ["KIRBY"]
   },
   "waddle-doo": {
     "name": "Waddle Doo",
@@ -342,7 +345,8 @@
     "spinoff": ["KPL", "KDC", "KAV", "KTNT", "KCC", "KEY", "KMA", "KEEY", "KBR", "KDB", "KARS"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU"],
     "shows": ["KRBAY"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "other": ["PNPVOL3"]
   },
   "whiskers": {
     "name": "Whiskers",
@@ -467,7 +471,8 @@
     "copy": ["Freeze", "Ice"],
     "main": ["KA", "KSS", "KDL3", "TCS", "KNIDL", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KATFL", "KRTDLDX", "SCW"],
     "spinoff": ["KPL", "KDC", "KBB", "KAR", "KCC", "KEY", "KEEY", "KARS"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "other": ["PNPVOL3"]
   },
   "cool-spark": {
     "name": "Cool Spark",
@@ -540,7 +545,7 @@
     "main": ["KA", "KDL2", "KNIDL", "K&TAM", "KSQS", "KSSU", "KDCSE", "KTD", "KSA", "KATFL", "SCW"],
     "spinoff": ["KPL", "KBB", "KTNT", "KMA", "TKCD", "SKC"],
     "smash": ["SSBU"],
-    "other": ["KTB"]
+    "other": ["KTB", "PNPVOL3"]
   },
   "mr-tick-tock": {
     "name": "Mr. Tick-Tock",
@@ -574,7 +579,8 @@
     "main": ["KA", "KDL2", "KSS", "KDL3", "TCS", "KNIDL", "K&TAM", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KDC", "KBB", "KCC", "KARS"],
     "smash": ["SSBU"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "other": ["PNPVOL3"]
   },
   "rolling-turtle": {
     "name": "Rolling Turtle",
@@ -931,7 +937,8 @@
     "type": "mid-boss",
     "debut": "09/20/1996",
     "copy": ["Suplex"],
-    "main": ["KSS", "KSSU", "KDCSE"]
+    "main": ["KSS", "KSSU", "KDCSE"],
+    "other": ["PNPVOL3"]
   },
   "jungle-bomb": {
     "name": "Jungle Bomb",
@@ -998,7 +1005,8 @@
     "copy": ["Mike"],
     "main": ["KSS", "KSSU", "KRTDL", "KDCSE", "KTD", "KPR", "KSA", "KRTDLDX"],
     "spinoff": ["KAR", "KARS"],
-    "smash": ["SSBB", "SSBWIIU"]
+    "smash": ["SSBB", "SSBWIIU"],
+    "other": ["PNPVOL3"]
   },
   "fatty_whale": {
     "name": "Fatty Whale",

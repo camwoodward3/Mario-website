@@ -8,7 +8,8 @@
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["STEAM", "DL", "FEC"],
     "crossovers": ["SPMP", "OPSGBX", "MHG", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG", "WWMI"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH"]
   },
   "abel": {
     "name": "Abel",
@@ -368,7 +369,8 @@
     "main": ["FESDatBoL", "FEMotE", "FESD", "FENMotE", "FEA", "FEE"],
     "spinoffs": ["TMSFE", "FEH", "FEW", "FES"],
     "smash": ["SSB3DS", "SSBU"],
-    "other": ["DL", "FEC"]
+    "other": ["DL", "FEC"],
+    "amiibo": ["FE"]
   },
   "lorenz": {
     "name": "Lorenz",
@@ -407,7 +409,8 @@
     "main": ["FEG", "FEA", "FEESoV"],
     "spinoffs": ["FEH"],
     "smash": ["SSBU"],
-    "other": ["FEC"]
+    "other": ["FEC"],
+    "amiibo": ["FE"]
   },
   "lukas": {
     "name": "Lukas",
@@ -1503,7 +1506,8 @@
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["FEC"],
     "crossovers": ["P&YWW"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH"]
   },
   "marcus": {
     "name": "Marcus",
@@ -1790,7 +1794,8 @@
     "main": ["FETBB", "FEA", "FEE"],
     "spinoffs": ["FEH"],
     "smash": ["SSBU"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["FE"]
   },
   "sophia": {
     "name": "Sophia",
@@ -2533,7 +2538,8 @@
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["STEAM", "FEC"],
     "crossovers": ["SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH"]
   },
   "boyd": {
     "name": "Boyd",
@@ -3150,7 +3156,8 @@
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["STEAM", "FEC"],
     "crossovers": ["SPMP", "SMM", "YWW", "SMM3DS", "P&YWW"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH"]
   },
   "chrom": {
     "name": "Chrom",
@@ -3161,7 +3168,8 @@
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["PXZ2", "DL", "FEC"],
     "crossovers": ["WWG"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH", "FE"]
   },
   "lissa": {
     "name": "Lissa",
@@ -3340,7 +3348,8 @@
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["STEAM", "PXZ2", "FEC"],
     "crossovers": ["SMM", "YWW", "SMM3DS", "P&YWW"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH"]
   },
   "say'ri": {
     "name": "Say'ri",
@@ -3517,7 +3526,8 @@
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "other": ["FEC"],
     "crossovers": ["P&YWW", "WWMI"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH"]
   },
   "gunter": {
     "name": "Gunter",
@@ -4562,7 +4572,8 @@
     "smash": ["SSBU"],
     "other": ["FEC"],
     "crossovers": ["WWMI"],
-    "mobile": ["NM"]
+    "mobile": ["NM"],
+    "amiibo": ["SMASH"]
   },
   "edelgard": {
     "name": "Edelgard",

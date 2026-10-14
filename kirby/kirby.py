@@ -5,7 +5,7 @@ ALLOWED_TYPES = {
     'protagonist', 'antagonist', 'supporting character', 
     'enemy', 'helper', 'friend', 'mid-boss', 'boss'
 }
-GAME_CATEGORIES = ('main', 'spinoff', 'smash', 'mobile', 'other')
+GAME_CATEGORIES = ('main', 'spinoff', 'smash', 'mobile', 'other', 'amiibo')
 
 def load_json_file(file_path):
   try:

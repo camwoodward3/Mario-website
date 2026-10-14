@@ -9,7 +9,8 @@
     "software": ["PLAZA"],
     "mobile": ["NM"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["WWSM", "SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG"]
+    "other": ["WWSM", "SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "YWW", "SMM3DS", "P&YWW", "WWG"],
+    "amiibo": ["SMASH"]
   },
   "tom_nook": {
     "name": "Tom Nook",
@@ -21,7 +22,8 @@
     "software": ["CALCULATOR_DS", "CALCULATOR_3DS", "PLAZA", "PHOTOS"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "KPR", "SMM3DS", "P&YWW", "H!P", "TNTATD", "MII16", "WWG", "MII21"]
+    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "KPR", "SMM3DS", "P&YWW", "H!P", "TNTATD", "MII16", "WWG", "MII21"],
+    "amiibo": ["AC"]
   },
   "timmy_&_tommy": {
     "name": "Timmy & Tommy Nook",
@@ -33,7 +35,8 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
   },
   "beppe": {
     "name": "Beppe",
@@ -61,7 +64,8 @@
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["SPMP", "MK8", "MK8DLC", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SPMP", "MK8", "MK8DLC", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
 
   },
   "booker": {
@@ -110,7 +114,8 @@
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
 
   },
   "chip": {
@@ -152,7 +157,8 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
   },
   "daisy_mae": {
     "name": "Daisy Mae",
@@ -170,7 +176,8 @@
     "spinoffs": ["HHD", "AF"],
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBU"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
   },
   "dj_kk": {
     "name": "DJ K.K.",
@@ -311,7 +318,8 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "SSFF", "TNTATD", "MH4U", "MII16", "P&YWW", "H!P", "SSSS", "WWG", "MII21", "JRC"]
+    "other": ["SPMP", "CNB", "MK8", "MK8DLC", "NBA", "CNB+", "SMM", "SMM3DS", "SSFF", "TNTATD", "MH4U", "MII16", "P&YWW", "H!P", "SSSS", "WWG", "MII21", "JRC"],
+    "amiibo": ["SMASH", "AC"]
   },
   "jack": {
     "name": "Jack",
@@ -365,7 +373,8 @@
     "software": ["PLAZA", "PHOTOS"],
     "mobile": ["NM"],
     "smash": ["SSBB", "SSB3DS", "SSBU"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
   },
   "katie": {
     "name": "Katie",
@@ -397,7 +406,8 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
 
   },
   "k.k._slider": {
@@ -410,7 +420,8 @@
     "software": ["CALCULATOR_DS", "CALCULATOR_3DS", "CLOCK_DS", "CLOCK_3DS", "PLAZA", "PHOTOS"],
     "smash": ["SSBM", "SSBB", "SSBWIIU", "SSBU"],
     "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
-    "mobile": ["NT", "NM"]
+    "mobile": ["NT", "NM"],
+    "amiibo": ["AC"]
   },
   "label": {
     "name": "Label",
@@ -471,7 +482,8 @@
     "spinoffs": ["HHD", "AF", "PC", "CPC"],
     "smash": ["SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "SSFF", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "SSFF", "WWG"],
+    "amiibo": ["AC"]
   },
   "luna": {
     "name": "Luna",
@@ -503,7 +515,8 @@
     "software": ["PLAZA"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT", "NM"],
-    "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SPMP", "MK8", "MK8DLC", "CNB+", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
   },
   "mr.resetti": {
     "name": "Mr. Resetti",
@@ -515,7 +528,8 @@
     "software": ["PLAZA"],
     "mobile": ["NM"],
     "smash": ["SSBM", "SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
-    "other": ["CNB", "MK8", "MK8DLC", "SMM", "SMM3DS", "MH4U", "P&YWW", "MII16", "P&YWW", "H!P", "WWG", "MII21"]
+    "other": ["CNB", "MK8", "MK8DLC", "NBA", "SMM", "SMM3DS", "MH4U", "P&YWW", "MII16", "P&YWW", "H!P", "WWG", "MII21"],
+    "amiibo": ["AC"]
   },
   "nat": {
     "name": "Nat",
@@ -640,7 +654,8 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSB3DS", "SSBU"],
     "mobile": ["NT"],
-    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"]
+    "other": ["SPMP", "SMM", "SMM3DS", "P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
   },
   "rover": {
     "name": "Rover",
@@ -652,7 +667,8 @@
     "software": ["PLAZA", "PHOTOS"],
     "smash": ["SSBB", "SSB3DS", "SSBWIIU", "SSBU"],
     "mobile": ["NT"],
-    "other": ["P&YWW", "H!P", "WWG"]
+    "other": ["P&YWW", "H!P", "WWG"],
+    "amiibo": ["AC"]
   },
   "sable": {
     "name": "Sable",

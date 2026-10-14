@@ -3,7 +3,7 @@ import time
 
 ALLOWED_TYPES = { 'player', 'special character', 'villager'}
 GAME_CATEGORIES = (
-  'main', 'expansions', 'spinoffs', 'software', 'smash', 'mobile', 'other'
+  'main', 'expansions', 'spinoffs', 'software', 'smash', 'mobile', 'other', 'lego' 'amiibo'
 )
 
 def load_json_file(file_path):

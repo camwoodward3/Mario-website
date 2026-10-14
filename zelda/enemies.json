@@ -1032,7 +1032,8 @@
     "main": ["OoT", "MM", "TP", "OoT3D", "SS", "MM3D", "TPHD", "LANS", "SSHD"],
     "smash": ["SSBB"],
     "spinoff": ["LCT", "HW", "HWL", "HWDE"],
-    "other": ["MK8", "MK8DLC"]
+    "other": ["MK8", "MK8DLC"],
+    "lego": ["TGDT"]
   },
   "deku-scrub": {
     "name": "Deku Scrub",
@@ -1040,7 +1041,7 @@
     "debut": "11/21/1998",
     "main": ["OoT", "OoT3D", "MM", "OoS", "OoA", "FSA", "MM3D", "TFH", "EOW"],
     "spinoff": ["COH"],
-    "other": ["SLW"]
+    "other": ["PNPVOL4", "SLW"]
   },
   "mad-scrub": {
     "name": "Mad Scrub",
@@ -1074,7 +1075,8 @@
     "main": ["OoT", "MM", "TP", "PH", "ST", "OoT3D", "SS", "MM3D", "TPHD", "SSHD", "EOW"],
     "spinoff": ["LCT", "HW", "HWL", "COH"],
     "smash": ["SSBB", "SSB3DS"],
-    "other": ["NL"]
+    "other": ["NL"],
+    "lego": ["TGDT"]
   },
   "freezard": {
     "name": "Freezard",
@@ -1327,7 +1329,8 @@
     "main": ["TWW", "TP", "SS", "TWWHD", "TPHD", "BOTW", "SSHD", "TOTK", "BOTWNS", "TOTKNS"],
     "spinoff": ["LCT", "HW", "HWL", "HWDE", "MNP", "COH", "AOC", "AOI"],
     "mobile": ["NT"],
-    "other": ["WWG"]
+    "other": ["WWG"],
+    "amiibo": ["ZELDA"]
   },
   "dexivine": {
     "name": "Dexivine",
@@ -1879,7 +1882,8 @@
     "spinoff": ["AOC"],
     "smash": ["SSBU"],
     "mobile": ["NT"],
-    "other": ["WWG"]
+    "other": ["WWG"],
+    "amiibo": ["ZELDA"]
   },
   "yiga-footsoldier": {
     "name": "Yiga Footsoldier",

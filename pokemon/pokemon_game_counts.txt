@@ -1024,5 +1024,5 @@ Gouging Fire - 4 games total
 Iron Boulder - 4 games total
 Iron Crown - 4 games total
 
-Total Time to Calculate: 0.0393 seconds
+Total Time to Calculate: 0.0051 seconds
 Total entries aggregated: 1024
