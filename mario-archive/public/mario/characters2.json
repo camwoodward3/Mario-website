@@ -1,0 +1,3774 @@
+{
+  "mario": {
+    "name": "Mario",
+    "type": "hero",
+    "debut": "07/09/1981",
+    "consoles": {
+      "atari2600": ["DK", "DKJR", "MB"],
+      "colecoVision": ["DK", "DKJR", "MB"],
+      "intellivision": ["DK", "DKJR", "MB"],
+      "nes": ["DK", "DKJR", "MB", "DKJR+JRSL", "PINBALL", "GOLF", "FBV3", "WC", "SMB", "CLASSICS", "SMB2", "SMB3", "DM", "NESOTG", "YOSHI", "YC", "MIM", "MTM"],
+      "fcds": ["GOLF", "SMB", "TLL", "IAATSMW", "ANNSMB", "GJC", "GUSC", "FGPF1R", "DK", "FDPII3DHR", "DKJR", "MBR", "WC", "PINBALL", "DM"],
+      "fcns": ["SMC"],
+      "atari5200": ["MB"],
+      "atari7800": ["DK", "DKJR", "MB"],
+      "snes": ["SMW", "MP", "SMK", "MIM", "SMAS", "YC", "YS", "M&W", "MTM", "MEYFWN", "MEYFWL", "MEYPF", "T&DM", "UNDAKE30", "MSP", "DKC2", "SMRPG", "WC98", "PNPVOL6"],
+      "satellaview": ["UNDAKE30", "ER", "BSSMUSA", "DMBSB", "EBBMB", "MPBSB", "BSSMC", "MPYNB"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "n64": ["SM64", "SM64RPCV", "MK64", "MNP", "MP", "SSB", "MG64", "MP2", "MT64", "PM", "MP3", "DM64"],
+      "64dd": ["MAPS", "MATS", "MACK", "MAPOS"],
+      "ngc": ["LM", "SSBM", "SMS", "MP4", "NPC", "MGTT", "MKDD", "MP5", "DKA", "DKA2", "PMTTYD", "MPT", "MP6", "NBASV3", "DKA3", "DDRMM", "MSSB", "SSX", "MP7", "SMST"],
+      "dvd": ["MGMM"],
+      "iQue": ["DM64", "SM64", "MK64", "PM", "SSB"],
+      "wii": ["WWSM", "SPM", "MSTC", "MP8", "SMG", "M&SATOG", "SSBB", "MKWII", "MSSL", "CR", "MPT_WII", "M&SATOWG", "NSMBWII", "SMG2", "SMASLE", "DKOE", "25ASMB", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiWare": ["DMORX", "WWDIYS"],
+      "wiiU": ["NSMBU", "NL", "G&W", "NSMBU+NSLU", "M&SATS14OWG", "SM3DW", "NES_REMIX", "NES_REMIX2", "MK8", "CTTT", "SSBWIIU", "TS", "MP10", "ATNGB", "YWW", "SMM", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "game&watch": ["DK", "DKJR", "DKII", "MB", "DKJRTT", "MCFTT", "MCF", "MBA", "DKC", "HOCKEY", "SMB", "MTJ", "G&WSMB"],
+      "coleco": ["DK"],
+      "gb": ["ALLEYWAY", "BASEBALL", "SML", "TETRIS", "GOLF", "DM", "YOSHI", "SML2", "YC", "DK", "PICROSS", "PICROSS2", "G&WG", "G&WG2"],
+      "nelsonic": ["SMB", "SMB3", "SMW", "DK"],
+      "watch": ["MEC"],
+      "barcode": ["SMW", "SMK"],
+      "gamewatch_boy": ["SMR", "DM"],
+      "virtual_boy": ["MT", "MC"],
+      "gbc": ["G&WG2", "SMBDX", "G&GW3", "MG", "MT", "MOG", "MF"],
+      "mini_classics": ["SMB", "DKJR", "DK", "MCF"],
+      "sewing": ["SMEW"],
+      "gba": ["SMA", "MKSC", "SMA2", "G&WG4", "WWIMM", "SMA4", "M&LSS", "MGAT", "MVDK", "DKC2", "MPL", "WWTW", "MPA", "DM&PL", "MTPT"],
+      "e-reader": ["DKJR", "PINBALL", "DK", "MB", "MPE", "GOLF"],
+      "ds": ["SM64DS", "WWTO", "YDS", "SPP", "MKDS", "M&LPIT", "TETRIS_DS", "NSMB", "MH3O3", "G&WC", "MOTMI", "ISDS", "MPDS", "M&SATOG", "M&LBIS", "WWDIY", "M&SATOWG", "MLM"],
+      "dsiware": ["PiCTOBiTS", "CALCULATOR", "CLOCK", "NDSIM", "MMA", "DRME", "G&WDKJR", "G&WMCF"],
+      "3ds": ["AR", "SPMP", "DKJR", "DME", "MMA", "MCF", "PiCTOBiTS", "CALCULATOR", "CLOCK", "DKOE", "SM3DL", "MK7", "M&SATL12OG", "MTO", "NSMB2", "CNB", "PMSS", "LM2", "MOTMO", "M&LDT", "MPIT", "YNI", "MGWT", "PWM", "CNB+", "SSB3DS", "UNESR", "TS", "D&D", "DMMC", "NBA", "M&LPJ", "MM&FAC", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "M&LSS+BM", "MPT100", "MINECRAFT", "WWG", "LM", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "AAMB", "SMO", "AASMB", "MTAOTD", "AADK", "MINECRAFT", "MTA", "SMP", "SSBU", "AADKJR", "NSMBUDX", "SMM2", "TETRIS_99", "AA_PINBALL", "AA_GOLF", "LM3", "M&SATT20OG", "AAWC", "PMTOK", "SM3DAS", "SMB35", "MKLHC", "SM3DW+BF", "MGSR", "WWGIT", "MPS", "MSTBL", "MRSOH", "SMBW", "WWMI", "SMRPG", "MVSDK", "PMTTYD", "LM2HD", "NESWCNESE", "SMPJ", "M&LB", "SMG1+2", "MRKB+MRSOH", "HELLO_MARIO"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["DK", "CK", "CK2", "DKJR", "MB", "MBS", "MR", "PCSMB3", "MWSM", "GGM", "TDSMW", "PPM", "SMB3MP", "SMWMP", "SMBPB", "SMBMW", "KT", "BM", "MU", "SMWP", "SMWA", "SMKDDR", "GGMC", "WB", "JFSMW", "BOWL", "MNMI", "VSDM", "DKSM", "MK64SM", "SMAT", "DMC", "SMFNJL", "SMFNKP", "DK/DKJR/MB", "SMFNKP2", "MPFNKC", "NSMBWCW", "MKAGPDX", "M&SATR16OGAE", "MKAGPVR", "M&SATT20OGAE"],
+      "vs.system": ["VSWC", "VS_PINBALL", "S&MG", "VS_SMB", "VSDM"],
+      "np10": ["GOLF", "SMB", "MB", "SMB2", "SMB3", "DM", "NESOTG"],
+      "nss": ["SMW"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "ti-99/4a": ["DK"],
+      "ms-dos": ["DK", "SMB&FWIGU", "SMBPW", "MTT", "MIM", "MIM_CD-ROM_DX", "MTM", "MEYFWL", "MEYFWN", "MEYPF", "MTMDX", "MEYPF_CD-ROM_C", "MTTE_CD-ROM", "MGG"],
+      "macintosh": ["SMCSS"],
+      "mac-os": ["MTT2"],
+      "as": ["MNQ", "MG", "DR", "MM", "MAESTRO", "MMM", "PB", "SSB"],
+      "af": ["DP", "CQQ", "MIU", "TB", "MOLA", "M&LSSJS", "G2", "MMFG", "BR", "ND", "MMM", "NESC", "CNESST", "PST", "MTPT", "SMST", "MSBFL", "MP7BVQ", "DMVT", "BLH", "HU", "MSCBB", "SNS", "BP", "RR", "DD", "DS", "SS", "CK", "JWM", "MDR", "AYMTM", "SMG", "MKWII/DS", "SSBB", "MT", "MM"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "8BITSMS", "DMW", "MKT", "LSM", "NT", "NM", "HELLO_MARIO"]
+    },
+    "games": {
+      "normal": ["BWG", "BWG+", "SMBG", "JDKCE", "JENGA", "SMHSS", "SMCS"],
+      "board": ["CL", "DSMS", "DKMBBG", "DKJR", "DMG", "TGOL", "IQMQ", "MK7SSRG", "MK8DLGP", "MKRLG", "MKRDX", "MKRDXEP", "MKWIIGP", "NSMBUCRT", "MNGC21", "MBMK", "MONOPOLY_GAMER", "MGMK", "MJSM", "MSMC", "MTSMBME", "NM06", "NM10", "PUSM", "SMABG", "SMAGDX", "SMBP", "SMBG", "SMBM", "SMC&TTT", "SMC", "GWSM", "SML", "SMLU", "SMLCG", "SMNDG", "SMPPE", "SMKCPFG", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["AWM", "NES", "SM64QMB", "AWILM", "SMWM&Y", "MKM&SK", "MKILM&SK", "GB", "DKA", "MPJ", "YAMH", "MBA", "RWM", "FM&BC"],
+      "knex": ["M&SB", "M&SK", "MBS", "MM", "MS", "BR", "IR", "MCSL", "FC", "SL", "SB", "BCU", "T", "G", "PP", "CC", "DOT", "FL", "MCU", "UC", "TE", "MF", "MGK", "PPS", "MK", "MB", "TR", "MKMB", "SG", "PRONGO", "FC", "GH", "BC", "BMKT", "RENZOR", "DESERT", "BEACH", "THWOMP", "GMFLFBB", "CM", "CANNON", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S9", "S10", "S11"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH"],
+      "f4f": ["MDSH", "TMS", "CMS", "M&YS", "MKS"],
+      "sh_figuarts": ["MARIO", "FIRE_MARIO"],
+      "smbb": ["SM1", "MK8", "SM2"],
+      "won": ["FM", "M", "8BM", "CM", "TM", "IM", "WTM", "TM", "MR", "DM", "MS", "SPMR", "MFP", "M&C"],
+      "sm": ["FMFP", "MR", "M&CS", "WM", "MFB", "TM", "RM", "SPMRYT", "MS", "M&CH", "MHH", "IMFP", "MHIA", "M&CS", "FMHH", "MJ", "IMHIA", "FMFB", "CM", "FMR", "FMFB", "CM", "FSM", "CMR", "FMFB", "FSM", "FMR", "SMR", "TMR", "EM", "FMS"]
+    }
+  },
+  "luigi": {
+    "name": "Luigi",
+    "type": "hero",
+    "debut": "07/14/1983",
+    "consoles": {
+      "atari2600": ["MB"],
+      "nes": ["MB", "WC", "SMB", "SMB2", "SMB3", "NESOTG", "YOSHI", "MIM", "MTM"],
+      "fcds": ["SMB", "TLL", "IAATSMW", "ANNSMB", "FDPII3DHR", "MBR", "WC"],
+      "fcns": ["SMC"],
+      "atari5200": ["MB"],
+      "atari7800": ["MB"],
+      "snes": ["SMW", "SMK", "MIM", "SMAS", "M&W", "MTM", "MEYFWN", "MEYFWL", "MEYPF", "WC98"],
+      "satellaview": ["BSSMUSA", "EBBMB"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "n64": ["MK64", "MP", "SSB", "MG64", "MP2", "MT64", "PM", "MP3"],
+      "64dd": ["MAPS"],
+      "ngc": ["LM", "SSBM", "MP4", "MGTT", "MKDD", "MP5", "DKA2", "PMTTYD", "MPT", "MP6", "NBASV3", "DKA3", "DDRMM", "MSSB", "SSX", "MP7", "SMST"],
+      "dvd": ["MGMM"],
+      "iQue": ["MK64", "PM", "SSB"],
+      "wii": ["WWSM", "SPM", "MSTC", "MP8", "SMG", "M&SATOG", "SSBB", "MKWII", "MSSL", "MPT_WII", "M&SATOWG", "NSMBWII", "SMG2", "SMASLE", "25ASMB", "MSM", "FS", "MP9"],
+      "wiiU": ["NSMBU", "NL", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "DL", "SM3DW", "NES_REMIX", "NES_REMIX2", "MK8", "CTTT", "SSBWIIU", "TS", "MP10", "ATNGB", "YWW", "SMM", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "game&watch": ["MB", "G&WSMB"],
+      "gb": ["BASEBALL", "TETRIS", "YOSHI", "G&WG", "G&WG2"],
+      "watch": ["LHT"],
+      "barcode": ["SMW", "SMK"],
+      "virtual_boy": ["MT", "MC"],
+      "gbc": ["G&WG2", "SMBDX", "G&GW3", "MG", "MT", "MF"],
+      "sewing": ["SMEW"],
+      "gba": ["SMA", "MKSC", "SMA2", "G&WG4", "SMA4", "M&LSS", "MGAT", "WWTW", "MPA", "MTPT"],
+      "e-reader": ["MB", "MPE"],
+      "ds": ["SM64DS", "WWTO", "YDS", "SPP", "MKDS", "M&LPIT", "TETRIS_DS", "NSMB", "MH3O3", "ISDS", "MPDS", "M&SATOG", "M&LBIS", "M&SATOWG"],
+      "dsiware": ["PiCTOBiTS", "CALCULATOR", "CLOCK"],
+      "3ds": ["SPMP", "PiCTOBiTS", "CALCULATOR", "CLOCK", "SM3DL", "MK7", "M&SATL12OG", "MTO", "NSMB2", "CNB", "PMSS", "LM2", "M&LDT", "MPIT", "MGWT", "PWM", "CNB+", "SSB3DS", "UNESR", "TS", "D&D", "DMMC", "NBA", "MM&FAC", "M&LPJ", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "M&LSS+BM", "MPT100", "MINECRAFT", "WWG", "LM", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "AAMB", "SMO", "AASMB", "MINECRAFT", "MTA", "SMP", "SSBU", "NSMBUDX", "SMM2", "TETRIS_99", "LM3", "M&SATT20OG", "AAWC", "PMTOK", "SM3DAS", "SMB35", "MKLHC", "SM3DW+BF", "MGSR", "MPS", "MSTBL", "MRSOH", "SMBW", "WWMI", "PMTTYD", "LM2HD", "NESWCNESE", "SMPJ", "M&LB", "SMG1+2", "MRKB+MRSOH", "HELLO_LUIGI"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["MB", "MBS", "TDSMW", "SMB3MP", "SMBPB", "SMBMW", "SMWA", "SMKDDR", "GGMC", "BOWL", "MK64SM", "DMC", "SMFNJL", "SMFNKP", "DK/DKJR/MB", "SMFNKP2", "MPFNKC", "NSMBWCW", "MKAGPDX", "M&SATR16OGAE", "LMA", "MKAGPVR", "M&SATT20OGAE"],
+      "vs.system": ["VSWC", "VS_SMB"],
+      "np10": ["SMB", "MB", "SMB2", "SMB3", "NESOTG"],
+      "nss": ["SMW"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MTT", "MIM", "MIM_CD-ROM_DX", "MEYFWL", "MEYFWN", "MEYPF", "MEYPF_CD-ROM_C", "MTTE_CD-ROM", "MGG"],
+      "macintosh": ["SMCSS"],
+      "mac-os": ["MTT2"],
+      "as": ["DR", "MM", "NOMISS", "MMM"],
+      "af": ["DP", "PTL", "MIU", "TB", "TDT", "MP4", "M&LSSJS", "G2", "PST", "BB", "SMST", "MSBFL", "HU", "AYMTM", "MKWII/DS", "MT", "MM"],
+      "atari800xl": ["MB"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "8BITSMS", "DMW", "MKT", "LSM", "NT", "NM"]
+    },
+    "games": {
+      "normal": ["SMBG", "JENGA", "SMCS"],
+      "board": ["CL", "TGOL", "SMGGLCS", "IQMQ", "MK7SSRG", "MKRLG", "MKRDX", "MKRDXEP", "MKWIIGP", "NSMBUCRT", "MNGC21", "MBMK", "MGMK", "MJSM", "MTSMBME", "NM06", "NM10", "PUSM", "SMABG", "SMAGDX", "SMBG", "SMBM", "SMC&TTT", "SMC", "GWSM", "SML", "SMLU", "SMLCG", "SMPPE", "SMKCPFG", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["AWL", "AWILL", "MKL&M8", "L&BJR", "FLVSKTB", "GJC"],
+      "knex": ["L&SB", "L&SK", "LBS", "LM", "SL", "BCU", "PC", "MF", "LB", "MKLB", "BEACH", "THWOMP", "BPP", "GMFLFBB", "FSMFYT", "LCD", "CANNON", "DB", "FMHBBO", "LGSG", "S1", "S4", "S5", "S6", "S7", "S8", "S9", "S10", "S11"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH"],
+      "f4f": ["LM3S"],
+      "sh_figuarts": ["LUIGI"],
+      "smbb": ["SM1", "MK8", "SM2"],
+      "won": ["IL", "L", "8BL", "FL", "CL", "LR"],
+      "sm": ["L", "FL", "IL", "FLS", "LS", "CL", "LR", "LS", "ILR", "CLR", "FLR"]
+    }
+  },
+  "peach": {
+    "name": "Peach",
+    "type": "hero",
+    "debut": "09/13/1985",
+    "consoles": {
+      "nes": ["SMB", "SMB2", "SMB3", "NESOTG", "YC"],
+      "fcds": ["SMB", "TLL", "IAATSMW", "ANNSMB"],
+      "snes": ["SMW", "SMK", "MIM", "YC", "SMAS", "YS", "M&W", "MEYFWN", "MEYFWL", "MEYPF", "SMRPG", "WC98", "PNPVOL6"],
+      "satellaview": ["BSSMUSA", "BSSMC"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "n64": ["SM64", "SM64RPCV", "MK64", "MNP", "MP", "MG64", "MP2", "MT64", "PM", "MP3"],
+      "64dd": ["MAPS"],
+      "ngc": ["SSBM", "SMS", "MP4", "NPC", "MGTT", "MKDD", "MP5", "DKA", "DKA2", "MPT", "MP6", "NBASV3", "DKA3", "MSSB", "SSX", "MP7", "SMST"],
+      "dvd": ["MGMM"],
+      "iQue": ["SM64", "MK64", "PM"],
+      "wii": ["WWSM", "SPM", "MP8", "SMG", "M&SATOG", "SSBB", "MKWII", "MSSL", "MPT_WII", "M&SATOWG", "NSMBWII", "SMG2", "SMASLE", "25ASMB", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "SM3DW", "NES_REMIX", "NES_REMIX2", "MK8", "CTTT", "SSBWIIU", "TS", "MP10", "ATNGB", "YWW", "SMM", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "game&watch": ["SMB", "G&WSMB"],
+      "gb": ["YC", "LA", "G&WG", "G&WG2"],
+      "nelsonic": ["SMB", "SMB3", "SMW"],
+      "watch": ["PTCR"],
+      "barcode": ["SMK"],
+      "virtual_boy": ["MT", "MC"],
+      "gbc": ["G&WG2", "LADX", "SMBDX", "G&GW3", "MG", "MT", "MOG", "MF"],
+      "mini_classics": ["SMB"],
+      "sewing": ["SMEW"],
+      "gba": ["SMA", "MKSC", "SMA2", "G&WG4", "SMA4", "M&LSS", "MGAT", "MPL", "WWTW", "MPA", "MTPT"],
+      "e-reader": ["MPE"],
+      "ds": ["SM64DS", "YDS", "SPP", "MKDS", "M&LPIT", "NSMB", "MOTMI", "ISDS", "MPDS", "M&SATOG", "M&LBIS", "M&SATOWG", "MLM"],
+      "dsiware": ["PiCTOBiTS", "CALCULATOR", "CLOCK"],
+      "3ds": ["SPMP", "CALCULATOR", "PiCTOBiTS", "CLOCK", "SM3DL", "MK7", "M&SATL12OG", "MTO", "NSMB2", "PMSS", "MOTMO", "M&LDT", "MPIT", "MGWT", "PWM", "CNB+", "SSB3DS", "UNESR", "TS", "D&D", "NBA", "M&LPJ", "MM&FAC", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "M&LSS+BM", "MPT100", "MINECRAFT", "WWG", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "SMO", "AASMB", "MTAOTD", "MINECRAFT", "MTA", "SMP", "SSBU", "NSMBUDX", "SMM2", "TETRIS_99", "LA", "LM3", "M&SATT20OG", "PMTOK", "SM3DAS", "SM3DW+BF", "MGSR", "MPS", "MRSOH", "SMBW", "WWMI", "SMRPG", "PPST", "PMTTYD", "NESWCNESE", "SMPJ", "M&LB", "SMG1+2", "MRKB+MRSOH", "HELLO_PEACH"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["MR", "GGM", "TDSMW", "PPM", "SMB3MP", "SMWMP", "SMBPB", "SMBMW", "KT", "BM", "MU", "SMWP", "SMKDDR", "GGMC", "JFSMW", "BOWL", "MK64SM", "SMAT", "DMC", "SMFNJL", "SMFNKP", "SMFNKP2", "MPFNKC", "NSMBWCW", "M&SATR16OGAE", "MKAGPVR", "M&SATT20OGAE"],
+      "vs.system": ["VS_SMB"],
+      "np10": ["SMB", "SMB2", "SMB3", "NESOTG"],
+      "nss": ["SMW"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MIM_CD-ROM_DX", "MEYFWL", "MEYFWN", "MEYPF", "MEYPF_CD-ROM_C", "MGG"],
+      "macintosh": ["SMCSS"],
+      "mac-os": ["MTT2"],
+      "as": ["DR", "NOMISS", "MMM"],
+      "af": ["DP", "M&LSSJS", "SOTC", "G2", "BR", "PST", "SMST", "MSBFL", "MSBFL", "HU", "PF", "MT", "MM"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "8BITSMS", "DMW", "MKT", "LSM", "NT", "NM"]
+    },
+    "toys": {
+      "lego": ["SM64QMB", "AWP", "AWILP", "FM&BC", "EBBMB"],
+      "knex": ["PBG", "PK", "BC", "S1", "S2", "S5", "S8", "S10", "S11"]
+    },
+    "games": {
+      "normal": ["SMBG", "JENGA", "SMCS"],
+      "board": ["TGOL", "SMGGLCS", "IQMQ", "MK7SSRG", "MKRLG", "MKWIIGP", "MNGC21", "MBMK", "MONOPOLY_GAMER", "MGMK", "MJSM", "MTSMBME", "NM06", "NM10", "PUSM", "SMABG", "SMBP", "SMBM", "SMC", "GWSM", "SML", "SMLU", "SMNDG", "SMKCPFG", "SMTTM"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH"],
+      "smbb": ["SM1", "MK8"],
+      "won": ["PP", "8BPP", "PPP"],
+      "sm": ["PP"]
+    }
+  },
+  "toad": {
+    "name": "Toad",
+    "type": "ally",
+    "colors": [
+      "red",
+      "yellow",
+      "blue",
+      "green",
+      "purple"
+    ],
+    "debut": "09/13/1985",
+    "consoles": {
+      "nes": ["SMB", "SMB2", "SMB3", "NESOTG", "YC", "WW"],
+      "fcds": ["SMB", "TLL", "ANNSMB"],
+      "snes": ["SMK", "YC", "SMAS", "WW", "SMRPG", "PNPVOL6"],
+      "satellaview": ["WNMF", "WNMEV", "SATELLA-Q", "WNMBV", "BSSMUSA", "BSSMC"],
+      "n64": ["SM64", "SM64RPCV", "MK64", "MNP", "MP", "MG64", "MT64", "PM", "MP3"],
+      "64dd": ["MAPS", "MATS"],
+      "ngc": ["LM", "SSBM", "SMS", "MP4", "NPC", "MGTT", "MKDD", "MP5", "DKA2", "PMTTYD", "MPT", "MP6", "DKA3", "DDRMM", "MSSB", "MP7", "SMST"],
+      "dvd": ["MGMM"],
+      "iQue": ["SM64", "MK64", "PM"],
+      "wii": ["WWSM", "SPM", "MSTC", "MP8", "SMG", "M&SATOG", "SSBB", "MKWII", "MSSL", "MPT_WII", "M&SATOWG", "NSMBWII", "SMG2", "SMASLE", "25ASMB", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiU": ["NSMBU", "NL", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "SM3DW", "NES_REMIX", "NES_REMIX2", "MK8", "CTTT", "SSBWIIU", "TS", "MP10", "ATNGB", "YWW", "SMM", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "game&watch": ["MTJ", "G&WSMB"],
+      "gb": ["G&WG", "G&WG2"],
+      "watch": ["PTCR"],
+      "barcode": ["SMK"],
+      "virtual_boy": ["MT", "MC"],
+      "gbc": ["G&WG2", "SMBDX", "G&GW3", "MG", "MT"],
+      "sewing": ["SMEW"],
+      "gba": ["SMA", "MKSC", "G&WG4", "SMA4", "M&LSS", "MGAT", "MVDK", "MPL", "MPA", "MTPT"],
+      "e-reader": ["MPE"],
+      "ds": ["SM64DS", "WWTO", "YDS", "SPP", "MKDS", "M&LPIT", "NSMB", "MOTMI", "ISDS", "MPDS", "M&SATOG", "M&LBIS", "M&SATOWG", "MLM"],
+      "dsiware": ["PiCTOBiTS", "CALCULATOR", "CLOCK"],
+      "3ds": ["SPMP", "CALCULATOR", "PiCTOBiTS", "CLOCK", "SM3DL", "MK7", "M&SATL12OG", "MTO", "NSMB2", "PMSS", "LM2", "MOTMO", "MPIT", "MGWT", "CNB+", "SSB3DS", "UNESR", "TS", "D&D", "NBA", "M&LPJ", "MM&FAC", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "M&LSS+BM", "MPT100", "MINECRAFT", "CTTT", "WWG", "LM", "M&LBIS+BJJ", "SM3DW+BF"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "SMO", "AASMB", "MTAOTD", "MINECRAFT", "MTA", "CTTT", "SMP", "SSBU", "NSMBUDX", "SMM2", "TETRIS_99", "LM3", "M&SATT20OG", "PMTOK", "SM3DAS", "SMB35", "MKLHC", "SM3DW+BF", "MGSR", "WWGIT", "MPS", "MSTBL", "SMBW", "WWMI", "SMRPG", "MVSDK", "PPST", "PMTTYD", "LM2HD", "NESWCNESE", "SMPJ", "M&LB", "SMG1+2", "MRKB+MRSOH", "HELLO_MARIO", "HELLO_YOSHI", "HELLO_PEACH", "HELLO_LUIGI"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["SMB3MP", "SMBPB", "SMBMW", "BM", "SMWA", "GGMC", "BOWL", "DMC", "SMFNJL", "SMFNKP", "SMFNKP2", "MPFNKC", "NSMBWCW", "MKAGPDX", "M&SATR16OGAE", "MKAGPVR"],
+      "vs.system": ["VS_SMB"],
+      "np10": ["SMB", "SMB2", "SMB3", "NESOTG"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MTT", "MIM_CD-ROM_DX", "MEYPF", "MEYPF_CD-ROM_C", "MTTE_CD-ROM", "MGG"],
+      "mac-os": ["MTT2"],
+      "as": ["CC", "NOMISS", "MMM"],
+      "af": ["TB", "MP4", "MMFG", "SMST", "MSBFL", "BLH", "MM"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "DMW", "MKT", "LSM", "NT", "NM", "HELLO_MARIO", "HELLO_YOSHI"]
+    },
+    "games": {
+      "normal": ["BWG", "JENGA"],
+      "board": ["CL", "DSMS", "TGOL", "SMGGLCS", "IQMQ", "MK7SSRG", "MKRDXEP", "MBMK", "MONOPOLY_GAMER", "MGMK", "MTSMBME", "NM06", "NM10", "PUSM", "SMABG", "SMC", "GWSM", "SML", "SMLU", "SMLCG", "SMNDG", "SMPPE", "SMKCPFG", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["TTH", "TSH", "LMHAS", "AWP", "CPSAFS", "CP5", "PGBR", "DBCB", "NATS", "BWRAPC", "AWILP", "MKSK", "MKTG", "MKBP&GPS", "CTC", "PATH", "BRR"],
+      "knex": ["T&SK", "T&SB", "TSS", "MCU", "MF", "MKTB", "FSMFYT", "S1", "S3", "S4", "S5", "S8", "S9", "S10", "S11"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS"],
+      "smbb": ["SM1", "MK8"],
+      "won": ["CT", "T", "8BT", "FT"],
+      "sm": ["BT", "T", "GT", "YT", "CT", "RT"]
+    }
+  },
+  "bowser": {
+    "name": "Bowser",
+    "type": "boss",
+    "debut": "09/13/1985",
+    "consoles": {
+      "nes": ["SMB", "SMB3", "MIM"],
+      "fcds": ["SMB", "TLL"],
+      "snes": ["SMW", "SMK", "MIM", "YC", "SMAS", "YS", "MTM", "MEYFWN", "MEYFWL", "TA", "SMRPG", "WC98", "PNPVOL2", "PNPVOL7"],
+      "satellaview": ["YNPBSB", "BSSMC"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "n64": ["SM64", "SM64RPCV", "MK64", "MP", "MG64", "MP2", "MT64", "PM", "MP3"],
+      "64dd": ["MAPS"],
+      "ngc": ["LM", "SSBM", "SMS", "MP4", "NPC", "MGTT", "MKDD", "MP5", "PMTTYD", "MPT", "MP6", "DDRMM", "MSSB", "MP7", "SMST"],
+      "dvd": ["MGMM"],
+      "iQue": ["SM64", "MK64", "PM"],
+      "wii": ["WWSM", "MSTC", "MP8", "SMG", "M&SATOG", "SSBB", "MKWII", "MSSL", "MPT_WII", "M&SATOWG", "NSMBWII", "SMG2", "SMASLE", "25ASMB", "MSM", "M&SATL12OG", "FS", "MP9", "SLSC"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "SM3DW", "NES_REMIX", "NES_REMIX2", "MK8", "CTTT", "SSBWIIU", "MP10", "ATNGB", "YWW", "SMM", "SLSC", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG", "PMCS", "WWG"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "game&watch": ["SMB", "G&WSMB"],
+      "gb": ["ALLEYWAY", "YC", "TA", "G&WG", "G&WG2"],
+      "nelsonic": ["SMB", "SMB3", "SMW"],
+      "barcode": ["SMW", "SMK"],
+      "virtual_boy": ["MC"],
+      "gbc": ["G&WG2", "SMBDX", "G&GW3", "MG", "MT"],
+      "mini_classics": ["SMB"],
+      "sewing": ["SMEW"],
+      "gba": ["MKSC", "SMA2", "G&WG4", "SMA4", "M&LSS", "MGAT", "MPL", "YTT", "MPA", "MTPT"],
+      "e-reader": ["MPE"],
+      "ds": ["SM64DS", "YT&G", "YDS", "SPP", "MKDS", "M&LPIT", "TETRIS_DS", "NSMB", "MH3O3", "YIDS", "ISDS", "MPDS", "M&SATOG", "M&LBIS", "M&SATOWG"],
+      "dsiware": ["PiCTOBiTS", "CLOCK"],
+      "3ds": ["SPMP", "PiCTOBiTS", "CLOCK", "SM3DL", "MK7", "M&SATL12OG", "MTO", "NSMB2", "CNB", "PMSS", "M&LDT", "MPIT", "YNI", "MGWT", "PWM", "CNB+", "SSB3DS", "UNESR", "D&D", "SLSCR", "NBA", "M&LPJ", "MM&FAC", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "M&LSS+BM", "MPT100", "MINECRAFT", "LM", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "SMO", "AASMB", "MTAOTD", "MINECRAFT", "MTA", "SMP", "SSBU", "NSMBUDX", "SMM2", "TETRIS_99", "M&SATT20OG", "PMTOK", "SM3DAS", "SMB35", "SM3DW+BF", "MGSR", "WWGIT", "MPS", "MSTBL", "MRSOH", "SMBW", "WWMI", "SMRPG", "PMTTYD", "NESWCNESE", "SMPJ", "M&LB", "SMG1+2", "MRKB+MRSOH"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["MR", "PCSMB3", "MWSM", "GGM", "TDSMW", "PPM", "SMB3MP", "SMWMP", "MU", "SMBPB", "SMBMW", "KT", "SMWA", "SMKDDR", "GGMC", "BOWL", "MK64SM", "SMFNJL", "SMFNKP", "SMFNKP2", "MPFNKC", "NSMBWCW", "MKAGPDX", "M&SATR16OGAE", "MKAGPVR", "M&SATT20OGAE"],
+      "vs.system": ["VS_SMB"],
+      "np10": ["SMB", "SMB3", "NESOTG"],
+      "nss": ["SMW"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MTT", "MIM", "MIM_CD-ROM_DX", "MTM", "MEYFWL", "MEYFWN", "MEYPF", "MTMDX", "MEYPF_CD-ROM_C", "MTTE_CD-ROM", "MGG"],
+      "macintosh": ["SMCSS"],
+      "mac-os": ["MTT2"],
+      "as": ["MNQ", "WWA", "GR", "MMM"],
+      "af": ["TB", "SOTC", "PST", "MP7BVQ", "BLH", "MT", "MM"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "8BITSMS", "DMW", "MKT", "LSM", "NT", "NM"]
+    },
+    "games": {
+      "normal": ["JENGA"],
+      "board": ["CL", "TGOL", "SMGGLCS", "IQMQ", "MK7SSRG", "MK8DLGP", "MKRLG", "MKRDXEP", "MKWIIGP", "MNGC21", "MBMK", "MONOPOLY_GAMER", "MGMK", "MTSMBME", "NSMBUCRT", "NM06", "NM10", "PUSM", "SMABG", "SMAGDX", "SMBG", "SMBM", "SMC", "GWSM", "SML", "SMLU", "SMLCG", "SMNDG", "SMKCPFG", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["BCBB", "SM64QMB", "PC", "TMB", "BMC", "MKBC", "PF&CB", "BRR", "FM&BC"],
+      "knex": ["B&SB", "B&SK", "BBS", "BM", "IR", "SB", "FB", "MF", "BC", "S3", "S7", "S8"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH", "SKYLANDERS"],
+      "f4f": ["BS"],
+      "sh_figuarts": ["BOWSER"],
+      "smbb": ["MK8"],
+      "won": ["8BB"]
+    }
+  },
+  "yoshi": {
+    "name": "Yoshi",
+    "type": "ally",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "yellow",
+      "pink",
+      "light-blue",
+      "purple",
+      "brown",
+      "black",
+      "white",
+      "orange"
+    ],
+    "debut": "08/23/1991",
+    "consoles": {
+      "nes": ["YOSHI", "YC", "MIM", "MTM"],
+      "snes": ["SMW", "MP", "SMK", "MIM", "YC", "SMAS", "YS", "M&W", "MTM", "MEYFWL", "MEYPF", "SMW2", "TA", "DKC2", "SMRPG", "PIC", "PNPVOL2", "PNPVOL7"],
+      "satellaview": ["YNPBSB", "EBBMB", "MPBSB", "BSSMC", "MPYNB"],
+      "terebikko": ["SMWMTYNBL"],
+      "n64": ["SM64", "SM64RPCV", "MK64", "YS", "MNP", "MP", "SSB", "MG64", "MP2", "MT64", "PM", "MP3"],
+      "64dd": ["MAPS", "MATS"],
+      "ngc": ["SSBM", "SMS", "MP4", "NPC", "MGTT", "MKDD", "MP5", "DKA", "DKA2", "PMTTYD", "MPT", "MP6", "DKA3", "MSSB", "MP7", "SMST"],
+      "iQue": ["SM64", "MK64", "YS", "PM", "SSB"],
+      "wii": ["MSTC", "MP8", "SMG", "M&SATOG", "SSBB", "MKWII", "MSSL", "MPT_WII", "M&SATOWG", "NSMBWII", "SMG2", "SMASLE", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiU": ["NSMBU", "NL", "NSLU", "SLW", "NSMBU+NSLU", "M&SATS14OWG", "MK8", "SSBWIIU", "MP10", "ATNGB", "YWW", "SMM", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG", "PMCS"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "game&watch": ["G&WSMB"],
+      "gb": ["YOSHI", "YC", "LA", "TA", "G&WG", "G&WG2", "MH3O3"],
+      "nelsonic": ["SMW"],
+      "barcode": ["SMW", "SMK"],
+      "virtual_boy": ["MT", "MC"],
+      "gbc": ["G&WG2", "LADX", "SMBDX", "G&GW3", "MG", "MT", "MOG", "MF"],
+      "sewing": ["SMEW"],
+      "gba": ["MKSC", "SMA2", "SMA3", "SMA4", "M&LSS", "MGAT", "DKC2", "YTT", "MPA", "MTPT"],
+      "e-reader": ["MPE"],
+      "ds": ["SM64DS", "YT&G", "YDS", "MKDS", "M&LPIT", "TETRIS_DS", "NSMB", "YIDS", "ISDS", "MPDS", "M&SATOG", "WWDIY", "M&SATOWG"],
+      "3ds": ["SPMP", "MK7", "M&SATL12OG", "MTO", "PMSS", "M&LDT", "MPIT", "YNI", "MGWT", "CNB+", "SSB3DS", "D&D", "NBA", "M&LPJ", "MM&FAC", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "M&LSS+BM", "MPT100", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "SMO", "MTAOTD", "MINECRAFT", "MTA", "SMP", "SSBU", "NSMBUDX", "YCW", "SMM2", "TETRIS_99", "LA", "M&SATT20OG", "SM3DAS", "MKLHC", "MGSR", "MPS", "MSTBL", "SMBW", "WWMI", "SMRPG", "PMTTYD", "SMPJ", "M&LB", "SMG1+2", "MRKB+MRSOH", "HELLO_YOSHI"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP", "YATMB"]
+    },
+    "arcade": {
+      "traditional": ["MR", "MWSM", "GGM", "TDSMW", "PPM", "SMWMP", "SMBPB", "KT", "BM", "MU", "SMWP", "SMKDDR", "GGMC", "JFSMW", "BOWL", "MNMI", "CCCSMYI", "MSSMYI", "MK64SM", "SMAT", "DMC", "SMFNKP", "SMFNKP2", "MPFNKC", "NSMBWCW", "MKAGPDX", "M&SATR16OGAE", "MKAGPVR", "M&SATT20OGAE"],
+      "nss": ["SMW"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "ms-dos": ["MIM", "MIM_CD-ROM_DX", "MEYFWL", "MEYPF", "MEYPF_CD-ROM_C", "MGG"],
+      "mac-os": ["MTT2"],
+      "as": ["DR"],
+      "af": ["SOTC", "BR", "PST", "SMST", "MSBFL", "HU", "YET", "AYMTM", "MPWII/DS", "MT"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "YY&PS", "DMW", "MKT", "LSM", "NT", "NM", "HELLO_YOSHI"]
+    },
+    "games": {
+      "normal": ["BWG", "SMBG", "SMBG", "YSG"],
+      "board": ["TGOL", "SMGGLCS", "IQMQ", "MK7SSRG", "MKRLG", "MKWIIGP", "MNGC21", "MBMK", "MONOPOLY_GAMER", "MJSM", "NM06", "NM10", "PUSM", "SMABG", "SMAGDX", "SMBP", "SMC", "GWSM", "SML", "SMLU", "SMPPE", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["MH&Y", "AWL", "SM64QMB", "BUBR", "YGS", "CP5", "CTM", "PAMH", "YECF", "KBHM", "AWILM", "AWILL", "SMWM&Y", "MKYB", "MKBC", "PF&CB", "YAMH"],
+      "knex": ["Y&SK", "Y&SB", "YBS", "YM", "SB", "LP", "FL", "MF", "YBVK", "YK", "TR", "MKYB", "S1", "S3", "S7", "S8", "S10", "S11"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH", "YWW"],
+      "f4f": ["M&YS"],
+      "sh_figuarts": ["YOSHI"],
+      "smbb": ["SM1", "MK8", "YBB"],
+      "won": ["Y", "BLY", "BY", "RY", "YY"],
+      "sm": ["Y", "YR", "YYR", "LBY", "OY", "LBYR", "WYR", "PY", "YY"]
+    }
+  },
+  "daisy": {
+    "name": "Daisy",
+    "type": "hero",
+    "debut": "04/21/1989",
+    "consoles": {
+      "nes": ["NESOTG"],
+      "n64": ["MT64", "MP3"],
+      "ngc": ["SSBM", "MP4", "MGTT", "MKDD", "MP5", "MPT", "MP6", "MSSB", "MP7", "SMST"],
+      "wii": ["MSTC", "MP8", "M&SATOG", "SSBB", "MKWII", "MSSL", "MPT_WII", "M&SATOWG", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiU": ["M&SATS14OWG", "MK8", "SSBWIIU", "MP10", "SMM", "MTUS", "MINECRAFT", "M&SATR16OG", "SMM3DS"],
+      "classics": ["NCMFC"]
+    },
+    "handheld": {
+      "gb": ["SML"],
+      "gbc": ["MT"],
+      "e-reader": ["MPE"],
+      "ds": ["YDS", "MKDS", "MH3O3", "MPDS", "M&SATOG", "M&SATOWG"],
+      "3ds": ["SPMP", "MK7", "M&SATL12OG", "MTO", "MPIT", "MGWT", "CNB+", "SSB3DS", "NBA", "M&LPJ", "M&SATR16OG", "MPSR", "P&YWW", "MSS", "MPT100", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "MTA", "SMP", "SSBU", "M&SATT20OG", "MGSR", "MPS", "MSTBL", "WWMI", "SMPJ"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["SMFNKP", "SMFNKP2", "MPFNKC", "MKAGPDX", "M&SATR16OGAE", "M&SATT20OGAE"],
+      "np10": ["NESOTG"],
+      "triforce": ["MKAGP2"]
+    },
+    "computer": {
+      "ms-dos": ["SMBPW"],
+      "af": ["G2", "PST", "SMST", "MSBFL", "HU", "TDSPM", "MM"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "DMW", "MKT", "NM"]
+    },
+    "games": {
+      "normal": ["SMCS"],
+      "board": ["DSMS", "TGOL", "SMGGLCS", "MBMK", "PUSM", "SMC", "GWSM", "SML", "SMLU", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["GB"],
+      "knex": ["S2", "S6"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH"],
+      "won": ["DAISY"]
+    }
+  },
+  "toadette": {
+    "name": "Toadette",
+    "type": "ally",
+    "debut": "11/07/2003",
+    "consoles": {
+      "ngc": ["MKDD", "PMTTYD", "MPT", "MP6", "DDRMM", "MSSB", "MP7"],
+      "wii": ["MP8", "SMG", "SSBB", "MKWII", "MSSL", "MPT_WII"],
+      "wiiU": ["MK8", "CTTT", "SSBWIIU", "MP10", "SMM", "MTUS", "MINECRAFT"]
+    },
+    "handheld": {
+      "gba": ["MPA"],
+      "ds": ["YDS", "ISDS", "MPDS"],
+      "3ds": ["SPMP", "MGWT", "NBA", "M&LPJ", "MPSR", "SMM3DS", "MPT100", "CTTT"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "SMO", "MINECRAFT", "MTA", "CTTT", "SMP", "SSBU", "NSMBUDX", "SMM2", "TETRIS_99", "M&SATT20OG", "SM3DAS", "SM3DW+BF", "MGSR", "WWGIT", "MPS", "MRSOH", "SMBW", "PMTTYD", "SMPJ", "SMG1+2", "MRKB+MRSOH"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["MPFNKC"],
+      "triforce": ["MKAGP2"]
+    },
+    "computer": {
+      "af": ["MP7BVQ", "MT"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["TGOL", "SML"]
+    },
+    "toys": {
+      "lego": ["TTH", "PC", "MKILM&SK"]
+    },
+    "figurines": {
+      "sm": ["TOADETTE"]
+    }
+  },
+  "donkey-kong": {
+    "name": "Donkey Kong",
+    "type": "hero",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "DKC2", "DKC3", "PNPVOL8"],
+      "n64": ["MK64", "MP", "DK64", "SSB", "MG64", "MP2", "MP3", "DKA"],
+      "64dd": ["MAPS"],
+      "ngc": ["SSBM", "MP4", "MGTT", "MKDD", "MP5", "DKA", "DKA2", "MPT", "MP6", "DKJB", "DKA3", "MSSB", "SMST"],
+      "dvd": ["CIRCUSLVEB", "CIRCUSLDKB", "CIRCUSRK"],
+      "iQue": ["MK64", "SSB"],
+      "wii": ["WWSM", "MSTC", "MP8", "DKBB", "SSBB", "MKWII", "MSSL", "DKJB_WII", "MPT_WII", "PO!!_WII", "M&SATOWG", "DKOE", "DKCR", "MSM", "M&SATL12OG", "FS", "MP9", "SLSC"],
+      "wiiWare": ["WWDIYS"],
+      "wiiU": ["M&SATS14OWG", "NES_REMIX", "DKCTF", "MK8", "SSBWIIU", "TS", "MP10", "ATNGB", "SMM", "SLSC", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["DK", "DKL", "DKL2"],
+      "nelsonic": ["DK"],
+      "virtual_boy": ["MC"],
+      "gbc": ["G&GW3", "MG", "MT", "DKC"],
+      "sewing": ["SMEW"],
+      "gba": ["MKSC", "G&WG4", "WWIMM", "DKC", "MGAT", "MVDK", "DKC2", "WWTW", "DKKOS", "MTPT", "DKC3"],
+      "e-reader": ["DKJR", "DK", "MPE"],
+      "ds": ["WWTO", "YDS", "MKDS", "TETRIS_DS", "MH3O3", "G&WC", "MOTMI", "ISDS", "DKJC", "MPDS", "M&SATOWG", "MLM"],
+      "dsiware": ["DRME", "NDSIM", "MMA", "G&WDKJR"],
+      "3ds": ["SPMP", "DKJR", "MMA", "MK7", "M&SATL12OG", "MTO", "CNB", "MOTMO", "DKCR3D", "MGWT", "CNB+", "SSB3DS", "UNESR", "TS", "SLSCR", "NBA", "MM&FAC", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "MPT100", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "DKCTF", "MINECRAFT", "MTA", "SSBU", "TETRIS_99", "M&SATT20OG", "MGSR", "WWGIT", "MPS", "MSTBL", "MVSDK", "NESWCNESE", "SMPJ", "DKCRHD", "MRKB+MRSOH"],
+      "switch2": ["MKW", "DKB", "SMPJ+JTV", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["SDK2SNBS", "DKSM", "MK64SM", "SDKOD", "MPFNKC", "DKJF", "DKBK", "MKAGPDX", "M&SATR16OGAE", "M&SATT20OGAE"],
+      "triforce": ["MKAGP"]
+    },
+    "computer": {
+      "mac-os": ["MK"],
+      "as": ["KONK", "KK", "MG", "NOMISS", "MMM", "SSB", "DKCBM"],
+      "af": ["RTUDKCSAFTA", "KK", "CNSADKCFP", "SOTC", "DKAQ", "MMFG", "DKA", "BB", "PST", "HOD", "SMST", "HU", "CK", "BBO", "RP", "BG", "MT", "SML"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NT", "NM"]
+    },
+    "games": {
+      "board": ["DKBG", "DKCPPG", "DKTTA", "DKY", "MK7SSRG", "TGOL", "SMGGLCS", "MBMK", "MONOPOLY_GAMER", "MGMK", "NM06", "NM10", "GWSM", "SMLU", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["DKTH", "MKDK&DKJ"],
+      "knex": ["DK&SK", "BR", "MCSL", "UC", "MF", "DKBB", "DKB", "S4", "S8"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH", "DK", "SKYLANDERS"],
+      "smbb": ["SM1", "MK8"],
+      "won": ["DK", "8BDK"]
+    }
+  },
+  "wario": {
+    "name": "Wario",
+    "type": "anti-hero",
+    "debut": "10/21/1992",
+    "consoles": {
+      "nes": ["WW"],
+      "snes": ["M&W", "WW", "MSP", "PNPVOL7"],
+      "satellaview": ["WNMF", "WNMEV", "WNMBV", "EBBMB"],
+      "n64": ["MK64", "MP", "MG64", "MP2", "MT64", "MP3", "DM64"],
+      "64dd": ["MAPS"],
+      "ngc": ["SSBM", "MP4", "WW", "MGTT", "WWIMPG$!", "MKDD", "MP5", "DKA", "DKA2", "MPT", "MP6", "DDRMM", "MSSB", "MP7", "SMST"],
+      "iQue": ["DM64", "MK64"],
+      "wii": ["WWSM", "MSTC", "MP8", "M&SATOG", "SSBB", "MKWII", "MSSL", "WWSI", "MPT_WII", "M&SATOWG", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiWare": ["WWDIYS"],
+      "wiiU": ["G&W", "M&SATS14OWG", "NES_REMIX2", "MK8", "SSBWIIU", "MP10", "SMM", "MTUS", "MINECRAFT", "M&SATR16OG"]
+    },
+    "handheld": {
+      "gb": ["SML2", "SML3", "WBFB", "PICROSS2", "G&WG2"],
+      "virtual_boy": ["MC", "VBWL"],
+      "gbc": ["WL2", "G&WG2", "G&GW3", "MG", "WL3", "MT", "MF"],
+      "sewing": ["SMEW"],
+      "gba": ["MKSC", "WL4", "G&WG4", "WWIMM", "MGAT"],
+      "e-reader": ["MPE"],
+      "ds": ["SM64DS", "WWTO", "YDS", "MKDS", "NSMB", "MH3O3", "WMOG", "ISDS", "MPDS", "M&SATOG", "WWDIY", "M&SATOWG"],
+      "dsiware": ["WWS"],
+      "3ds": ["WWS", "SPMP", "MK7", "M&SATL12OG", "MTO", "MPIT", "MGWT", "CNB+", "SSB3DS", "UNESR", "NBA", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "MPT100", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "MTA", "SMP", "SSBU", "TETRIS_99", "M&SATT20OG", "MGSR", "WWGIT", "MPS", "MSTBL", "WWMI", "SMPJ"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["WB", "MK64SM", "DMC", "SMFNKP", "SMFNKP2", "MPFNKC", "MKAGPDX", "M&SATR16OGAE", "MKAGPVR", "M&SATT20OGAE"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "as": ["WWA", "MG", "WWTMMG"],
+      "af": ["MIU", "WCC", "WDT", "WGB", "BB", "WWIMM", "STF", "AMIWCQ", "SOTC", "AW", "RTTP", "DW", "BR", "PST", "FWAF", "SMST", "MSBFL", "HU", "WMOGT", "AYMTM", "WLTSD", "JDTMIOP", "MT", "MM"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "normal": ["SMCS"],
+      "board": ["TGOL", "SMGGLCS", "SMGGLCS", "IQMQ", "MK7SSRG", "MKWIIGP", "MBMK", "MONOPOLY_GAMER", "NM06", "NM10", "SMABG", "GWSM", "SML", "SMLU", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["MKW&KB"],
+      "knex": ["W&SB", "PJ", "MKWK", "S2"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH"],
+      "smbb": ["SM1", "MK8"],
+      "won": ["WARIO", "TW"],
+      "sm": ["WARIO"]
+    }
+  },
+  "waluigi": {
+    "name": "Waluigi",
+    "type": "anti-hero",
+    "debut": "07/21/2000",
+    "consoles": {
+      "n64": ["MT64", "MP3"],
+      "ngc": ["SSBM", "MP4", "MGTT", "MKDD", "MP5", "MPT", "MP6", "DDRMM", "MSSB", "MP7", "SMST"],
+      "wii": ["MSTC", "MP8", "M&SATOG", "SSBB", "MKWII", "MSSL", "MPT_WII", "M&SATOWG", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiU": ["M&SATS14OWG", "MK8", "SSBWIIU", "MP10", "SMM", "MTUS", "MINECRAFT", "M&SATR16OG", "MPSR"]
+    },
+    "handheld": {
+      "gbc": ["MT"],
+      "gba": ["G&WG4", "MGAT", "MTPT"],
+      "e-reader": ["MPE"],
+      "ds": ["YDS", "MKDS", "MH3O3", "ISDS", "MPDS", "M&SATOG", "M&SATOWG"],
+      "3ds": ["SPMP", "MK7", "M&SATL12OG", "MTO", "MPIT", "MGWT", "CNB+", "SSB3DS", "NBA", "M&SATR16OG", "SMM3DS", "P&YWW", "MSS", "MPT100", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MTAOTD", "MINECRAFT", "MTA", "SMP", "SSBU", "M&SATT20OG", "MGSR", "MPS", "MSTBL", "SMPJ"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["SMFNKP", "SMFNKP2", "MPFNKC", "MKAGPDX", "M&SATR16OGAE", "M&SATT20OGAE"],
+      "triforce": ["MKAGP2"]
+    },
+    "computer": {
+      "af": ["WFF", "BB", "WFFPS", "SOTC", "PST", "SMST", "MSBFL", "HU", "MM"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "NM"]
+    },
+    "games": {
+      "normal": ["SMCS"],
+      "board": ["TGOL", "SMGGLCS", "MKWIIGP", "NM06", "NM10", "GWSM", "SML", "SMLU", "SMTTM"]
+    },
+    "toys": {
+      "knex": ["S4", "S11"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS"],
+      "won": ["WALUIGI"],
+      "sm": ["WALUIGI"]
+    }
+  },
+  "rosalina": {
+    "name": "Rosalina",
+    "type": "hero",
+    "debut": "11/01/2007",
+    "consoles": {
+      "wii": ["SMG", "MKWII", "SMG2"],
+      "wiiU": ["SM3DW", "MK8", "SSBWIIU", "MP10", "YWW", "SMM", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG"]
+    },
+    "handheld": {
+      "3ds": ["SPMP", "MK7", "MPIT", "MGWT", "SSB3DS", "D&D", "NBA", "M&LPJ", "MM&FAC", "M&SATR16OG", "SMM3DS", "P&YWW", "MSS", "MSS", "MPT100", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MTAOTD", "MINECRAFT", "MTA", "SMP", "SSBU", "TETRIS_99", "M&SATT20OG", "SM3DAS", "SM3DW+BF", "MGSR", "MPS", "MSTBL", "MRSOH", "SMPJ", "SMG1+2", "MRKB+MRSOH"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["MKAGPDX"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "NM"]
+    },
+    "games": {
+      "board": ["TGOL", "MONOPOLY_GAMER", "MGMK", "PUSM", "GWSM", "SML"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "SMASH"],
+      "sm": ["ROSALINA"]
+    }
+  },
+  "diddy-kong": {
+    "name": "Diddy Kong",
+    "type": "ally",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "DKC2", "DKC3", "PNPVOL8"],
+      "n64": ["DKR", "DK64"],
+      "ngc": ["MGTT", "MKDD", "DKA", "DKA2", "MPT", "DKA3", "MSSB"],
+      "dvd": ["CIRCUSLVEB", "CIRCUSLDKB", "CIRCUSRK"],
+      "wii": ["MSTC", "DKBB", "SSBB", "MKWII", "MSSL", "MPT_WII", "DKCR", "MSM", "FS", "MP9", "SLSC"],
+      "wiiWare": ["WWDIYS"],
+      "wiiU": ["M&SATS14OWG", "DKCTF", "SSBWIIU", "YWW", "SMM", "SLSC", "MINECRAFT", "MM&FAC", "M&SATR16OG"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["DKL", "DKL2"],
+      "gbc": ["DKC"],
+      "sewing": ["SMEW"],
+      "gba": ["DKC", "DKC2", "DKKOS", "DKC3"],
+      "ds": ["YDS", "MH3O3", "DKR", "DKJC", "MPDS"],
+      "3ds": ["SPMP", "MTO", "DKCR3D", "MGWT", "CNB+", "SSB3DS", "SLSCR", "NBA", "MM&FAC", "M&SATR16OG", "MPSR", "MPSR", "SMM3DS", "P&YWW", "MSS", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "DKCTF", "MINECRAFT", "MTA", "SMP", "SSBU", "TETRIS_99", "M&SATT20OG", "WWGIT", "MSTBL", "SMPJ", "DKCRHD"],
+      "switch2": ["DKB", "SMPJ+JTV", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["SDK2SNBS", "DKSM", "SDKOD"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "mac-os": ["MK"],
+      "as": ["KONK", "KK", "DKCBM"],
+      "af": ["RTUDKCSAFTA", "CNSADKCFP", "DKAQ", "BB", "DKA", "PST", "AL", "TBP"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NT", "NM"]
+    },
+    "games": {
+      "board": ["DKBG", "DKCPPG", "DKTTA", "DKY", "TGOL", "MONOPOLY_GAMER", "NM06", "NM10", "GWSM", "SML", "SMLU", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["DKMCR"],
+      "knex": ["DIK&SK", "FC", "MF", "S3", "S8", "S11"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO", "MSS", "SMASH"],
+      "won": ["DD"]
+    }
+  },
+  "bowser-jr": {
+    "name": "Bowser Jr.",
+    "type": "boss",
+    "debut": "08/19/2002",
+    "consoles": {
+      "ngc": ["SMS", "MGTT", "MKDD", "MPT", "MSSB"],
+      "wii": ["MSTC", "SMG", "SSBB", "MKWII", "MSSL", "MPT_WII", "M&SATOWG", "SMG2", "SMASLE", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "SSBWIIU", "MP10", "YWW", "SMM", "MTUS", "MINECRAFT", "MM&FAC", "M&SATR16OG"]
+    },
+    "handheld": {
+      "ds": ["YDS", "NSMB", "MH3O3", "MPDS", "M&SATOWG"],
+      "3ds": ["M&SATL12OG", "MTO", "PMSS", "MPIT", "MGWT", "CNB+", "SSB3DS", "NBA", "M&LPJ", "MM&FAC", "M&SATR16OG", "MPSR", "SMM3DS", "P&YWW", "MSS", "MPT100", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MRKB", "MINECRAFT", "MTA", "SMP", "SSBU", "NSMBUDX", "SMM2", "TETRIS_99", "M&SATT20OG", "PMTOK", "SM3DAS", "MKLHC", "SM3DW+BF", "MGSR", "MPS", "MSTBL", "SMBW", "SMPJ", "M&LB", "SMG1+2", "MRKB+MRSOH"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP", "YATMB"]
+    },
+    "arcade": {
+      "traditional": ["MKAGPDX", "M&SATR16OGAE", "M&SATT20OGAE"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "af": ["SOTC", "PST"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NT", "NM"]
+    },
+    "games": {
+      "board": ["CL", "MONOPOLY_GAMER", "MSMC", "PUSM", "SMAGDX", "SMC", "GWSM", "SML", "SMLU", "SMTTM"]
+    },
+    "toys": {
+      "lego": ["AWM", "AWILM", "PF&CB", "L&BJR"],
+      "knex": ["S4", "S9"]
+    },
+    "figurines": {
+      "amiibo": ["MSS", "SMASH"],
+      "won": ["BJR"],
+      "sm": ["BJR", "MBJR"]
+    }
+  },
+  "pauline": {
+    "name": "Pauline",
+    "type": "ally",
+    "debut": "07/10/1987",
+    "consoles": {
+      "atari2600": ["DK"],
+      "colecoVision": ["DK"],
+      "intellivision": ["DK"],
+      "nes": ["DK", "PINBALL", "FBV3"],
+      "fcds": ["DK", "PINBALL"],
+      "wii": ["SSBB", "DKOE"],
+      "wiiWare": ["WWDIYS"],
+      "wiiU": ["NES_REMIX", "SSBWIIU", "TS", "ATNGB"],
+      "classics": ["NCE", "NCMFC"]
+    },
+    "handheld": {
+      "game&watch": ["DK", "DK"],
+      "coleco": ["DK"],
+      "gb": ["DK"],
+      "nelsonic": ["DK"],
+      "mini_classics": ["DK"],
+      "gba": ["WWIMM"],
+      "e-reader": ["PINBALL", "DK"],
+      "ds": ["TETRIS_DS", "G&WC", "MOTMI", "MLM"],
+      "dsiware": ["NDSIM"],
+      "3ds": ["SPMP", "DKOE", "MOTMO", "SSB3DS", "UNESR", "TS", "NBA"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "SMO", "AADK", "MTA", "SSBU", "TETRIS_99", "AA_PINBALL", "MGSR", "MSTBL", "NESWCNESE", "SMPJ"],
+      "switch2": ["MKW", "DKB", "SMPJ+JTV", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["DK", "CK", "CK2", "DK/DKJR/MB"],
+      "vs.system": ["VS_PINBALL"]
+    },
+    "computer": {
+      "ti-99/4a": ["DK"],
+      "ms-dos": ["DK"],
+      "af": ["NESC", "MT"],
+      "vic-20": ["DK"],
+      "atari800xl": ["DK"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "MKT", "LSM", "NT", "NM"]
+    },
+    "games": {
+      "normal": ["JDKCE"],
+      "board": ["DKMBBG"]
+    },
+    "toys": {
+      "lego": ["DKA"]
+    },
+    "figurines": {
+      "amiibo": ["DK"]
+    }
+  },
+  "baby_mario": {
+    "name": "Baby Mario",
+    "type": "ally",
+    "debut": "10/04/1995",
+    "consoles": {
+      "snes": ["SMW2"],
+      "n64": ["MG64", "MT64"],
+      "ngc": ["SSBM", "MKDD", "MSSB"],
+      "wii": ["SSBB", "MKWII", "MSSL"],
+      "wiiU": ["MK8", "SMM"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gbc": ["MG", "MT"],
+      "gba": ["SMA3"],
+      "ds": ["YT&G", "M&LPIT", "YIDS", "ISDS", "WWDIY"],
+      "3ds": ["MTO", "YNI", "SSB3DS", "NBA", "M&LPJ", "SMM3DS", "MSS", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "SSBU", "WWMI"],
+      "switch2": ["MKW", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["CCCSMYI", "MSSMYI", "MKAGPDX"],
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "computer": {
+      "as": ["MG"],
+      "af": ["TB", "SOTC", "BMAMIG", "YET"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM"]
+    },
+    "toys": {
+      "lego": ["MKBMVSBL"]
+    },
+    "figurines": {
+      "amiibo": ["MSS"],
+      "sm": ["BABY_MARIO"]
+    }
+  },
+  "baby_luigi": {
+    "name": "Baby Luigi",
+    "type": "ally",
+    "debut": "10/04/1995",
+    "consoles": {
+      "snes": ["SMW2"],
+      "ngc": ["MKDD", "MSSB"],
+      "wii": ["SSBB", "MKWII", "MSSL"],
+      "wiiU": ["MK8", "SSBWIIU"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gba": ["SMA3"],
+      "ds": ["YT&G", "M&LPIT", "YIDS"],
+      "3ds": ["YNI", "NBA", "M&LPJ", "MSS"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "SSBU", "WWMI"],
+      "switch2": ["MKW", "MTF"]
+    },
+    "arcade": {
+      "triforce": ["MKAGP", "MKAGP2"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM"]
+    },
+    "toys": {
+      "lego": ["MKBMVSBL"]
+    },
+    "figurines": {
+      "amiibo": ["MSS"],
+      "sm": ["BABY_LUIGI"]
+    }
+  },
+  "stork": {
+    "name": "Stork",
+    "type": "ally",
+    "debut": "10/04/1995",
+    "consoles": {
+      "snes": ["SMW2"],
+      "wii": ["SSBB"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gba": ["SMA3"],
+      "ds": ["YT&G", "YIDS"],
+      "3ds": ["YNI"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    }
+  },
+  "baby_peach": {
+    "name": "Baby Peach",
+    "type": "ally",
+    "debut": "11/28/2005",
+    "consoles": {
+      "wii": ["SSBB", "MKWII", "MSSL"],
+      "wiiU": ["MK8"]
+    },
+    "handheld": {
+      "ds": ["M&LPIT"],
+      "3ds": ["MTO", "SSB3DS", "NBA", "M&LPJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "SSBU"],
+      "switch2": ["MKW", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["MKAGPDX"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM"]
+    },
+    "toys": {
+      "lego": ["MKBP&GPS"]
+    },
+    "figurines": {
+      "sm": ["BABY_PEACH"]
+    }
+  },
+  "baby_daisy": {
+    "name": "Baby Daisy",
+    "type": "ally",
+    "debut": "04/27/2008",
+    "consoles": {
+      "wii": ["MKWII", "MSSL"],
+      "wiiU": ["MK8", "SSBWIIU"]
+    },
+    "handheld": {
+      "3ds": ["NBA"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX"],
+      "switch2": ["MKW"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT"]
+    },
+    "figurines": {
+      "sm": ["BABY_DAISY"]
+    }
+  },
+  "baby_rosalina": {
+    "name": "Baby Rosalina",
+    "type": "ally",
+    "debut": "05/30/2014",
+    "consoles": {
+      "wiiU": ["MK8"]
+    },
+    "handheld": {
+      "3ds": ["NBA"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX"],
+      "switch2": ["MKW"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT"]
+    }
+  },
+  "baby_yoshi": {
+    "name": "Baby Yoshi",
+    "debut": "08/23/1991",
+    "type": "ally",
+    "consoles": {
+      "nes": ["YOSHI"],
+      "snes": ["SMW"],
+      "n64": ["PM"],
+      "iQue": ["PM"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["YOSHI", "PICROSS", "G&WG2"],
+      "barcode": ["SMW"],
+      "gbc": ["G&WG2", "G&GW3"],
+      "gba": ["SMA2"],
+      "ds": ["WWDIY"],
+      "3ds": ["M&LPJ"]
+    },
+    "hybrid": {
+      "switch": ["NSMBUDX"]
+    },
+    "arcade": {
+      "traditional": ["TDSMW", "MNMI", "SMAT"],
+      "nss": ["SMW"]
+    },
+    "computer": {
+      "ms-dos": ["MGG"]
+    },
+    "figurines": {
+      "won": ["BBY", "GBY"]
+    }
+  },
+  "baby_bowser": {
+    "name": "Baby Bowser",
+    "type": "enemy",
+    "debut": "10/04/1995",
+    "consoles": {
+      "snes": ["SMW2"],
+      "n64": ["YS"],
+      "64dd": ["MAPS"],
+      "ngc": ["SSBM"],
+      "wiiU": ["YWW"]
+    },
+    "handheld": {
+      "gba": ["SMA3"],
+      "ds": ["M&LPIT", "YIDS"],
+      "3ds": ["YNI", "NBA", "P&YWW"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "YCW"]
+    }
+  },
+  "baby_wario": {
+    "name": "Baby Wario",
+    "type": "ally",
+    "debut": "11/13/2006",
+    "handheld": {
+      "ds": ["YIDS"]
+    },
+    "hybrid": {
+      "switch2": ["MTF"]
+    },
+    "mobile": {
+      "iOS": ["DMW"]
+    }
+  },
+  "baby_waluigi": {
+    "name": "Baby Waluigi",
+    "type": "ally",
+    "debut": "02/12/2026",
+    "hybrid": {
+      "switch2": ["MTF"]
+    }
+  },
+  "baby_donkey_kong": {
+    "name": "Baby Donkey Kong",
+    "type": "ally",
+    "debut": "11/13/2006",
+    "consoles": {
+      "wii": ["MSSL"]
+    },
+    "handheld": {
+      "ds": ["YIDS"]
+    }
+  },
+  "prince_florian": {
+    "name": "Prince Florian",
+    "type": "ally",
+    "debut": "10/20/2023",
+    "hybrid": {
+      "switch": ["SMBW"],
+      "switch2": ["MTF", "SMBW+MIBP"]
+    },
+    "mobile": {
+      "iOS": ["LSM"]
+    },
+    "toys": {
+      "lego": ["PF&CB"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO"]
+    }
+  },
+  "poplin": {
+    "name": "Poplin",
+    "type": "ally",
+    "colors": [
+      "red-orange",
+      "cyan",
+      "green",
+      "yellow",
+      "dark-green",
+      "grayish-brown",
+      "purple"
+    ],
+    "debut": "10/20/2023",
+    "hybrid": {
+      "switch": ["SMBW"],
+      "switch2": ["MTF", "SMBW+MIBP"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO"]
+    }
+  },
+  "talking_flower": {
+    "name": "Talking Flower",
+    "type": "ally",
+    "debut": "10/20/2023",
+    "hybrid": {
+      "switch": ["SMBW"],
+      "switch2": ["SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "mobile": {
+      "iOS": ["LSM"]
+    },
+    "toys": {
+      "lego": ["PF&CB"]
+    },
+    "figurines": {
+      "amiibo": ["MARIO"]
+    }
+  },
+  "wart": {
+    "name": "Wart",
+    "type": "boss",
+    "debut": "07/10/1987",
+    "consoles": {
+      "nes": ["SMB2"],
+      "fcds": ["YKDDP"],
+      "snes": ["SMAS"],
+      "satellaview": ["BSSMUSA", "BSSMC"],
+      "wii": ["SMASLE"],
+      "wiiU": ["NES_REMIX2", "ATNGB"],
+      "classics": ["NCE", "NCMFC"]
+    },
+    "handheld": {
+      "gb": ["LA"],
+      "gbc": ["LADX"],
+      "sewing": ["SMEW"],
+      "gba": ["SMA"],
+      "3ds": ["UNESR", "NBA"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "LA", "NESWCNESE"]
+    },
+    "arcade": {
+      "traditional": ["SMBPB"],
+      "np10": ["SMB2"]
+    },
+    "games": {
+      "board": ["SMABG"]
+    }
+  },
+  "mouser": {
+    "name": "Mouser",
+    "type": "boss",
+    "debut": "7/10/1987",
+    "consoles": {
+      "nes": ["SMB2"],
+      "fcds": ["YKDDP"],
+      "snes": ["SMAS"],
+      "satellaview": ["BSSMUSA", "BSSMC"],
+      "dvd": ["MGMM"],
+      "wii": ["SSBB", "SMASLE"],
+      "wiiU": ["NES_REMIX2", "ATNGB"],
+      "classics": ["NCE", "NCMFC"]
+    },
+    "handheld": {
+      "gba": ["SMA"],
+      "3ds": ["UNESR", "NBA"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "NESWCNESE"]
+    },
+    "arcade": {
+      "np10": ["SMB2"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW"]
+    },
+    "games": {
+      "board": ["SMABG"]
+    }
+  },
+  "birdo": {
+    "name": "Birdo",
+    "type": "ally",
+    "debut": "07/10/1987",
+    "consoles": {
+      "nes": ["SMB2", "WW"],
+      "fcds": ["YKDDP"],
+      "snes": ["SMAS", "WW", "SMRPG"],
+      "satellaview": ["WNMF", "WNMEV", "WNMBV", "BSSMUSA", "BSSMC"],
+      "n64": ["MT64"],
+      "ngc": ["SSBM", "MGTT", "MKDD", "MPT", "MSSB", "MP7", "SMST"],
+      "dvd": ["MGMM"],
+      "wii": ["MSTC", "MP8", "SSBB", "MKWII", "MSSL", "CR", "MPT_WII", "SMASLE", "MSM", "M&SATL12OG", "FS", "MP9"],
+      "wiiU": ["M&SATS14OWG", "NES_REMIX2", "SSBWIIU", "ATNGB", "SMM", "MINECRAFT", "M&SATR16OG", "PMCS"],
+      "classics": ["NCE", "SNESCE"]
+    },
+    "handheld": {
+      "watch": ["MEC"],
+      "gbc": ["MT"],
+      "sewing": ["SMEW"],
+      "gba": ["SMA", "M&LSS"],
+      "ds": ["YDS", "MH3O3", "ISDS", "M&SATOWG"],
+      "3ds": ["MK7", "MTO", "PMSS", "MPIT", "MGWT", "CNB+", "UNESR", "M&SATR16OG", "SMM3DS", "NBA", "MSS", "M&LSS+BM", "MINECRAFT"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "MTA", "SMP", "SSBU", "M&SATT20OG", "PMTOK", "MGSR", "MPS", "MSTBL", "SMRPG", "NESWCNESE", "M&LB"],
+      "switch2": ["MKW", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["MPFNKC"],
+      "np10": ["SMB2"],
+      "triforce": ["MKAGP2"]
+    },
+    "computer": {
+      "ms-dos": ["SMBPW"],
+      "af": ["MP7BVQ"]
+    },
+    "mobile": {
+      "iOS": ["LSM", "NM"]
+    },
+    "games": {
+      "board": ["TGOL", "SMABG", "SMC", "GWSM", "SML"]
+    },
+    "toys": {
+      "lego": ["CP6"]
+    },
+    "figurines": {
+      "amiibo": ["MSS"],
+      "sm": ["BIRDO"]
+    }
+  },
+  "clawgrip": {
+    "name": "Clawgrip",
+    "type": "boss",
+    "debut": "07/10/1987",
+    "consoles": {
+      "nes": ["SMB2"],
+      "fcds": ["YKDDP"],
+      "snes": ["SMAS"],
+      "satellaview": ["BSSMUSA", "BSSMC"],
+      "wii": ["SMASLE"],
+      "wiiU": ["NES_REMIX2"],
+      "classics": ["NCE", "NCMFC"]
+    },
+    "handheld": {
+      "gba": ["SMA"],
+      "3ds": ["UNESR", "NBA"]
+    },
+    "hybrid": {
+      "switch": ["NESWCNESE"]
+    },
+    "arcade": {
+      "np10": ["SMB2"]
+    },
+    "games": {
+      "board": ["SMABG"]
+    }
+  },
+  "fryguy": {
+    "name": "Fryguy",
+    "type": "boss",
+    "debut": "07/10/1987",
+    "consoles": {
+      "nes": ["SMB2"],
+      "fcds": ["YKDDP"],
+      "snes": ["SMAS"],
+      "satellaview": ["BSSMUSA", "BSSMC"],
+      "dvd": ["MGMM"],
+      "wii": ["SMASLE"],
+      "wiiU": ["NES_REMIX2"],
+      "classics": ["NCE", "NCMFC"]
+    },
+    "handheld": {
+      "gba": ["SMA"],
+      "3ds": ["UNESR"]
+    },
+    "hybrid": {
+      "switch": ["NESWCNESE"]
+    },
+    "arcade": {
+      "np10": ["SMB2"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU"]
+    },
+    "games": {
+      "board": ["SMABG"]
+    }
+  },
+  "tryclyde": {
+    "name": "Tryclyde",
+    "type": "boss",
+    "debut": "07/10/1987",
+    "consoles": {
+      "nes": ["SMB2"],
+      "fcds": ["YKDDP"],
+      "snes": ["SMAS"],
+      "satellaview": ["BSSMUSA", "BSSMC"],
+      "dvd": ["MGMM"],
+      "wii": ["SMASLE"],
+      "wiiU": ["NES_REMIX2", "ATNGB"],
+      "classics": ["NCE", "NCMFC"]
+    },
+    "handheld": {
+      "gba": ["SMA"],
+      "3ds": ["UNESR", "NBA"]
+    },
+    "hybrid": {
+      "switch": ["NESWCNESE"]
+    },
+    "arcade": {
+      "np10": ["SMB2"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU"]
+    },
+    "games": {
+      "board": ["SMABG"]
+    }
+  },
+  "larry": {
+    "name": "Larry Koopa",
+    "type": "boss",
+    "debut": "02/12/1990",
+    "consoles": {
+      "nes": ["SMB3"],
+      "snes": ["SMW", "SMAS", "YS", "MEYFWN"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "wii": ["NSMBWII", "SMASLE"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "NES_REMIX2", "MK8", "SSBWIIU", "MINECRAFT", "M&SATR16OG", "PMCS"],
+      "classics": ["NCE", "NCMFC"]
+    },
+    "handheld": {
+      "barcode": ["SMW"],
+      "gba": ["SMA2", "SMA4", "M&LSS"],
+      "3ds": ["NSMB2", "CNB+", "SSB3DS", "UNESR", "D&D", "NBA", "M&LPJ", "M&SATR16OG", "M&LSS+BM", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "SSBU", "NSMBUDX", "SMM2", "M&SATT20OG", "MKLHC", "NESWCNESE"],
+      "switch2": ["SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["TDSMW", "SMBPB", "MU", "KT", "SMWA", "NSMBWCW"],
+      "np10": ["SMB3"],
+      "nss": ["SMW"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MIM", "MIM_CD-ROM_DX", "MEYFWN"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["CL", "TGOL", "MK8DLGP", "MBMK", "MONOPOLY_GAMER"]
+    },
+    "toys": {
+      "lego": ["MYAM", "LAMA"]
+    },
+    "figurines": {
+      "won": ["LARRY"],
+      "sm": ["LARRY"]
+    }
+  },
+  "morton": {
+    "name": "Morton Koopa Jr.",
+    "type": "boss",
+    "debut": "02/12/1990",
+    "consoles": {
+      "nes": ["SMB3"],
+      "snes": ["SMW", "SMAS", "YS", "MEYFWN"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "wii": ["NSMBWII", "SMASLE"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "NES_REMIX2", "MK8", "SSBWIIU", "MINECRAFT", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "gba": ["SMA2", "SMA4", "M&LSS"],
+      "3ds": ["NSMB2", "CNB+", "SSB3DS", "UNESR", "D&D", "NBA", "M&LPJ", "M&LSS+BM", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "SSBU", "NSMBUDX", "SMM2", "MKLHC", "NESWCNESE"],
+      "switch2": ["SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["PCSMB3", "GGM", "TDSMW", "SMBPB", "KT", "MU"],
+      "np10": ["SMB3"],
+      "nss": ["SMW"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MEYFWN"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["CL", "TGOL", "MK8DLGP", "MBMK", "MONOPOLY_GAMER", "SMBG", "SML"]
+    },
+    "toys": {
+      "lego": ["LAMA"]
+    }
+  },
+  "wendy": {
+    "name": "Wendy O. Koopa",
+    "type": "boss",
+    "debut": "02/12/1990",
+    "consoles": {
+      "nes": ["SMB3"],
+      "snes": ["SMW", "SMAS", "YS", "MEYFWN"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "wii": ["NSMBWII", "SMASLE"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "NES_REMIX2", "MK8", "SSBWIIU", "ATNGB", "MINECRAFT", "M&SATR16OG", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "gba": ["SMA2", "SMA4", "M&LSS"],
+      "3ds": ["NSMB2", "CNB+", "SSB3DS", "UNESR", "D&D", "NBA", "M&LPJ", "M&SATR16OG", "M&LSS+BM", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "SSBU", "NSMBUDX", "SMM2", "M&SATT20OG", "MKLHC", "NESWCNESE"],
+      "switch2": ["SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["GGM", "TDSMW", "SMBMW", "PPM", "KT", "MU"],
+      "np10": ["SMB3"],
+      "nss": ["SMW"]
+    },
+    "computer": {
+      "ms-dos": ["MIM", "MIM_CD-ROM_DX", "MEYFWN"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["CL", "TGOL", "MBMK", "MK8DLGP", "MONOPOLY_GAMER", "NSMBUCRT", "SMBG"]
+    },
+    "toys": {
+      "lego": ["CTM"]
+    },
+    "figurines": {
+      "sm": ["WENDY"]
+    }
+  },
+  "iggy": {
+    "name": "Iggy Koopa",
+    "type": "boss",
+    "debut": "02/12/1990",
+    "consoles": {
+      "nes": ["SMB3"],
+      "snes": ["SMW", "SMAS", "MIM", "YS", "MEYFWN", "MEYFWL"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "wii": ["NSMBWII", "SMASLE"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "NES_REMIX2", "NES_REMIX2", "MK8", "SSBWIIU", "ATNGB", "MINECRAFT", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "gba": ["SMA2", "SMA4", "M&LSS"],
+      "3ds": ["NSMB2", "CNB+", "SSB3DS", "UNESR", "D&D", "NBA", "M&LPJ", "M&LSS+BM", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "SSBU", "NSMBUDX", "SMM2", "MKLHC", "NESWCNESE"],
+      "switch2": ["SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["GGM", "TDSMW", "PPM", "SMBMW", "KT"],
+      "np10": ["SMB3"],
+      "nss": ["SMW"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MIM", "MIM_CD-ROM_DX", "MEYFWL", "MEYFWN"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["CL", "TGOL", "MK8DLGP", "MBMK", "MONOPOLY_GAMER", "NSMBUCRT"]
+    },
+    "toys": {
+      "lego": ["BBI"]
+    }
+  },
+  "roy": {
+    "name": "Roy Koopa",
+    "type": "boss",
+    "debut": "02/12/1990",
+    "consoles": {
+      "nes": ["SMB3"],
+      "snes": ["SMW", "SMAS", "MIM", "YS", "MEYFWN"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "wii": ["NSMBWII", "SMASLE"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "NES_REMIX2", "MK8", "SSBWIIU", "MINECRAFT", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "gba": ["SMA2", "SMA4", "M&LSS"],
+      "3ds": ["NSMB2", "CNB+", "SSB3DS", "UNESR", "D&D", "NBA", "M&LPJ", "M&SATR16OG", "M&LSS+BM", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "SSBU", "NSMBUDX", "SMM2", "MKLHC", "NESWCNESE"],
+      "switch2": ["SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["GGM", "TDSMW", "SMBPB", "KT", "MU", "SMWA"],
+      "np10": ["SMB3"],
+      "nss": ["SMW"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MIM", "MIM_CD-ROM_DX", "MEYFWN"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["CL", "TGOL", "MK8DLGP", "MBMK", "MONOPOLY_GAMER", "SMBG"]
+    },
+    "toys": {
+      "lego": ["BWRAPC"]
+    }
+  },
+  "lemmy": {
+    "name": "Lemmy Koopa",
+    "type": "boss",
+    "debut": "02/12/1990",
+    "consoles": {
+      "nes": ["SMB3"],
+      "snes": ["SMW", "SMAS", "YS", "MEYFWN"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "wii": ["NSMBWII", "SMASLE"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "NES_REMIX2", "MK8", "SSBWIIU", "MINECRAFT", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "gba": ["SMA2", "SMA4", "M&LSS"],
+      "3ds": ["NSMB2", "CNB+", "SSB3DS", "UNESR", "D&D", "NBA", "M&LPJ", "M&LSS+BM", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "SSBU", "NSMBUDX", "SMM2", "MKLHC", "NESWCNESE"],
+      "switch2": ["SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["GGM", "TDSMW", "PPM", "SMBMW", "KT"],
+      "np10": ["SMB3"],
+      "nss": ["SMW"]
+    },
+    "computer": {
+      "ms-dos": ["MEYFWN"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["CL", "TGOL", "MK8DLGP", "MBMK", "MONOPOLY_GAMER"]
+    },
+    "toys": {
+      "lego": ["AWP", "MKBP&GPS"]
+    },
+    "figurines": {
+      "sm": ["LEMMY"]
+    }
+  },
+  "ludwig": {
+    "name": "Ludwig Von Koopa",
+    "type": "boss",
+    "debut": "02/12/1990",
+    "consoles": {
+      "nes": ["SMB3", "MTM"],
+      "snes": ["SMW", "SMAS", "YS", "MTM", "MEYFWN"],
+      "terebikko": ["SMWMTYNBL"],
+      "philips_cd-i": ["HM"],
+      "wii": ["SSBB", "NSMBWII", "SMASLE"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "NES_REMIX2", "MK8", "SSBWIIU", "MINECRAFT", "PMCS"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "barcode": ["SMW"],
+      "gba": ["SMA2", "SMA4", "M&LSS"],
+      "3ds": ["NSMB2", "CNB+", "SSB3DS", "UNESR", "D&D", "NBA", "M&LPJ", "M&SATR16OG", "M&LSS+BM", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "SSBU", "NSMBUDX", "SMM2", "MKLHC", "M&SATT20OG", "NESWCNESE"],
+      "switch2": ["SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["GGM", "TDSMW", "SMBPB", "MU"],
+      "np10": ["SMB3"],
+      "nss": ["SMW"]
+    },
+    "computer": {
+      "ms-dos": ["SMB&FWIGU", "SMBPW", "MIM", "MIM_CD-ROM_DX", "MTM", "MEYFWN"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["CL", "TGOL", "MK8DLGP", "MBMK", "MONOPOLY_GAMER", "NSMBUCRT"]
+    },
+    "toys": {
+      "lego": ["PC"]
+    },
+    "figurines": {
+      "sm": ["LUDWIG"]
+    }
+  },
+  "kamek": {
+    "name": "Kamek",
+    "type": "boss",
+    "debut": "10/04/1995",
+    "consoles": {
+      "snes": ["SMW2", "TA"],
+      "satellaview": ["YNPBSB"],
+      "ngc": ["MP5", "MP6", "MP7"],
+      "wii": ["MP8", "SSBB", "NSMBWII"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "M&SATS14OWG", "SSBWIIU", "MP10", "YWW", "MINECRAFT", "PMCS"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["TA"],
+      "gba": ["MKSC", "SMA3", "MPA"],
+      "ds": ["YT&G", "SPP", "MPDS"],
+      "3ds": ["PMSS", "M&LDT", "MPIT", "MGWT", "SSB3DS", "D&D", "NBA", "M&LPJ", "MPSR", "M&LSS+BM", "MINECRAFT"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "MTA", "SMP", "SSBU", "NSMBUDX", "YCW", "MPS", "SMBW", "SMPJ", "M&LB"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP", "YATMB"]
+    },
+    "computer": {
+      "af": ["MT"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "boards": ["CL", "SMAGDX", "SML", "SMLCG"]
+    },
+    "toys": {
+      "lego": ["BA", "CPSAFS", "AWILL"]
+    }
+  },
+  "petey-piranha": {
+    "name": "Petey Piranha",
+    "type": "boss",
+    "debut": "08/19/2002",
+    "consoles": {
+      "ngc": ["SMS", "MGTT", "MKDD", "MPT", "MSSB"],
+      "wii": ["MSTC", "SSBB", "MSSL", "MPT_WII", "MSM"],
+      "wiiU": ["MP10", "MINECRAFT", "PMCS"]
+    },
+    "handheld": {
+      "gba": ["MPL"],
+      "ds": ["YDS", "SPP", "M&LPIT", "MH3O3"],
+      "3ds": ["MTO", "PMSS", "D&D", "M&LPJ", "MPSR", "MPT100", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "MTA", "SSBU", "PMTOK", "SM3DAS", "MPS", "WWMI", "SMPJ"],
+      "switch2": ["SMPJ+JTV", "MTF"]
+    },
+    "arcade": {
+      "triforce": ["MKAGP2"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT"]
+    }
+  },
+  "king_boo": {
+    "name": "King Boo",
+    "type": "boss",
+    "debut": "09/14/2001",
+    "consoles": {
+      "ngc": ["LM", "SMS", "MKDD", "MSSB"],
+      "wii": ["MP8", "MKWII", "MSSL", "M&SATOWG", "M&SATL12OG", "MP9"],
+      "wiiU": ["M&SATS14OWG", "MP10"]
+    },
+    "handheld": {
+      "ds": ["SM64DS", "SPP", "MKDS", "M&SATOWG"],
+      "3ds": ["M&SATL12OG", "LM2", "MGWT", "SSB3DS", "D&D", "M&LPJ", "MPSR", "LM"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MTA", "SSBU", "TETRIS_99", "LM3", "SM3DAS", "MKLHC", "MPS", "SMBW", "LM2HD", "SMPJ"],
+      "switch2": ["MKW", "SMPJ+JTV", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["MKAGPDX", "LMA"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["TGOL"]
+    },
+    "toys": {
+      "lego": ["KBATHY", "LMHAS", "KBHM", "MKW&KB"]
+    }
+  },
+  "king_bob-omb": {
+    "name": "King Bob-omb",
+    "type": "boss",
+    "debut": "09/30/1996",
+    "consoles": {
+      "n64": ["SM64", "SM64RPCV", "MP2"],
+      "ngc": ["MP5"],
+      "iQue": ["SM64"],
+      "wii": ["MP8", "MP9"],
+      "wiiU": ["MINECRAFT"]
+    },
+    "handheld": {
+      "gba": ["MPA"],
+      "ds": ["SM64DS", "MKDS"],
+      "3ds": ["MPIT", "SSB3DS", "M&LPJ", "MPSR", "MPT100", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["SMP", "SSBU", "SM3DAS", "MGSR", "MPS", "SMPJ"],
+      "switch2": ["SMPJ+JTV"]
+    },
+    "arcade": {
+      "traditional": ["MKAGPDX"],
+      "triforce": ["MKAGP2"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT"]
+    },
+    "toys": {
+      "lego": ["SM64QMB"]
+    }
+  },
+  "dry_bowser": {
+    "name": "Dry Bowser",
+    "type": "boss",
+    "debut": "05/16/2006",
+    "consoles": {
+      "wii": ["MKWII", "M&SATOWG", "M&SATL12OG"],
+      "wiiU": ["M&SATS14OWG", "MK8", "MP10", "MTUS", "M&SATR16OG"]
+    },
+    "handheld": {
+      "ds": ["NSMB", "M&SATOWG"],
+      "3ds": ["SM3DL", "M&SATL12OG", "MTO", "NSMB2", "MPIT", "D&D", "M&LPJ", "M&SATR16OG"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "MTA", "SSBU"],
+      "switch2": ["MTF"]
+    },
+    "arcade": {
+      "traditional": ["MKAGPDX"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM"]
+    },
+    "toys": {
+      "lego": ["DBCB"]
+    }
+  },
+  "donkey-kong.jr": {
+    "name": "Donkey Kong Jr.",
+    "type": "hero",
+    "debut": "09/01/1982",
+    "consoles": {
+      "atari2600": ["DKJR"],
+      "colecoVision": ["DKJR"],
+      "intellivision": ["DKJR"],
+      "nes": ["DKJR", "DKJR+JRSL", "DKJRM", "CLASSICS", "MTM"],
+      "fcds": ["DKJR"],
+      "snes": ["SMK", "SMAS", "MTM"],
+      "n64": ["MT64"],
+      "ngc": ["SSBM", "MKDD"],
+      "wii": ["SSBB"],
+      "wiiU": ["NES_REMIX", "ATNGB", "SMM"],
+      "classics": ["NCE", "SNESCE"]
+    },
+    "handheld": {
+      "game&watch": ["DKJR", "DKII", "DKJRTT"],
+      "gb": ["DK", "G&WG", "G&WG2"],
+      "barcode": ["SMK"],
+      "virtual_boy": ["MT", "MC"],
+      "gbc": ["G&WG2", "G&GW3", "MT"],
+      "mini_classics": ["DKJR"],
+      "sewing": ["SMEW"],
+      "gba": ["G&WG4", "SMA4", "WWTW"],
+      "e-reader": ["DKJR"],
+      "dsiware": ["G&WDKJR"],
+      "3ds": ["SPMP", "DKJR", "CNB", "CNB+", "UNESR", "SMM3DS", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "AADKJR", "WWGIT", "WWMI"]
+    },
+    "arcade": {
+      "traditional": ["DKJR", "GGMC", "DK/DKJR/MB"]
+    },
+    "computer": {
+      "af": ["ERFM"],
+      "atari800xl": ["DKJR"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "NM"]
+    },
+    "games": {
+      "board": ["DKJR", "MNGC21"]
+    }
+  },
+  "foreman-spike": {
+    "name": "Foreman Spike",
+    "type": "boss",
+    "debut": "09/01/1982",
+    "consoles": {
+      "nes": ["WC"],
+      "fcds": ["WC"],
+      "snes": ["WC98"],
+      "wiiU": ["NES_REMIX", "SMM"]
+    },
+    "handheld": {
+      "gbc": ["MOG"],
+      "3ds": ["CNB", "CNB+", "UNESR", "SMM3DS"]
+    },
+    "hybrid": {
+      "switch": ["AAWC"]
+    }
+  },
+  "mallow": {
+    "name": "Mallow",
+    "type": "ally",
+    "debut": "05/13/1996",
+    "consoles": {
+      "snes": ["SMRPG"],
+      "classics": ["SNESCE"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "TETRIS_99", "SMRPG"]
+    }
+  },
+  "geno": {
+    "name": "Geno",
+    "type": "ally",
+    "debut": "05/13/1996",
+    "consoles": {
+      "snes": ["SMRPG"],
+      "classics": ["SNESCE"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "TETRIS_99", "SMRPG"]
+    }
+  },
+  "gadd": {
+    "name": "Professor E. Gadd",
+    "type": "ally",
+    "debut": "09/14/2001",
+    "consoles": {
+      "ngc": ["LM"],
+      "wiiU": ["SMM"]
+    },
+    "handheld": {
+      "gba": ["MPA"],
+      "ds": ["M&LPIT"],
+      "3ds": ["LM2", "SSB3DS", "SMM3DS"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "LM3", "LM2HD"]
+    },
+    "arcade": {
+      "traditional": ["LMA"]
+    },
+    "computer": {
+      "af": ["TDT"]
+    },
+    "mobile": {
+      "iOS": ["LSM", "NM"]
+    },
+    "toys": {
+      "lego": ["LMLAP"]
+    }
+  },
+  "polterpup": {
+    "name": "Polterpup",
+    "type": "ally",
+    "debut": "03/24/2013",
+    "handheld": {
+      "3ds": ["LM2", "SSB3DS", "LM"]
+    },
+    "hybrid": {
+      "switch": ["LM3", "LM2HD"]
+    },
+    "arcade": {
+      "traditional": ["LMA"]
+    },
+    "mobile": {
+      "iOS": ["LSM"]
+    },
+    "toys": {
+      "lego": ["LME"]
+    }
+  },
+  "toadsworth": {
+    "name": "Toadsworth",
+    "type": "ally",
+    "debut": "08/26/2002",
+    "consoles": {
+      "ngc": ["SMS", "MKDD", "PMTTYD", "MPT", "MSSB", "MP7"],
+      "wii": ["SSBB", "MSSL", "MPT_WII"],
+      "wiiU": ["SSBWIIU"]
+    },
+    "handheld": {
+      "gba": ["M&LSS", "MGAT", "MTPT"],
+      "ds": ["YDS", "M&LPIT", "NSMB", "M&LBIS"],
+      "3ds": ["M&LDT", "M&LSS+BM", "MPT100", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "SM3DAS", "PMTTYD"]
+    },
+    "arcade": {
+      "triforce": ["MKAGP2"]
+    },
+    "computer": {
+      "af": ["MP7BVQ"]
+    }
+  },
+  "nabbit": {
+    "name": "Nabbit",
+    "type": "ally",
+    "debut": "11/18/2012",
+    "consoles": {
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "SSBWIIU", "MP10", "SMM", "MINECRAFT", "M&SATR16OG"]
+    },
+    "handheld": {
+      "3ds": ["SPMP", "MGWT", "M&LPJ", "M&SATR16OG", "SMM3DS", "MINECRAFT", "M&LBIS+BJJ"]
+    },
+    "hybrid": {
+      "switch": ["SMP", "SSBU", "NSMBUDX", "SMBW", "SMPJ"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF", "SMBW+MIBP"]
+    },
+    "arcade": {
+      "traditional": ["M&SATR16OGAE"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM"]
+    },
+    "games": {
+      "board": ["TGOL", "NSMBUCRT"]
+    },
+    "toys": {
+      "lego": ["CP5", "NATS"]
+    },
+    "figurines": {
+      "sm": ["NABBIT"]
+    }
+  },
+  "boom-boom": {
+    "name": "Boom Boom",
+    "type": "boss",
+    "debut": "02/12/1990",
+    "consoles": {
+      "nes": ["SMB3"],
+      "snes": ["SMAS"],
+      "wii": ["SMASLE"],
+      "wiiU": ["NSMBU", "NSLU", "NSMBU+NSLU", "SM3DW", "NES_REMIX2", "ATNGB", "MINECRAFT", "M&SATR16OG"],
+      "classics": ["NCE", "NCMFC"]
+    },
+    "handheld": {
+      "gba": ["SMA4"],
+      "3ds": ["SM3DL", "UNESR", "D&D", "MSS", "MINECRAFT"]
+    },
+    "hybrid": {
+      "switch": ["MINECRAFT", "MTA", "SMP", "SSBU", "NSMBUDX", "SMM2", "M&SATT20OG", "SM3DW+BF", "MSTBL", "NESWCNESE", "SMPJ"],
+      "switch2": ["MKW", "SMPJ+JTV", "MTF"]
+    },
+    "arcade": {
+      "traditional": ["SMBMW"]
+    },
+    "computer": {
+      "ms-dos": ["SMBPW"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "DMW", "LSM", "NM"]
+    },
+    "games": {
+      "board": ["SMBG"]
+    },
+    "toys": {
+      "lego": ["AWL"]
+    },
+    "figurines": {
+      "sm": ["BOOM_BOOM"]
+    }
+  },
+  "pom-pom": {
+    "name": "Pom Pom",
+    "type": "boss",
+    "debut": "11/13/2011",
+    "consoles": {
+      "wiiU": ["SM3DW"]
+    },
+    "handheld": {
+      "3ds": ["SM3DL", "M&SATR16OG", "MSS"]
+    },
+    "hybrid": {
+      "switch": ["MINECRAFT", "SMP", "SSBU", "SMM2", "SM3DW+BF", "SMPJ"],
+      "switch2": ["SMPJ+JTV"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "LSM"]
+    },
+    "toys": {
+      "lego": ["PGBR", "TBET"]
+    },
+    "figurines": {
+      "amiibo": ["MSS"]
+    }
+  },
+  "dolphin": {
+    "name": "Dolphin",
+    "type": "ally",
+    "debut": "08/23/1991",
+    "consoles": {
+      "snes": ["SMW"],
+      "ngc": ["MP4", "MP5"],
+      "wii": ["MP8", "MP9"],
+      "wiiU": ["MK8", "ATNGB", "MINECRAFT"]
+    },
+    "handheld": {
+      "nelsonic": ["SMW"],
+      "gbc": ["MF"],
+      "sewing": ["SMEW"],
+      "gba": ["MPA"],
+      "3ds": ["MGWT"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT"],
+      "switch2": ["MKW"]
+    },
+    "arcade": {
+      "traditional": ["TDSMW", "SMWMP", "MNMI", "SMAT", "MKAGPDX"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "MKT", "LSM"]
+    },
+    "toys": {
+      "lego": ["BUBR"]
+    }
+  },
+  "poochy": {
+    "name": "Poochy",
+    "type": "ally",
+    "debut": "10/04/1995",
+    "consoles": {
+      "snes": ["SMW2", "TA", "PNPVOL2", "PNPVOL7"],
+      "satellaview": ["YNPBSB"],
+      "n64": ["YS"],
+      "64dd": ["MAPS"],
+      "iQue": ["YS"],
+      "wiiU": ["YWW", "MINECRAFT"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["TA"],
+      "gba": ["SMA3"],
+      "3ds": ["YNI", "NBA", "P&YWW", "MINECRAFT", "WWG"]
+    },
+    "hybrid": {
+      "switch": ["SMO", "MINECRAFT", "SSBU", "YCW"]
+    },
+    "arcade": {
+      "traditional": ["CCCSMYI"]
+    },
+    "mobile": {
+      "iOS": ["YY&PS", "MKT", "NM"]
+    },
+    "figurines": {
+      "amiibo": ["YWW"]
+    }
+  },
+  "bomb-omb_buddy": {
+    "name": "Bob-omb Buddy",
+    "type": "ally",
+    "debut": "09/30/1996",
+    "consoles": {
+      "n64": ["SM64", "SM64RPCV", "MP", "MP2", "MT64", "MP3"],
+      "iQue": ["SM64"],
+      "wii": ["SMG2"]
+    },
+    "handheld": {
+      "gbc": ["MG"],
+      "gba": ["MPA"],
+      "ds": ["SM64DS"]
+    },
+    "hybrid": {
+      "switch": ["SM3DAS", "SMG1+2"]
+    }
+  },
+  "hoot": {
+    "name": "Hoot",
+    "type": "ally",
+    "debut": "09/30/1996",
+    "consoles": {
+      "n64": ["SM64", "SM64RPCV"],
+      "iQue": ["SM64"]
+    },
+    "handheld": {
+      "gba": ["MPA"],
+      "ds": ["SM64DS"]
+    },
+    "hybrid": {
+      "switch": ["MINECRAFT", "SM3DAS"]
+    },
+    "figurines": {
+      "f4f": ["LM3S"]
+    }
+  },
+  "penguin": {
+    "name": "Penguin",
+    "type": "ally",
+    "debut": "09/30/1996",
+    "consoles": {
+      "snes": ["PNPVOL6"],
+      "n64": ["SM64", "SM64RPCV", "MK64", "MP3"],
+      "ngc": ["MP4", "MP5", "DDRMM", "MSSB"],
+      "iQue": ["SM64", "MK64"],
+      "wii": ["MSTC", "MP8", "SMG", "MKWII", "MSSL", "M&SATOWG", "SMG2", "MSM", "MP9"]
+    },
+    "handheld": {
+      "gba": ["MKSC", "MPL", "MPA"],
+      "ds": ["SM64DS", "NSMB", "M&SATOWG"],
+      "3ds": ["SPMP", "MK7", "MTO", "MPIT", "MPT100"]
+    },
+    "hybrid": {
+      "switch": ["MTA", "SMP", "SM3DAS", "MGSR", "MPS", "MRSOH", "SMPJ", "SMG1+2", "MRKB+MRSOH"],
+      "switch2": ["MKW", "SMPJ+JTV"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "LSM"]
+    },
+    "toys": {
+      "lego": ["SM64QMB", "CP4", "FSA", "PFSA"],
+      "knex": ["IR", "PJ", "UC"]
+    }
+  },
+  "baby_penguin": {
+    "name": "Baby Penguin",
+    "type": "ally",
+    "debut": "09/30/1996",
+    "consoles": {
+      "n64": ["SM64", "SM64RPCV", "MK64", "MP3"],
+      "ngc": ["MP4", "MP5", "MP6", "MP7"],
+      "iQue": ["SM64", "MK64"],
+      "wii": ["MP8", "MKWII"]
+    },
+    "handheld": {
+      "ds": ["SM64DS"],
+      "3ds": ["MPIT", "MPT100"]
+    },
+    "hybrid": {
+      "switch": ["SMP", "SM3DAS", "MPS", "SMPJ"],
+      "switch2": ["SMPJ+JTV"]
+    }
+  },
+  "rabbit": {
+    "name": "Rabbit",
+    "type": "ally",
+    "debut": "09/30/1996",
+    "consoles": {
+      "n64": ["SM64", "SM64RPCV", "MP3"],
+      "iQue": ["SM64"],
+      "wiiU": ["SM3DW", "MINECRAFT"]
+    },
+    "handheld": {
+      "ds": ["SM64DS"],
+      "3ds": ["MPIT", "MINECRAFT"]
+    },
+    "hybrid": {
+      "switch": ["SMO", "MINECRAFT", "MTA", "SM3DAS", "SM3DW+BF"]
+    }
+  },
+  "dorrie": {
+    "name": "Dorrie",
+    "type": "ally",
+    "colors": [
+      "blue",
+      "red",
+      "green",
+      "yellow",
+      "purple"
+    ],
+    "debut": "09/30/1996",
+    "consoles": {
+      "n64": ["SM64", "SM64RPCV", "MP2", "MP3"],
+      "ngc": ["MP4", "MP5"],
+      "iQue": ["SM64"]
+    },
+    "handheld": {
+      "gba": ["MPA"],
+      "ds": ["SM64DS", "NSMB"]
+    },
+    "hybrid": {
+      "switch": ["SMO", "SM3DAS", "SMPJ"],
+      "switch2": ["SMPJ+JTV"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "LSM"]
+    },
+    "toys": {
+      "lego": ["DB", "DSSA"]
+    }
+  },
+  "cow": {
+    "name": "Cow",
+    "type": "ally",
+    "debut": "02/10/1997",
+    "consoles": {
+      "n64": ["MK64", "MP2", "MP3"],
+      "iQue": ["MK64"],
+      "wii": ["MKWII", "M&SATL12OG"],
+      "wiiU": ["MK8", "YWW", "MINECRAFT"]
+    },
+    "handheld": {
+      "ds": ["MKDS"],
+      "3ds": ["MPIT", "NBA", "P&YWW", "MINECRAFT"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "MKLHC", "SMPJ"],
+      "switch2": ["MKW", "SMPJ+JTV"]
+    },
+    "mobile": {
+      "iOS": ["MKT"]
+    },
+    "toys": {
+      "lego": ["BRR"]
+    }
+  },
+  "snowman": {
+    "name": "Snowman",
+    "type": "ally",
+    "debut": "02/10/1997",
+    "consoles": {
+      "n64": ["MK64"],
+      "iQue": ["MK64"],
+      "wiiU": ["MK8"]
+    },
+    "handheld": {
+      "gba": ["MKSC"],
+      "ds": ["SPP", "MKDS", "NSMB"],
+      "3ds": ["MK7"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT"],
+      "switch2": ["MKW"]
+    }
+  },
+  "fludd": {
+    "name": "FLUDD",
+    "type": "ally",
+    "debut": "08/26/2002",
+    "consoles": {
+      "ngc": ["SMS"],
+      "wii": ["SSBB"],
+      "wiiU": ["SSBWIIU"]
+    },
+    "handheld": {
+      "3ds": ["SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "SM3DAS"]
+    },
+    "computer": {
+      "af": ["FF"]
+    },
+    "games": {
+      "board": ["MSMC"]
+    }
+  },
+  "pianta": {
+    "name": "Pianta",
+    "type": "ally",
+    "debut": "08/19/2002",
+    "colors": [
+      "blue",
+      "yellow",
+      "pink",
+      "orange",
+      "red",
+      "green",
+      "purple",
+      "brown"
+    ],
+    "consoles": {
+      "ngc": ["SMS", "MKDD", "MPT", "MSSB"],
+      "wii": ["MSTC", "MP8", "M&SATOG", "SSBB", "MKWII", "MSSL", "MPT_WII", "SMG2", "MSM", "FS", "MP9"],
+      "wiiU": ["M&SATS14OWG", "MK8", "MINECRAFT", "M&SATR16OG"]
+    },
+    "handheld": {
+      "gba": ["MTPT"],
+      "ds": ["MKDS"],
+      "3ds": ["MINECRAFT"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MINECRAFT", "SSBU", "SM3DAS", "SMG1+2"],
+      "switch2": ["MKW"]
+    },
+    "arcade": {
+      "traditional": ["MKAGPDX"],
+      "triforce": ["MKAGP2"]
+    }
+  },
+  "noki": {
+    "name": "Noki",
+    "type": "ally",
+    "debut": "08/19/2002",
+    "colors": [
+      "blue",
+      "red",
+      "green"
+    ],
+    "consoles": {
+      "ngc": ["SMS", "MKDD", "MPT", "MSSB"],
+      "wii": ["MSTC", "SSBB", "MKWII", "MSSL", "MPT_WII", "FS"],
+      "wiiU": ["MK8"]
+    },
+    "handheld": {
+      "gba": ["MTPT"],
+      "ds": ["MKDS", "M&SATOG"]
+    },
+    "hybrid": {
+      "switch": ["SM3DAS"]
+    },
+    "arcade": {
+      "triforce": ["MKAGP2"]
+    }
+  },
+  "luma": {
+    "name": "Luma",
+    "type": "ally",
+    "debut": "11/12/2007",
+    "colors": [
+      "apricot",
+      "yellow",
+      "blue",
+      "red",
+      "green",
+      "purple",
+      "pink",
+      "orange",
+      "black"
+    ],
+    "consoles": {
+      "wii": ["SMG", "MKWII", "SMG2", "M&SATL12OG", "FS"],
+      "wiiU": ["SM3DW", "SSBWIIU", "MP10"]
+    },
+    "handheld": {
+      "3ds": ["SPMP", "MTO", "MPIT", "MGWT", "M&LPJ", "MSS"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "MTA", "SSBU", "TETRIS_99", "SM3DAS", "SM3DW+BF", "MGSR", "MRSOH", "SMG1+2", "MRKB+MRSOH"],
+      "switch2": ["MKW", "MTF"]
+    },
+    "computer": {
+      "af": ["SMG"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "NM"]
+    },
+    "games": {
+      "board": ["MSMC"]
+    },
+    "figurines": {
+      "amiibo": ["SMASH"]
+    }
+  },
+  "polari": {
+    "name": "Polari",
+    "type": "ally",
+    "debut": "11/12/2007",
+    "consoles": {
+      "wii": ["SMG"]
+    },
+    "handheld": {
+      "3ds": ["MGWT"]
+    },
+    "hybrid": {
+      "switch": ["SM3DAS", "SMG1+2"],
+      "switch2": ["MTF"]
+    }
+  },
+  "lumalee": {
+    "name": "Lumalee",
+    "type": "ally",
+    "debut": "11/12/2007",
+    "consoles": {
+      "wii": ["SMG", "SMG2"]
+    },
+    "hybrid": {
+      "switch": ["SM3DAS", "SMG1+2"],
+      "switch2": ["MTF"]
+    }
+  },
+  "hungry_luma": {
+    "name": "Hungry Luma",
+    "type": "ally",
+    "debut": "11/12/2007",
+    "consoles": {
+      "wii": ["SMG", "SMG2"]
+    },
+    "handheld": {
+      "3ds": ["MGWT"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "SM3DAS", "SMG1+2"]
+    }
+  },
+  "star_bunny": {
+    "name": "Star Bunny",
+    "type": "ally",
+    "debut": "11/12/2007",
+    "consoles": {
+      "wii": ["SMG", "SMG2"],
+      "wiiU": ["MP10", "MINECRAFT"]
+    },
+    "handheld": {
+      "3ds": ["MINECRAFT"]
+    },
+    "hybrid": {
+      "switch": ["MINECRAFT", "SM3DAS", "SMG1+2"]
+    },
+    "mobile": {
+      "iOS": ["DMW", "NM"]
+    }
+  },
+  "honeybee": {
+    "name": "Honeybee",
+    "type": "ally",
+    "debut": "11/12/2007",
+    "consoles": {
+      "wii": ["SMG", "SMG2"]
+    },
+    "hybrid": {
+      "switch": ["SM3DAS", "SMG1+2"]
+    }
+  },
+  "honey_queen": {
+    "name": "Honey Queen",
+    "type": "ally",
+    "debut": "11/12/2007",
+    "consoles": {
+      "wii": ["SMG", "SMG2"]
+    },
+    "handheld": {
+      "3ds": ["MK7"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "SM3DAS", "SMG1+2"]
+    },
+    "mobile": {
+      "iOS": ["DMW"]
+    }
+  },
+  "gearmo": {
+    "name": "Gearmo",
+    "type": "ally",
+    "debut": "11/12/2007",
+    "consoles": {
+      "wii": ["SMG", "SMG2"]
+    },
+    "hybrid": {
+      "switch": ["MINECRAFT", "SM3DAS", "SMG1+2"]
+    }
+  },
+  "lubba": {
+    "name": "Lubba",
+    "type": "ally",
+    "debut": "05/23/2010",
+    "consoles": {
+      "wii": ["SMG2"],
+      "wiiU": ["SSBWIIU"]
+    },
+    "handheld": {
+      "3ds": ["MGWT"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "TETRIS_99", "SMG1+2"]
+    },
+    "mobile": {
+      "iOS": ["NM"]
+    }
+  },
+  "jibberjay": {
+    "name": "Jibberjay",
+    "type": "ally",
+    "debut": "05/23/2010",
+    "consoles": {
+      "wii": ["SMG2"]
+    },
+    "hybrid": {
+      "switch": ["SMG1+2"]
+    }
+  },
+  "fluzzard": {
+    "name": "Fluzzard",
+    "type": "ally",
+    "debut": "05/23/2010",
+    "consoles": {
+      "wii": ["SMG2"]
+    },
+    "hybrid": {
+      "switch": ["SMG1+2"]
+    }
+  },
+  "the_chimp": {
+    "name": "The Chimp",
+    "type": "ally",
+    "debut": "05/23/2010",
+    "consoles": {
+      "wii": ["SMG2"]
+    },
+    "hybrid": {
+      "switch": ["SMG1+2"]
+    }
+  },
+  "whittle": {
+    "name": "Whittle",
+    "type": "ally",
+    "debut": "05/23/2010",
+    "consoles": {
+      "wii": ["SMG2", "MP9"]
+    },
+    "handheld": {
+      "3ds": ["MPIT", "MPT100"]
+    },
+    "hybrid": {
+      "switch": ["SMG1+2"]
+    }
+  },
+  "jumbo_ray": {
+    "name": "Jumbo Ray",
+    "type": "ally",
+    "debut": "11/15/2009",
+    "consoles": {
+      "wii": ["NSMBWII"],
+      "wiiU": ["MP10"]
+    },
+    "handheld": {
+      "3ds": ["MPIT", "MGWT"]
+    }
+  },
+  "sprixie_princess": {
+    "name": "Sprixie Princess",
+    "type": "ally",
+    "debut": "11/22/2013",
+    "colors": [
+      "green",
+      "yellow",
+      "blue",
+      "orange",
+      "purple",
+      "cyan",
+      "red"
+    ],
+    "consoles": {
+      "wiiU": ["SM3DW", "CTTT", "MTUS"]
+    },
+    "handheld": {
+      "3ds": ["NBA"]
+    },
+    "hybrid": {
+      "switch": ["MINECRAFT", "SSBU", "SM3DW+BF"]
+    }
+  },
+  "sprixie": {
+    "name": "Sprixie",
+    "type": "ally",
+    "debut": "11/22/2013",
+    "consoles": {
+      "wiiU": ["SM3DW"]
+    },
+    "hybrid": {
+      "switch": ["SM3DW+BF"]
+    }
+  },
+  "plessie": {
+    "name": "Plessie",
+    "type": "ally",
+    "debut": "11/22/2013",
+    "consoles": {
+      "wiiU": ["SM3DW"]
+    },
+    "hybrid": {
+      "switch": ["SSBU", "SM3DW+BF", "SMPJ"],
+      "switch2": ["SMPJ+JTV"]
+    },
+    "mobile": {
+      "iOS": ["NM"]
+    }
+  },
+  "cappy": {
+    "name": "Cappy",
+    "type": "hero",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO", "SSBU"]
+    },
+    "mobile": {
+      "iOS": ["SMR", "NM"]
+    },
+    "games": {
+      "board": ["MSMC"]
+    },
+    "figurines": {
+      "won": ["M&C"],
+      "sm": ["CAPPY", "M&CS", "M&CH"]
+    }
+  },
+  "tiara": {
+    "name": "Tiara",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "bonneter": {
+    "name": "Bonneter",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "talkatoo": {
+    "name": "Talkatoo",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "tostarenan": {
+    "name": "Tostarenan",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    },
+    "mobile": {
+      "iOS": ["NM"]
+    }
+  },
+  "moe-eye": {
+    "name": "Moe-Eye",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "glydon": {
+    "name": "Glydon",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "lochlady": {
+    "name": "Lochlady",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "steam_gardener": {
+    "name": "Steam Gardener",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "new_donker": {
+    "name": "New Donker",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO", "MTA", "MGSR"]
+    }
+  },
+  "shiverian": {
+    "name": "Shiverian",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO", "MINECRAFT"]
+    }
+  },
+  "bubblanian": {
+    "name": "Bubblanian",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "volbonan": {
+    "name": "Volbonan",
+    "type": "ally",
+    "debut": "10/27/2017",
+    "hybrid": {
+      "switch": ["SMO"]
+    }
+  },
+  "dixie_kong": {
+    "name": "Dixie Kong",
+    "type": "ally",
+    "debut": "12/04/1995",
+    "consoles": {
+      "snes": ["DKC2", "DKC3"],
+      "ngc": ["SSBM", "DKA2", "DKA3", "MSSB"],
+      "wii": ["DKBB", "SSBB", "MSSL"],
+      "wiiU": ["DKCTF", "SSBWIIU"]
+    },
+    "handheld": {
+      "gb": ["DKL2", "DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC2", "DKKOS", "DKC3"],
+      "ds": ["MH3O3", "DKR", "DKJC"],
+      "3ds": ["CNB+", "SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["DKCTF", "SSBU", "DKCRHD"],
+      "switch2": ["DKB"]
+    },
+    "computer": {
+      "af": ["BB", "BBL"]
+    },
+    "mobile": {
+      "iOS": ["MKT", "LSM", "NT"]
+    },
+    "games": {
+      "board": ["DKBG", "NM06", "NM10"]
+    },
+    "toys": {
+      "lego": ["DKJJ"]
+    },
+    "figurines": {
+      "won": ["DX"]
+    }
+  },
+  "cranky_kong": {
+    "name": "Cranky Kong",
+    "type": "ally",
+    "debut": "07/09/1981",
+    "consoles": {
+      "atari2600": ["DK", "DKJR"],
+      "colecoVision": ["DK", "DKJR"],
+      "intellivision": ["DK", "DKJR"],
+      "nes": ["DK", "DKJR", "DKJR+JRSL", "DKJRM", "CLASSICS", "NESOTG", "MT64"],
+      "fcds": ["DK", "DKJR"],
+      "snes": ["DKC", "DKC2", "DKC3", "PNPVOL8"],
+      "n64": ["DK64"],
+      "ngc": ["DKA", "DKA2", "DKA3"],
+      "dvd": ["CIRCUSLVEB", "CIRCUSLDKB", "CIRCUSRK"],
+      "wii": ["DKBB", "SSBB", "DKCR"],
+      "wiiU": ["DKCTF", "SSBWIIU"],
+      "classics": ["NCE", "NCMFC", "SNESCE"]
+    },
+    "handheld": {
+      "game&watch": ["DK", "DK", "DKII", "DKJRTT", "DK3", "DKC", "HOCKEY"],
+      "gb": ["DK"],
+      "gbc": ["DKC"],
+      "mini_classics": ["DKJR", "DK"],
+      "gba": ["DKC", "DKC2", "DKKOS", "DKC3"],
+      "ds": ["DKJC"],
+      "3ds": ["DKOE", "DKCR3D", "SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["SMO", "DKCTF", "AADK", "SSBU", "AADKJR", "TETRIS_99", "AADK3", "DKCRHD"],
+      "switch2": ["DKB"]
+    },
+    "arcade": {
+      "traditional": ["DK", "CK", "CK2", "DKJR", "SDK2SNBS", "DK/DKJR/MB"],
+      "np10": ["NESOTG"]
+    },
+    "computer": {
+      "ti-99/4a": ["DK"],
+      "ms-dos": ["DK", "MIM_CD-ROM_DX"],
+      "as": ["KK", "DKCBM"],
+      "af": ["RTUDKCSAFTA", "ERFM", "AC", "CNSADKCFP", "NESC", "HOD", "BBO", "RP", "BG"],
+      "vic-20": ["DK"],
+      "atari800xl": ["DK", "DKJR"]
+    },
+    "mobile": {
+      "iOS": ["NT", "LSM", "NM"]
+    },
+    "games": {
+      "normal": ["JDKCE"],
+      "board": ["DKMBBG", "DKBG", "DKCPPG", "DKJR"]
+    },
+    "toys": {
+      "lego": ["DKTH", "DKA"]
+    },
+    "figurines": {
+      "won": ["CK"]
+    }
+  },
+  "king_k_rool": {
+    "name": "King K. Rool",
+    "type": "antagonist",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "DKC2", "DKC3"],
+      "n64": ["DK64"],
+      "ngc": ["SSBM", "DKA", "DKA2"],
+      "dvd": ["CIRCUSLVEB", "CIRCUSLDKB", "CIRCUSRK"],
+      "wii": ["DKBB", "SSBB", "MSSL"],
+      "wiiU": ["SSBWIIU"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["DKL"],
+      "gba": ["DKC", "DKC2", "DKC3"],
+      "ds": ["DKJC"],
+      "3ds": ["SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"],
+      "switch2": ["DKB"]
+    },
+    "arcade": {
+      "traditional": ["SDK2SNBS"]
+    },
+    "computer": {
+      "as": ["KONK", "KK"],
+      "af": ["RTUDKCSAFTA", "KK"]
+    },
+    "mobile": {
+      "iOS": ["LSM", "NT"]
+    },
+    "games": {
+      "board": ["DKBG", "DKCPPG"]
+    },
+    "figurines": {
+      "amiibo": ["SMASH"]
+    }
+  },
+  "funky_kong": {
+    "name": "Funky Kong",
+    "type": "ally",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "DKC2", "DKC3", "PNPVOL8"],
+      "ngc": ["DKA2", "DKA3"],
+      "dvd": ["CIRCUSLVEB", "CIRCUSLDKB", "CIRCUSRK"],
+      "wii": ["DKBB", "SSBB", "MKWII", "MSSL"],
+      "wiiU": ["DKCTF", "SSBWIIU"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["DKL2"],
+      "gbc": ["DKC"],
+      "gba": ["DKC", "DKC2", "DKKOS", "DKC3"],
+      "ds": ["DKJC"],
+      "3ds": ["SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["MK8DX", "DKCTF", "SSBU"]
+    },
+    "arcade": {
+      "traditional": ["SDKOD"]
+    },
+    "computer": {
+      "mac-os": ["MK"],
+      "as": ["KK"],
+      "af": ["RTUDKCSAFTA", "CNSADKCFP"]
+    },
+    "mobile": {
+      "iOS": ["MKT", "LSM", "NT", "NM"]
+    },
+    "games": {
+      "board": ["DKBG", "DKCPPG"]
+    },
+    "toys": {
+      "lego": ["DKMCR"]
+    }
+  },
+  "lanky_kong": {
+    "name": "Lanky Kong",
+    "type": "protagonist",
+    "debut": "11/22/1999",
+    "consoles": {
+      "n64": ["DK64"],
+      "wii": ["DKBB", "SSBB"],
+      "wiiU": ["SSBWIIU"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    }
+  },
+  "tiny_kong": {
+    "name": "Tiny Kong",
+    "type": "protagonist",
+    "debut": "11/22/1999",
+    "consoles": {
+      "n64": ["DK64"],
+      "wii": ["DKBB", "SSBB", "MSSL"],
+      "wiiU": ["SSBWIIU"]
+    },
+    "handheld": {
+      "gba": ["DKC2"],
+      "ds": ["DKR"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    }
+  },
+  "chunky_kong": {
+    "name": "Chunky Kong",
+    "type": "protagonist",
+    "debut": "11/22/1999",
+    "consoles": {
+      "n64": ["DK64"],
+      "wii": ["SSBB"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    }
+  },
+  "candy_kong": {
+    "name": "Candy Kong",
+    "type": "ally",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "PNPVOL7"],
+      "dvd": ["CIRCUSLVEB", "CIRCUSLDKB", "CIRCUSRK"],
+      "wii": ["SSBB"],
+      "wiiU": ["SSBWIIU"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gbc": ["DKC"],
+      "gba": ["DKC", "DKC2", "DKKOS"],
+      "ds": ["DKJC"],
+      "3ds": ["SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "computer": {
+      "mac-os": ["MK"],
+      "af": ["CNSADKCFP"]
+    },
+    "games": {
+      "board": ["DKCPPG"]
+    }
+  },
+  "swanky_kong": {
+    "name": "Swanky Kong",
+    "type": "ally",
+    "debut": "12/04/1995",
+    "consoles": {
+      "snes": ["DKC2", "DKC3"],
+      "ngc": ["DKA2"]
+    },
+    "handheld": {
+      "gba": ["DKC2", "DKC3"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "arcade": {
+      "traditional": ["SDK2SNBS"]
+    }
+  },
+  "wrinkly_kong": {
+    "name": "Wrinkly Kong",
+    "type": "ally",
+    "debut": "12/04/1995",
+    "consoles": {
+      "snes": ["DKC2", "DKC3"],
+      "n64": ["DK64"],
+      "ngc": ["DKA2"],
+      "wii": ["DKBB", "SSBB"],
+      "wiiU": ["SSBWIIU"]
+    },
+    "handheld": {
+      "gb": ["DKL2", "DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC2", "DKKOS", "DKC3"],
+      "ds": ["DKJC"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "mobile": {
+      "iOS": ["NM"]
+    }
+  },
+  "kiddy_kong": {
+    "name": "Kiddy Kong",
+    "type": "protagonist",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"],
+      "ngc": ["DKA2"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "computer": {
+      "af": ["BBL"]
+    }
+  },
+  "monkey": {
+    "name": "Monkey",
+    "type": "ally",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "rambi": {
+    "name": "Rambi",
+    "type": "ally",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "DKC2", "PNPVOL8"],
+      "n64": ["DK64"],
+      "ngc": ["DKA", "DKA3"],
+      "wii": ["DKBB", "SSBB", "DKCR"],
+      "wiiU": ["DKCTF"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["DKL", "DKL2"],
+      "gbc": ["DKC"],
+      "gba": ["DKC", "DKC2"],
+      "3ds": ["SPMP", "DKCR3D", "SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["DKCTF", "SSBU", "DKCRHD"],
+      "switch2": ["DKB"]
+    },
+    "arcade": {
+      "traditional": ["SDK2SNBS"]
+    },
+    "computer": {
+      "af": ["RTUDKCSAFTA"]
+    },
+    "mobile": {
+      "iOS": ["LSM", "NT"]
+    },
+    "toys": {
+      "lego": ["RTR"]
+    },
+    "games": {
+      "board": ["DKCPPG", "DKY"]
+    }
+  },
+  "enguarde": {
+    "name": "Enguarde",
+    "type": "ally",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "DKC2", "DKC3", "PNPVOL8"],
+      "n64": ["DK64"],
+      "ngc": ["DKA2", "DKA3"],
+      "wii": ["DKBB", "SSBB"],
+      "wiiU": ["SSBWIIU"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["DKL2", "DKL3"],
+      "gbc": ["DKL3", "DKC"],
+      "sewing": ["SMEW"],
+      "gba": ["DKC", "DKC2", "DKC3"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "arcade": {
+      "traditional": ["SDKOD"]
+    },
+    "computer": {
+      "af": ["RTUDKCSAFTA", "JJ"]
+    },
+    "games": {
+      "board": ["DKCPPG"]
+    }
+  },
+  "winky": {
+    "name": "Winky",
+    "type": "ally",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "PNPVOL8"],
+      "wiiU": ["SSBWIIU"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gbc": ["DKC"],
+      "gba": ["DKC"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "games": {
+      "board": ["DKCPPG"]
+    }
+  },
+  "expresso": {
+    "name": "Expresso",
+    "type": "ally",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "PNPVOL8"],
+      "wii": ["SSBB"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["DKL"],
+      "gbc": ["DKC"],
+      "sewing": ["SMEW"],
+      "gba": ["DKC", "DKC2"],
+      "3ds": ["SSB3DS"]
+    },
+    "computer": {
+      "af": ["RTUDKCSAFTA"]
+    },
+    "games": {
+      "board": ["DKCPPG"]
+    }
+  },
+  "squawks": {
+    "name": "Squawks",
+    "type": "ally",
+    "debut": "11/18/1994",
+    "consoles": {
+      "snes": ["DKC", "DKC2", "DKC3", "PNPVOL8"],
+      "ngc": ["DKA2", "DKA3"],
+      "wii": ["KBB", "DKCR"],
+      "wiiU": ["DKCTF"],
+      "classics": ["SNESCE"]
+    },
+    "handheld": {
+      "gb": ["DKL2", "DKL3"],
+      "gbc": ["DKL3", "DKC"],
+      "gba": ["DKC", "DKC2", "DKC3"],
+      "3ds": ["DKCR3D", "SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["DKCTF", "DKCRHD"],
+      "switch2": ["DKB"]
+    },
+    "arcade": {
+      "traditional": ["SDK2SNBS", "MKAGPDX"]
+    },
+    "computer": {
+      "af": ["CNSADKCFP", "BB", "JJ"]
+    },
+    "mobile": {
+      "iOS": ["LSM", "NT"]
+    },
+    "games": {
+      "board": ["DKY"]
+    },
+    "toys": {
+      "lego": ["DKJJ"]
+    }
+  },
+  "quawks": {
+    "name": "Quawks",
+    "type": "ally",
+    "debut": "12/04/1995",
+    "consoles": {
+      "snes": ["DKC2", "DKC3"],
+      "wii": ["DKBB"]
+    },
+    "handheld": {
+      "gba": ["DKC2", "DKC3"]
+    }
+  },
+  "clapper": {
+    "name": "Clapper",
+    "type": "ally",
+    "debut": "12/04/1995",
+    "consoles": {
+      "snes": ["DKC2"],
+      "ngc": ["DKA2"]
+    },
+    "handheld": {
+      "gb": ["DKL2"],
+      "gba": ["DKC2"]
+    }
+  },
+  "glimmer": {
+    "name": "Glimmer",
+    "type": "ally",
+    "debut": "12/04/1995",
+    "consoles": {
+      "snes": ["DKC2"]
+    },
+    "handheld": {
+      "gba": ["DKC2"]
+    }
+  },
+  "rattly": {
+    "name": "Rattly",
+    "type": "ally",
+    "debut": "12/04/1995",
+    "consoles": {
+      "snes": ["DKC2"],
+      "ngc": ["DKA2", "DKA3"]
+    },
+    "handheld": {
+      "gb": ["DKL2"],
+      "gba": ["DKC2"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "arcade": {
+      "traditional": ["SDK2SNBS"]
+    },
+    "computer": {
+      "af": ["JJ"]
+    }
+  },
+  "squitter": {
+    "name": "Squitter",
+    "type": "ally",
+    "debut": "12/04/1995",
+    "consoles": {
+      "snes": ["DKC2", "DKC3"],
+      "ngc": ["DKA2"],
+      "wii": ["SSBB"]
+    },
+    "handheld": {
+      "gb": ["DKL2", "DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC2", "DKC3"],
+      "3ds": ["SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    }
+  },
+  "ellie": {
+    "name": "Ellie",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"],
+      "ngc": ["DKA", "DKA2", "DKA3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    }
+  },
+  "nibbla": {
+    "name": "Nibbla",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gba": ["DKC3"]
+    }
+  },
+  "parry": {
+    "name": "Parry",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"],
+      "ngc": ["DKA2", "DKA3"]
+    },
+    "handheld": {
+      "gba": ["DKC3"]
+    }
+  },
+  "krusha": {
+    "name": "Krusha",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "n64": ["DK64"],
+      "dvd": ["CIRCUSLVEB", "CIRCUSLDKB", "CIRCUSRK"]
+    }
+  },
+  "klaptrap": {
+    "name": "Klaptrap",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "n64": ["DK64"]
+    }
+  },
+  "flurl": {
+    "name": "Flurl",
+    "type": "ally",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB", "DKA3"],
+      "wii": ["DKJB_WII"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "hoofer": {
+    "name": "Hoofer",
+    "type": "ally",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB", "DKA3"],
+      "wii": ["SSBB", "DKJB_WII"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "helibird": {
+    "name": "Helibird",
+    "type": "ally",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB", "DKA3"],
+      "wii": ["SSBB", "DKJB_WII"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "orco": {
+    "name": "Orco",
+    "type": "ally",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB", "DKA3"],
+      "wii": ["DKJB_WII"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "baffle": {
+    "name": "Baffle",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gba": ["DKC3"]
+    }
+  },
+  "barnacle": {
+    "name": "Barnacle",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gba": ["DKC3"]
+    }
+  },
+  "barter": {
+    "name": "Barter",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gba": ["DKC3"]
+    }
+  },
+  "bazaar": {
+    "name": "Bazaar",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "bazooka": {
+    "name": "Bazooka",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"],
+      "ngc": ["DKA2", "DKA3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "benny": {
+    "name": "Benny",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "bjorn": {
+    "name": "Bjorn",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "blizzard": {
+    "name": "Blizzard",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"],
+      "ngc": ["DKA2", "DKA3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "blue": {
+    "name": "Blue",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"],
+      "ngc": ["DKA2", "DKA3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "blunder": {
+    "name": "Krusha",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    }
+  },
+  "boomer": {
+    "name": "Blunder",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "bramble": {
+    "name": "Bramble",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "brash": {
+    "name": "Brash",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"],
+      "ngc": ["DKA2", "DKA3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "banana_bird": {
+    "name": "Banana Bird",
+    "type": "ally",
+    "debut": "11/18/1996",
+    "consoles": {
+      "snes": ["DKC3"],
+      "ngc": ["DKA", "DKA2", "DKA3"]
+    },
+    "handheld": {
+      "gb": ["DKL3"],
+      "gbc": ["DKL3"],
+      "gba": ["DKC3"]
+    }
+  },
+  "professor_chops": {
+    "name": "Professor Chops",
+    "type": "ally",
+    "debut": "11/21/2010",
+    "consoles": {
+      "wii": ["DKCR"],
+      "wiiU": ["DKCTF"]
+    },
+    "handheld": {
+      "3ds": ["DKCR3D", "SSB3DS"]
+    },
+    "hybrid": {
+      "switch": ["DKCTF", "SSBU", "DKCRHD"]
+    }
+  },
+  "dread_kong": {
+    "name": "Dread Kong",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "karate_kong": {
+    "name": "Karate Kong",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["SSBB", "DKJB_WII"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "ninja_kong": {
+    "name": "Ninja Kong",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    },
+    "hybrid": {
+      "switch": ["SSBU"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "sumo_kong": {
+    "name": "Sumo Kong",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    },
+    "arcade": {
+      "traditional": ["DKJF", "DKBK"]
+    }
+  },
+  "scruff_roc": {
+    "name": "Scruff Roc",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "fleet_roc": {
+    "name": "Fleet Roc",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "hard_roc": {
+    "name": "Hard Roc",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "thunder_roc": {
+    "name": "Thunder Roc",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "rogue-hog": {
+    "name": "Rogue-Hog",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "mo-hog": {
+    "name": "Mo-Hog",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "bloat-hog": {
+    "name": "Bloat-Hog",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "gloat-hog": {
+    "name": "Gloat-Hog",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "turret_tusk": {
+    "name": "Turret Tusk",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["SSBB", "DKJB_WII"]
+    }
+  },
+  "grave_tusk": {
+    "name": "Grave Tusk",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "torch_tusk": {
+    "name": "Torch Tusk",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  },
+  "double_tusk": {
+    "name": "Double Tusk",
+    "type": "antagonist",
+    "debut": "03/14/2005",
+    "consoles": {
+      "ngc": ["DKJB"],
+      "wii": ["DKJB_WII"]
+    }
+  }
+}

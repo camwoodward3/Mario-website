@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>mario-archive</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="logo">Mario Archive</div>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation">
+      ☰
+      </button>
+      <div class="nav-container" id="nav-container">
+        <nav nav class="nav-links">
+          <a href="index.html">Home</a>
+          <a href="sort.html">Sort</a>
+          <a href="#about">About</a>
+          <a href="#services">Services</a>
+          <a href="#contact">Contact</a>
+          </nav>
+            <div id="auth-status">
+              <span id="user-greeting">Logged in</span>
+              <button id="logout-btn">Log Out</button>
+            </div>
+        </div>
+    </header>
+  
+    <main class="page-container">
+      <!-- Hero / Banner section -->
+      <section class="controls-bar">
+        <div id="filter-group">
+          <label for="sort-order">Sort-Order:</label>
+          <select id="sort-order">
+            <option value="none">Default Order</option>
+            <option value="asc">Least to Most (Ascending)</option>
+            <option value="desc">Most to Least (Descending)</option>
+          </select>
+        </div>
+        
+        <div class="filter-group">
+          <label for="total">Total:</label>
+          <select id="total">
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="console">Consoles:</label>
+          <select id="console">
+          </select>
+        </div>
+      </section>
+
+  <!-- Main Content Layout (Grid) -->
+  <div class="container">
+    <div id="mario-list"></div>
+      
+    </main>
+
+  </div>
+  <script src="script.js"></script>
+  <!-- Bottom of page -->
+  <footer class="site-footer">
+    <p>&copy; 2026 MySite. All rights reserved.</p>
+  </footer>
+  </body>
+  </html>
