@@ -727,7 +727,7 @@
     },
     "games": {
       "normal": ["BWG+"],
-      "board": ["CL", "TGOL", "SMGGLCS", "MK7SSRG", "MNGC21", "MBMK", "SMBP", "SMBM", "SMLU", "SMNDG"]
+      "board": ["CL", "TGOL", "SMGGLCS", "MK7SSRG", "MK8DLGP", "MNGC21", "MBMK", "SMBP", "SMBM", "SMLU", "SMNDG"]
     },
     "toys": {
       "lego": ["CP", "LSW"],
