@@ -1,0 +1,295 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Sogoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+  background-color: #f7f9fa;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0.75 1rem;
+  background-color: #e52521;
+  color: white;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.menu-toggle {
+  display: block;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+}
+
+.nav-container {
+  display: none;
+  width: 100%;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.nav-container.open {
+  display: flex;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))
+}
+.nav-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.4rem
+}
+
+.nav-links a:hover {
+  color: #ffc2c2;
+}
+
+#auth-status {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.5rem;
+}
+
+#logout-btn {
+  background: white;
+  color: #e52521;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  min-height: 44px;
+}
+
+.controls-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1rem;
+}
+
+.controls-bar select {
+  width: 100%;
+  padding: 0.6rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  min-height: 44px;
+}
+
+#mario-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.75rem;
+  padding: 1rem;
+}
+
+.character button {
+  width: 100%;
+  padding: 0.85rem 0.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background: white;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+
+}
+
+.hero {
+  background-color: #1a73e8;
+  color: #ffffff;
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.container {
+  max-width: 1100px;
+  width: 90%;
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+  flex: 1;
+}
+
+.site-footer {
+  background-color: #24292e;
+  color: #b0b4b8;
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.875rem;
+}
+
+.hidden {
+  display: none !important;
+}
+
+body.auth-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f4f4f9;
+  font-family: system-ui, sans-serif;
+}
+
+.auth-card {
+  background: #ffffff;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 360px;
+  text-align: center;
+}
+
+.auth-tabs {
+  display: flex;
+  gap: 8px;
+  margin: 20px 0;
+}
+
+.tab-btn {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  background: #e2e8f0;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.tab-btn.active {
+  background: #e52521;
+  color: white;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-bottom: 14px;
+}
+
+.form-group label {
+  font-size: 0.85rem;
+  margin-bottom: 4px;
+  color: #4a5568;
+}
+
+.form-group input {
+  padding: 10px;
+  border: 1px solid #cbd5e0;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 11px;
+  background: #009b3a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.status-msg {
+  margin-top: 14px;
+  font-size: 0.9rem;
+}
+
+.status-msg.error {
+  color: #dc2626;
+}
+
+.status-msg.success {
+  color: #16a34a;
+}
+
+/* =========================================================
+   DESKTOP EXPANSION (>= 768px)
+   ========================================================= */
+   @media (min-width: 768px) {
+    .menu-toggle {
+      display: none;
+    }
+
+    .nav-container {
+      display: flex;
+      width: auto;
+      flex-direction: row;
+      align-items: center;
+      gap: 2rem;
+      margin-top: 0;
+      padding-top: 0;
+      border-top: none;
+    }
+
+    #user-greeting {
+      display: none;
+    }
+
+    .nav-links {
+      flex-direction: row;
+      gap: 1.25rem;
+    }
+
+    .controls-bar {
+      flex-direction: row;
+      align-items: center;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .controls-bar select {
+      flex: 1;
+    }
+
+    #mario-list {
+      grid-template-columns: repeat(auto-fill, minmax(220px 1fr));
+      gap: 1.25rem;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+   }
